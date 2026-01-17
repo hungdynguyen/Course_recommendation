@@ -1,0 +1,82 @@
+{
+  "course_id": "QLKT1123",
+  "title": "Functional management",
+  "overview": "The course is designed to provide students with systematic knowledge about managing organizational activities, specifically covering organizational functions such as marketing, finance, human resources, production, R&D, and quality management.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 120,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Marketing management",
+      "Financial management",
+      "Human resource management",
+      "Production management",
+      "R&D management",
+      "Quality management"
+    ],
+    "key_concepts": [
+      "Organizational functions",
+      "Management functions",
+      "Theoretical models",
+      "Practical applications"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature and philosophy of managing organizational functions",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to understand the fundamental theories and philosophies of managing organizational functions."
+    },
+    {
+      "skill_name": "Applying management knowledge to organizational functions",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to apply management knowledge flexibly to manage organizational functions in a dynamic environment."
+    },
+    {
+      "skill_name": "Soft skills such as teamwork, communication, negotiation, planning, and organization",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will develop soft skills such as teamwork, communication, negotiation, planning, and organization."
+    },
+    {
+      "skill_name": "Analyzing organizational activities and performing management functions",
+      "category": "Soft Skill",
+      "target_proficiency_level": 6,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze organizational activities and perform management functions in specific organizations."
+    },
+    {
+      "skill_name": "Independent work, coordination, presenting, and defending personal views",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to work independently, coordinate activities, present, and defend personal views based on an objective and systematic approach."
+    },
+    {
+      "skill_name": "Social context, management environment, professional ethics, and social responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will have an understanding of the social context, management environment, professional ethics, and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

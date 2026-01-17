@@ -1,0 +1,58 @@
+{
+  "course_id": "TNBD1104",
+  "title": "Định giá Bất động sản 1",
+  "overview": "Học phần cung cấp những kiến thức cơ bản về định giá bất động sản, sự cần thiết phải định giá bất động sản; bản chất và các nhân tố ảnh hưởng đến giá trị, giá cả bất động sản; các căn cứ và nguyên tắc định giá bất động sản; quy trình thực hiện định giá bất động sản; vai trò và tiêu chuẩn đạo đức nghề nghiệp của người định giá. Học phần cũng cung cấp các phương pháp và kỹ năng thực hiện 2 phương pháp định giá bất động sản cơ bản (phương pháp so sánh và phương pháp chi phí).",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Real Estate Valuation",
+    "sub_domains": [
+      "Real Estate Market",
+      "Property Valuation Principles",
+      "Valuation Methods"
+    ],
+    "key_concepts": [
+      "Property Valuation",
+      "Market Analysis",
+      "Cost Approach",
+      "Comparative Approach"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Apply valuation principles",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Understand and apply the principles of real estate valuation"
+    },
+    {
+      "skill_name": "Collaborate in group",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Work effectively in a team and communicate effectively in a professional setting"
+    },
+    {
+      "skill_name": "Ethical standards",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Understand and apply ethical standards in real estate valuation"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thị trường bất động sản"
+    ],
+    "minimum_entry_skills": []
+  }
+}

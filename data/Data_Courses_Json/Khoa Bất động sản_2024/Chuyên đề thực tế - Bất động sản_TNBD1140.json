@@ -1,0 +1,93 @@
+{
+  "course_id": "TNBD1140",
+  "title": "Chuyên đề thực tế",
+  "overview": "Học phần Chuyên đề thực tế là học phần bắt buộc của ngành Bất động sản tại Trường Đại học Kinh tế quốc dân. Học phần được thiết kế nhằm tạo cơ hội cho sinh viên tiếp cận với các hoạt động thực tiễn của ngành bất động sản, nâng cao khả năng giải quyết các tình huống thực tế trên cơ sở nền tảng học thuật.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 200,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Bất động sản",
+    "sub_domains": [
+      "kinh doanh",
+      "quản lý nhà nước",
+      "môi giới",
+      "định giá",
+      "quản lý bất động sản"
+    ],
+    "key_concepts": [
+      "kiến thức cơ bản về kinh tế xã hội",
+      "kiến thức chuyên môn",
+      "kỹ năng phân tích",
+      "thu thập và sắp xếp thông tin",
+      "tổ chức kỷ luật",
+      "tự học tập",
+      "tích lũy kinh nghiệm",
+      "tư duy phân tích",
+      "tổ chức hoạt động nghiên cứu",
+      "trách nhiệm trong công việc",
+      "liêm chính học thuật"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và thu thập thông tin",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Có kỹ năng phân tích, thu thập và sắp xếp thông tin từ hoạt động thực tiễn, tổng hợp thông tin một cách khoa học"
+    },
+    {
+      "skill_name": "Kỹ năng mềm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Nâng cao kỹ năng mềm cần thiết để làm việc trong các môi trường thực tiễn của nền kinh tế, của ngành bất động sản"
+    },
+    {
+      "skill_name": "Tự học hỏi và hoàn thiện",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Có kỹ năng tự học hỏi, tự hoàn thiện về tác phong làm việc, thể hiện quan điểm, thái độ của cá nhân và ý thức tập thể"
+    },
+    {
+      "skill_name": "Tư duy phân tích và tổng hợp",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Có kỹ năng tư duy, phân tích và tổng hợp đa chiều, có kỹ năng lập kế hoạch và tổ chức hoạt động nghiên cứu, sẵn sàng cho việc thực hiện Khóa luận tốt nghiệp"
+    },
+    {
+      "skill_name": "Lập kế hoạch và sử dụng nguồn lực",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Có năng lực lập kế hoạch và sử dụng các nguồn tài liệu, các nguồn lực phù hợp để thực hiện chủ đề nghiên cứu"
+    },
+    {
+      "skill_name": "Trình bày vấn đề",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Có năng lực trình bày vấn đề, bảo vệ quan điểm cá nhân"
+    },
+    {
+      "skill_name": "Trách nhiệm xã hội và đạo đức nghề nghiệp",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Có trách nhiệm xã hội, đạo đức nghề nghiệp trong môi trường công việc, có ý thức và thực hiện liêm chính học thuật"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 0,
+    "practice_percentage": 100,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

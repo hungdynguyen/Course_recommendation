@@ -1,0 +1,109 @@
+{
+  "course_id": "TNBD1102",
+  "title": "Đầu tư và Tài chính bất động sản",
+  "overview": "Học phần trình bày những vấn khái niệm và đặc trưng bản về đầu tư và tài chính bất động sản để giúp người học nắm được khái quát về các hoạt động đầu tư và nội dung của các hoạt động tài chính trong lĩnh vực đầu tư kinh doanh bất động sản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Real Estate Finance and Investment",
+    "sub_domains": [
+      "Real Estate Market",
+      "Financial Planning",
+      "Investment Analysis"
+    ],
+    "key_concepts": [
+      "Real Estate Investment Theories",
+      "Financial Instruments",
+      "Risk Analysis",
+      "Capital Formation"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Theories and Concepts",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Recognize and understand basic theories and problem setting in real estate finance and investment."
+    },
+    {
+      "skill_name": "Decision Making in Real Estate Investment",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply in recognizing, identifying, evaluating, comparing investment opportunities and making appropriate investment decisions in real estate business."
+    },
+    {
+      "skill_name": "Financial Channel Selection and Capital Formation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply in evaluating and selecting financial channels and forming appropriate sources of capital."
+    },
+    {
+      "skill_name": "Risk Analysis and Feasibility Assessment",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Analyze risks and feasibility in real estate finance and investment activities."
+    },
+    {
+      "skill_name": "Excel Spreadsheet Application",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply basic spreadsheet tools in financial planning and real estate investment."
+    },
+    {
+      "skill_name": "Group Work and Professionalism",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Possess the ability to collaborate in group work, responsibility, and professionalism in work."
+    },
+    {
+      "skill_name": "Independent Work and Personal Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Possess the ability to work independently, responsibility in group work and personal responsibility."
+    },
+    {
+      "skill_name": "Presentation and Defense of Personal Views",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Possess the ability to present and defend personal views in the field of finance and real estate investment."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Possess social responsibility and professional ethics in the work environment and in social context."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thị trường Bất động sản"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Real Estate Market",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Understanding of Financial Planning",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

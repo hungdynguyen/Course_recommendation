@@ -1,0 +1,64 @@
+{
+  "course_id": "TNTN1126",
+  "title": "Quản lý tài nguyên 2",
+  "overview": "Học phần trình bày những kiến thức và kỹ năng cơ bản liên quan đến quản lý tài nguyên. Học phần hướng dẫn người học các nội dung về quản lý các loại tài nguyên cụ thể như: tài nguyên đất, nước, biển, khoáng sản, năng lượng, tài nguyên rừng, động thực vật… Các kết quả, bài học kinh nghiệm khi phân tích quản lý tài nguyên trên thế giới và tại Việt Nam sẽ được tư liệu hóa và được sử dụng như là cơ sở để đề xuất các giải pháp kinh tế - tổ chức và kỹ thuật cho công tác quản lý tài nguyên tại Việt Nam nhằm đạt được mục tiêu phát triển bền vững.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Natural Resources Management",
+    "sub_domains": [
+      "Land Resource Management",
+      "Water Resource Management",
+      "Biological Resource Management",
+      "Forest Resource Management",
+      "Marine Resource Management",
+      "Mineral Resource Management",
+      "Energy Resource Management"
+    ],
+    "key_concepts": [
+      "Management concepts",
+      "Resource types",
+      "Management tools",
+      "Sustainable development"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding management concepts",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to explain the concepts, characteristics, and importance of natural resource management."
+    },
+    {
+      "skill_name": "Applying management tools",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze and apply management tools in natural resource management."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý tài nguyên 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic knowledge of natural resource management",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic understanding of management tools",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

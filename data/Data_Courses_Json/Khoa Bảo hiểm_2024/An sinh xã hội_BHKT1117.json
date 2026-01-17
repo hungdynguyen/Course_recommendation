@@ -1,0 +1,53 @@
+{
+  "course_id": "BHKT1117",
+  "title": "An sinh xã hội",
+  "overview": "Học phần cung cấp cho sinh viên những kiến thức cơ bản và chuyên sâu có hệ thống về an sinh xã hội và hệ thống an sinh xã hội.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Social Security",
+    "sub_domains": [
+      "Social Security Overview",
+      "Social Security Pillars",
+      "Enhancing Social Security Awareness",
+      "Government Management of Social Security"
+    ],
+    "key_concepts": [
+      "Social Security",
+      "Social Insurance",
+      "Healthcare",
+      "Social Assistance",
+      "Poverty Alleviation",
+      "Commercial Insurance",
+      "Social Welfare Services"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Social Security",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên nắm vững và hiểu được vai trò, bản chất, chức năng của an sinh xã hội, bản chất và nội dung của các chương trình trong hệ thống an sinh xã hội như bảo hiểm xã hội, chăm sóc sức khỏe, trợ giúp xã hội, quỹ dự phòng và chương trình xóa đói giảm nghèo, bảo hiểm thương mại và các dịch vụ hỗ trợ an sinh xã hội."
+    },
+    {
+      "skill_name": "Applying Social Security Knowledge",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng các kiến thức về an sinh xã hội và nội dung của các chính sách trong hệ thống an sinh xã hội để giải quyết và đánh giá chính sách an sinh xã hội và hoàn thiện cơ chế quản lý nhà nước đối với hoạt động an sinh xã hội."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "course_id": "BHKT1119",
+  "title": "Social Insurance 1",
+  "overview": "Social Insurance 1 provides students with fundamental, systematic, and in-depth knowledge about social insurance, analyzing the nature, role of social insurance; basic viewpoints on social insurance; the relationship and significance of social insurance in social security; the content of the social insurance system based on ILO Convention 102 and accompanying recommendations, conditions and benefits of mandatory and voluntary social insurance in Vietnam; theoretical issues about social insurance finance and social insurance fund.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Social Insurance",
+    "sub_domains": [
+      "Social Security",
+      "Insurance Principles",
+      "Social Welfare"
+    ],
+    "key_concepts": [
+      "Social Insurance Fund",
+      "Social Insurance Finance",
+      "Social Insurance Policies"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature, characteristics, functions, and role of social insurance",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand the nature, characteristics, functions, and role of social insurance"
+    },
+    {
+      "skill_name": "Analyzing the importance of social insurance in the social security system",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze the importance of social insurance in the social security system"
+    },
+    {
+      "skill_name": "Understanding the system of social insurance benefits and financial aspects",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will understand the system of social insurance benefits and financial aspects"
+    },
+    {
+      "skill_name": "Developing independent and group work skills, critical thinking, and responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will develop independent and group work skills, critical thinking, and responsibility"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Insurance",
+      "Social Welfare"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of insurance principles",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of social welfare",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

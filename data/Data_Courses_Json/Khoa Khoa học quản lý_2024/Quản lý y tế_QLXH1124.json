@@ -1,0 +1,53 @@
+{
+  "course_id": "QLXH1124",
+  "title": "Quản lý y tế",
+  "overview": "Học phần này cung cấp kiến thức cơ bản về y tế, hệ thống y tế, tổ chức hệ thống y tế, và hoạt động quản lý trong lĩnh vực y tế. Nó cũng trang bị cho sinh viên kỹ năng lập kế hoạch, tổ chức triển khai và giám sát, đánh giá triển khai kế hoạch y tế.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý y tế",
+    "sub_domains": [
+      "Y tế và hệ thống y tế",
+      "Quản lý nhà nước về y tế",
+      "Chính sách y tế",
+      "Quản lý bệnh viện",
+      "Xã hội hóa y tế"
+    ],
+    "key_concepts": [
+      "Y tế",
+      "Hệ thống y tế",
+      "Quản lý nhà nước",
+      "Chính sách y tế",
+      "Quản lý bệnh viện",
+      "Xã hội hóa y tế"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và đánh giá",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể phân tích và đánh giá các tình huống thực tiễn trong quản lý y tế."
+    },
+    {
+      "skill_name": "Kỹ năng giao tiếp và thuyết trình",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể thực hành tốt kỹ năng giao tiếp và thuyết trình."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

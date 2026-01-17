@@ -1,0 +1,55 @@
+{
+  "course_id": "QLXH1126",
+  "title": "Quản lý nhà nước đối với tổ chức phi chính phủ",
+  "overview": "Học phần này được thiết kế nhằm cung cấp cho sinh viên kiến thức có hệ thống và chuyên sâu về quản lý nhà nước đối với tổ chức phi chính phủ.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý nhà nước",
+    "sub_domains": [
+      "Tổ chức phi chính phủ",
+      "Quan điểm của Đảng và chính sách, pháp luật của nhà nước về tổ chức phi chính phủ",
+      "Quản lý nhà nước đối với các tổ chức phi chính phủ"
+    ],
+    "key_concepts": [
+      "Tổ chức phi chính phủ",
+      "Quản lý nhà nước",
+      "Chính sách và pháp luật"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu được kiến thức cơ bản về tổ chức phi chính phủ",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên sẽ hiểu được kiến thức cơ bản về tổ chức phi chính phủ"
+    },
+    {
+      "skill_name": "Có kỹ năng làm việc nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ có kỹ năng làm việc nhóm"
+    },
+    {
+      "skill_name": "Có kỹ năng phân tích các hoạt động của tổ chức phi chính phủ",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên sẽ có kỹ năng phân tích các hoạt động của tổ chức phi chính phủ"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

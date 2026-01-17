@@ -1,0 +1,67 @@
+{
+  "course_id": "TNTN1132",
+  "title": "Natural Resources Policy",
+  "overview": "Natural Resources Policy is an important part of state management and natural resources policies are one of the main tools used by the state to manage the country's resources. Therefore, this course is crucial for economics students, especially those in the field of natural resource economics. It provides students with knowledge and skills in natural resources policy.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Natural Resources Policy",
+      "Resource Management",
+      "Policy Analysis"
+    ],
+    "key_concepts": [
+      "Natural Resources Policy",
+      "Policy Analysis",
+      "Land Policy",
+      "Forest Policy",
+      "Water Policy",
+      "Marine Policy",
+      "Mineral Policy",
+      "Resource Planning"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze various natural resources policies."
+    },
+    {
+      "skill_name": "Self-study and Research",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will develop the ability to self-study and research."
+    },
+    {
+      "skill_name": "Group Work and Presentation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to work in groups and present their findings."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economic Resources 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Resource Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

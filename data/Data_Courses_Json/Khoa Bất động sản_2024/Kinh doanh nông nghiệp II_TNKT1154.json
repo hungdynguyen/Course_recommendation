@@ -1,0 +1,66 @@
+{
+  "course_id": "TNKT1154",
+  "title": "Kinh doanh nông nghiệp II",
+  "overview": "Học phần này là học phần bắt buộc thuộc khối kiến thức chuyên ngành trong chương trình cử nhân kinh doanh nông nghiệp. Phương pháp giảng dạy kết hợp lý thuyết và thực hành nhằm tạo ra một môi trường học tập tích cực và đa chiều.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Business Management",
+    "sub_domains": [
+      "Agricultural Supply Chain Management",
+      "Agricultural Finance",
+      "Agricultural Risk Management",
+      "Fixed Asset Management",
+      "Leadership in Agribusiness",
+      "Internal Control and Quality Management in Agribusiness",
+      "Agricultural Business Analysis"
+    ],
+    "key_concepts": [
+      "Agricultural Supply Chain",
+      "Agricultural Finance",
+      "Agricultural Risk",
+      "Fixed Asset Management",
+      "Leadership",
+      "Internal Control",
+      "Quality Management",
+      "Agricultural Business Analysis"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing business scenarios",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze business scenarios with agricultural enterprises and agricultural products, and apply the analysis results to develop agricultural business."
+    },
+    {
+      "skill_name": "Effective communication",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Develop the ability to communicate flexibly, confidently, and effectively through seminar activities and case studies."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Develop the ability to work effectively in teams, including cooperation, listening to opinions, and contributing personal opinions in discussion and case study activities."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh nông nghiệp I (TNKT1153)"
+    ],
+    "minimum_entry_skills": []
+  }
+}

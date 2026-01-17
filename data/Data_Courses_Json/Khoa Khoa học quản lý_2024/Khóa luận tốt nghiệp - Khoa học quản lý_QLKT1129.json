@@ -1,0 +1,74 @@
+{
+  "course_id": "QLKT1129",
+  "title": "Khóa luận tốt nghiệp",
+  "overview": "Khóa luận tốt nghiệp là công trình nghiên cứu độc lập của sinh viên, giúp đánh giá kiến thức, năng lực của sinh viên đã tích lũy trong suốt thời gian học tập và khả năng ứng dụng vào thực tế. Học phần này yêu cầu sinh viên thực tập tốt nghiệp tại một doanh nghiệp/tổ chức cụ thể trong thời gian ít nhất là 12 tuần.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 10
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý",
+    "sub_domains": [
+      "Quản lý tổ chức",
+      "Quản lý nhà nước về kinh tế",
+      "Phân tích chính sách"
+    ],
+    "key_concepts": [
+      "Vấn đề quản lý",
+      "Kiến thức quản lý tổ chức",
+      "Kiến thức quản lý nhà nước về kinh tế",
+      "Kiến thức phân tích chính sách"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Nắm được một cách tổng thể những vấn đề quản lý tại cơ sở thực tập",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể vận dụng kiến thức quản lý tổ chức, quản lý nhà nước về kinh tế, kiến thức phân tích chính sách vào giải quyết công việc tại cơ sở thực tập."
+    },
+    {
+      "skill_name": "Lựa chọn được vấn đề thực tế của cơ sở thực tập có liên quan đến quản lý tổ chức, quản lý nhà nước về kinh tế, chính sách kinh tế - xã hội",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể áp dụng những kiến thức đã học để phân tích vấn đề và đề xuất các giải pháp liên quan đến quản lý tổ chức, quản lý nhà nước về kinh tế, chính sách kinh tế - xã hội."
+    },
+    {
+      "skill_name": "Phát triển được kỹ năng chung; kỹ năng nghề nghiệp; kỹ năng ngoại ngữ và tin học",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kỹ năng giao tiếp, thuyết trình, giải quyết mâu thuẫn, quản lý thời gian và nguồn lực; có kỹ năng làm việc nhóm, quản lý nhóm; kỹ năng ngoại ngữ và tin học."
+    },
+    {
+      "skill_name": "Thể hiện được trách nhiệm xã hội, đạo đức nghề nghiệp; phát triển phẩm chất của các nhà quản lý",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có trách nhiệm xã hội, đạo đức nghề nghiệp; phát triển được phẩm chất của các nhà quản lý; phát triển năng lực làm việc độc lập và chịu trách nhiệm về chuyên môn; rèn luyện khả năng học tập suốt đời."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 0,
+    "practice_percentage": 100,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Các học phần bắt buộc của ngành"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Nắm vững kiến thức quản lý",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Kỹ năng nghiên cứu cơ bản",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

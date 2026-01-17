@@ -1,0 +1,63 @@
+environment: dev
+paths:
+  esco_skills: data/raw/skill_taxonomy/skills_en.csv
+  esco_skill_relations: data/raw/skill_taxonomy/skillSkillRelations_en.csv
+  course_catalog_dir: data/Data_Courses_Json
+  processed_embeddings_dir: data/processed/embeddings
+  course_skill_mappings_dir: data/processed/course_skill_mappings
+  cache_dir: .cache
+
+elasticsearch:
+  hosts:
+    - http://elasticsearch:9200
+  username: $ELASTICSEARCH_USERNAME
+  password: $ELASTICSEARCH_PASSWORD
+  index: esco_skills
+  vector_dim: 1024
+  batch_size: 128
+  recreate_index: true
+
+embedding:
+  provider: sentence_transformers
+  model_name: Qwen/Qwen3-Embedding-0.6B
+  batch_size: 2
+  device: cuda
+  normalize: true
+
+reranker:
+  enabled: true
+  model_name: Qwen/Qwen3-Reranker-0.6B
+  device: cuda
+  batch_size: 4
+  max_length: 256
+  torch_dtype: float16
+
+pipeline:
+  min_description_length: 10
+  max_records: null
+  concurrency: 4
+  flush_every: 500
+
+mapping:
+  min_similarity: 0.45
+  rerank_top_k: 50
+
+mysql:
+  enabled: true
+  host: ${MYSQL_HOST}
+  port: 3306
+  username: ${MYSQL_USERNAME}
+  password: ${MYSQL_PASSWORD}
+  database: ${MYSQL_DATABASE}
+  esco_table: esco_skills
+  mapping_table: course_skill_mappings
+  charset: utf8mb4
+  connect_timeout: 10
+  batch_size: 1000
+
+neo4j:
+  uri: ${NEO4J_URI}
+  username: ${NEO4J_USERNAME}
+  password: ${NEO4J_PASSWORD}
+  database: neo4j
+  batch_size: 5000

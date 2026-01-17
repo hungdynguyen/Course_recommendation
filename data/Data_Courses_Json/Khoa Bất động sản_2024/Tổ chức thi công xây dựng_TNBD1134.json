@@ -1,0 +1,56 @@
+{
+  "course_id": "TNBD1134",
+  "title": "Construction Organization and Planning",
+  "overview": "This course introduces the general technology of construction, covering all works and items necessary to build a complete project, from foundation, body to completion. It also covers methods to establish construction schedules to ensure timely and high-quality completion of projects.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Construction Engineering",
+    "sub_domains": [
+      "Construction Technology",
+      "Construction Planning",
+      "Construction Management"
+    ],
+    "key_concepts": [
+      "Construction Organization",
+      "Construction Technology",
+      "Construction Planning",
+      "Construction Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of construction organization and planning",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand the basics of construction organization and planning and its application in real-world scenarios."
+    },
+    {
+      "skill_name": "Application of construction technology",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply construction technology in practical situations."
+    },
+    {
+      "skill_name": "Project management skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will develop project management skills, including decision-making, planning, and execution."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

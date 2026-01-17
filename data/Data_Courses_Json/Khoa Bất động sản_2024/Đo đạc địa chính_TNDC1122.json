@@ -1,0 +1,61 @@
+{
+  "course_id": "TNDC1122",
+  "title": "Đo đạc địa chính",
+  "overview": "Học phần cung cấp những kiến thức cơ bản về đo đạc địa chính, bản đồ địa chính và dữ liệu địa chính, từ cơ sở toán học của bản đồ địa chính, nguyên lý đo đạc, thu thập thông tin dữ liệu đất đai, phương pháp đo đạc, quy trình công nghệ thành lập bản đồ địa chính và khai thác hồ sơ, dữ liệu địa chính, bản đồ địa chính trong công tác quản lý nhà nước về đất đai.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Đo đạc địa chính",
+    "sub_domains": [
+      "Cơ sở toán học",
+      "Nguyên lý đo đạc",
+      "Thu thập thông tin dữ liệu đất đai",
+      "Phương pháp đo đạc",
+      "Quy trình công nghệ thành lập bản đồ địa chính",
+      "Quản lý, sử dụng bản đồ địa chính và hồ sơ địa chính"
+    ],
+    "key_concepts": [
+      "Lưới tọa độ và độ cao địa chính",
+      "Bản đồ địa chính",
+      "Hồ sơ địa chính",
+      "Công nghệ mới trong đo đạc",
+      "Xử lý số liệu",
+      "Khai thác thông tin tư liệu địa chính"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu nội dung, ý nghĩa của công tác đo đạc địa chính",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Nắm được các nội dung về cơ sở toán học, tỷ lệ, hệ tọa độ khi thành lập và hiệu chỉnh bản đồ địa chính theo quy phạm hiện hành của Nhà nước."
+    },
+    {
+      "skill_name": "Phân tích kiến thức của các công nghệ mới trong đo đạc",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Lý giải và phân tích được kiến thức của các công nghệ mới trong đo đạc, xử lý số liệu xây dựng bản đồ địa chính phục vụ công tác quản lý Nhà nước về đất đai."
+    },
+    {
+      "skill_name": "Vận dụng kiến thức về bản đồ và hồ sơ địa chính",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Lý giải và vận dụng được kiến thức về bản đồ và hồ sơ địa chính để phân tích, đánh giá và tổng hợp các thông tin, số liệu phục vụ công tác chuyên môn."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,108 @@
+services:
+  # 1. FastAPI Backend
+  api:
+    build:
+      context: .
+      dockerfile: docker/service_api/Dockerfile
+    container_name: vietcv_api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      - NEO4J_URI=bolt://neo4j:7687
+      - NEO4J_USERNAME=neo4j
+      - NEO4J_PASSWORD=password123
+      - ELASTICSEARCH_HOST=http://elasticsearch:9200
+      - MYSQL_HOST=mysql
+      - MYSQL_PORT=3306
+      - MYSQL_USER=vietcv
+      - MYSQL_PASSWORD=yourpassword
+      - MYSQL_DATABASE=vietcv
+    depends_on:
+      - elasticsearch
+      - neo4j
+      - mysql
+    networks:
+      - vietcv_net
+    volumes:
+      - ./src:/app/src
+      - ./.env:/app/.env
+    command: uvicorn src.service_api.main:app --host 0.0.0.0 --port 8000 --reload
+    restart: unless-stopped
+
+  # 2. Vector DB - Elasticsearch
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.1
+    container_name: vietcv_elastic
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m" # Giới hạn RAM để tránh treo máy WSL
+    ports:
+      - "9200:9200"
+    volumes:
+      - ./data/elasticsearch:/usr/share/elasticsearch/data
+    networks:
+      - vietcv_net
+
+  # 3. Graph DB - Neo4j
+  neo4j:
+    image: neo4j:5.15.0
+    container_name: vietcv_neo4j
+    ports:
+      - "7474:7474" # HTTP Interface
+      - "7687:7687" # Bolt port
+    environment:
+      - NEO4J_AUTH=neo4j/password123
+      - NEO4J_dbms_memory_pagecache_size=512m
+      - NEO4J_dbms_memory_heap_initial__size=512m
+    volumes:
+      - ./data/neo4j:/data
+    networks:
+      - vietcv_net
+
+  # 4. MySQL Database
+  mysql:
+    image: mysql:8.3
+    container_name: vietcv_mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=yourpassword
+      - MYSQL_DATABASE=vietcv
+      - MYSQL_USER=vietcv
+      - MYSQL_PASSWORD=yourpassword
+    ports:
+      - "3306:3306"
+    command: ["--default-authentication-plugin=mysql_native_password", "--character-set-server=utf8mb4", "--collation-server=utf8mb4_unicode_ci"]
+    volumes:
+      - ./data/mysql:/var/lib/mysql
+    networks:
+      - vietcv_net
+
+  # 5. Data Factory Pipeline
+  data_factory:
+    build:
+      context: .
+      dockerfile: docker/data_factory/Dockerfile
+    container_name: vietcv_data_factory
+    depends_on:
+      - elasticsearch
+      - mysql
+      - neo4j
+    networks:
+      - vietcv_net
+    volumes:
+      - ./:/app
+    working_dir: /app
+    command: ["sleep", "infinity"]
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all 
+              capabilities: [gpu]
+
+networks:
+  vietcv_net:
+    driver: bridge

@@ -1,0 +1,67 @@
+{
+  "course_id": "TNBD1133",
+  "title": "Tiếng Anh ngành Bất động sản",
+  "overview": "Học phần tạo điều kiện cho sinh viên rèn luyện các kỹ năng tiếng Anh gắn với các lĩnh vực chuyên môn của ngành Bất động sản.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Real Estate",
+    "sub_domains": [
+      "Real estate and real estate market",
+      "Real estate brokerage",
+      "Real estate management",
+      "Real estate valuation",
+      "Real estate Finance and Investment"
+    ],
+    "key_concepts": [
+      "Real estate",
+      "Real estate market",
+      "Real estate brokerage",
+      "Real estate management",
+      "Real estate valuation",
+      "Real estate Finance and Investment"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Reading",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng được các từ vựng chuyên ngành trong việc viết báo cáo, tham gia thảo luận, thuyết trình các vấn đề liên quan tới ngành Bất động sản bằng tiếng Anh"
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng được các từ vựng chuyên ngành trong việc viết báo cáo, tham gia thảo luận, thuyết trình các vấn đề liên quan tới ngành Bất động sản bằng tiếng Anh"
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng được các từ vựng chuyên ngành trong việc viết báo cáo, tham gia thảo luận, thuyết trình các vấn đề liên quan tới ngành Bất động sản bằng tiếng Anh"
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Thể hiện quan điểm, bảo vệ quan điểm cá nhân một cách khách quan, khoa học"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "course_id": "TNKT1159",
+  "title": "Quản trị kinh tế hộ và trang trại",
+  "overview": "Học phần trang bị cho người học những kiến thức và kỹ năng cần thiết để quản trị kinh tế hộ và trang trại, bao gồm việc đưa ra quyết định về lựa chọn sản xuất, lập kế hoạch, đo lường hiệu suất, quản trị lao động, máy móc, đất đai và quản trị rủi ro kinh doanh.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Farm Management",
+      "Household Economics"
+    ],
+    "key_concepts": [
+      "Economic principles",
+      "Farm management",
+      "Household economics"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Decision making",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to make informed decisions about production choices, planning, performance measurement, labor management, machinery, land management, and business risk management."
+    },
+    {
+      "skill_name": "Planning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to develop plans for production and business operations, set performance metrics, and manage resources effectively."
+    },
+    {
+      "skill_name": "Performance Measurement",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to measure and evaluate the performance of household and farm economic activities."
+    },
+    {
+      "skill_name": "Labor Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to manage labor resources effectively in household and farm settings."
+    },
+    {
+      "skill_name": "Land Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to manage land resources effectively in household and farm settings."
+    },
+    {
+      "skill_name": "Sales and Marketing",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to develop sales and marketing strategies for farm products."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to manage business risks effectively in household and farm settings."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh nông nghiệp I (TNKT1153)"
+    ],
+    "minimum_entry_skills": []
+  }
+}

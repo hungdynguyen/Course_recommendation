@@ -1,0 +1,116 @@
+{
+  "course_id": "TNDC1138",
+  "title": "Định giá đất",
+  "overview": "Học phần này cung cấp kiến thức tổng quan về định giá đất, vai trò của định giá đất trong nền kinh tế thị trường, bản chất và các nhân tố ảnh hưởng đến giá trị, giá cả đất đai, các căn cứ và nguyên tắc định giá đất, quy trình thực hiện định giá đất, nguyên lý về các phương pháp định giá đất và kỹ năng thực hiện các phương pháp định giá đất.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Định giá đất",
+    "sub_domains": [
+      "Vai trò định giá đất",
+      "Căn cứ và nguyên tắc định giá đất",
+      "Quy trình và phương pháp định giá đất",
+      "Phương pháp so sánh, thu nhập và thặng dư trong định giá đất",
+      "Định giá đất và tư vấn xác định giá đất tại Việt Nam"
+    ],
+    "key_concepts": [
+      "Khái niệm định giá đất",
+      "Vai trò định giá đất",
+      "Căn cứ, nguyên tắc và tiêu chuẩn đạo đức nghề nghiệp trong định giá đất",
+      "Cơ sở khoa học về giá đất và quy trình định giá đất",
+      "Phương pháp định giá đất",
+      "Định giá đất và tư vấn xác định giá đất tại Việt Nam"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Ghi nhớ các vai trò, đặc điểm và phương pháp luận trong định giá đất",
+      "category": "Hard Skill",
+      "target_proficiency_level": 1,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Sinh viên sẽ ghi nhớ được các vai trò, đặc điểm và phương pháp luận trong định giá đất"
+    },
+    {
+      "skill_name": "Hiểu các nguyên tắc và tiêu chuẩn trong định giá đất",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên sẽ hiểu được các nguyên tắc và tiêu chuẩn trong định giá đất"
+    },
+    {
+      "skill_name": "Hiểu các yếu tố ảnh hưởng đến giá đất",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên sẽ hiểu được các yếu tố ảnh hưởng đến giá đất"
+    },
+    {
+      "skill_name": "Hiểu nội dung quy trình và phương pháp định giá đất",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên sẽ hiểu được nội dung quy trình và phương pháp định giá đất"
+    },
+    {
+      "skill_name": "Liên hệ vấn đề trong định giá đất và tư vấn xác định giá đất",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ liên hệ được vấn đề trong định giá đất và tư vấn xác định giá đất"
+    },
+    {
+      "skill_name": "Thu thập thông tin, khai thác thông tin để tiến hành định giá đất",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ thu thập thông tin, khai thác thông tin để tiến hành định giá đất"
+    },
+    {
+      "skill_name": "Giải thích các nội dung cơ bản của báo cáo định giá đất",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên sẽ giải thích được các nội dung cơ bản của báo cáo định giá đất"
+    },
+    {
+      "skill_name": "Phân tích các yêu cầu và điều kiện áp dụng các phương pháp định giá đất",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ phân tích được các yêu cầu và điều kiện áp dụng các phương pháp định giá đất"
+    },
+    {
+      "skill_name": "Chủ động trong học tập, nghiên cứu, làm việc nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ chủ động trong học tập, nghiên cứu, làm việc nhóm"
+    },
+    {
+      "skill_name": "Chủ động tìm kiếm, lựa chọn vấn đề và tài liệu tham khảo trong quá trình học tập",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ chủ động tìm kiếm, lựa chọn vấn đề và tài liệu tham khảo trong quá trình học tập"
+    },
+    {
+      "skill_name": "Chủ động trong trình bày kết quả nghiên cứu",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ chủ động trong trình bày kết quả nghiên cứu"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

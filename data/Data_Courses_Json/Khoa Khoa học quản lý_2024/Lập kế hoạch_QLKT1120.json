@@ -1,0 +1,102 @@
+{
+  "course_id": "QLKT1120",
+  "title": "Planning",
+  "overview": "The course 'Planning' provides students with a systematic understanding of planning, including an overview of plans and planning, environmental analysis, strategic planning, operational planning, and goal management skills.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Strategic Planning",
+      "Operational Planning",
+      "Economic and Social Development Planning"
+    ],
+    "key_concepts": [
+      "Types of Plans",
+      "Operational Planning",
+      "Strategic Planning",
+      "Economic and Social Development Planning",
+      "Strategy and Planning for Economic and Social Development",
+      "Practical Planning"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Differentiate types of plans in an organization",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to distinguish between various types of plans within an organization."
+    },
+    {
+      "skill_name": "Understand the process of planning in an organization",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will understand the process of planning within an organization."
+    },
+    {
+      "skill_name": "Differentiate types of economic and social development plans",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to differentiate between various types of economic and social development plans."
+    },
+    {
+      "skill_name": "Understand the process of economic and social development planning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will understand the process of economic and social development planning."
+    },
+    {
+      "skill_name": "Analyze factors affecting economic and social development plans",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to analyze factors affecting economic and social development plans."
+    },
+    {
+      "skill_name": "Strategic and planning thinking skills for economic and social development",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will develop strategic and planning thinking skills for economic and social development."
+    },
+    {
+      "skill_name": "Strategic planning skills for economic and social development",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will develop strategic planning skills for economic and social development."
+    },
+    {
+      "skill_name": "Independent work ability, responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will develop the ability to work independently and take responsibility."
+    },
+    {
+      "skill_name": "Social responsibility, professional ethics, and learning skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will develop an understanding of social responsibility, professional ethics, and learning skills."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

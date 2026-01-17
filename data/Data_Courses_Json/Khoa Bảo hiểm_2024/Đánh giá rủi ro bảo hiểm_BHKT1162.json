@@ -1,0 +1,75 @@
+{
+  "course_id": "BHKT1162",
+  "title": "Đánh giá rủi ro bảo hiểm",
+  "overview": "Học phần tự chọn cung cấp kiến thức cơ bản và chuyên sâu về đánh giá rủi ro trong doanh nghiệp bảo hiểm.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Insurance Risk Analysis",
+    "sub_domains": [
+      "Risk Management",
+      "Insurance Contracts",
+      "Risk Assessment"
+    ],
+    "key_concepts": [
+      "Risk Identification",
+      "Risk Analysis",
+      "Risk Management Tools",
+      "Insurance Program Development",
+      "Risk Assessment Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Identification",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Identify and assess risks in various insurance operations"
+    },
+    {
+      "skill_name": "Risk Management Tools",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Utilize risk management tools in insurance operations"
+    },
+    {
+      "skill_name": "Insurance Program Development",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Develop insurance programs based on risk assessment"
+    },
+    {
+      "skill_name": "Risk Assessment Management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Manage risk assessment processes in insurance operations"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm thương mại 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance Basics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Risk Management Basics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

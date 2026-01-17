@@ -1,0 +1,137 @@
+{
+  "course_id": "QLXH1122",
+  "title": "Quản lý tổ chức công",
+  "overview": "Học phần này được thiết kế nhằm cung cấp cho sinh viên ngành Quản lý công các kiến thức có hệ thống và chuyên sâu về quản lý các tổ chức công.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 48,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý tổ chức công",
+    "sub_domains": [
+      "Tổ chức công",
+      "Quản lý tổ chức công",
+      "Phân tích môi trường tổ chức công",
+      "Quyết định quản lý",
+      "Lập kế hoạch",
+      "Cơ cấu tổ chức",
+      "Lãnh đạo",
+      "Kiểm soát",
+      "Quản lý và phát triển tổ chức công"
+    ],
+    "key_concepts": [
+      "Tổ chức công",
+      "Quản lý tổ chức công",
+      "Quyết định quản lý",
+      "Lập kế hoạch",
+      "Cơ cấu tổ chức",
+      "Lãnh đạo",
+      "Kiểm soát",
+      "Quản lý và phát triển tổ chức công"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Nắm được kiến thức cơ bản về tổ chức công và quản lý tổ chức công",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể phân tích, đánh giá và giải quyết các vấn đề thực tiễn trong quản lý một tổ chức công."
+    },
+    {
+      "skill_name": "Vận dụng kiến thức về tổ chức công, các chức năng hoạt động của tổ chức công, quản lý tổ chức công",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể phân tích, đánh giá và giải quyết các vấn đề thực tiễn trong quản lý một tổ chức công."
+    },
+    {
+      "skill_name": "Có kỹ năng quản lý tổ chức công theo quá trình",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể thực hiện quá trình quản lý trong các tổ chức công, bao gồm: lập kế hoạch, tổ chức, lãnh đạo và kiểm soát tổ chức công."
+    },
+    {
+      "skill_name": "Có kỹ năng trình bày và thuyết trình vấn đề thuyết phục",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể trình bày và thuyết trình vấn đề một cách thuyết phục."
+    },
+    {
+      "skill_name": "Có kỹ năng làm việc nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể tổ chức và điều hành nhóm làm việc hiệu quả."
+    },
+    {
+      "skill_name": "Có kỹ năng quản lý tốt thời gian và nguồn lực",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể quản lý tốt thời gian và nguồn lực."
+    },
+    {
+      "skill_name": "Có năng lực làm việc độc lập hoặc làm việc theo nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể đánh giá và cải thiện hiệu quả các hoạt động."
+    },
+    {
+      "skill_name": "Có năng lực hướng dẫn, giám sát những người khác",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định."
+    },
+    {
+      "skill_name": "Có năng lực tự phát hiện, giải quyết các vấn đề trong thực tiễn quản lý công",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể tự phát hiện, giải quyết các vấn đề trong thực tiễn quản lý công."
+    },
+    {
+      "skill_name": "Có tinh thần phụng sự, có trách nhiệm xã hội và đạo đức nghề nghiệp",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có tinh thần phụng sự, có trách nhiệm xã hội và đạo đức nghề nghiệp."
+    },
+    {
+      "skill_name": "Có năng lực tự học hỏi để đáp ứng yêu cầu công việc",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có năng lực tự học hỏi để đáp ứng yêu cầu công việc và thích ứng với sự thay đổi."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý học 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Nắm được kiến thức cơ bản về tổ chức công",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Có kỹ năng làm việc nhóm",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Có kỹ năng quản lý thời gian",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

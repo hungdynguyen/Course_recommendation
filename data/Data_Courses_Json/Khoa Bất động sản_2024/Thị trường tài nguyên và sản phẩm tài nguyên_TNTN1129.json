@@ -1,0 +1,62 @@
+{
+  "course_id": "TNTN1129",
+  "title": "Thị trường tài nguyên và sản phẩm tài nguyên",
+  "overview": "Môn học cung cấp những kiến thức cơ bản về phát triển Thị trường tài nguyên và sản phẩm tài nguyên, các đặc điểm của thị trường tài nguyên và sản phẩm tài nguyên, những quan hệ kinh tế trong thị trường tài nguyên và sản phẩm tài nguyên.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Natural Resources",
+      "Market Economics"
+    ],
+    "key_concepts": [
+      "Supply and Demand",
+      "Price Mechanism",
+      "Non-renewable Resources",
+      "Land Market",
+      "Water Market",
+      "Energy Market",
+      "Forestry and Fisheries"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Market Dynamics",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to explain economic relationships in natural resource markets and analyze market dynamics."
+    },
+    {
+      "skill_name": "Analyzing Market Failures",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to identify and analyze market failures in natural resource markets."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế tài nguyên 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Understanding of Natural Resources",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

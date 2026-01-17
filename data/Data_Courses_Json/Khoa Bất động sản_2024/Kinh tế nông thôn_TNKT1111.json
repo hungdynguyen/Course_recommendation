@@ -1,0 +1,52 @@
+{
+  "course_id": "TNKT1111",
+  "title": "Economics for rural development",
+  "overview": "This course is the first in the specialized professional knowledge of the major and is one of the foundations of the major in Agricultural Economics and Rural Development. It equips students with basic knowledge about many fields of rural economy and society.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Macroeconomics",
+      "Microeconomics"
+    ],
+    "key_concepts": [
+      "Rural economic development",
+      "Rural social development",
+      "Infrastructure development",
+      "Environmental economics",
+      "Rural management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing rural economic and social development theories",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze and evaluate theories about rural economic and social development."
+    },
+    {
+      "skill_name": "Evaluating rural economic and social development",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to evaluate the current state of rural economic and social development and participate in the development of rural planning."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1",
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

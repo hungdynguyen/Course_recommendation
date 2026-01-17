@@ -1,0 +1,65 @@
+{
+  "course_id": "TNTN1144",
+  "title": "Energy Economics",
+  "overview": "Energy Economics is an important course with high practical relevance for economics students, particularly those in the field of natural resource economics, in the context of global energy security and climate change.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Renewable Energy",
+      "Energy Policy",
+      "Energy Economics"
+    ],
+    "key_concepts": [
+      "Renewable Energy Sources",
+      "Energy and Economic Growth",
+      "Energy Policy in Vietnam",
+      "Economic and Technical Calculations for Energy Projects"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing and Drafting Energy Policies",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be equipped with methods and skills to analyze and draft energy policies."
+    },
+    {
+      "skill_name": "Building and Analyzing Energy Investment Projects",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be equipped with methods and skills to build and analyze energy investment projects."
+    },
+    {
+      "skill_name": "Self-study and Research Skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will develop the ability to self-study and research to complete assigned tasks."
+    },
+    {
+      "skill_name": "Drawing Conclusions on Energy Economics, Energy Policy, and Energy Investment Projects",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to draw conclusions on issues related to energy economics, energy policy, and energy investment projects."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Resource Economics 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

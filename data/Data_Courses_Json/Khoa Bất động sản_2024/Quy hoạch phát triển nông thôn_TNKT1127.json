@@ -1,0 +1,58 @@
+{
+  "course_id": "TNKT 1127",
+  "title": "Quy Hoạch Phát Triển Nông Thôn",
+  "overview": "Học phần này trang bị cho người học những kiến thức cơ bản về quy hoạch phát triển nông thôn, bao gồm nội dung, phương pháp, trình tự lập quy hoạch và quản lý thực hiện quy hoạch phát triển kinh tế - xã hội nông thôn.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế nông nghiệp và phát triển nông thôn",
+    "sub_domains": [
+      "Quy hoạch phát triển nông thôn",
+      "Kinh tế vĩ mô",
+      "Kinh tế vi mô"
+    ],
+    "key_concepts": [
+      "Quy hoạch phát triển nông thôn",
+      "Quy hoạch tổng thể phát triển kinh tế - xã hội nông thôn",
+      "Quản lý thực hiện quy hoạch"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Thực hành kỹ năng đánh giá, phản biện quy hoạch phát triển kinh tế - xã hội nông thôn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể trực tiếp tham gia vào việc xây dựng, đánh giá, phản biện quy hoạch phát triển kinh tế - xã hội nông thôn ở các cấp quy hoạch từ trung ương đến địa phương."
+    },
+    {
+      "skill_name": "Thực hành kỹ năng quản lý thực hiện quy hoạch phát triển kinh tế - xã hội nông thôn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể tham gia các hoạt động quản lý thực hiện quy hoạch phát triển kinh tế - xã hội nông thôn ở các cấp quy hoạch."
+    },
+    {
+      "skill_name": "Vận dụng kiến thức lý thuyết để tiếp thu môn học khác",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể vận dụng kiến thức lý thuyết của học phần để tiếp thu một số môn học khác của chuyên ngành khi tham dự đào tạo ở bậc đào tạo cao hơn."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 105,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế vĩ mô 1",
+      "Kinh tế vi mô 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

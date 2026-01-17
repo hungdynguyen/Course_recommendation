@@ -1,0 +1,61 @@
+{
+  "course_id": "TNBD1127",
+  "title": "Định giá Bất động sản",
+  "overview": "Học phần Định giá bất động sản cung cấp những kiến thức và kỹ năng cơ bản cần thiết để thực hiện định giá bất động sản phục vụ cho các hoạt động của nền kinh tế.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Real Estate Valuation",
+    "sub_domains": [
+      "Basics of Real Estate Valuation",
+      "Principles and Procedures of Real Estate Valuation",
+      "Comparison Method",
+      "Cost Method",
+      "Income Capitalization Method",
+      "Residual Method"
+    ],
+    "key_concepts": [
+      "Real Estate Valuation Basics",
+      "Principles and Procedures",
+      "Comparison Method",
+      "Cost Method",
+      "Income Capitalization Method",
+      "Residual Method"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Apply Real Estate Valuation Principles",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng được cơ sở định giá bất động sản, các căn cứ và nguyên tắc trong định giá bất động sản bằng các phương pháp được học."
+    },
+    {
+      "skill_name": "Understand Real Estate Valuation Report Structure",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Hiểu được kết cấu và yêu cầu của một báo cáo định giá, quy trình thực hiện nhiệm vụ định giá cụ thể với các phương pháp được học."
+    },
+    {
+      "skill_name": "Organize Real Estate Valuation Tasks",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Có khả năng tổ chức thực hiện một nhiệm vụ định giá bất động sản cụ thể theo các phương pháp đã học trong học phần;"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

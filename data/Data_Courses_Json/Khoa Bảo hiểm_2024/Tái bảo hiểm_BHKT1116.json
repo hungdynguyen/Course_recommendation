@@ -1,0 +1,78 @@
+{
+  "course_id": "BHKT1116",
+  "title": "Reinsurance",
+  "overview": "The course focuses on the basics of reinsurance, including insurance contracts, reinsurance methods, and reinsurance techniques. It also covers related issues such as reinsurance commissions, legal frameworks in reinsurance, and the reinsurance market. Additionally, the course provides fundamental knowledge related to the arrangement and management of reinsurance programs for insurance companies.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Insurance",
+    "sub_domains": [
+      "Reinsurance",
+      "Insurance Contracts",
+      "Reinsurance Methods",
+      "Reinsurance Techniques"
+    ],
+    "key_concepts": [
+      "Reinsurance",
+      "Insurance Contracts",
+      "Reinsurance Methods",
+      "Reinsurance Techniques",
+      "Reinsurance Commissions",
+      "Legal Frameworks",
+      "Reinsurance Market"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and mastering reinsurance knowledge",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will understand and master the knowledge of reinsurance, including its forms and methods, and apply this knowledge in managing reinsurance activities at insurance companies."
+    },
+    {
+      "skill_name": "Applying reinsurance knowledge in insurance and reinsurance business",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will apply reinsurance knowledge in insurance and reinsurance business, and evaluate the effectiveness of reinsurance programs in the insurance business of insurance companies."
+    },
+    {
+      "skill_name": "Research, analysis, and systematic thinking skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will develop research, analysis, and systematic thinking skills in reinsurance management, and have the ability to take responsibility."
+    },
+    {
+      "skill_name": "Teamwork, leadership, and resource management skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will develop teamwork, leadership, and resource management skills for professional activities in reinsurance management."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Insurance Business 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of insurance",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of reinsurance",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

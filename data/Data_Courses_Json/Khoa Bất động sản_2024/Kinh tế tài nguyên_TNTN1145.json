@@ -1,0 +1,87 @@
+{
+  "course_id": "TNTN1145",
+  "title": "Natural Resource Economics",
+  "overview": "This course provides students with fundamental knowledge about natural resource economics, including practical issues related to natural resource economics, the relationship between nature and the economy, theoretical foundations of natural resource economics, market and social efficiency, natural resource policies, principles of natural resource analysis, and methods to determine the economic value of natural resources.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Microeconomics",
+      "Macroeconomics"
+    ],
+    "key_concepts": [
+      "Natural resource economics",
+      "Market and social efficiency",
+      "Natural resource policies"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding theoretical foundations of natural resource economics",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand the theoretical foundations of natural resource economics, including concepts, types of natural resources, scarcity, market supply and demand for natural resource products and services, optimal, efficient, and sustainable use of natural resources, and current issues related to natural resource economics in Vietnam and globally."
+    },
+    {
+      "skill_name": "Understanding principles of natural resource analysis",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand the principles of natural resource analysis, economic values, and general methods to determine economic values of natural resources."
+    },
+    {
+      "skill_name": "Applying knowledge to explain economic issues in natural resource allocation and use",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will apply knowledge to explain economic issues in natural resource allocation and use in a market economy."
+    },
+    {
+      "skill_name": "Analyzing natural resources and economic values",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will apply skills to analyze natural resources and economic values of natural resources."
+    },
+    {
+      "skill_name": "Determining optimal and sustainable levels of mineral resource exploitation",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will apply knowledge to determine optimal and sustainable levels of non-renewable mineral resource exploitation."
+    },
+    {
+      "skill_name": "Working individually and in groups to choose topics and solve problems in natural resource markets and products",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will have the ability to work individually and in groups to choose topics and solve problems in natural resource markets and products."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of natural resources",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

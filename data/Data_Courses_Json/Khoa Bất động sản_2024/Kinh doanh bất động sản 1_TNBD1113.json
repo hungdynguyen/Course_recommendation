@@ -1,0 +1,91 @@
+{
+  "course_id": "TNBD1113",
+  "title": "Kinh doanh bất động sản 1",
+  "overview": "Học phần này cung cấp những kiến thức cơ bản về kinh doanh bất động sản và quản trị kinh doanh bất động sản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Business Administration",
+    "sub_domains": [
+      "Real Estate Business",
+      "Business Management"
+    ],
+    "key_concepts": [
+      "Business Opportunities Analysis",
+      "Enterprise Establishment",
+      "Business Plan Development",
+      "Real Estate Production Management",
+      "Human Resource Management in Real Estate Business"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Opportunity Analysis",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the concepts, characteristics of real estate business, principles, and theories applied in real estate business"
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Analyze business opportunities and develop strategic plans for real estate business"
+    },
+    {
+      "skill_name": "Enterprise Establishment",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Analyze and choose the appropriate enterprise type for real estate business"
+    },
+    {
+      "skill_name": "Production Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Research and analyze opportunities, environment for real estate business; choose enterprise type and build management structure"
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Research methods and operations of human resource management in real estate business"
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Be proactive in learning, researching, and group work"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Be proactive in choosing issues, data, and presenting research results"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thị trường bất động sản"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Real Estate Market",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

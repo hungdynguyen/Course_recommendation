@@ -1,0 +1,81 @@
+{
+  "course_id": "QLKT1127",
+  "title": "Organization Theory and Design",
+  "overview": "This course aims to provide students with systematic knowledge and skills about organizations as a function of the management process. It focuses on the analysis of organizations, the design of organizational structures, and the organization of resources to implement plans.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Organizational Theory",
+      "Organizational Design",
+      "Organizational Culture",
+      "Ethics",
+      "Social Responsibility",
+      "Organizational Learning",
+      "Power and Politics"
+    ],
+    "key_concepts": [
+      "Organizational Structure",
+      "Organizational Design",
+      "Organizational Culture",
+      "Ethics",
+      "Social Responsibility",
+      "Organizational Learning",
+      "Power and Politics"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "System Thinking",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to apply system thinking to analyze and improve organizational structures."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to identify and solve problems related to organizational design and management."
+    },
+    {
+      "skill_name": "Group Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to manage groups and work in teams effectively."
+    },
+    {
+      "skill_name": "Organizational Management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to independently manage and take responsibility for organizational design and management processes."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 60,
+    "practice_percentage": 40,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "QLKT1101"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Organizational Theory",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Understanding of Organizational Design",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

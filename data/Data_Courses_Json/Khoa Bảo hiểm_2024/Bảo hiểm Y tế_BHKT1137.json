@@ -1,0 +1,74 @@
+{
+  "course_id": "BHKT1137",
+  "title": "Bảo hiểm Y tế",
+  "overview": "Bảo hiểm y tế là học phần tự chọn, thuộc khối kiến thức ngành, cung cấp cho sinh viên những kiến thức lý thuyết nền tảng, hiện đại, có hệ thống về bảo hiểm y tế.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Health Insurance",
+    "sub_domains": [
+      "Social Health Insurance",
+      "Commercial Health Insurance",
+      "Healthcare Financing",
+      "Healthcare Systems"
+    ],
+    "key_concepts": [
+      "Healthcare Services",
+      "Health Insurance Fund",
+      "Healthcare Policies",
+      "Healthcare Financing Models"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understand and master basic knowledge about healthcare, social health insurance, and commercial health insurance",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Students will understand and master basic knowledge about healthcare, social health insurance, and commercial health insurance."
+    },
+    {
+      "skill_name": "Analyze and evaluate models of health insurance in Vietnam and other countries",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze and evaluate models of health insurance in Vietnam and other countries."
+    },
+    {
+      "skill_name": "Understand and master basic and advanced knowledge about social health insurance",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand and master basic and advanced knowledge about social health insurance."
+    },
+    {
+      "skill_name": "Analyze and evaluate the implementation of commercial health insurance",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze and evaluate the implementation of commercial health insurance."
+    },
+    {
+      "skill_name": "Develop independent thinking and critical thinking skills",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will develop independent thinking and critical thinking skills."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance 2",
+      "Social Insurance Management 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "course_id": "TNDC1130",
+  "title": "Quản lý nhà nước về đất đai 1",
+  "overview": "Học phần nghiên cứu các quan hệ kinh tế, xã hội phát sinh trong quá trình quản lý Nhà nước về đất đai. Học phần sẽ cung cấp những kiến thức về các nội dung cơ bản, nguyên tắc, phương pháp, các công cụ sử dụng trong quản lý Nhà nước về định hướng và các chương trình phát triển đất đai.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý học 1",
+    "sub_domains": [
+      "Phương pháp nghiên cứu kinh tế - xã hội"
+    ],
+    "key_concepts": [
+      "Quan hệ kinh tế, xã hội",
+      "Quản lý Nhà nước về đất đai",
+      "Chính sách đất đai",
+      "Pháp luật đất đai"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Ghi nhớ đặc tính của đất đai, các chức năng và các phương pháp quản lí nhà nước về đất đai",
+      "category": "Hard Skill",
+      "target_proficiency_level": 1,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Sinh viên sẽ ghi nhớ được đặc tính của đất đai, các chức năng và các phương pháp quản lí nhà nước về đất đai"
+    },
+    {
+      "skill_name": "Hiểu cơ sở quản lí nhà nước về đất đai",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên sẽ hiểu được cơ sở quản lí nhà nước về đất đai"
+    },
+    {
+      "skill_name": "Phân tích tình huống, phân tích chính sách để ra quyết định",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ có kỹ năng phân tích tình huống, phân tích chính sách để ra quyết định"
+    },
+    {
+      "skill_name": "Làm việc cá nhân, làm việc nhóm trong lựa chọn chính sách",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên sẽ có khả năng làm việc cá nhân, làm việc nhóm trong lựa chọn chính sách"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý học 1",
+      "Phương pháp nghiên cứu kinh tế - xã hội"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Hiểu cơ sở quản lí nhà nước về đất đai",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Phân tích tình huống, phân tích chính sách để ra quyết định",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

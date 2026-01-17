@@ -1,0 +1,59 @@
+{
+  "course_id": "TNKT1110",
+  "title": "Agricultural Economics 2",
+  "overview": "Agricultural Economics 2 focuses on directly studying agricultural economics issues related to the development of Vietnamese agriculture, including the development of commodity production, agricultural specialization, intensive agriculture, agricultural service economics, economic and management issues in agricultural sub-sectors under international integration, and state management in agriculture.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Agricultural Economics",
+      "Economic Management"
+    ],
+    "key_concepts": [
+      "Commodity Production",
+      "Agricultural Specialization",
+      "Intensive Agriculture",
+      "Agricultural Service Economics",
+      "Economic and Management Issues in Agricultural Sub-sectors",
+      "State Management in Agriculture"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and Applying Knowledge",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to understand and apply knowledge about specialized, intensive agricultural production, and the content of various agricultural economic sectors."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to solve specific problems in practice through information gathering and planning related to agricultural, rural, and farmer development."
+    },
+    {
+      "skill_name": "Self-Discipline and Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will have a sense of self-discipline, be proactive, enthusiastic, and responsible for their work. They will also have the ability to self-study and accumulate experience to improve their professional level."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

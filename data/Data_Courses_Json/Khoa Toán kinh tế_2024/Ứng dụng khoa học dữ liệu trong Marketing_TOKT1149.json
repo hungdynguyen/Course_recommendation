@@ -1,0 +1,97 @@
+{
+  "course_id": "TOKT1149",
+  "title": "Ứng dụng khoa học dữ liệu trong Marketing",
+  "overview": "Học phần này trang bị cho sinh viên các kiến thức và công cụ khai phá dữ liệu ứng dụng trong tiếp thị.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Marketing",
+    "sub_domains": [
+      "Data Analysis",
+      "Machine Learning",
+      "Customer Segmentation",
+      "Product Pricing",
+      "Customer Lifetime Value",
+      "Basket Analysis",
+      "Sentiment Analysis"
+    ],
+    "key_concepts": [
+      "KPIs",
+      "Monte Carlo Simulation",
+      "Clustering",
+      "Recommendation Systems",
+      "Naive Bayes",
+      "Logistic Regression",
+      "Decision Trees",
+      "Markov Chains"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "KPI Calculation and Visualization",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ biết cách tính toán và trực quan hóa các KPI chính trong tiếp thị"
+    },
+    {
+      "skill_name": "Customer Segmentation",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Sinh viên sẽ sử dụng các phương pháp phân cụm để phân khúc khách hàng"
+    },
+    {
+      "skill_name": "Product Pricing",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ biết cách định giá sản phẩm sử dụng mô hình định giá phù hợp"
+    },
+    {
+      "skill_name": "Customer Lifetime Value Estimation",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên sẽ ước lượng và dự đoán giá trị vòng đời khách hàng sử dụng công cụ học máy và mô phỏng Monte Carlo"
+    },
+    {
+      "skill_name": "Basket Analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ phân tích giỏ hàng sử dụng các quy tắc kết hợp"
+    },
+    {
+      "skill_name": "Sentiment Analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Sinh viên sẽ xây dựng hệ thống phân tích cảm xúc của khách hàng về sản phẩm dịch vụ"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Lý thuyết xác suất và Thống kê toán",
+      "Khoa học dữ liệu trong kinh tế và kinh doanh"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Data Analysis",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "course_id": "TOTC1108",
+  "title": "Mô hình phân tích và định giá tài sản tài chính 1",
+  "overview": "Môn học này dành cho sinh viên ngành Toán ứng dụng trong kinh tế năm thứ 3. Nội dung chính bao gồm việc ứng dụng các phương pháp toán học để mô hình hóa quá trình phân tích và định giá các tài sản trên thị trường tài chính.",
+  "difficulty_level": "Intermediate",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Finance",
+    "sub_domains": [
+      "Portfolio theory",
+      "Capital asset pricing model",
+      "Arbitrage pricing theory"
+    ],
+    "key_concepts": [
+      "Financial asset analysis",
+      "Portfolio management",
+      "Capital asset pricing",
+      "Arbitrage pricing"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Apply portfolio theory",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Ứng dụng các mô hình: Trung bình – Phương sai vào việc phân tích và lựa chọn danh mục đầu tư"
+    },
+    {
+      "skill_name": "Evaluate financial asset pricing",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Ứng dụng mô hình định giá tài sản vốn vào ước lượng lợi suất kỳ vọng của tài sản, danh mục trên thị trường, vào ước lượng giá kỳ vọng của tài sản trong tương lai"
+    },
+    {
+      "skill_name": "Analyze financial asset risk",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Ứng dụng mô hình đa nhân tố và lý thuyết định giá cơ lợi vào ước lượng lợi suất kỳ vọng của tài sản, danh mục trên thị trường, đánh giá sự tồn tại cơ lợi trong đầu tư"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế vi mô 1",
+      "Kinh tế vĩ mô 1",
+      "Lý thuyết mô hình toán Kinh tế 1",
+      "Kinh tế lượng",
+      "Tối ưu hóa",
+      "Lý thuyết tài chính tiền tệ"
+    ],
+    "minimum_entry_skills": []
+  }
+}

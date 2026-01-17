@@ -1,0 +1,55 @@
+{
+  "course_id": "TNBD1136",
+  "title": "Architecture",
+  "overview": "This course provides fundamental knowledge about architecture, helping students apply it to their real estate specialization, including the following main blocks of knowledge: Requirements and general concepts of the architecture industry; Methods of reading design drawings; Basic methodology for designing, researching, and analyzing a construction project; Types of architectural projects. The course provides the necessary knowledge and skills for students to be able to read the basic content of an architectural design drawing and have the ability to initially analyze and evaluate an architectural design project.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Architecture",
+    "sub_domains": [
+      "Requirements and general concepts of the architecture industry",
+      "Methods of reading design drawings",
+      "Basic methodology for designing, researching, and analyzing a construction project",
+      "Types of architectural projects"
+    ],
+    "key_concepts": [
+      "Reading and analyzing architectural design drawings",
+      "Applying knowledge in real estate services and business"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Communication skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Develop communication skills, teamwork, decision-making, and project management skills"
+    },
+    {
+      "skill_name": "Analyzing and evaluating architectural projects",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Understand and be able to read and use tools with the basic content of an architectural design drawing and have the ability to initially analyze and evaluate an architectural design project"
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Understand the social role and responsibility of architectural projects, enhance a sense of responsibility, perseverance, professionalism, and cooperation in solving emerging issues; have the ability to think independently and adapt to the context and take responsibility"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

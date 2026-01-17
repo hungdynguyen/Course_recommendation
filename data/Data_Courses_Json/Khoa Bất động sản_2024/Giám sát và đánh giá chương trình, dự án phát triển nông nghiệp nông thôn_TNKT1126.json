@@ -1,0 +1,67 @@
+{
+  "course_id": "TNKT1126",
+  "title": "Giám sát, đánh giá chương trình, dự án phát triển nông nghiệp, nông thôn",
+  "overview": "Học phần trình bày những kiến thức và kỹ năng cơ bản về theo dõi giám sát và đánh giá các chương trình, dự án phát triển nông nghiệp, nông thôn.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Agricultural and Rural Development Projects",
+    "sub_domains": [
+      "Monitoring and Evaluation",
+      "Project Management"
+    ],
+    "key_concepts": [
+      "Supervision",
+      "Evaluation",
+      "Project Management",
+      "Agricultural Development",
+      "Rural Development"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of Monitoring and Evaluation principles",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to explain the concepts and importance of monitoring and evaluation in agricultural and rural development projects."
+    },
+    {
+      "skill_name": "Systematic and regular information collection",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to collect information systematically and regularly for monitoring and evaluating agricultural and rural development projects."
+    },
+    {
+      "skill_name": "Information analysis for decision support",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze information collected to support decision-making and policy evaluation in agricultural and rural development projects."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Đầu tư phát triển nông nghiệp, nông thôn"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of agricultural and rural development",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic understanding of project management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

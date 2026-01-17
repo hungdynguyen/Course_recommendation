@@ -1,0 +1,59 @@
+{
+  "course_id": "TNKT1158",
+  "title": "Quản trị kinh doanh nông nghiệp",
+  "overview": "Học phần này cung cấp cho sinh viên những kiến thức, kỹ năng cơ bản và chuyên sâu về tổ chức, quản lý và điều hành các hoạt động sản xuất kinh doanh của các cơ sở kinh doanh nông nghiệp.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Business Management",
+    "sub_domains": [
+      "Agricultural Business Management",
+      "Organizational Management",
+      "Financial Management"
+    ],
+    "key_concepts": [
+      "Agricultural Business Management Overview",
+      "Types of Agricultural Business Organizations",
+      "Agricultural Business Strategy",
+      "Agricultural Business Planning",
+      "Utilization of Production Factors",
+      "Product Consumption Organization",
+      "Financial Management and Accounting"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing and Building Strategies",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students can analyze and build strategies for agricultural business operations."
+    },
+    {
+      "skill_name": "Organizing Production Factors",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students can organize production factors in agricultural business operations."
+    },
+    {
+      "skill_name": "Organizing Product Consumption",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students can organize product consumption in agricultural business operations."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

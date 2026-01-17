@@ -1,0 +1,79 @@
+{
+  "course_id": "BHKT1164",
+  "title": "Giám định tổn thất và giải quyết bồi thường bảo hiểm",
+  "overview": "Học phần cung cấp cho người học kiến thức tổng quan về giám định tổn thất và giải quyết bồi thường bảo hiểm. Với kết cấu 6 chương, người học sẽ được giới thiệu các kiến thức chung liên quan đến qui trình giám định và bồi thường, phân tích hợp đồng bảo hiểm, thu thập thông tin, lập báo cáo giám định, các vấn đề pháp lý liên quan đến công tác giám định và bồi thường, trục lợi bảo hiểm và các vấn đề cần lưu ý trong giám định bồi thường bảo hiểm.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Insurance Adjusting and Claims",
+    "sub_domains": [
+      "Insurance Adjusting",
+      "Claims Processing",
+      "Insurance Contracts",
+      "Legal Issues in Insurance",
+      "Fraud Prevention"
+    ],
+    "key_concepts": [
+      "Adjustment Process",
+      "Claims Handling",
+      "Insurance Contract Analysis",
+      "Information Gathering",
+      "Report Writing",
+      "Legal Compliance",
+      "Fraud Detection"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Insurance Adjusting and Claims",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the concept, necessity, role, principles, environment, and factors influencing insurance adjusting and claims activities."
+    },
+    {
+      "skill_name": "Analyzing Insurance Contracts",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Analyze insurance contracts, understand the scope of insurance and exclusions, and apply this knowledge to real-world scenarios."
+    },
+    {
+      "skill_name": "Information Gathering and Report Writing",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Gather information using various methods, write reports, and apply knowledge to real-world scenarios."
+    },
+    {
+      "skill_name": "Legal Compliance and Fraud Prevention",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Understand legal compliance and fraud prevention in insurance adjusting and claims."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm thương mại 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Insurance Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Insurance Contract Understanding",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

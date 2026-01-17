@@ -1,0 +1,72 @@
+{
+  "course_id": "TNDC1139",
+  "title": "Land resource economics",
+  "overview": "This course provides fundamental knowledge about the economics of land resource use and management. It covers the characteristics of land resources and economic issues related to them. The course includes topics such as soil fertility, land rent theory, comparative advantage, and opportunity cost in land resource use.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Land resource economics",
+      "Soil fertility",
+      "Land rent theory",
+      "Comparative advantage",
+      "Opportunity cost"
+    ],
+    "key_concepts": [
+      "Soil fertility",
+      "Land rent",
+      "Comparative advantage",
+      "Opportunity cost"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the economic nature of land resources",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to understand the economic nature of land resources."
+    },
+    {
+      "skill_name": "Analyzing economic relationships in land resource management and use",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze economic relationships in land resource management and use."
+    },
+    {
+      "skill_name": "Recognizing social context and professional ethics",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to recognize the social context and professional ethics."
+    },
+    {
+      "skill_name": "Collecting information and evaluating land use efficiency",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to collect information and evaluate land use efficiency."
+    },
+    {
+      "skill_name": "Self-study and experience accumulation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to engage in self-study and accumulate experience to enhance their expertise in land economics."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

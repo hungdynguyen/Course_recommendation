@@ -1,0 +1,71 @@
+{
+  "course_id": "TNTN1108",
+  "title": "Natural Resources Management 1",
+  "overview": "This course provides students with basic knowledge and skills in natural resource management, including concepts and classification of natural resources, ownership issues, state management, surveying, planning for conservation, development, and exploitation, as well as documentation and databases for natural resource management.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Natural Resource Management",
+    "sub_domains": [
+      "Concepts and Classification",
+      "Ownership Issues",
+      "State Management",
+      "Surveying",
+      "Planning",
+      "Documentation and Databases"
+    ],
+    "key_concepts": [
+      "Natural Resources",
+      "Management",
+      "Classification",
+      "Ownership",
+      "State Management",
+      "Surveying",
+      "Planning",
+      "Documentation",
+      "Databases"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Concepts",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to explain and differentiate the concepts and classifications of natural resources."
+    },
+    {
+      "skill_name": "Applying Knowledge",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to apply knowledge to explain and visualize the functions and tasks of natural resource management."
+    },
+    {
+      "skill_name": "Compliance with Regulations",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to recognize and comply with legal regulations on natural resource management."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to work independently and in groups to choose topics and solve problems in the market and product resource."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

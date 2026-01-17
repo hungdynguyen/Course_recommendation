@@ -1,0 +1,75 @@
+{
+  "course_id": "BHKT1105",
+  "title": "Business Insurance 2",
+  "overview": "The course focuses on basic and advanced knowledge of commercial insurance operations, including marine insurance, technical insurance, liability insurance, agricultural insurance, and health insurance.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Insurance",
+    "sub_domains": [
+      "Marine Insurance",
+      "Technical Insurance",
+      "Liability Insurance",
+      "Agricultural Insurance",
+      "Health Insurance"
+    ],
+    "key_concepts": [
+      "Risk identification and analysis",
+      "Insurance contracts",
+      "Operational procedures"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of insurance principles",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to understand and apply the principles of insurance in various types of insurance."
+    },
+    {
+      "skill_name": "Analyzing and managing insurance operations",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze and manage insurance operations in various types of insurance."
+    },
+    {
+      "skill_name": "Research and presentation skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to conduct research and present findings in a professional manner."
+    },
+    {
+      "skill_name": "Independent work and teamwork",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to work independently and as part of a team."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Business Insurance 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of insurance",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic research skills",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+=== Verify Report ===
+[MySQL]
+  count: 13939
+  columns: skill_id, preferred_label, description, skill_type, alternative_labels, broader_skill_ids, created_at
+  sample rows:
+    - http://data.europa.eu/esco/skill/0005c151-5b5a-4a66-8aac-60e734beb1ab | manage musical staff | Assign and manage staff tasks in areas such as scoring, arranging, copying music and vocal coaching. | skill/competence | manage staff of music
+coordinate duties of musical staff
+manage music staff
+direct musical staff |  | 2026-01-05 16:37:07
+    - http://data.europa.eu/esco/skill/00064735-8fad-454b-90c7-ed858cc993f2 | supervise correctional procedures | Supervise the operations of a correctional facility or other correctional procedures, ensuring that they are compliant with legal regulations, and ensure that the staff complies with regulations, and aim to improve the facility's efficiency and safety. | skill/competence | oversee prison procedures
+manage correctional procedures
+monitor correctional procedures
+manage prison procedures
+monitor prison procedures
+oversee correctional procedures | http://data.europa.eu/esco/skill/d4a0744a-508b-4a5e-97a5-ad1fc7f55e6e | 2026-01-05 16:37:07
+    - http://data.europa.eu/esco/skill/000709ed-2be5-4193-b056-45a97698d828 | apply anti-oppressive practices | Identify oppression in societies, economies, cultures, and groups, acting as a professional in an non-oppressive way, enabling service users to take action to improve their lives and enabling citizens to change their environment in accordance with their own interests. | skill/competence | apply non-oppressive practices
+apply an anti-oppressive practice
+make use of anti-oppressive practices
+act in a non-oppressive way
+identify oppression in societies and groups
+apply anti-oppresive practice
+use anti-oppressive practices |  | 2026-01-05 16:37:07
+    - http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35 | control compliance of railway vehicles regulations | Inspect rolling stock, components and systems to ensure compliance with standards and specifications. | skill/competence | monitoring of compliance with railway vehicles regulations
+monitoring of compliance with rolling stock regulations
+checking compliance with rolling stock regulations
+control compliance of regulations of rolling stock
+inspection of compliance with rolling stock regulations
+ensuring compliance with railway vehicles regulations
+compliance controls of railway vehicles regulations
+conduct controls of compliance of railway vehicles regulations |  | 2026-01-05 16:37:07
+    - http://data.europa.eu/esco/skill/00090cc1-1f27-439e-a4e0-19a87a501bfc | identify available services | Identify the different services available for an offender during probation in order to help in the rehabilitation and re-integration process, as well as advising the offenders as to how they can identify services available to them. | skill/competence | establish available services
+determine rehabilitation services
+analyse rehabilitation services
+establish rehabilitation services
+determine available services
+analyse available services
+classify available services
+classify rehabilitation services |  | 2026-01-05 16:37:07
+
+[Elasticsearch]
+  count: 13939
+  sample (id, vector_len):
+    - http://data.europa.eu/esco/skill/0005c151-5b5a-4a66-8aac-60e734beb1ab | 1024
+    - http://data.europa.eu/esco/skill/00064735-8fad-454b-90c7-ed858cc993f2 | 1024
+    - http://data.europa.eu/esco/skill/000709ed-2be5-4193-b056-45a97698d828 | 1024
+    - http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35 | 1024
+    - http://data.europa.eu/esco/skill/00090cc1-1f27-439e-a4e0-19a87a501bfc | 1024

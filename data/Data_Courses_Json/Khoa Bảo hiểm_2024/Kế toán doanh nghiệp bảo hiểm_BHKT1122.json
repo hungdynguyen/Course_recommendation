@@ -1,0 +1,73 @@
+{
+  "course_id": "BHKT1122",
+  "title": "Accounting for Insurance Enterprise",
+  "overview": "This elective course provides students in the Insurance major with fundamental knowledge about accounting operations in insurance enterprises. It covers the basics of accounting operations in insurance companies, including the characteristics of accounting operations, organizational models, accounting formats, and accounting account systems. It also delves into detailed accounting operations, including short-term and long-term asset accounting, capital accounting, revenue and expense accounting, and determining business results.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Accounting",
+    "sub_domains": [
+      "Insurance Accounting",
+      "Financial Accounting"
+    ],
+    "key_concepts": [
+      "Accounting Operations",
+      "Revenue and Expense Accounting",
+      "Capital Accounting",
+      "Short-term and Long-term Asset Accounting"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understand and apply accounting principles",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand and apply the principles of accounting, the characteristics of business operations, and accounting operations in insurance companies."
+    },
+    {
+      "skill_name": "Understand and apply accounting theories",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will understand and apply theories about revenue and expense accounting, asset and capital accounting in insurance companies."
+    },
+    {
+      "skill_name": "Apply knowledge to determine business results",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will apply knowledge to determine business results and prepare balance sheets for insurance companies."
+    },
+    {
+      "skill_name": "Demonstrate research and independent work skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will demonstrate the ability to work independently and in groups, research skills, logical thinking, and critical thinking."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm Thương mại 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Insurance Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

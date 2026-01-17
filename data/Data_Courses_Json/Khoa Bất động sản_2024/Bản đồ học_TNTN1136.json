@@ -1,0 +1,67 @@
+{
+  "course_id": "TNTN1136",
+  "title": "Mapping",
+  "overview": "This course equips students with basic knowledge about maps, spatial data, and geographic information systems (GIS), including the basic components of GIS and the principles of GIS. It provides skills in organizing, collecting, integrating, and managing spatial databases from various sources, and methods for processing and analyzing map and geographic information on GIS software. It also provides skills in the diverse use of maps, GIS, and spatial data and their application in resource management decision-making. Students will have the ability to create illustrative maps based on reasonable cartographic principles.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Geographic Information Systems",
+    "sub_domains": [
+      "Maps",
+      "Spatial Data",
+      "GIS Principles",
+      "Resource Management"
+    ],
+    "key_concepts": [
+      "Cartography",
+      "GIS Components",
+      "Spatial Databases",
+      "Map Analysis",
+      "Resource Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizing and Managing GIS Databases",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to organize and manage GIS databases, and analyze and process spatial data on computers."
+    },
+    {
+      "skill_name": "Applying GIS Knowledge",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to apply comprehensive cartographic knowledge to extract and use map information for natural resource management work."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to work independently and in groups to choose topics and solve problems in the market and resource product."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Knowledge of Geography",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

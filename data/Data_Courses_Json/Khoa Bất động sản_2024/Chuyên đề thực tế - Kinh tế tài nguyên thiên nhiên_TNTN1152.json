@@ -1,0 +1,107 @@
+{
+  "course_id": "TNTN1152",
+  "title": "Chuyên đề thực tế",
+  "overview": "Học phần này giúp học viên nâng cao kiến thức thực tế, kỹ năng thực hành, thái độ làm việc, và kinh nghiệm giải quyết vấn đề về kinh tế tài nguyên trong điều kiện thực tế. Môn học là phương thức kết nối kiến thức tại trường lớp với việc áp dụng chúng vào thực tiễn công việc dưới sự trợ giúp của giáo viên hướng dẫn và cơ sở thực tập.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 200,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế tài nguyên",
+    "sub_domains": [
+      "Nghiên cứu kinh tế",
+      "Phân tích và giải quyết vấn đề",
+      "Kỹ năng giao tiếp và báo cáo"
+    ],
+    "key_concepts": [
+      "Nghiên cứu chuyên môn",
+      "Phát hiện và phân tích vấn đề",
+      "Giải quyết vấn đề cụ thể",
+      "Kỹ năng thu thập thông tin",
+      "Đạo đức trách nhiệm với công việc",
+      "Ý thức tổ chức hoạt động thực tiễn"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Nghiên cứu chuyên môn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên phát triển về kiến thức chuyên môn"
+    },
+    {
+      "skill_name": "Kinh nghiệm thực tế",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kinh nghiệm thực tế, thông thường sẽ thông qua quá trình thực hiện tìm hiểu chuyên môn tại cơ quan nhà nước, công ty tư nhân hoặc quốc tế, các tổ chức phi chính phủ, và các tổ chức xã hội"
+    },
+    {
+      "skill_name": "Phát hiện và phân tích vấn đề",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có khả năng phát hiện vấn đề và phân tích các vấn đề"
+    },
+    {
+      "skill_name": "Giải quyết vấn đề cụ thể",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có khả năng giải quyết vấn đề cụ thể trong thực tiễn"
+    },
+    {
+      "skill_name": "Thu thập thông tin",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên có kỹ năng thu thập thông tin để hiểu vấn đề quan tâm"
+    },
+    {
+      "skill_name": "Phân tích vấn đề logic",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có kỹ năng nhận biết các vấn đề, phân tích vấn đề một cách logic có hệ thống"
+    },
+    {
+      "skill_name": "Giao tiếp và báo cáo",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Sinh viên có kỹ năng giao tiếp, viết báo cáo và thuyết trình"
+    },
+    {
+      "skill_name": "Đạo đức trách nhiệm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có đạo đức trách nhiệm với công việc"
+    },
+    {
+      "skill_name": "Ý thức tổ chức hoạt động",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có ý thức hướng tới tổ chức hiệu quả các hoạt động trong thực tiễn nhằm đóng góp cho sự phát triển"
+    },
+    {
+      "skill_name": "Tác phong và thái độ lao động",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có tác phong, quan điểm, thái độ lao động"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

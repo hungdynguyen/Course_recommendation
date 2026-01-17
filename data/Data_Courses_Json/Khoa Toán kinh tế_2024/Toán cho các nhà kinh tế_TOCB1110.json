@@ -1,0 +1,55 @@
+{
+  "course_id": "TOCB1110",
+  "title": "Toán cho các nhà kinh tế",
+  "overview": "Học phần này nằm trong khối kiến thức giáo dục đại cương của chương trình đào tạo cử nhân khối ngành Kinh tế và Quản trị kinh doanh. Nó cung cấp cho người học những kiến thức cơ bản về giải tích một biến và giải tích nhiều biến, rèn luyện khả năng tư duy, kỹ năng tính toán và nâng cao khả năng ứng dụng các kiến thức và phương pháp toán học vào phân tích, nghiên cứu các vấn đề trong lĩnh vực kinh tế và kinh doanh.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Toán học",
+    "sub_domains": [
+      "Giải tích một biến",
+      "Giải tích nhiều biến",
+      "Kinh tế học"
+    ],
+    "key_concepts": [
+      "Hàm số",
+      "Giới hạn",
+      "Đạo hàm",
+      "Tích phân",
+      "Hàm số nhiều biến",
+      "Đạo hàm riêng",
+      "Tối ưu hóa",
+      "Phân tích cận biên",
+      "Độ co giãn của cầu",
+      "Thặng dư của người tiêu dùng và nhà sản xuất"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Giải quyết bài toán về giới hạn, đạo hàm và tích phân",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Giải được các bài toán cơ bản của giải tích một biến như: tìm giới hạn, tính đạo hàm (của hàm hiện và hàm ẩn), tính xấp xỉ, tính các tốc độ liên quan, xác định các khoảng tăng giảm và tìm cực trị của hàm số một biến, xác định tính lõm và điểm uốn."
+    },
+    {
+      "skill_name": "Vận dụng kiến thức giải tích vào bài toán kinh tế",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng các kiến thức về giới hạn, đạo hàm và cực trị của hàm một biến để thiết lập mô hình và giải các bài toán ứng dụng trong kinh tế và kinh doanh như: bài toán cực đại hóa lợi nhuận, tối đa hóa doanh thu, tối thiểu hóa chi phí."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

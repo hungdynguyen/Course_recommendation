@@ -1,0 +1,73 @@
+{
+  "course_id": "QLKT1104",
+  "title": "Chính sách kinh tế",
+  "overview": "Học phần này được thiết kế nhằm cung cấp cho sinh viên ngành Khoa học quản lý kiến thức có hệ thống về chính sách kinh tế, bao gồm hệ thống chính sách kinh tế, các yếu tố cốt yếu của chính sách kinh tế, hoạch định, tổ chức thực thi, giám sát và đánh giá chính sách kinh tế, cũng như một số chính sách cơ bản như chính sách tài khóa, chính sách tiền tệ, chính sách thuế, và chính sách cơ cấu kinh tế.",
+  "difficulty_level": "Intermediate",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Economic Policy",
+      "Public Policy",
+      "Economic Systems"
+    ],
+    "key_concepts": [
+      "Economic Policy",
+      "Public Policy",
+      "Economic Systems",
+      "Tax Policy",
+      "Fiscal Policy",
+      "Monetary Policy",
+      "Structural Economic Policy"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of economic policy",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Nắm vững kiến thức về hệ thống chính sách kinh tế, các yếu tố cốt yếu của chính sách kinh tế, và một số chính sách cơ bản như chính sách tài khóa, chính sách tiền tệ, chính sách thuế, và chính sách cơ cấu kinh tế."
+    },
+    {
+      "skill_name": "Policy planning and implementation",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Nắm vững kiến thức về nội dung của quá trình chính sách (quá trình hoạch định, tổ chức thực thi, giám sát và đánh giá chính sách), sự tác động của các chủ thể chính sách lên quá trình chính sách kinh tế."
+    },
+    {
+      "skill_name": "Collaboration and communication",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Phát triển được các kỹ năng chung như làm việc nhóm, giao tiếp, giải quyết mâu thuẫn, quản lý thời gian."
+    },
+    {
+      "skill_name": "Decision making",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Phát triển được các kỹ năng thực hành các hoạt động gắn liền quá trình hoạch định, tổ chức thực thi, giám sát và đánh giá chính sách kinh tế cụ thể."
+    },
+    {
+      "skill_name": "Independent work and social responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phát triển dần năng lực làm việc độc lập, chịu trách nhiệm, nhận thức về trách nhiệm xã hội, đạo đức nghề nghiệp, quản lý hiệu quả năng lực công việc và rèn luyện khả năng học hỏi."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

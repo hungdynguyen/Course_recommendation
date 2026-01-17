@@ -1,0 +1,105 @@
+{
+  "course_id": "TOkt1138",
+  "title": "Introduction to Data Science in Economics and Business 1",
+  "overview": "This course provides fundamental knowledge in the field of data science, serving for data analysis and big data analysis in economics and business. The analysis is aimed at solving specific requirements using data in fields such as banking finance, marketing, commerce - e-commerce, etc. The course consists of two main contents: unsupervised machine learning methods and supervised machine learning methods. The course is taught with an applied orientation, software skills are taught alongside necessary tools, illustrated by practical examples and applications, implemented on the open-source software R.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Data Science",
+    "sub_domains": [
+      "Unsupervised Machine Learning",
+      "Supervised Machine Learning",
+      "Data Analysis",
+      "Data Visualization",
+      "Statistical Learning"
+    ],
+    "key_concepts": [
+      "Data preprocessing",
+      "Data transformation",
+      "Data visualization",
+      "Model building",
+      "Regression models",
+      "Decision tree models",
+      "Machine learning models"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Preprocessing",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Apply R as a programming language and software in data analysis. Have knowledge about how to store, manage, process, and analyze data when using the R language"
+    },
+    {
+      "skill_name": "Supervised Machine Learning",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Apply supervised machine learning models to build models for data to analyze the impact of one variable on another variable, or to make forecasts for a target variable"
+    },
+    {
+      "skill_name": "Unsupervised Machine Learning",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Apply unsupervised machine learning models to build models for data to classify, cluster, and mine data"
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop skills in searching, processing, analyzing, transforming, and visualizing data using pre-developed packages in R such as readr, readxl, dplyr, ggplot2, stringr"
+    },
+    {
+      "skill_name": "Model Building",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop skills in building supervised machine learning models using R software to understand and summarize data, to analyze the relationships between variables in data, or to build predictive models"
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop the ability to self-learn, organize, manage group work, and persuade others"
+    },
+    {
+      "skill_name": "Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop personal responsibility, responsibility for the group, and build discipline in learning"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Algebra",
+      "Calculus 1",
+      "Calculus 2",
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Econometrics I"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

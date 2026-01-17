@@ -1,0 +1,67 @@
+{
+  "course_id": "TNDC1103",
+  "title": "Đăng ký thống kê đất và bất động sản",
+  "overview": "Học phần này cung cấp kiến thức cơ bản về các nghiệp vụ của công tác đăng ký thống kê đất đai và bất động sản, các quy định pháp luật liên quan, và kỹ năng về quy trình và thủ tục đăng ký ban đầu, đăng ký biến động đất đai và bất động sản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Đăng ký thống kê đất đai và bất động sản",
+    "sub_domains": [
+      "Nghiệp vụ đăng ký",
+      "Quy định pháp luật",
+      "Thủ tục đăng ký",
+      "Thống kê kiểm kê đất đai và bất động sản"
+    ],
+    "key_concepts": [
+      "Vai trò, đặc điểm và nguyên tắc đăng ký đất đai và bất động sản",
+      "Hệ thống đăng ký đất đai và bất động sản",
+      "Đăng ký đất đai và bất động sản lần đầu",
+      "Đăng ký biến động đất đai và bất động sản",
+      "Giấy chứng nhận quyền sử dụng đất",
+      "Thống kê kiểm kê đất đai và hồ sơ địa chính",
+      "Hệ thống chỉ tiêu trong thống kê đất đai và bất động sản"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Ghi nhớ vai trò, ý nghĩa và nội dung hệ thống đăng ký thống kê đất và bất động sản",
+      "category": "Hard Skill",
+      "target_proficiency_level": 1,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Học viên sẽ ghi nhớ được các vai trò, ý nghĩa và nội dung hệ thống đăng ký thống kê đất và bất động sản"
+    },
+    {
+      "skill_name": "Hiểu các thành phần hồ sơ và quy trình thực hiện đăng ký thống kê đất và bất động sản",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Học viên sẽ hiểu được các thành phần hồ sơ và quy trình thực hiện đăng ký thống kê đất và bất động sản"
+    },
+    {
+      "skill_name": "Giải thích nguyên tắc, thủ tục đăng ký thống kê đất đai và bất động sản",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Học viên sẽ giải thích được nguyên tắc, thủ tục đăng ký thống kê đất đai và bất động sản"
+    },
+    {
+      "skill_name": "Phân tích các chỉ tiêu trong thống kê và kiểm kê đất đai và bất động sản",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Học viên sẽ phân tích được các chỉ tiêu trong thống kê và kiểm kê đất đai và bất động sản"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

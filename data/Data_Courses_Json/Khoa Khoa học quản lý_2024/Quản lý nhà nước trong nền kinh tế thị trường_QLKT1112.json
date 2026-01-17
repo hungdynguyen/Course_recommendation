@@ -1,0 +1,54 @@
+{
+  "course_id": "QLKT1112",
+  "title": "Quản lý nhà nước trong nền kinh tế thị trường",
+  "overview": "Học phần này được thiết kế nhằm cung cấp cho sinh viên những kiến thức có hệ thống về vai trò quản lý của nhà nước đối với nền kinh tế.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế",
+    "sub_domains": [
+      "Quản lý nhà nước",
+      "Kinh tế thị trường"
+    ],
+    "key_concepts": [
+      "Quản lý nhà nước về kinh tế",
+      "Công cụ và phương pháp quản lý",
+      "Bộ máy quản lý nhà nước"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu về nền kinh tế thị trường và vai trò của nhà nước",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên sẽ hiểu được nền kinh tế thị trường, nhà nước và đặc trưng cơ bản của nhà nước"
+    },
+    {
+      "skill_name": "Phân tích và vận dụng quy luật quản lý nhà nước về kinh tế",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ nắm được một số quy luật và việc vận dụng quy luật trong quản lý nhà nước về kinh tế cũng như các nguyên tắc quản lý nhà nước về kinh tế"
+    },
+    {
+      "skill_name": "Thực hành kỹ năng làm việc nhóm và quản lý nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ có kỹ năng giao tiếp, thuyết trình, giải quyết mâu thuẫn, quản lý thời gian"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

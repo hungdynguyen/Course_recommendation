@@ -1,0 +1,67 @@
+{
+  "course_id": "BHKT1133",
+  "title": "Quản lý Bảo hiểm xã hội 2",
+  "overview": "Social Insurance Management 2 is a required course for students majoring in this field. It provides theoretical knowledge, modern, systematic, and relevant to Vietnamese law on state management in the field of social insurance as well as management of social insurance activities. The course covers in-depth knowledge related to basic content such as social insurance management, social insurance fund investment activities, management tools, inspection and supervision of social insurance activities, and state management of social insurance.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Social Insurance Management",
+    "sub_domains": [
+      "Social Insurance Fund Investment",
+      "Social Insurance Management Tools",
+      "Inspection and Supervision of Social Insurance Activities",
+      "State Management of Social Insurance"
+    ],
+    "key_concepts": [
+      "Social Insurance Fund Management",
+      "Social Insurance Fund Investment",
+      "Social Insurance Inspection",
+      "Social Insurance Supervision",
+      "State Management of Social Insurance"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and applying basic concepts of social insurance management",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to understand and apply basic concepts of social insurance management such as financial management, social insurance inspection, and supervision."
+    },
+    {
+      "skill_name": "Using knowledge of social insurance management principles",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to use knowledge of social insurance management principles to formulate policies and strategies for the development and organization of social insurance agencies."
+    },
+    {
+      "skill_name": "Research and independent work skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will have research and independent work skills, as well as the ability to organize and manage resources for professional social insurance management activities."
+    },
+    {
+      "skill_name": "Planning, coordinating, and managing resources",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to plan, coordinate, and manage resources, evaluate and improve the effectiveness of activities, and organize, evaluate, supervise, and inspire members in assigned tasks and social activities."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý Bảo hiểm xã hội 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

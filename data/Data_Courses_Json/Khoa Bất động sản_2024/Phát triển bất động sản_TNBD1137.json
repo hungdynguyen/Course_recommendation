@@ -1,0 +1,65 @@
+{
+  "course_id": "TNBD1137",
+  "title": "Phát triển bất động sản",
+  "overview": "Học phần này cung cấp cho người học những vấn đề lý thuyết nền tảng về phát triển bất động sản từ các nguyên lý chung đến quy trình phát triển bất động sản; đánh giá cơ hội và đề xuất ý tưởng phát triển bất động sản; thiết kế tiền khả thi và hoàn thiện các thủ tục pháp lý; thiết kế và phân tích tài chính dự án; tìm kiếm/ phát triển đối tác; marketing và bán hàng; quản lý vận hành dự án.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Real Estate Development",
+    "sub_domains": [
+      "Real Estate Market",
+      "Project Management"
+    ],
+    "key_concepts": [
+      "Real Estate Development Process",
+      "Project Feasibility",
+      "Financial Analysis",
+      "Marketing and Sales",
+      "Project Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of Real Estate Development",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên hiểu được bản chất của phát triển bất động sản; quy trình các bước, nội dung phát triển bất động sản cũng như vận dụng được vào phát triển một/ một số loại hình bất động sản cụ thể."
+    },
+    {
+      "skill_name": "Project Planning and Analysis",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có năng lực vận dụng các công cụ phân tích và tính toán cơ bản trong lập kế hoạch, tính toán khả thi của dự án phát triển bất động sản."
+    },
+    {
+      "skill_name": "Collaboration and Professionalism",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có năng lực hợp tác làm việc nhóm, trách nhiệm và tính chuyên nghiệp trong công việc; có khả năng tư duy hệ thống, có khả năng kết hợp vận dụng kiến thức và kỹ năng để trình bày, phân tích, chia sẻ các luận điểm của mình trong kế hoạch phát triển bất động sản."
+    },
+    {
+      "skill_name": "Independent Work and Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có năng lực làm việc độc lập, có trách nhiệm trong các công việc nhóm và trách nhiệm cá nhân; có năng lực trình bày và bảo vệ quan điểm cá nhân trong lĩnh vực chuyên môn phát triển bất động sản; có trách nhiệm xã hội và đạo đức nghề nghiệp trong môi trường công việc và trong bối cảnh xã hội."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thị trường bất động sản"
+    ],
+    "minimum_entry_skills": []
+  }
+}

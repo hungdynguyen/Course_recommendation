@@ -1,0 +1,59 @@
+{
+  "course_id": "TNKT 1128",
+  "title": "Thị trường nông sản thế giới / World Agricultural Markets / International Trading of Agricultural Products",
+  "overview": "Học phần này cung cấp kiến thức về thị trường nông sản thế giới, các cam kết quốc tế trong thương mại hàng nông sản, và tình hình thị trường thế giới về các loại nông sản chính mà Việt Nam có lợi thế trong thương mại quốc tế như gạo, thủy sản, rau quả và một số sản phẩm cây công nghiệp như cà phê, chè, hồ tiêu, cao su.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "International Trade",
+      "Agricultural Economics"
+    ],
+    "key_concepts": [
+      "World Agricultural Markets",
+      "International Trade Agreements",
+      "Market Trends",
+      "Vietnamese Agricultural Exports"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of World Agricultural Markets",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên nhận biết và hiểu được kiến thức cơ bản về chức năng, đặc điểm của thị trường nông sản thế giới, về các cam kết quốc tế trong thương mại hàng nông sản trong điều kiện hội nhập kinh tế toàn cầu."
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có kỹ năng phân tích tổng hợp và tư duy hệ thống (nhận dạng về một hàng nông sản mà Việt nam có lợi thế; thu thập thông tin và phân tích tình hình thị trường thế giới và ở Việt Nam về mặt hàng này; đề xuất được giải pháp để phát triển sản xuất và xuất khẩu hàng nông sản này) để có thể tham mưu và tự tổ chức quản lý hoạt động phát triển."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế nông nghiệp 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Agricultural Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

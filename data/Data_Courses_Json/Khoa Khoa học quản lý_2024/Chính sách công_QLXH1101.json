@@ -1,0 +1,85 @@
+{
+  "course_id": "QLXH1101",
+  "title": "Chính sách công",
+  "overview": "Học phần Chính sách công được thiết kế nhằm cung cấp cho sinh viên kiến thức có hệ thống về chính sách công, cụ thể là: hệ thống chính sách công; những yếu tố cốt yếu của một chính sách công; quá trình chính sách công; một số chính sách công cơ bản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Public Policy",
+    "sub_domains": [
+      "System of Public Policy",
+      "Key Elements of Public Policy",
+      "Public Policy Process",
+      "Basic Public Policies"
+    ],
+    "key_concepts": [
+      "Education Policy",
+      "Science and Technology Policy",
+      "Cultural Policy",
+      "Human Resource Management and Employment Policy"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phân tích được các yếu tố cơ bản của một chính sách công, hệ thống chính sách công và vai trò của chính sách công"
+    },
+    {
+      "skill_name": "Policy Formulation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phân tích được mối quan hệ giữa chính sách công với các công cụ quản lý khác của nhà nước"
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phân tích được quy trình hoạch định, tổ chức thực thi, giám sát và đánh giá chính sách công"
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Thực hành được kỹ năng làm việc nhóm"
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Thực hành được kỹ năng giao tiếp, trình bày và thuyết trình vấn đề thuyết phục"
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Chủ động trong học tập, nghiên cứu, làm việc nhóm; thể hiện quan điểm và bảo vệ quan điểm cá nhân về các vấn đề chính sách công dựa trên cách tiếp cận khoa học"
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Thực hiện trách nhiệm xã hội và đạo đức nghề nghiệp trong việc đưa ra những nhận định, đánh giá về các vấn đề chính sách công; phát triển năng lực tự học hỏi và thích ứng với sự thay đổi"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "course_id": "TNDC1116",
+  "title": "Cơ sở dữ liệu đất đai",
+  "overview": "Học phần cung cấp những kiến thức cơ bản về cơ sở dữ liệu đất đai, bản đồ số địa chính và căn cứ pháp lý và kỹ thuật về xây dựng cấu trúc dữ liệu không gian, dữ liệu thuộc tính, về hệ thống thông tin đất đai.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Land data base",
+    "sub_domains": [
+      "Nguyên lý cơ bản của địa chính",
+      "Đo đạc địa chính"
+    ],
+    "key_concepts": [
+      "Tổng quan về bản đồ số",
+      "Bản đồ số địa chính và hệ thống thông tin đất đai",
+      "Cơ sở dữ liệu đất đai",
+      "Phần mềm Mapinfo",
+      "Xây dựng cơ sở dữ liệu đất đai",
+      "Quản lý, khai thác và sử dụng cơ sở dữ liệu đất đai"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu được nội dung, ý nghĩa của của hệ thống cơ sở dữ liệu nói chung và cơ sở dữ liệu đất đai nói riêng",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên nhận biết và hiểu được các kiến thức cơ bản về cơ sở dữ liệu nói chung và hệ thống cơ sở dữ liệu đất đai nói riêng."
+    },
+    {
+      "skill_name": "Lý giải và phân tích được kiến thức của hệ thống cơ sở dữ liệu đất đai trong việc thành lập các cơ sở dữ liệu đất đai phục vụ công tác quản lý Nhà nước về đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể phân tích, thiết kế và xây dựng hệ thống cơ sở dữ liệu đất đai cũng như khai thác, sử dụng cơ sở dữ liệu này phục vụ công tác quản lý đất đai."
+    },
+    {
+      "skill_name": "Vận dụng được kiến thức về thông tin đất đai để xây dựng các cơ sở dữ liệu đất đai cụ thể",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể sử dụng phần mềm tin học vào việc phân tích, thiết kế và xây dựng cơ sở dữ liệu đất đai phục vụ công tác quản lý, khai thác và sử dụng cơ sở dữ liệu đất đai trong công tác quản lý đất đai."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Nguyên lý cơ bản của địa chính",
+      "Đo đạc địa chính"
+    ],
+    "minimum_entry_skills": []
+  }
+}

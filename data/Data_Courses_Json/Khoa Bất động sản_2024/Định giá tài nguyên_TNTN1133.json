@@ -1,0 +1,56 @@
+{
+  "course_id": "TNTN1133",
+  "title": "Natural Resources Valuation",
+  "overview": "This course provides students with basic knowledge and skills in valuing natural resources, including the economic value of natural resources, the necessity of valuing natural resource values, the role of the valuer, the direction and tasks of resource valuation, factors affecting resource value, bases and principles of resource valuation, valuation process, and valuation methods. It also covers the application of principles and methods to value certain types of resources and natural resource products/services.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Environmental Economics",
+      "Natural Resource Management"
+    ],
+    "key_concepts": [
+      "Economic Value",
+      "Resource Valuation",
+      "Market and Non-Market Valuation Methods"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Economic Value",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to understand and evaluate the economic value and components of natural resources, the necessity of valuing natural resource values, the role of the valuer, the direction and tasks of resource valuation, factors affecting resource value, bases and principles of resource valuation."
+    },
+    {
+      "skill_name": "Applying Valuation Methods",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply knowledge and skills to determine the value of certain types of resources and natural resource products/services, identify and analyze issues in practical valuation, and propose solutions."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "course_id": "TOTC1109",
+  "title": "The models for analyzing and evaluating the financial assets 2",
+  "overview": "This course presents the modeling process of analyzing and valuing assets in the financial market. Through the establishment and analysis of mathematical models from simple to complex corresponding to various types of assets, students can directly apply these models in stock investment consulting, portfolio management, and financial market analysis. Additionally, the course provides knowledge about technical analysis in the financial market and the application of technical analysis software. It also involves empirical testing of financial processes and stock investments with data from Vietnam and the region. Furthermore, the course equips students with knowledge and skills to analyze financial models based on real data with the support of software such as Excel, R, Metastock, Amibroker, etc.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Financial Assets Analysis",
+    "sub_domains": [
+      "Fixed Income Analysis",
+      "Equity Valuation Model",
+      "Derivatives",
+      "Technical Analysis"
+    ],
+    "key_concepts": [
+      "Financial Assets",
+      "Fixed Income",
+      "Equity Valuation",
+      "Derivatives",
+      "Technical Analysis"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Modeling and Estimating Financial Assets",
+      "category": "Hard Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop skills in building, estimating, and testing models for use in analyzing and valuing financial assets such as fixed income, equity, and derivatives; use software like Excel, R, Metastock, Amibroker for data analysis and technical analysis."
+    },
+    {
+      "skill_name": "Technical Analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop skills in technical analysis using specialized software."
+    },
+    {
+      "skill_name": "Independent Learning and Group Work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop the ability to learn independently, organize and manage group work, and take personal and group responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Mathematics",
+      "The models for analyzing and evaluating the financial assets 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

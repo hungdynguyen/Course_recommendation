@@ -1,0 +1,131 @@
+{
+  "course_id": "TNDC1143",
+  "title": "Quản lý nhà nước về đất đai 2",
+  "overview": "Học phần nghiên cứu một số nội dung quản lý nhà nước về đất đai như những vấn đề liên quan đến giao đất, cho thuê đất, chuyển đổi mục đích sử dụng đất và thu hồi đất; Các chính sách tài chính trong quá trình phát triển đất đai. Học phần cũng sẽ giúp người học nắm được các qui định của Nhà nước trong quản lý các giao dịch trên thị trường đất đai nhằm tạo điều kiện cho thị trường đất đai phát triển một cách lành mạnh.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý nhà nước về đất đai",
+    "sub_domains": [
+      "Quản lí về giao đất, cho thuê đất, thu hồi, bồi thường, hỗ trợ tái định cư",
+      "Quản lí tài chính đất đai và giá đất",
+      "Quản lí các giao dịch trên thị trường quyền sử dụng đất",
+      "Quản lí thanh tra, kiểm tra, giải quyết khiếu nại tố cáo về đất đai"
+    ],
+    "key_concepts": [
+      "giao đất",
+      "cho thuê đất",
+      "chuyển mục đích sử dụng đất",
+      "thu hồi đất",
+      "bồi thường",
+      "hỗ trợ tái định cư",
+      "quản lí tài chính đất đai",
+      "giá đất",
+      "giao dịch trên thị trường quyền sử dụng đất",
+      "thanh tra",
+      "kiểm tra",
+      "giải quyết khiếu nại tố cáo"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu và phân biệt các cơ chế chuyển dịch đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Hiểu và phân biệt các cơ chế chuyển dịch đất đai (giao đất, cho thuê đất, thu hồi đất), quy trình thực hiện chuyển dịch đất đai"
+    },
+    {
+      "skill_name": "Hiểu các khoản thu tài chính từ đất, các loại giá đất",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Hiểu các khoản thu tài chính từ đất, các loại giá đất"
+    },
+    {
+      "skill_name": "Hiểu được các nguyên tắc, nội dung và phương pháp quản lí giao dịch trên thị trường quyền sử dụng đất",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Hiểu được các nguyên tắc, nội dung và phương pháp quản lí giao dịch trên thị trường quyền sử dụng đất"
+    },
+    {
+      "skill_name": "Hiểu và phân biệt được các dạng tranh chấp đất đai, quy trình xử lí tranh chấp đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Hiểu và phân biệt được các dạng tranh chấp đất đai, quy trình xử lí tranh chấp đất đai"
+    },
+    {
+      "skill_name": "Liên hệ được vấn đề quản lí và sử dụng đất đai đặt ra",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Liên hệ được vấn đề quản lí và sử dụng đất đai đặt ra"
+    },
+    {
+      "skill_name": "Xác định được chính sách đất đai phù hợp để giải thích tình huống quản lí đất đai cụ thể",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Xác định được chính sách đất đai phù hợp để giải thích tình huống quản lí đất đai cụ thể"
+    },
+    {
+      "skill_name": "Giải thích ý nghĩa của cơ chế chuyển dịch đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Giải thích ý nghĩa của cơ chế chuyển dịch đất đai"
+    },
+    {
+      "skill_name": "Phân tích các tình huống thực tế và áp dụng các phương thức quản lí phù hợp",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Phân tích các tình huống thực tế và áp dụng các phương thức quản lí phù hợp"
+    },
+    {
+      "skill_name": "Tổng hợp các nội dung, tài liệu nghiên cứu khác trong quản lí đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Tổng hợp các nội dung, tài liệu nghiên cứu khác trong quản lí đất đai"
+    },
+    {
+      "skill_name": "Chủ động trong học tập, nghiên cứu, làm việc nhóm",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Chủ động trong học tập, nghiên cứu, làm việc nhóm"
+    },
+    {
+      "skill_name": "Chủ động lựa chọn phương pháp, các tài liệu nghiên cứu để phân tích tình huống thực tế về quản lí đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Chủ động lựa chọn phương pháp, các tài liệu nghiên cứu để phân tích tình huống thực tế về quản lí đất đai"
+    },
+    {
+      "skill_name": "Chủ động trong trình bày chủ đề nghiên cứu",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Chủ động trong trình bày chủ đề nghiên cứu"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý học 1",
+      "Phương pháp nghiên cứu kinh tế - xã hội"
+    ],
+    "minimum_entry_skills": []
+  }
+}

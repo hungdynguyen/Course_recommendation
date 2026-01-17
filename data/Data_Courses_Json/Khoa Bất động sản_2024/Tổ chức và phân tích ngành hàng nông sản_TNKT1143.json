@@ -1,0 +1,92 @@
+{
+  "course_id": "TNKT1143",
+  "title": "Tổ chức và phân tích ngành hàng nông sản",
+  "overview": "Cung cấp kiến thức và kỹ năng để tổ chức và phân tích ngành hàng nông sản, bao gồm chuỗi giá trị và phân tích chuỗi giá trị ngành hàng lúa gạo, thủy sản, trái cây và các ngành hàng nông sản khác.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Agricultural supply chain organization and analysis",
+    "sub_domains": [
+      "Economic agriculture 1"
+    ],
+    "key_concepts": [
+      "Organization and analysis of agricultural products industry",
+      "Value chain and value chain analysis of agricultural products industry",
+      "Organization and analysis of rice value chain",
+      "Organization and analysis of seafood value chain",
+      "Organization and analysis of fruit value chain"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of concepts and characteristics of agricultural products industry",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students understand the concept, characteristics of agricultural products industry, the necessity of organizing and analyzing the agricultural products industry chain, the economic linkages in the agricultural products industry, and the policies of the Party and State on the development of the agricultural products industry."
+    },
+    {
+      "skill_name": "Understanding and explaining the organization of the agricultural products industry",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students understand and explain the organization of the agricultural products industry, including development strategies, planning, forms of economic linkage, and value chain analysis."
+    },
+    {
+      "skill_name": "Understanding and explaining the value chain of rice, seafood, fruit, and other agricultural products industries",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students understand and explain the value chain of rice, seafood, fruit, and other agricultural products industries."
+    },
+    {
+      "skill_name": "Analyzing the value chain of rice",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students can apply knowledge and skills to analyze the rice value chain."
+    },
+    {
+      "skill_name": "Analyzing the value chain of seafood",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students can apply knowledge and skills to analyze the seafood value chain."
+    },
+    {
+      "skill_name": "Analyzing the value chain of fruit",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students can apply knowledge and skills to analyze the fruit value chain."
+    },
+    {
+      "skill_name": "Self-study and research skills",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students can complete assigned tasks through self-study and research."
+    },
+    {
+      "skill_name": "Drawing conclusions on the organization and analysis of the agricultural products industry",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students can draw conclusions on the organization and analysis of the agricultural products industry."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economic agriculture 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "course_id": "QLKT1110",
+  "title": "Quản lý chương trình và dự án",
+  "overview": "Học phần này trang bị lý thuyết và kỹ năng về quản lý các chương trình và dự án, bao gồm giai đoạn chuẩn bị, thực hiện, phân tích hiệu quả và đấu thầu.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý chương trình và dự án",
+    "sub_domains": [
+      "Quản lý dự án giai đoạn chuẩn bị",
+      "Quản lý dự án giai đoạn thực hiện",
+      "Phân tích hiệu quả dự án",
+      "Đấu thầu trong quản lý dự án"
+    ],
+    "key_concepts": [
+      "Lập kế hoạch",
+      "Tổ chức thực hiện",
+      "Giám sát và đánh giá",
+      "Phân tích hiệu quả tài chính",
+      "Phân tích hiệu quả kinh tế xã hội",
+      "Đấu thầu"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Quản lý nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Thành thạo kỹ năng quản lý nhóm, làm việc nhóm, truyền thông, giải quyết mâu thuẫn"
+    },
+    {
+      "skill_name": "Lập kế hoạch",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Thành thạo kỹ năng lập kế hoạch, tổ chức, lãnh đạo và kiểm soát trong quản lý chương trình, dự án"
+    },
+    {
+      "skill_name": "Phân tích hiệu quả",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Thành thạo kỹ năng phân tích, lập và thẩm định, tổ chức thực hiện chương trình dự án"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý học 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

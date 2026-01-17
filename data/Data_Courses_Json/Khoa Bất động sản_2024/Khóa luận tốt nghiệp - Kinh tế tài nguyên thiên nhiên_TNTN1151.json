@@ -1,0 +1,70 @@
+{
+  "course_id": "TNTN1151",
+  "title": "Khóa luận tốt nghiệp",
+  "overview": "Học phần khóa luận tốt nghiệp là môn học tổ chức vào học kỳ cuối sau khi sinh viên đã được trang bị những kiến thức cơ bản về giáo dục đại cương và những kiến thức nền tảng về kinh tế, chuyên sâu về ngành và chuyên ngành.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 500,
+    "credits": 10
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế tài nguyên",
+    "sub_domains": [
+      "Kiến thức cơ bản về giáo dục đại cương",
+      "Kiến thức nền tảng về kinh tế",
+      "Kiến thức chuyên sâu về ngành và chuyên ngành"
+    ],
+    "key_concepts": [
+      "Nghiên cứu chuyên môn",
+      "Phân tích và giải quyết vấn đề",
+      "Kỹ năng công tác và tác phong lao động"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Nghiên cứu chuyên môn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có kiến thức chuyên môn về kinh tế tài nguyên thông qua quá trình thực hiện nghiên cứu chuyên môn tại cơ quan nhà nước, công ty tư nhân hoặc quốc tế, các tổ chức phi chính phủ, và các tổ chức xã hội."
+    },
+    {
+      "skill_name": "Phân tích và giải quyết vấn đề",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Học viên có khả năng phát hiện vấn đề, phân tích, và giải quyết vấn đề cụ thể trong thực tiễn"
+    },
+    {
+      "skill_name": "Kỹ năng công tác và tác phong lao động",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kỹ năng công tác, tác phong, quan điểm, thái độ lao động, ý thức năng lực tổ chức và thực hiện hoạt động thực tiễn"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Sinh viên  hoàn thành các học phần thuộc khối kiến thức chuyên ngành."
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Nghiên cứu chuyên môn",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Phân tích và giải quyết vấn đề",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Kỹ năng công tác và tác phong lao động",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

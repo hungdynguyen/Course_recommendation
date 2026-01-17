@@ -1,0 +1,59 @@
+{
+  "course_id": "TNBD1128",
+  "title": "Real estate valuation 2",
+  "overview": "Real estate valuation 2 continues to provide knowledge about real estate valuation, introducing 3 valuation methods (capitalization/income method, residual method, and profit method); land valuation; content and techniques for preparing real estate valuation reports.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Real estate valuation",
+    "sub_domains": [
+      "Capitalization/income method",
+      "Residual method",
+      "Profit method",
+      "Land valuation",
+      "Valuation report"
+    ],
+    "key_concepts": [
+      "Real estate valuation principles",
+      "Valuation techniques",
+      "Valuation report structure"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Apply real estate valuation principles",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Understand the structure and requirements of a valuation report, the process of specific valuation tasks with learned methods"
+    },
+    {
+      "skill_name": "Collaborate in valuation tasks",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Have the ability to organize and implement a specific real estate valuation task according to the methods learned in the course"
+    },
+    {
+      "skill_name": "Communicate valuation results",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Have the ability to present and defend personal views in the field of real estate valuation"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Real estate market"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "course_id": "BHKT1121",
+  "title": "Tiếng Anh ngành Bảo hiểm",
+  "overview": "Học phần này cung cấp cho sinh viên ngành Bảo hiểm những kiến thức cơ bản về bảo hiểm bằng Tiếng Anh, bao gồm từ vựng chuyên ngành, kiến thức chuyên môn trong tiếng Anh về ngành bảo hiểm, luật bảo hiểm thương mại và bảo hiểm xã hội, hợp đồng bảo hiểm, các hoạt động trong một doanh nghiệp bảo hiểm và một số sản phẩm chủ đạo trong bảo hiểm.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Insurance",
+    "sub_domains": [
+      "Insurance Law",
+      "Insurance Contracts",
+      "Insurance Operations",
+      "Social Insurance"
+    ],
+    "key_concepts": [
+      "Risk Management",
+      "Insurance Principles",
+      "Insurance Types",
+      "Insurance Contracts",
+      "Insurance Operations",
+      "Social Insurance Systems"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understand and master English vocabulary and terminology in the insurance industry",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Students will be able to understand and master English vocabulary and terminology in the insurance industry."
+    },
+    {
+      "skill_name": "Analyze English documents in the insurance industry",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to analyze English documents in the insurance industry, including legal documents, insurance contracts, and fee proposals."
+    },
+    {
+      "skill_name": "Apply knowledge to draft insurance proposals/reinsurance proposals",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply their knowledge to draft insurance proposals/reinsurance proposals, transaction documents, and reports in the insurance field."
+    },
+    {
+      "skill_name": "Fluently use English in professional communication and insurance transactions",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to fluently use English in professional communication and insurance transactions."
+    },
+    {
+      "skill_name": "Work independently and in groups, have logical and critical thinking, be proactive and creative, and adapt to the learning and working environment in the context of integration and technology application",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to work independently and in groups, have logical and critical thinking, be proactive and creative, and adapt to the learning and working environment in the context of integration and technology application."
+    },
+    {
+      "skill_name": "Understand and comply with national laws and organizational regulations, serve the community, and have a sense of business ethics and corporate social responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to understand and comply with national laws and organizational regulations, serve the community, and have a sense of business ethics and corporate social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm thương mại 1",
+      "Quản trị kinh doanh bảo hiểm 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of insurance concepts",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic knowledge of insurance operations",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

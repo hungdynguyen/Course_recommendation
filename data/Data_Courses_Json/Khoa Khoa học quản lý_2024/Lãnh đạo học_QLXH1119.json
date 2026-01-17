@@ -1,0 +1,64 @@
+{
+  "course_id": "QLXH1119",
+  "title": "Leadership",
+  "overview": "This course provides students with fundamental and systematic knowledge about leadership. It covers the essence of leadership, the differences between leadership and management, the prerequisites for successful leadership, major approaches and theories of leadership, common leadership styles, and the conditions for effectively applying these styles in practice. It also includes the types of power and their use, understanding influence tactics and their application, leadership skills in developing human relationships, such as character, leadership ethics, motivation and empowerment, communication, feedback systems, conflict resolution, training, counseling, and group leadership; setting vision and strategic orientation, leading change and innovation, building organizational culture, and organizational learning.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Leadership",
+    "sub_domains": [
+      "Essence of Leadership",
+      "Leadership vs Management",
+      "Prerequisites for Successful Leadership",
+      "Approaches and Theories of Leadership",
+      "Leadership Styles",
+      "Power and Influence",
+      "Leadership Skills",
+      "Vision and Strategic Orientation",
+      "Leading Change and Innovation",
+      "Organizational Culture",
+      "Organizational Learning"
+    ],
+    "key_concepts": [
+      "Essence of Leadership",
+      "Leadership vs Management",
+      "Prerequisites for Successful Leadership",
+      "Approaches and Theories of Leadership",
+      "Leadership Styles",
+      "Power and Influence",
+      "Leadership Skills",
+      "Vision and Strategic Orientation",
+      "Leading Change and Innovation",
+      "Organizational Culture",
+      "Organizational Learning"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and Applying Leadership Theories",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply knowledge about leadership approaches and models to explain practical issues."
+    },
+    {
+      "skill_name": "Selecting Appropriate Leadership Styles",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze and choose suitable leadership styles for individuals and organizations."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

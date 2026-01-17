@@ -1,0 +1,54 @@
+{
+  "course_id": "BHKT1168",
+  "title": "Chuyên đề thực tế",
+  "overview": "Chuyên đề thực tế là học phần thực tế giúp sinh viên chuyên ngành Bảo hiểm theo dõi, quan sát cách tác nghiệp thực tế, đúc kết kinh nghiệm thực tế về nghiệp vụ cho bản thân. Học phần này giúp sinh viên mang những kiến thức mà giáo viên cung cấp trên lớp đến gần hơn với thực tế, từ đó tiếp thêm niềm đam mê, tình yêu công việc từ thực tế.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 60,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Bảo hiểm thương mại 2",
+    "sub_domains": [],
+    "key_concepts": [
+      "tác nghiệp thực tế",
+      "kinh nghiệm thực tế",
+      "nghiệp vụ",
+      "kiến thức chuyên ngành"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Kỹ năng thực tế",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên làm quen và tăng cường kỹ năng thực tế, năng lực chuyên môn phù hợp với ngành đào tạo"
+    },
+    {
+      "skill_name": "Kỹ năng nghề nghiệp",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Rèn luyện kỹ năng, kiến thức nghề nghiệp, hình thành các phẩm chất trí tuệ, phương pháp tiếp cận, giải quyết một vấn đề thực tế"
+    },
+    {
+      "skill_name": "Tác phong làm việc",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Rèn luyện tác phong, phương pháp làm việc của người cán bộ bảo hiểm nói riêng, quản lý kinh tế và quản trị kinh doanh nói chung"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 25,
+    "practice_percentage": 75,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm thương mại 2"
+    ],
+    "minimum_entry_skills": []
+  }
+}

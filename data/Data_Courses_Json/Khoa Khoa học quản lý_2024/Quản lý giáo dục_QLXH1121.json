@@ -1,0 +1,73 @@
+{
+  "course_id": "QLXH1121",
+  "title": "Quản lý giáo dục",
+  "overview": "Học phần này được thiết kế nhằm cung cấp cho sinh viên những kiến thức liên quan đến giáo dục và quản lý giáo dục. Quá trình nghiên cứu sẽ được liên hệ với những tình huống cụ thể, đặc biệt là những vấn đề đặt ra trong quá trình kinh tế xã hội hiện nay ở Việt Nam.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý giáo dục",
+    "sub_domains": [
+      "Giáo dục và hệ thống giáo dục",
+      "Quản lý nhà nước về giáo dục",
+      "Quản lý giáo dục phổ thông",
+      "Quản lý giáo dục đại học",
+      "Quản lý chất lượng giáo dục của cơ sở giáo dục đại học"
+    ],
+    "key_concepts": [
+      "Giáo dục",
+      "Quản lý giáo dục",
+      "Hệ thống giáo dục",
+      "Chính sách giáo dục",
+      "Chất lượng giáo dục"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và đánh giá các tình huống thực tiễn trong quản lý hệ thống giáo dục",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ có khả năng phân tích và đánh giá các tình huống thực tiễn trong quản lý hệ thống giáo dục."
+    },
+    {
+      "skill_name": "Áp dụng kiến thức quản lý giáo dục để giải quyết vấn đề thực tiễn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ có khả năng áp dụng kiến thức quản lý giáo dục để giải quyết vấn đề thực tiễn."
+    },
+    {
+      "skill_name": "Thực hành kỹ năng giao tiếp và thuyết trình",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ có khả năng thực hành tốt kỹ năng giao tiếp và thuyết trình."
+    },
+    {
+      "skill_name": "Thực hành kỹ năng làm việc nhóm và quản lý nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ có khả năng thực hành tốt kỹ năng làm việc nhóm và quản lý nhóm."
+    },
+    {
+      "skill_name": "Thực hành kỹ năng phân tích, tư vấn, phản biện, hoạch định, tổ chức thực thi, giám sát và đánh giá chính sách, chương trình và dự án giáo dục",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ có khả năng thực hành tốt kỹ năng phân tích, tư vấn, phản biện, hoạch định, tổ chức thực thi, giám sát và đánh giá chính sách, chương trình và dự án giáo dục."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

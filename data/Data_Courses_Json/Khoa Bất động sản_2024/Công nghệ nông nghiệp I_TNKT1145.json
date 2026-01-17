@@ -1,0 +1,80 @@
+{
+  "course_id": "TNKT1145",
+  "title": "Agricultural Technology I",
+  "overview": "This course presents fundamental principles of technology in agriculture. It describes the system of technologies applied in agricultural production in Vietnam and around the world. It aims to provide students with knowledge about some basic technologies in crop cultivation, protection, and harvesting. As a result, students can choose, manage, and use modern and high-tech agricultural technologies after graduation, thereby helping to produce high-quality and efficient agricultural products sustainably.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Agricultural Technology",
+    "sub_domains": [
+      "Crop Cultivation",
+      "Crop Protection",
+      "Crop Harvesting"
+    ],
+    "key_concepts": [
+      "Basic Agricultural Technologies",
+      "System of Applied Technologies",
+      "Modern and High-Tech Agricultural Technologies"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Agricultural Technologies",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Students will be able to recognize and understand basic knowledge about agricultural technology"
+    },
+    {
+      "skill_name": "Analyzing Suitable Technologies",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze and evaluate the technologies currently being applied in agriculture"
+    },
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to conduct research, analyze, and synthesize to select appropriate technologies for practical application, thereby enhancing agricultural production efficiency"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to present logical and evidence-based arguments in analyzing and selecting agricultural technologies"
+    },
+    {
+      "skill_name": "Self-Learning and Research",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to self-study and research to complete assigned tasks"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Agricultural Technology",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Knowledge of Crop Cultivation",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

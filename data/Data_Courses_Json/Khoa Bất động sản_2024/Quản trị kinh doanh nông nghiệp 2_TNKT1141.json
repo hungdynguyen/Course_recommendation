@@ -1,0 +1,135 @@
+{
+  "course_id": "TNKT1141",
+  "title": "Quản trị kinh doanh nông nghiệp 2",
+  "overview": "Học phần này là sự tiếp nối của học phần Quản trị kinh doanh nông nghiệp 1, cung cấp kiến thức cơ bản và chuyên sâu về tổ chức, quản lý và điều hành các hoạt động sản xuất kinh doanh của các cơ sở kinh doanh nông nghiệp.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Agricultural Business Management",
+    "sub_domains": [
+      "Organizing production resources",
+      "Agricultural production management",
+      "Livestock production management",
+      "Non-agricultural business activities",
+      "Product marketing",
+      "Financial management",
+      "Distribution and accounting",
+      "Business analysis"
+    ],
+    "key_concepts": [
+      "Organizing production resources",
+      "Agricultural production management",
+      "Livestock production management",
+      "Non-agricultural business activities",
+      "Product marketing",
+      "Financial management",
+      "Distribution and accounting",
+      "Business analysis"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizing production resources",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Understand and analyze the organization of production resource usage in agricultural business"
+    },
+    {
+      "skill_name": "Agricultural production management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply knowledge to organize agricultural production activities"
+    },
+    {
+      "skill_name": "Livestock production management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply knowledge to organize livestock production activities"
+    },
+    {
+      "skill_name": "Non-agricultural business activities",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply knowledge to organize non-agricultural business activities"
+    },
+    {
+      "skill_name": "Product marketing",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply knowledge to organize product marketing activities"
+    },
+    {
+      "skill_name": "Financial management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand and analyze financial management in agricultural business"
+    },
+    {
+      "skill_name": "Distribution and accounting",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand and analyze distribution and accounting in agricultural business"
+    },
+    {
+      "skill_name": "Business analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand and analyze business analysis in agricultural business"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản trị kinh doanh nông nghiệp 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of agricultural business management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of agricultural production management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of livestock production management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of non-agricultural business activities",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of product marketing",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of financial management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of distribution and accounting",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of business analysis",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

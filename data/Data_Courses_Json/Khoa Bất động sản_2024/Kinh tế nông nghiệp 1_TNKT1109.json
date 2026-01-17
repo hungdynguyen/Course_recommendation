@@ -1,0 +1,60 @@
+{
+  "course_id": "TNKT1109",
+  "title": "KINH TẾ NÔNG NGHIỆP 1",
+  "overview": "Học phần này trình bày tổng quan về nông nghiệp, bao gồm vị trí của nông nghiệp trong nền kinh tế quốc dân, đặc điểm của sản xuất nông nghiệp nói chung và của nông nghiệp Việt Nam nói riêng, phát triển nền nông nghiệp bền vững. Học phần tập trung nghiên cứu trực tiếp những vấn đề kinh tế học nông nghiệp gắn với thực tiễn phát triển nông nghiệp Việt Nam trong bối cảnh hiện nay.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Agricultural Economics",
+      "Microeconomics"
+    ],
+    "key_concepts": [
+      "Agricultural production",
+      "Market analysis",
+      "International trade",
+      "Sustainable development",
+      "Resource management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing agricultural markets",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze agricultural markets and understand the dynamics of supply and demand."
+    },
+    {
+      "skill_name": "Developing sustainable agricultural practices",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to develop and implement sustainable agricultural practices."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Understanding basic economic theories",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Analyzing economic data",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

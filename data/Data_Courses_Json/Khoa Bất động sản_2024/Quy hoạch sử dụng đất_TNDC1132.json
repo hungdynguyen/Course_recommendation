@@ -1,0 +1,57 @@
+{
+  "course_id": "TNDC1132",
+  "title": "Quy hoạch sử dụng đất",
+  "overview": "Học phần trình bày các kiến thức, kỹ năng của Quy hoạch sử dụng đất, ứng dụng trong công tác lập quy hoạch, kế hoạch sử dụng đất các cấp.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Land use planning",
+    "sub_domains": [
+      "Land use planning",
+      "Land management",
+      "Urban planning"
+    ],
+    "key_concepts": [
+      "Land use planning",
+      "Land management",
+      "Urban planning",
+      "Land use policies",
+      "Land use regulations"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding land use planning",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Understand the content, meaning, and scientific basis of land use planning, methods, and steps in the process of land use planning at all levels."
+    },
+    {
+      "skill_name": "Applying land use planning",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Know how to apply knowledge to establish land use planning at all levels and evaluate the implementation of land use planning indicators."
+    },
+    {
+      "skill_name": "Professional leadership",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Have the ability to lead and influence in land management and use activities; have innovative ideas in implementing assigned tasks; have the ability to direct and adapt to different working environments."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

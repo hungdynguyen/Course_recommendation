@@ -1,0 +1,59 @@
+{
+  "course_id": "BHKT1156",
+  "title": "Kinh tế bảo hiểm",
+  "overview": "Học phần cung cấp cho sinh viên các chuyên ngành những kiến thức cơ bản và chuyên sâu có hệ thống về kinh tế bảo hiểm, bao gồm: bảo hiểm thương mại, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tiền gửi cũng như mối quan hệ giữa bảo hiểm với phát triển và tăng trưởng kinh tế.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế bảo hiểm",
+    "sub_domains": [
+      "Bảo hiểm thương mại",
+      "Bảo hiểm xã hội",
+      "Bảo hiểm y tế",
+      "Bảo hiểm thất nghiệp",
+      "Bảo hiểm tiền gửi"
+    ],
+    "key_concepts": [
+      "Rủi ro",
+      "Quản lý rủi ro",
+      "Bảo hiểm",
+      "Phân loại bảo hiểm",
+      "Quản lý nhà nước về bảo hiểm"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Nắm vững bản chất của rủi ro và vai trò của bảo hiểm trong quản lý rủi ro",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên nắm vững các nguyên tắc, bản chất của rủi ro và mối quan hệ giữa rủi ro và bảo hiểm; cơ sở khoa học của bảo hiểm và phân loại bảo hiểm"
+    },
+    {
+      "skill_name": "Vận dụng kiến thức về bảo hiểm vào phân tích, đánh giá và quản lý hoạt động của các loại hình bảo hiểm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kỹ năng tổng hợp, phân tích và tư duy hệ thống; khả năng tổ chức và quản lý nguồn lực phục vụ cho hoạt động quản lý chuyên môn trong kinh doanh bảo hiểm và quản lý hệ thống bảo hiểm xã hội, bảo hiểm tiền gửi"
+    },
+    {
+      "skill_name": "Thể hiện sự tự lực khi làm việc độc lập và trách nhiệm đối với nhóm làm việc",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Sinh viên thể hiện được sự tự lực khi làm việc độc lập, thể hiện trách nhiệm cá nhân và trách nhiệm đối với nhóm làm việc"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "course_id": "TOTKT1127",
+  "title": "Econometrics I",
+  "overview": "This course introduces basic knowledge and skills in applied econometric models for analyzing, evaluating the impact of decisions in economics, finance, business, and forecasting. The course focuses on cross-sectional models and a part on time series. Key contents include model formulation, estimation, analysis of linear regression models, model selection and evaluation, statistical inference on regression coefficients and forecasting. In addition to OLS, other advanced estimation methods (GLS, robust estimation, and instrumental variable methods) are introduced. The course uses R/Python software to process and analyze models with real data.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Microeconomics",
+      "Macroeconomics"
+    ],
+    "key_concepts": [
+      "Regression models",
+      "OLS method",
+      "Maximum Likelihood Estimation",
+      "Statistical inference",
+      "Qualitative variables regression",
+      "Model adjustment",
+      "Time series regression"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Model formulation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to formulate econometric models based on specific economic, financial, or business issues."
+    },
+    {
+      "skill_name": "Regression analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to perform regression analysis using R/Python software."
+    },
+    {
+      "skill_name": "Model selection and evaluation",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to select and evaluate econometric models based on specific data sets."
+    },
+    {
+      "skill_name": "Statistical inference",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to conduct statistical inference on regression coefficients and forecasting."
+    },
+    {
+      "skill_name": "Time series analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze time series data and perform regression analysis with time series variables."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Microeconomics",
+      "Macroeconomics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of probability theory",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of mathematical statistics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of microeconomics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of macroeconomics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

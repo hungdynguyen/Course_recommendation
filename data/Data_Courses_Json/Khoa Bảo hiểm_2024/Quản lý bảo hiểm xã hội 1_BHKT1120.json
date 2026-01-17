@@ -1,0 +1,50 @@
+{
+  "course_id": "BHKT1120",
+  "title": "Quản lý Bảo hiểm xã hội 1",
+  "overview": "Học phần Quản lý Bảo hiểm xã hội 1 là học phần bắt buộc của sinh viên chuyên ngành, cung cấp kiến thức lý thuyết nền tảng, hiện đại, có hệ thống về quản lý Nhà nước trong lĩnh vực Bảo hiểm xã hội và quản lý hoạt động sự nghiệp Bảo hiểm xã hội.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý Bảo hiểm xã hội",
+    "sub_domains": [
+      "Quản lý đối tượng tham gia",
+      "Quản lý đối tượng thụ hưởng",
+      "Quản lý tài chính Bảo hiểm xã hội"
+    ],
+    "key_concepts": [
+      "Khái niệm và cơ sở quản lý",
+      "Hệ thống tổ chức Bảo hiểm xã hội",
+      "Quản lý tài chính Bảo hiểm xã hội"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Nắm vững nguyên tắc, bản chất và cơ sở của quản lý Bảo hiểm xã hội",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Hiểu rõ và vận dụng nội dung cơ bản của quản lý Bảo hiểm xã hội như hệ thống tổ chức Bảo hiểm xã hội, quản lý đối tượng tham gia và đối tượng thụ hưởng, quản lý tài chính Bảo hiểm xã hội để phân tích, theo dõi giám sát các quy trình liên quan."
+    },
+    {
+      "skill_name": "Vận dụng kiến thức nguyên lý về quản lý Bảo hiểm xã hội",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng kiến thức nguyên lý về quản lý Bảo hiểm xã hội, nội dung của hệ thống tổ chức Bảo hiểm xã hội, quản lý đối tượng tham gia và đối tượng thụ hưởng, quản lý tài chính Bảo hiểm xã hội để hoạch định chính sách và chiến lược phát triển, tổ chức bộ máy của cơ quan Bảo hiểm xã hội."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm xã hội 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

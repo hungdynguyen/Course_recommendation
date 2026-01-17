@@ -1,0 +1,104 @@
+{
+  "course_id": "TNKT1146",
+  "title": "Công nghệ nông nghiệp II",
+  "overview": "Học phần này trình bày những nguyên lý cơ bản về công nghệ sau thu hoạch, mô tả hệ thống công nghệ bảo quản và chế biến sản phẩm nông nghiệp ở Việt Nam và trên thế giới.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Agricultural Technology",
+    "sub_domains": [
+      "Post-harvest technology",
+      "Animal husbandry",
+      "Feed formulation",
+      "Animal nutrition",
+      "Food processing",
+      "Food preservation"
+    ],
+    "key_concepts": [
+      "Post-harvest technology",
+      "Animal husbandry",
+      "Feed formulation",
+      "Animal nutrition",
+      "Food processing",
+      "Food preservation"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic principles of post-harvest technology",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Sinh viên nhận biết và hiểu được các kiến thức cơ bản về công nghệ chăn nuôi, công nghệ bảo quản, chế biến nông sản"
+    },
+    {
+      "skill_name": "Analyzing and applying post-harvest technology",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kỹ năng vận dụng được kiến thức để giải thích, đánh giá được các công nghệ đang áp dụng trong chăn nuôi, bảo quản, chế biến nông sản"
+    },
+    {
+      "skill_name": "Evaluating post-harvest technology effectiveness",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có khả năng đánh giá kết quả, hiệu quả của các công nghệ áp dụng trong chăn nuôi, bảo quản, chế biến nông sản"
+    },
+    {
+      "skill_name": "Research and analysis skills",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Sinh viên có khả năng thực hiện nghiên cứu, phân tích, tổng hợp để lựa chọn các công nghệ phù hợp với thực tiễn, từ đó nâng cao hiệu quả sản xuất nông nghiệp"
+    },
+    {
+      "skill_name": "Critical thinking and self-study",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có khả năng đưa ra các luận điểm phản biện logic và có căn cứ trong việc phân tíc, lựa chọn các công nghệ áp dụng trong chăn nuôi, bảo quản, chế biến nông sản"
+    },
+    {
+      "skill_name": "Self-study and research",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên có khả năng tự học tập, nghiên cứu để hoàn thành các bài tập được giao"
+    },
+    {
+      "skill_name": "Problem-solving",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể đưa ra những kết luận về các vấn đề về lựa chọn các công nghệ áp dụng trong nông nghiệp"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Công nghệ nông nghiệp I"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of agricultural technology",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic knowledge of animal husbandry",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of post-harvest technology",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

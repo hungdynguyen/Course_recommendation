@@ -1,0 +1,60 @@
+{
+  "course_id": "TOkt1116",
+  "title": "Lý thuyết mô hình toán kinh tế 2",
+  "overview": "Tiếp nối học phần Lý thuyết mô hình toán kinh tế 1, sau khi nghiên cứu các nội dung cơ bản về xây dựng mô hình, phân tích so sánh và lớp mô hình tối ưu, học phần 2 đi sâu nghiên cứu các nội dung liên quan tới kiểm chứng và ước lượng mô hình hành vi tiêu dùng/sản xuất, nhóm mô hình cân bằng (tĩnh) trong kinh tế.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 135,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Mathematical Economics"
+    ],
+    "key_concepts": [
+      "Modeling",
+      "Equilibrium",
+      "Behavioral Models",
+      "Market Analysis"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Modeling and Analyzing Economic Equilibrium",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to analyze and model economic equilibrium in both micro and macroeconomic contexts."
+    },
+    {
+      "skill_name": "Quantitative Analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply quantitative methods to analyze economic models and behaviors."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Lý thuyết mô hình toán kinh tế 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Modeling Techniques",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Economic Theories",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

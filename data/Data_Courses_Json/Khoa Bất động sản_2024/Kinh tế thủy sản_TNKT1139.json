@@ -1,0 +1,67 @@
+{
+  "course_id": "TNKT1139",
+  "title": "KINH TẾ THỦY SẢN",
+  "overview": "Học phần này trang bị cho người học những kiến thức cơ bản về thủy sản, nghiên cứu những vấn đề kinh tế của sản xuất và kinh doanh thủy sản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Aquacultural Economics",
+      "Fisheries Economics"
+    ],
+    "key_concepts": [
+      "Aquaculture",
+      "Fisheries Management",
+      "Economic Resources",
+      "Market Analysis"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Economic Concepts",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to understand and explain the basic economic concepts related to aquaculture and fisheries."
+    },
+    {
+      "skill_name": "Analyzing Economic Issues",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze and evaluate the economic issues related to aquaculture and fisheries."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to develop and implement strategic plans for the development and management of the aquaculture and fisheries sector."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế vĩ mô 1",
+      "Kinh tế vi mô 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

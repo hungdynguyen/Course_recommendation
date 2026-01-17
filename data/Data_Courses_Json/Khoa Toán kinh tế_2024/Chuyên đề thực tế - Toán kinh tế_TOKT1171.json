@@ -1,0 +1,49 @@
+{
+  "course_id": "TOKT1171",
+  "title": "Chuyên đề thực tế - Toán kinh tế",
+  "overview": "Chuyên đề thực tế trong CTĐT Toán kinh tế là học phần được thiết kế nhằm tạo điều kiện cho sinh viên tiếp cận với thực tế công việc và các ứng dụng của chuyên ngành toán kinh tế trong các lĩnh vực của đời sống xã hội từ vĩ mô đến vi mô, nâng cao khả năng giải quyết các tình huống thực tế bằng kiến thức, kĩ năng và tư duy của Toán kinh tế.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 60,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Toán kinh tế",
+    "sub_domains": [
+      "Thu thập số liệu",
+      "Xử lý dữ liệu",
+      "Xây dựng mô hình dự báo",
+      "Ứng dụng AI"
+    ],
+    "key_concepts": [
+      "Giải quyết tình huống thực tế",
+      "Tư duy Toán kinh tế",
+      "Phân tích định lượng"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Giải quyết tình huống thực tế",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể giải quyết các tình huống thực tế bằng kiến thức và kỹ năng Toán kinh tế."
+    },
+    {
+      "skill_name": "Phân tích định lượng",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể phân tích định lượng các vấn đề thực tế và đưa ra khuyến nghị cải tiến."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 25,
+    "practice_percentage": 75,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

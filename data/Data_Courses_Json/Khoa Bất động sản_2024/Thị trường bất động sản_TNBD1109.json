@@ -1,0 +1,89 @@
+{
+  "course_id": "TNBD1109",
+  "title": "Thị trường Bất động sản",
+  "overview": "Học phần cung cấp những kiến thức cơ bản về sự vận động và phát triển thị trường bất động sản, quan hệ cung cầu và sự tác động của chúng đối với giá cả bất động sản; Phân tích xu hướng biến động cung, cầu và giá cả bất động sản, cơ chế cân bằng cung cầu và cơ chế hình thành giá cả bất động sản. Học phần trang bị cho người học kỹ năng phân tích về thị trường bất động sản với những tình huống cụ thể. Đồng thời, học phần cũng nghiên cứu các công cụ quản lý của nhà nước để khắc phục những khiếm khuyết và điều tiết thị trường bất động sản, trang bị cho người học kiến thức về hệ thống chính sách nhằm phát triển thị trường bất động sản ở Việt Nam.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Bất động sản",
+    "sub_domains": [
+      "Thị trường bất động sản",
+      "Cầu trong thị trường bất động sản",
+      "Cung trong thị trường bất động sản",
+      "Quan hệ cung cầu và giá cả trên thị trường bất động sản",
+      "Phân tích thị trường bất động sản",
+      "Quản lý nhà nước đối với thị trường bất động sản"
+    ],
+    "key_concepts": [
+      "Sự hình thành và các giai đoạn phát triển của thị trường bất động sản",
+      "Biến động cung, cầu và giá cả bất động sản",
+      "Cơ chế cân bằng cung cầu và cơ chế hình thành giá cả bất động sản",
+      "Kỹ năng phân tích thị trường bất động sản",
+      "Công cụ quản lý của nhà nước",
+      "Hệ thống chính sách phát triển thị trường bất động sản"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích thị trường bất động sản",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Phân tích được thị trường bất động sản với các tình huống cụ thể"
+    },
+    {
+      "skill_name": "Tư duy hệ thống",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Rèn luyện, vận dụng tư duy hệ thống, kỹ năng thu thập thông tin, phân tích biến động cung, cầu, giá cả bất động sản, phân tích thị trường bất động sản, một cách hệ thống"
+    },
+    {
+      "skill_name": "Đạo đức trách nhiệm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Rèn luyện đạo đức trách nhiệm, kiên trì, chuyên nghiệp, hợp tác trong công việc thông qua các nhiệm vụ cá nhân và nhóm"
+    },
+    {
+      "skill_name": "Tư duy nhạy bén",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Có kỹ năng tư duy nhạy bén, và cập nhật các tình huống liên quan tới thị trường bất động sản"
+    },
+    {
+      "skill_name": "Trách nhiệm cá nhân và nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Có trách nhiệm cá nhân và trách nhiệm với nhóm, tham gia và tổ chức hoạt động nhóm"
+    },
+    {
+      "skill_name": "Bảo vệ quan điểm cá nhân",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Thể hiện và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học"
+    },
+    {
+      "skill_name": "Đạo đức nghề nghiệp",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Xác định và thực hiện trách nhiệm xã hội và đạo đức nghề nghiệp trong việc đưa ra các nhận định, đánh giá về vấn đề chuyên môn liên quan tới thị trường bất động sản"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

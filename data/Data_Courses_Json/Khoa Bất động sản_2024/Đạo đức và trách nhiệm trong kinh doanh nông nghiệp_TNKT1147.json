@@ -1,0 +1,70 @@
+{
+  "course_id": "TNKT1147",
+  "title": "Đạo đức và trách nhiệm trong kinh doanh Nông nghiệp",
+  "overview": "Học phần này cung cấp kiến thức và kỹ năng để nhận diện các vấn đề đạo đức và thực hành kinh doanh có trách nhiệm của doanh nghiệp nông nghiệp với các bên liên quan. Nó cũng tích hợp các khía cạnh từ việc tuân thủ pháp luật, đạo đức và trách nhiệm xã hội của doanh nghiệp nông nghiệp.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Business Ethics",
+    "sub_domains": [
+      "Agricultural Business",
+      "Corporate Social Responsibility",
+      "Labor Relations",
+      "Sustainable Agriculture",
+      "Food Safety"
+    ],
+    "key_concepts": [
+      "Ethics",
+      "Responsibility",
+      "Stakeholder Relationships",
+      "Legal and Economic Aspects",
+      "Sustainable Practices"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Ethical and Responsible Business Practices",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên hiểu được khái niệm đạo đức, chuẩn mực trong kinh doanh nông nghiệp và mối quan hệ qua lại giữa doanh nghiệp nông nghiệp và xã hội."
+    },
+    {
+      "skill_name": "Applying Ethical and Responsible Business Practices",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể vận dụng các kiến thức về đạo đức và trách nhiệm trong kinh doanh nông nghiệp ở các khâu từ sản xuất đến cung ứng nông sản, thực phẩm của doanh nghiệp."
+    },
+    {
+      "skill_name": "Strategic Planning and Implementation",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có năng lực định hướng chiến lược, tổ chức và thực hiện các hoạt động kinh doanh nông nghiệp có đạo đức và trách nhiệm."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh nông nghiệp I"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Agricultural Business",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Understanding of Business Ethics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

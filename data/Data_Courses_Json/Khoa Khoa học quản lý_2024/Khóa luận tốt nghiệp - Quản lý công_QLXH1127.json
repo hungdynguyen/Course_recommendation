@@ -1,0 +1,85 @@
+{
+  "course_id": "QLXH1127",
+  "title": "Khóa luận tốt nghiệp ngành Quản lý công",
+  "overview": "Khóa luận tốt nghiệp là công trình nghiên cứu độc lập của sinh viên, giúp đánh giá kiến thức, năng lực của sinh viên đã tích lũy trong suốt thời gian học tập và khả năng ứng dụng vào thực tế.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 10
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Public Management",
+      "Policy Analysis",
+      "Organizational Management"
+    ],
+    "key_concepts": [
+      "Public Management",
+      "Policy Analysis",
+      "Organizational Management",
+      "Research Methodology"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Vận dụng được những kiến thức đã học trong chương trình đào tạo để nắm được một cách tổng thể những vấn đề quản lý tại cơ sở thực tập"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Lựa chọn được vấn đề thực tế của cơ sở thực tập có liên quan đến quản lý tổ chức và tổ chức công, quản lý công, quản lý lĩnh vực công, chính sách công"
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Có kỹ năng giao tiếp, thuyết trình; sử dụng được ngoại ngữ và tin học vào nghiên cứu và viết khóa luận tốt nghiệp"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Có kỹ năng tư duy, phát hiện, truyền thông và giải quyết vấn đề trong phạm vi chuyên môn"
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Quản lý tốt thời gian và nguồn lực"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 20,
+    "practice_percentage": 80,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "All mandatory courses of the Public Management major"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Research Methodology",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Public Management",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Policy Analysis",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

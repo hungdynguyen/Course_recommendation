@@ -1,0 +1,68 @@
+{
+  "course_id": "TNKT1140",
+  "title": "Economics and Management of Community Development",
+  "overview": "Economics and Management of Community Development is a course that provides students with knowledge, methods, and skills in community development, including an overview of communities and community development, objectives and motivations for community development, economic and management of community development resources, community development institutions, organizational and management methods, project investment development construction and management, and economic and management of key communities.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Community Development",
+      "Management"
+    ],
+    "key_concepts": [
+      "Community Overview",
+      "Community Development Objectives",
+      "Resource Management",
+      "Community Development Institutions",
+      "Organizational and Management Methods",
+      "Project Investment Development"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Community Development",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand the basic knowledge about communities and community development, including the objectives and motivations for community development."
+    },
+    {
+      "skill_name": "Community Development Methods",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be equipped with methods and skills for building objectives and motivations for community development, as well as for resource mobilization, planning, participation mobilization, meeting organization, activity organization, project construction and management."
+    },
+    {
+      "skill_name": "Self-study and Research Skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to independently study and research to complete assigned tasks and draw conclusions on economic and management issues in community development."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Knowledge of Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Knowledge of Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

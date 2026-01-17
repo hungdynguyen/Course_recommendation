@@ -1,0 +1,96 @@
+{
+  "course_id": "BHKT1114",
+  "title": "Quản trị kinh doanh bảo hiểm 2",
+  "overview": "Quản trị kinh doanh bảo hiểm 2 là học phần tiếp nối của học phần Quản trị kinh doanh bảo hiểm 1. Học phần này cung cấp cho sinh viên chuyên ngành Bảo hiểm những kiến thức cơ bản, hiện đại và có hệ thống về quản trị khách hàng, quản trị nguồn nhân lực, quản trị tài chính, hoạt động đầu tư của các doanh nghiệp bảo hiểm. Đặc biệt, học phần này giúp sinh viên biết cách trích lập các quỹ dự phòng trong doanh nghiệp bảo hiểm. Đồng thời hiểu và nắm vững các báo cáo tài chính, đó là cơ sở để phân tích hoạt động tài chính bảo hiểm và tổ chức hệ thống thông tin trong doanh nghiệp bảo hiểm.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Insurance Business Administration",
+    "sub_domains": [
+      "Customer Management",
+      "Human Resource Management",
+      "Financial Management",
+      "Investment Activities",
+      "Information System Management"
+    ],
+    "key_concepts": [
+      "Customer Management",
+      "Human Resource Management",
+      "Financial Management",
+      "Investment Activities",
+      "Information System Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Customer Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Nắm vững kiến thức nền tảng trong quản trị khách hàng của doanh nghiệp bảo hiểm"
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Nắm vững các yêu cầu, tiêu chuẩn và chuẩn mực đặc thù về nhân lực ngành bảo hiểm, các yêu cầu và xu hướng phát triển trong quản trị và ứng dụng công nghệ/thông tin của ngành bảo hiểm"
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Nắm vững các qui định pháp lý và yêu cầu kỹ thuật đối với tài chính và quản trị tài chính, quản trị đầu tư trong doanh nghiệp bảo hiểm"
+    },
+    {
+      "skill_name": "Investment Activities",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Vận dụng kiến thức của học phần phân tích, đánh giá hoạt động quản trị khách hàng, quản trị nhân lực, quản trị thông tin, quản trị tài chính, và quản trị đầu tư của doanh nghiệp bảo hiểm, chiến lược kinh doanh chung của doanh nghiệp"
+    },
+    {
+      "skill_name": "Information System Management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Năng lực nghiên cứu và làm việc độc lập, kỹ năng tổng hợp, tư duy logic và phản biện, kỹ năng làm việc nhóm, kỹ năng trình bày, kỹ năng phân tích xử lý tình huống; kỹ năng lãnh đạo"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản trị kinh doanh bảo hiểm 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Customer Management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Human Resource Management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Financial Management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Investment Activities",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Information System Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

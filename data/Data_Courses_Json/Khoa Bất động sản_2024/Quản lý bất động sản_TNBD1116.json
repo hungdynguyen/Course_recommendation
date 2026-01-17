@@ -1,0 +1,64 @@
+{
+  "course_id": "TNBD1116",
+  "title": "Quản lý Bất động sản",
+  "overview": "Học phần này cung cấp kiến thức cơ bản về cơ hội và kỹ năng phát triển nghề quản lý bất động sản, trách nhiệm của nhà quản lý bất động sản đối với các đối tượng liên quan, lập kế hoạch quản lý bất động sản, quản lý quan hệ với chủ sở hữu và khách hàng thuê, xây dựng và thực hiện chiến lược marketing, quản lý bảo dưỡng và xây dựng, quản lý đàm phán và hợp đồng thuê bất động sản, lập báo cáo quản lý và quản lý rủi ro, và thực hiện bảo hiểm trong quá trình quản lý bất động sản.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Real Estate Management",
+    "sub_domains": [
+      "Property Management",
+      "Marketing",
+      "Risk Management",
+      "Contract Negotiation"
+    ],
+    "key_concepts": [
+      "Property Management",
+      "Marketing Strategies",
+      "Risk Assessment",
+      "Contract Drafting"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Property Management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng kiến thức để quản lý vận hành bất động sản an toàn, hiệu quả, tiết kiệm chi phí"
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Phân tích đánh giá bất động sản về mặt kỹ thuật cũng như các hoạt động chuyên biệt để xây dựng được một kế hoạch quản lý bất động sản cụ thể; xây dựng và thực hiện marketing để bán hoặc cho thuê bất động sản"
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Hiểu được vai trò và sự cần thiết quản lý rủi ro trong quản lý bất động sản"
+    },
+    {
+      "skill_name": "Contract Negotiation",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Đàm phán các điều khoản hợp đồng thuê bất động sản"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

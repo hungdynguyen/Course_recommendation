@@ -1,0 +1,52 @@
+{
+  "course_id": "TNKT 1162",
+  "title": "Chuyên đề thực tế - Kinh doanh Nông nghiệp",
+  "overview": "Học phần chuyên đề thực tế là học phần bắt buộc của ngành Kinh doanh nông nghiệp tại Trường Đại học Kinh tế quốc dân. Thông qua việc thăm quan tại cơ sở, sinh viên sẽ vận dụng những kiến thức đã được trang bị vào phân tích, liên hệ thực tiễn và đề xuất các ý tưởng có liên quan đến lĩnh vực kinh doanh nông nghiệp.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 200,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh doanh Nông nghiệp",
+    "sub_domains": [
+      "Kinh tế",
+      "Kinh doanh",
+      "Phân tích và giải quyết vấn đề",
+      "Nghiên cứu và phát triển"
+    ],
+    "key_concepts": [
+      "Chính sách nông nghiệp",
+      "Vấn đề tồn tại trong kinh doanh nông nghiệp",
+      "Phân tích tình huống thực tế",
+      "Liên hệ lý thuyết và thực tế"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và giải quyết vấn đề",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng những kiến thức đã được trang bị trong chương trình đào tạo để phân tích và đưa ra đánh giá các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực kinh doanh nông nghiệp"
+    },
+    {
+      "skill_name": "Nghiên cứu và phát triển",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Chủ động trong học tập, nghiên cứu, làm việc nhóm, chủ động trong trình bày chủ đề nghiên cứu"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Sinh viên  hoàn thành các học phần thuộc khối kiến thức cơ sở ngành."
+    ],
+    "minimum_entry_skills": []
+  }
+}

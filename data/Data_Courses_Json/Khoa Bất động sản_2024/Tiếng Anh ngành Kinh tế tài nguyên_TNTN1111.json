@@ -1,0 +1,81 @@
+{
+  "course_id": "TNTN1111",
+  "title": "Tiếng Anh ngành Kinh tế tài nguyên",
+  "overview": "Học phần trình bày những kiến thức về tiếng Anh liên quan đến Kinh tế tài nguyên. Học phần hướng dẫn người học các nội dung về củng cố những kiến thức về ngữ pháp cơ bản và tiếp tục phát triển bốn kỹ năng nghe, nói, đọc, viết đối với tiếng Anh ngành kinh tế tài nguyên nói chung và một số chuyên ngành chính: Kinh tế tài nguyên đất, Kinh tế tài nguyên biển, Kinh tế tài nguyên nước… nói riêng.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Natural Resources Economics",
+    "sub_domains": [
+      "Economics",
+      "Resource Management",
+      "Environmental Law"
+    ],
+    "key_concepts": [
+      "Natural Resources",
+      "Resource Economics",
+      "Resource Management",
+      "Environmental Law"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Grammar Proficiency",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Understand and apply basic grammatical structures in English related to Natural Resources Economics"
+    },
+    {
+      "skill_name": "Listening",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Analyze and interpret information from listening exercises related to Natural Resources Economics"
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Communicate effectively in English on topics related to Natural Resources Economics"
+    },
+    {
+      "skill_name": "Reading",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Analyze and interpret information from reading materials related to Natural Resources Economics"
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Write effectively in English on topics related to Natural Resources Economics"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế tài nguyên"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English Grammar",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Knowledge of Natural Resources Economics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

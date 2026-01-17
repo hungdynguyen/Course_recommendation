@@ -1,0 +1,73 @@
+{
+  "course_id": "TNTN1147",
+  "title": "Kinh tế tài nguyên nước",
+  "overview": "Học phần cung cấp những kiến thức cơ bản và các kỹ năng liên quan về kinh tế và quản lý sử dụng tài nguyên nước: bản chất và vai trò của tài nguyên nước; kinh tế sử dụng tài nguyên nước; các quan hệ kinh tế trong quản lý và sử dụng tài nguyên nước. Những kiến thức này là cơ sở để hoạch định các chính sách quản lý Nhà nước về tài nguyên nước nhằm khai thác, sử dụng, bảo vệ và phát triển nguồn tài nguyên nước, đồng thời để đề xuất các biện pháp quản lý hoạt động của thị trường tài nguyên nước.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế tài nguyên",
+    "sub_domains": [
+      "Kinh tế tài nguyên 1",
+      "Kinh tế tài nguyên 2"
+    ],
+    "key_concepts": [
+      "Tài nguyên nước",
+      "Kinh tế sử dụng tài nguyên nước",
+      "Quản lý tài nguyên nước"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu được các đặc điểm tài nguyên nước",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Sinh viên nhận biết và hiểu được các kiến thức cơ bản về kinh tế tài nguyên nước"
+    },
+    {
+      "skill_name": "Phân tích tác động của công cụ kinh tế",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Xây dựng kỹ năng phân tích được tác động của một số công cụ kinh tế như giá cả, lãi suất tới thị trường tài nguyên nước"
+    },
+    {
+      "skill_name": "Tổng hợp và khái quát các vấn đề tài nguyên nước",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Phát triển các kỹ năng tổng hợp, khái quát các vấn đề tài nguyên nước"
+    },
+    {
+      "skill_name": "Lập kế hoạch và quản lý nguồn lực",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Chủ động lập kế hoạch và quản lý các nguồn lực để thực hiện các hoạt động độc lập và làm việc nhóm"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế tài nguyên 1",
+      "Kinh tế tài nguyên 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Hiểu về kinh tế tài nguyên",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Phân tích dữ liệu kinh tế",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

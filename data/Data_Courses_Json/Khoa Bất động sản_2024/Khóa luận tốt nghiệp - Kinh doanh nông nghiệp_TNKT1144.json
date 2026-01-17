@@ -1,0 +1,58 @@
+{
+  "course_id": "TNKT 1144",
+  "title": "Khóa luận tốt nghiệp",
+  "overview": "Khóa luận tốt nghiệp là môn học tổ chức vào học kỳ cuối sau khi sinh viên đã được trang bị những kiến thức cơ bản về giáo dục đại cương và những kiến thức chuyên sâu về ngành Kinh doanh nông nghiệp và các kiến thức bổ trợ khác.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 10
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh doanh nông nghiệp",
+    "sub_domains": [
+      "kinh tế",
+      "quản lý",
+      "quản trị kinh doanh"
+    ],
+    "key_concepts": [
+      "phân tích và đánh giá các vấn đề lý thuyết và thực tiễn",
+      "xử lý và thực hiện các công việc trong thực tiễn",
+      "liên hệ vấn đề lý thuyết và thực tế",
+      "đề xuất giải pháp phát triển kinh tế xã hội"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và đánh giá",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Vận dụng kiến thức để phân tích và đánh giá các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực kinh doanh nông nghiệp"
+    },
+    {
+      "skill_name": "Xử lý tổng hợp",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Xử lý tổng hợp để đưa ra những đánh giá về phát triển kinh doanh nông nghiệp"
+    },
+    {
+      "skill_name": "Chủ động trong học tập và nghiên cứu",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Chủ động trong học tập, nghiên cứu, làm việc nhóm, trình bày chủ đề nghiên cứu"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "sinh viên hoàn thành các học phần thuộc khối kiến thức cơ sở ngành"
+    ],
+    "minimum_entry_skills": []
+  }
+}

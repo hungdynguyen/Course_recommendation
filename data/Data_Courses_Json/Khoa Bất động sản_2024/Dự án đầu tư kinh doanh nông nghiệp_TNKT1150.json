@@ -1,0 +1,66 @@
+{
+  "course_id": "TNKT1150",
+  "title": "Dự án đầu tư kinh doanh nông nghiệp",
+  "overview": "Học phần này trang bị cho sinh viên chuyên ngành những kiến thức, phương pháp và kỹ năng cần thiết để lập và quản lý dự án đầu tư kinh doanh trong lĩnh vực nông nghiệp.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Agricultural Business",
+    "sub_domains": [
+      "Project Planning",
+      "Market Research",
+      "Risk Management"
+    ],
+    "key_concepts": [
+      "Investment Project",
+      "Agricultural Business",
+      "Risk Analysis"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Planning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên nhân biết và hiểu được vai trò, đặc điểm và kết cấu của dự án đầu tư kinh doanh nông nghiệp; về nghiên cứu thị trường và phát hiện cơ hội đầu tư kinh doanh nông nghiệp; lựa chọn loại hình tổ chức kinh doanh, lựa chọn công nghệ, quy trình và phương pháp sản xuất- bảo quản và chế biến nông sản."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên nhân biết và hiểu được phương pháp dự toán vốn đầu tư, phân tích hiệu quả đầu tư và ra quyết định đầu tư kinh doanh nông nghiệp."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên cũng nhân biết và hiểu được nội dung quản lý dự án đầu tư và phòng ngừa rủi ro dự án đầu tư kinh doanh nông nghiệp."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh nông nghiệp I"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Agricultural Business Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Financial Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

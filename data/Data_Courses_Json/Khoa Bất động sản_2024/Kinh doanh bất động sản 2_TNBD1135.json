@@ -1,0 +1,61 @@
+{
+  "course_id": "TNBD1135",
+  "title": "Kinh doanh bất động sản 2",
+  "overview": "Học phần này tiếp tục cung cấp kiến thức cơ bản về quản trị kinh doanh trong lĩnh vực bất động sản, kỹ năng quản trị tài chính, hạch toán, phân tích hoạt động kinh doanh bất động sản. Học phần cũng trang bị kỹ năng soạn thảo hợp đồng, kỹ năng tư vấn và đàm phán trong kinh doanh bất động sản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Business Management",
+    "sub_domains": [
+      "Real Estate Business",
+      "Financial Management",
+      "Marketing"
+    ],
+    "key_concepts": [
+      "Real Estate Business",
+      "Financial Management",
+      "Marketing",
+      "Contract Drafting",
+      "Negotiation Skills"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Nghiên cứu phân tích hoạt động quản trị tài chính bất động sản; Phân tích đánh giá các chỉ tiêu tài chính trong quản trị tài chính bất động sản; Phân tích tổng hợp các báo cáo tài chính của doanh nghiệp kinh doanh bất động sản; Tính toán, so sánh các loại thuế và lệ phí liên quan đến hoạt động kinh doanh bất động sản"
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Xây dựng tình huống đàm phán kinh doanh và Phân tích tình huống đàm phán kinh doanh bất động sản"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh bất động sản 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Real Estate Business",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Understanding of Financial Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

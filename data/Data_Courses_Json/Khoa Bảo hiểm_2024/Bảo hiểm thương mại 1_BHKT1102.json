@@ -1,0 +1,67 @@
+{
+  "course_id": "BHKT1102",
+  "title": "Business Insurance 1",
+  "overview": "This course focuses on fundamental and specialized knowledge about commercial insurance, including an overview of commercial insurance, life insurance, money insurance, motor vehicle insurance, and property insurance.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Insurance",
+    "sub_domains": [
+      "Commercial Insurance",
+      "Life Insurance",
+      "Money Insurance",
+      "Motor Vehicle Insurance",
+      "Property Insurance"
+    ],
+    "key_concepts": [
+      "Insurance Principles",
+      "Insurance Types",
+      "Insurance Risks",
+      "Insurance Policies"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Insurance Principles",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand the principles, nature, and characteristics of commercial insurance, as well as the content of life insurance, money insurance, motor vehicle insurance, and property insurance."
+    },
+    {
+      "skill_name": "Analyzing Insurance Risks",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply knowledge of commercial insurance, life insurance, money insurance, motor vehicle insurance, and property insurance to analyze, evaluate, and manage business operations in the insurance industry."
+    },
+    {
+      "skill_name": "Research and Presentation Skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will develop research, presentation, and teamwork skills, as well as the ability to analyze and handle situations."
+    },
+    {
+      "skill_name": "Independent Work and Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will demonstrate independence in work and responsibility towards their group."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Insurance Principles"
+    ],
+    "minimum_entry_skills": []
+  }
+}

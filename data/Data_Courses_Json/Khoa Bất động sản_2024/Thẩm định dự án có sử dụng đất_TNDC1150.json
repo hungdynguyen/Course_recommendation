@@ -1,0 +1,55 @@
+{
+  "course_id": "TNDC1150",
+  "title": "Thẩm định dự án đầu tư có sử dụng đất",
+  "overview": "Học phần cung cấp những kiến thức cơ bản về thẩm định dự án đầu tư có sử dụng đất, các phương pháp thẩm định và những nội dung cơ bản trong thẩm định dự án đầu tư có sử dụng đất.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Thẩm định dự án đầu tư có sử dụng đất",
+    "sub_domains": [
+      "Thị trường bất động sản",
+      "Quy hoạch sử dụng đất",
+      "Kinh tế tài nguyên đất 1"
+    ],
+    "key_concepts": [
+      "Quy trình thẩm định",
+      "Phương pháp thẩm định",
+      "Thẩm định khả thi về tài chính",
+      "Thẩm định khả thi kinh tế - xã hội",
+      "Thẩm định về mặt kinh tế, kỹ thuật, môi trường",
+      "Đánh giá, phân tích các nhân tố ảnh hưởng"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích kết quả thẩm định",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phân tích kết quả thẩm định để hỗ trợ việc lựa chọn địa điểm sử dụng đất, lựa chọn phương án tài chính dự án; lựa chọn phương án hiệu quả kinh tế xã hội môi trường dự án; đánh giá các rủi ro của dự án; đưa ra quyết định đầu tư dự án hay không."
+    },
+    {
+      "skill_name": "Xây dựng phương pháp thẩm định",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Xây dựng phương pháp thẩm định; nội dung thẩm định dự án đầu tư có sử dụng đất, đánh giá dự án đầu tư sử dụng đất có hiệu quả, phù hợp với định hướng sử dụng đất, lựa chọn phương án hiệu quả cho mục tiêu sử dụng đất của dự án."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thị trường bất động sản",
+      "Quy hoạch sử dụng đất",
+      "Kinh tế tài nguyên đất 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

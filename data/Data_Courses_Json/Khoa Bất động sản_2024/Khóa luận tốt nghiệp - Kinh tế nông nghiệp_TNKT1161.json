@@ -1,0 +1,57 @@
+{
+  "course_id": "TNKT 1161",
+  "title": "Graduation Thesis",
+  "overview": "Graduation Thesis is a course organized in the final semester after students have been equipped with basic knowledge in general education and specialized knowledge in their field, as well as supplementary knowledge. The thesis helps students approach practical situations, enhance their ability to handle and perform tasks in practice using the knowledge they have learned. The thesis is organized over 15 weeks of internship at various national management agencies, organizations, and enterprises operating in the agricultural, rural, and farmer sectors.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 750,
+    "credits": 10
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics and Management",
+    "sub_domains": [
+      "Agricultural Economics",
+      "Rural Development",
+      "Farmer Issues"
+    ],
+    "key_concepts": [
+      "Analysis of theoretical and practical issues",
+      "Application of knowledge to explain and propose solutions",
+      "Handling and synthesizing information for evaluation"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analysis and Evaluation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students can analyze and evaluate theoretical and practical issues in the field of agricultural economics, rural development, and farmer issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students can apply knowledge to explain and propose solutions for the development of agricultural economics, rural development, and farmer issues."
+    },
+    {
+      "skill_name": "Research and Presentation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students can independently choose methods and research materials to analyze practical situations in agricultural economics and rural development."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 20,
+    "practice_percentage": 80,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "All courses in the basic knowledge domain of the field"
+    ],
+    "minimum_entry_skills": []
+  }
+}

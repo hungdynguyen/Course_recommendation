@@ -1,0 +1,55 @@
+{
+  "course_id": "TOkt1150",
+  "title": "Graduation Thesis",
+  "overview": "Graduation Thesis is a course conducted after students have completed general education, industry knowledge, specialized courses, and supplementary knowledge. The course does not have scheduled class hours, but students work individually with their advisors. Students may choose to intern at a unit to familiarize themselves with the working environment, applying their knowledge and skills to solve practical problems or conduct research.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 10
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics and Finance",
+    "sub_domains": [
+      "General Knowledge",
+      "Industry Knowledge",
+      "Specialized Knowledge"
+    ],
+    "key_concepts": [
+      "Research Methodology",
+      "Problem Solving",
+      "Critical Thinking"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Systematize Knowledge",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Systematize knowledge from general education, industry knowledge, specialized courses, and supplementary knowledge."
+    },
+    {
+      "skill_name": "Apply Knowledge",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Apply knowledge and skills to solve practical problems or conduct research."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Demonstrate independent learning and responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 0,
+    "practice_percentage": 100,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

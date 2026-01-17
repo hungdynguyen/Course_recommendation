@@ -1,0 +1,68 @@
+{
+  "course_id": "TNDC1142",
+  "title": "Quản lý nhà nước về đất đai",
+  "overview": "Học phần nghiên cứu các quan hệ kinh tế, xã hội phát sinh trong quá trình quản lý Nhà nước về đất đai. Học phần sẽ cung cấp những kiến thức về các nội dung cơ bản, nguyên tắc, phương pháp, các công cụ sử dụng trong quản lý Nhà nước về định hướng và các chương trình phát triển đất đai.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý học 1",
+    "sub_domains": [
+      "Phương pháp nghiên cứu kinh tế - xã hội"
+    ],
+    "key_concepts": [
+      "Quan hệ kinh tế, xã hội",
+      "Quản lý Nhà nước về đất đai",
+      "Nội dung cơ bản",
+      "Nguyên tắc",
+      "Phương pháp",
+      "Công cụ sử dụng"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Ghi nhớ đặc tính của đất đai, các chức năng và các phương pháp quản lí nhà nước về đất đai",
+      "category": "Hard Skill",
+      "target_proficiency_level": 1,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Sinh viên sẽ ghi nhớ được đặc tính của đất đai, các chức năng và các phương pháp quản lí nhà nước về đất đai"
+    },
+    {
+      "skill_name": "Hiểu cơ sở quản lí nhà nước về đất đai",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên sẽ hiểu được cơ sở quản lí nhà nước về đất đai"
+    },
+    {
+      "skill_name": "Phân tích chính sách đất đai, áp dụng vào các tình huống thực tế",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ phân tích chính sách đất đai và áp dụng vào các tình huống thực tế"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý học 1",
+      "Phương pháp nghiên cứu kinh tế - xã hội"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Hiểu cơ sở quản lí nhà nước về đất đai",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Phân tích chính sách đất đai",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

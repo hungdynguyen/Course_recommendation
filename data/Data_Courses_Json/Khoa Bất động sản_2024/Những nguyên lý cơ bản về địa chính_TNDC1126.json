@@ -1,0 +1,91 @@
+{
+  "course_id": "TNDC1126",
+  "title": "Những nguyên lý cơ bản về địa chính",
+  "overview": "Học phần trình bày các kiến thức, kỹ năng về địa chính – hệ thống quản lý đất đai. Học phần hướng dẫn người học các nội dung về vai trò của đất đai, công tác quản lý đất đai, nội dung của hệ thống địa chính, quá trình hình thành, lịch sử phát triển công tác quản lý đất đai.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Địa chính",
+    "sub_domains": [
+      "Quản lý đất đai",
+      "Hệ thống địa chính",
+      "Chức năng quản lý đất đai"
+    ],
+    "key_concepts": [
+      "Vai trò đất đai",
+      "Phương pháp và cách tiếp cận khoa học địa chính",
+      "Hình thành và lịch sử hệ thống quản lý đất đai",
+      "Chức năng kỹ thuật, pháp lý và kinh tế của quản lý đất đai"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Ghi nhớ vai trò, ý nghĩa và phương pháp luận trong khoa học địa chính",
+      "category": "Hard Skill",
+      "target_proficiency_level": 1,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Học viên có thể ghi nhớ được các vai trò, ý nghĩa và phương pháp luận trong khoa học địa chính"
+    },
+    {
+      "skill_name": "Hiểu các thành phần cấu thành của hệ thống địa chính",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Học viên có thể hiểu được các thành phần cấu thành của hệ thống địa chính"
+    },
+    {
+      "skill_name": "Phân tích chức năng cơ bản của địa chính",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Học viên có thể phân tích được các chức năng cơ bản của địa chính"
+    },
+    {
+      "skill_name": "Xác định các thành phần trong hệ thống địa chính Việt Nam",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Học viên có thể xác định được các thành phần trong hệ thống địa chính Việt Nam"
+    },
+    {
+      "skill_name": "Giải thích nội dung cơ bản của hệ thống địa chính Việt Nam",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Học viên có thể giải thích được các nội dung cơ bản của hệ thống địa chính Việt Nam"
+    },
+    {
+      "skill_name": "Chủ động trong học tập, nghiên cứu, làm việc nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Học viên có thể chủ động trong học tập, nghiên cứu, làm việc nhóm"
+    },
+    {
+      "skill_name": "Tìm kiếm, lựa chọn vấn đề và tài liệu tham khảo",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Học viên có thể chủ động tìm kiếm, lựa chọn vấn đề và tài liệu tham khảo trong quá trình học tập"
+    },
+    {
+      "skill_name": "Trình bày kết quả nghiên cứu",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Học viên có thể chủ động trong trình bày kết quả nghiên cứu"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

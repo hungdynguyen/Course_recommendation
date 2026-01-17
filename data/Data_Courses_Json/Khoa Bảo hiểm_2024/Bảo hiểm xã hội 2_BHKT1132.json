@@ -1,0 +1,84 @@
+{
+  "course_id": "BHKT1132",
+  "title": "Social Insurance 2",
+  "overview": "Social Insurance 2 provides students with fundamental, systematic, in-depth, and modern knowledge about: Principles, foundations, and methods of social insurance premium determination; content, role, and inspection and supervision procedures of social insurance; procedures for policy planning and implementation of social insurance policies; basic contents of health insurance and unemployment insurance.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Social Insurance",
+    "sub_domains": [
+      "Premium Determination",
+      "Inspection and Supervision",
+      "Policy Planning and Implementation",
+      "Health Insurance",
+      "Unemployment Insurance"
+    ],
+    "key_concepts": [
+      "Social Insurance Premium",
+      "Inspection and Supervision",
+      "Policy Planning",
+      "Health Insurance Fund",
+      "Unemployment Insurance Fund"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understand and master the principles and foundations of social insurance premium calculation",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will understand and master the principles and foundations of social insurance premium calculation, as well as the methods for determining social insurance premiums for short-term and long-term benefits and factors affecting the selection of social insurance financial mechanisms."
+    },
+    {
+      "skill_name": "Understand and master the necessity and role of social insurance inspection and supervision activities",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will understand and master the necessity and role of social insurance inspection and supervision activities, the basis of social insurance inspection and supervision work, the objects of inspection and supervision, the inspection and supervision procedures, and the handling of violations related to social insurance."
+    },
+    {
+      "skill_name": "Understand and master social insurance policies and the social insurance policy cycle",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will understand and master social insurance policies and the social insurance policy cycle, and be able to analyze and evaluate the stages of the social insurance policy cycle."
+    },
+    {
+      "skill_name": "Understand and master the necessity and role of health insurance and unemployment insurance in economic and social life",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will understand and master the necessity and role of health insurance and unemployment insurance in economic and social life, the objects and scope of health insurance and unemployment insurance, the sources of formation and expenditures of health insurance and unemployment insurance funds, and be able to calculate benefits in various scenarios of health insurance and unemployment insurance."
+    },
+    {
+      "skill_name": "Develop independent work and group work skills, logical and critical thinking skills, responsibility, and community awareness",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will develop independent work and group work skills, logical and critical thinking skills, responsibility, and community awareness."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of social insurance",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of health insurance and unemployment insurance",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

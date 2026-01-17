@@ -1,0 +1,60 @@
+{
+  "course_id": "TNTN1138",
+  "title": "Environmental Impact Assessment of Natural Resource Projects",
+  "overview": "This course covers the basic knowledge and skills related to the analysis and environmental impact assessment of natural resource projects. It guides students through the nature, role, methods, and community involvement in environmental impact assessment of natural resource projects.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Environmental Impact Assessment",
+    "sub_domains": [
+      "Natural Resource Projects",
+      "Community Involvement",
+      "Legal and Policy Frameworks"
+    ],
+    "key_concepts": [
+      "Environmental Impact Assessment",
+      "Natural Resource Projects",
+      "Community Involvement",
+      "Legal and Policy Frameworks"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and Applying Environmental Impact Assessment",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to understand and apply the principles of environmental impact assessment to natural resource projects."
+    },
+    {
+      "skill_name": "Analyzing Environmental Impact",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze the environmental impacts of natural resource projects."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management of Resources 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Natural Resources",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Understanding of Environmental Impact Assessment",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "course_id": "TNTN1146",
+  "title": "Kinh tế tài nguyên khoáng sản",
+  "overview": "Học phần này cung cấp kiến thức chuyên sâu và kỹ năng phân tích về kinh tế tài nguyên khoáng sản, bao gồm khái quát về nguyên liệu khoáng, kinh tế khai thác khoáng sản, chính sách tài nguyên khoáng sản và quản lý, khai thác và sử dụng tài nguyên khoáng sản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Mineral Economics",
+      "Resource Management"
+    ],
+    "key_concepts": [
+      "Mineral Resources",
+      "Economic Analysis",
+      "Policy and Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kỹ năng phân tích kinh tế tài nguyên khoáng sản, xác định sản lượng khai thác tối ưu, phân tích lợi ích - chi phí khai thác mỏ khoáng sản, xác định giá trị kinh tế mỏ khoáng sản."
+    },
+    {
+      "skill_name": "Group Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Sinh viên biết lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả làm việc nhóm."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế tài nguyên 1",
+      "Quản lý tài nguyên 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Resource Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

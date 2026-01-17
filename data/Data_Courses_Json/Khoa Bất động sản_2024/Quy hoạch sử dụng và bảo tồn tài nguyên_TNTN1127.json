@@ -1,0 +1,76 @@
+{
+  "course_id": "TNTN1127",
+  "title": "Natural Resources Use Planning",
+  "overview": "This course covers fundamental knowledge and skills related to the planning and conservation of various types of natural resources, including land, forests, water, mineral resources, and marine resources. It guides students through the procedures, content, and steps for developing and adjusting natural resource use plans and plans at different levels, as well as the allocation of plans according to various periods, methods of publication, and basic organizational implementation measures. It also introduces state regulations on the approval and review of natural resource use and conservation plans.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Natural Resources Management",
+    "sub_domains": [
+      "Land Use Planning",
+      "Forest Resource Management",
+      "Water Resource Management",
+      "Mineral Resource Management",
+      "Marine Resource Management"
+    ],
+    "key_concepts": [
+      "Natural Resource Planning",
+      "Natural Resource Conservation",
+      "Resource Allocation",
+      "Resource Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of Natural Resource Planning and Conservation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to explain the concepts and roles of natural resource planning and conservation, and understand the state regulations on the approval and review of natural resource use and conservation plans."
+    },
+    {
+      "skill_name": "Application of Knowledge in Natural Resource Planning",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply their knowledge to identify types and contents of natural resource planning and conservation."
+    },
+    {
+      "skill_name": "Analysis and Implementation of Natural Resource Planning",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze and apply basic measures to organize and implement natural resource planning and conservation."
+    },
+    {
+      "skill_name": "Collaborative Work in Natural Resource Planning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to work individually and in groups to choose topics and solve economic, financial, and business problems using natural resource planning and conservation tools."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Natural Resource Policy"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Natural Resources",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Understanding of Resource Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

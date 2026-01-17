@@ -1,0 +1,87 @@
+{
+  "course_id": "BHKT1167",
+  "title": "Graduation Thesis",
+  "overview": "Graduation Thesis is an independent research project that evaluates students' knowledge and abilities accumulated during their studies and their ability to apply this knowledge in practice.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 10
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Insurance",
+    "sub_domains": [
+      "Insurance Policy",
+      "Insurance Operations",
+      "Insurance Management"
+    ],
+    "key_concepts": [
+      "Insurance Policies",
+      "Insurance Operations",
+      "Insurance Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and applying knowledge to complete professional tasks and solve basic problems in the insurance field",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will understand and apply knowledge to complete professional tasks and solve basic problems in the insurance field; have knowledge and skills to implement, analyze, monitor, and evaluate various types of insurance, processes, and development policies and strategies of insurance organizations and businesses."
+    },
+    {
+      "skill_name": "Synthesizing, analyzing, and systematic thinking skills; ability to organize and manage resources for professional management activities in insurance business",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will have synthesizing, analyzing, and systematic thinking skills; ability to organize and manage resources for professional management activities in insurance business."
+    },
+    {
+      "skill_name": "Ability to work independently, express personal opinions and critique based on an objective and scientific approach; professional attitude, confidence, and cooperation in work; personal responsibility, responsibility towards the work group, community, and society",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will have the ability to work independently, express personal opinions and critique based on an objective and scientific approach; professional attitude, confidence, and cooperation in work; understanding of laws and professional ethics, personal responsibility, responsibility towards the work group, community, and society."
+    },
+    {
+      "skill_name": "Knowledge and skills in planning, coordinating, managing resources, evaluating, and improving the effectiveness of activities in insurance organizations and businesses",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will have knowledge and skills in planning, coordinating, managing resources, evaluating, and improving the effectiveness of activities in insurance organizations and businesses; can propose solutions for specific issues in the insurance field raised by practical situations in the internship organization."
+    },
+    {
+      "skill_name": "Organizing, evaluating, supervising, and inspiring members in performing assigned tasks and social activities",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will organize, evaluate, supervise, and inspire members in performing assigned tasks and social activities."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 10,
+    "practice_percentage": 90,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "BHTM2",
+      "BHXH2",
+      "QTKDBH2",
+      "QLBHXH 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Understanding of insurance policies",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Understanding of insurance operations",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Understanding of insurance management",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

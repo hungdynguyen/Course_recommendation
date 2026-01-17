@@ -1,0 +1,47 @@
+{
+  "course_id": "QLCN1106",
+  "title": "Creativity and Innovation Management",
+  "overview": "The history of humanity is a history of innovation and creativity. Especially in the 4th Industrial Revolution, innovation and creativity have become the center of the economy. The development of all entities: from individuals, businesses to countries and the world is determined by the development of new products, new technologies, new organizational structures, and new cultural forms.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Innovation",
+      "Creativity"
+    ],
+    "key_concepts": [
+      "Innovation and Creativity",
+      "Organizational Change",
+      "Intellectual Property"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing and Evaluating Innovation Activities",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze and evaluate innovation activities at micro and macro levels."
+    },
+    {
+      "skill_name": "Creating and Managing Innovation",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to use methods to encourage and motivate creativity in individuals and create an innovation culture in organizations."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

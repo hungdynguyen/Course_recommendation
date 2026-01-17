@@ -1,0 +1,91 @@
+{
+  "course_id": "TNBD1131",
+  "title": "Kinh tế Bất động sản",
+  "overview": "Học phần giới thiệu những nguyên lý cơ bản của kinh tế bất động sản. Sinh viên được giới thiệu về các thị trường trong kinh tế bất động sản; mối quan hệ giữa bất động sản và tài chính trong nền kinh tế, các chính sách trong kinh tế bất động sản.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế Bất động sản",
+    "sub_domains": [
+      "Thị trường bất động sản"
+    ],
+    "key_concepts": [
+      "Cơ chế hình thành quan hệ giữa các thị trường bất động sản",
+      "Những lựa chọn trong kinh tế bất động sản",
+      "Mối quan hệ giữa bất động sản tài chính trong nền kinh tế",
+      "Các chính sách trong kinh tế bất động sản"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu được các khái niệm và nội dung cơ bản về kinh tế bất động sản",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên hiểu được bản chất của kinh tế bất động sản; hiểu và giải thích được cơ chế hình thành quan hệ giữa các thị trường bất động sản; phân tích được những lựa chọn trong kinh tế bất động sản cũng như mối quan hệ giữa bất động sản và tài chính trong nền kinh tế."
+    },
+    {
+      "skill_name": "Phân tích được cơ chế hình thành quan hệ giữa các thị trường bất động sản trong nền kinh tế",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên phân tích được cơ chế hình thành quan hệ giữa các thị trường bất động sản trong nền kinh tế."
+    },
+    {
+      "skill_name": "Hiểu được cơ sở của những lựa chọn trong kinh tế bất động sản; một số chính sách chủ yếu trong kinh tế bất động sản",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên hiểu được cơ sở của những lựa chọn trong kinh tế bất động sản; một số chính sách chủ yếu trong kinh tế bất động sản."
+    },
+    {
+      "skill_name": "Vận dụng lý thuyết để giải thích được mối quan hệ giữa thị trường bất động sản và thị trường tài chính trong nền kinh tế",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên vận dụng lý thuyết để giải thích được mối quan hệ giữa thị trường bất động sản và thị trường tài chính trong nền kinh tế."
+    },
+    {
+      "skill_name": "Phát triển các kỹ năng thực hiện nghiên cứu, phân tích, tổng hợp, khái quát các vấn đề kinh tế bất động sản",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên phát triển các kỹ năng thực hiện nghiên cứu, phân tích, tổng hợp, khái quát các vấn đề kinh tế bất động sản."
+    },
+    {
+      "skill_name": "Khả năng làm việc độc lập cũng như làm việc theo nhóm để giải quyết các nội dung",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có khả năng làm việc độc lập cũng như làm việc theo nhóm để giải quyết các nội dung."
+    },
+    {
+      "skill_name": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao."
+    },
+    {
+      "skill_name": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 105,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thị trường bất động sản"
+    ],
+    "minimum_entry_skills": []
+  }
+}

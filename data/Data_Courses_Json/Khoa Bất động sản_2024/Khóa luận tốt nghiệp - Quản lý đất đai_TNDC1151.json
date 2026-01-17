@@ -1,0 +1,106 @@
+{
+  "course_id": "TNDC1151",
+  "title": "Khóa luận tốt nghiệp",
+  "overview": "Học phần khóa luận tốt nghiệp là môn học tổ chức vào học kỳ cuối sau khi sinh viên đã được trang bị những kiến thức cơ bản về giáo dục đại cương và những kiến thức chuyên sâu về ngành, chuyên ngành và các kiến thức bổ trợ khác.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 750,
+    "credits": 15
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý đất đai",
+    "sub_domains": [
+      "Kinh tế tài nguyên",
+      "Bất động sản"
+    ],
+    "key_concepts": [
+      "Kiến thức kinh tế liên quan đến lĩnh vực quản lí đất đai",
+      "Khả năng phân tích, giải thích và lập luận giải quyết các vấn đề quản lí đất đai thực tế tại cơ sở",
+      "Có khả năng làm việc cá nhân lựa chọn chính sách, giải quyết một vấn đề về quản lí đất đai",
+      "Nhận thức được tầm quan trọng của chủ đề quản lí đất đai tại cơ sở và đề ra phương hướng giải quyết vấn đề"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Tổng hợp những kiến thức đã được trang bị của chương trình đào tạo để xác định các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực quản lý đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể tổng hợp kiến thức đã học để xác định các vấn đề lý thuyết và thực tiễn trong quản lý đất đai"
+    },
+    {
+      "skill_name": "Vận dụng những kiến thức đã được trang bị trong chương trình đào tạo để phân tích và đưa ra đánh giá các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực quản lý đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể vận dụng kiến thức đã học để phân tích và đánh giá các vấn đề lý thuyết và thực tiễn trong quản lý đất đai"
+    },
+    {
+      "skill_name": "Liên hệ được vấn đề lí thuyết và thực tế quản lí và sử dụng đất đai tại cơ sở",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể liên hệ giữa lý thuyết và thực tế trong quản lý và sử dụng đất đai tại cơ sở"
+    },
+    {
+      "skill_name": "Xác định được chính sách đất đai phù hợp để giải thích tình huống quản lí đất đai cụ thể",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể xác định chính sách đất đai phù hợp để giải thích các tình huống cụ thể trong quản lý đất đai"
+    },
+    {
+      "skill_name": "Giải thích được và đề xuất giải pháp cho những vấn đề còn tồn tại trong quản lí đất đai đặt ra tại cơ sở",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể giải thích và đề xuất giải pháp cho các vấn đề tồn tại trong quản lý đất đai tại cơ sở"
+    },
+    {
+      "skill_name": "Kỹ năng xử lý tổng hợp để đưa ra những đánh giá về vấn đề quản lý và sử dụng đất",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể xử lý tổng hợp để đánh giá vấn đề quản lý và sử dụng đất"
+    },
+    {
+      "skill_name": "Tổng hợp các nội dung, tài liệu nghiên cứu khác",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể tổng hợp các nội dung và tài liệu nghiên cứu khác"
+    },
+    {
+      "skill_name": "Chủ động trong học tập, nghiên cứu, làm việc nhóm",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể chủ động trong học tập, nghiên cứu và làm việc nhóm"
+    },
+    {
+      "skill_name": "Chủ động lựa chọn phương pháp, các tài liệu nghiên cứu để phân tích tình huống thực tế về quản lí đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể chủ động lựa chọn phương pháp và tài liệu nghiên cứu để phân tích tình huống thực tế trong quản lý đất đai"
+    },
+    {
+      "skill_name": "Chủ động trong trình bày chủ đề nghiên cứu",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể chủ động trong việc trình bày chủ đề nghiên cứu"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 0,
+    "practice_percentage": 100,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Sinh viên  hoàn thành các học phần thuộc khối kiến thức chuyên ngành."
+    ],
+    "minimum_entry_skills": []
+  }
+}

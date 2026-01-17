@@ -1,0 +1,87 @@
+{
+  "course_id": "QLKT1101",
+  "title": "Quản lý học 1",
+  "overview": "Học phần này là học phần bắt buộc đối với hầu hết các chuyên ngành trong chương trình đào tạo đại học của trường Đại học Kinh tế Quốc dân. Học phần được thiết kế nhằm trang bị cho sinh viên những kiến thức và kỹ năng cốt yếu nhất mà một nhà quản lý, dù trên cương vị nào, trong bất cứ tổ chức nào cũng phải có được.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Social Systems",
+      "Organizations",
+      "Management",
+      "Manager",
+      "Decision Making",
+      "Planning",
+      "Organizing",
+      "Leading",
+      "Controlling",
+      "Globalization",
+      "Ethics",
+      "Corporate Social Responsibility"
+    ],
+    "key_concepts": [
+      "System",
+      "Organization",
+      "Management",
+      "Manager",
+      "Decision Making",
+      "Planning",
+      "Organizing",
+      "Leading",
+      "Controlling",
+      "Globalization",
+      "Ethics",
+      "Corporate Social Responsibility"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ thực hành tốt kỹ năng giao tiếp, thuyết trình, giải quyết mâu thuẫn, quản lý thời gian."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ thực hành tốt kỹ năng làm việc nhóm, quản lý nhóm."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ thực hành tốt kỹ năng ra quyết định để giải quyết các vấn đề."
+    },
+    {
+      "skill_name": "Planning",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ thực hành tốt kỹ năng lập kế hoạch, tổ chức, lãnh đạo và kiểm soát đối với một hệ thống/tổ chức/bộ phận/nhóm nhất định."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ thể hiện được năng lực làm việc độc lập và chịu trách nhiệm về chuyên môn; có tinh thần phụng sự, trách nhiệm xã hội, đạo đức nghề nghiệp; có năng lực tự học hỏi và thích ứng với sự thay đổi."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

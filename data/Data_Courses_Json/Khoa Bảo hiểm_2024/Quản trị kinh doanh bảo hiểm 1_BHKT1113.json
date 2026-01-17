@@ -1,0 +1,62 @@
+{
+  "course_id": "BHKT1113",
+  "title": "Quản trị kinh doanh bảo hiểm 1",
+  "overview": "Học phần này cung cấp cho sinh viên chuyên ngành Bảo hiểm những kiến thức cơ bản, hiện đại và có hệ thống về lý thuyết quản trị kinh doanh nói chung và quản trị kinh doanh bảo hiểm nói riêng.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản trị kinh doanh bảo hiểm",
+    "sub_domains": [
+      "Tổng quan về quản trị kinh doanh bảo hiểm",
+      "Thị trường bảo hiểm",
+      "Doanh nghiệp bảo hiểm",
+      "Quản trị sản phẩm bảo hiểm",
+      "Kênh phân phối sản phẩm bảo hiểm"
+    ],
+    "key_concepts": [
+      "Khái niệm kinh doanh bảo hiểm",
+      "Quản trị kinh doanh bảo hiểm",
+      "Thị trường bảo hiểm",
+      "Doanh nghiệp bảo hiểm",
+      "Quản trị sản phẩm bảo hiểm",
+      "Kênh phân phối sản phẩm bảo hiểm"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Nắm vững kiến thức về quản trị kinh doanh bảo hiểm",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên nắm vững những kiến thức về quản trị kinh doanh bảo hiểm"
+    },
+    {
+      "skill_name": "Phân tích và đánh giá hoạt động kinh doanh",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có khả năng phân tích và đánh giá hoạt động kinh doanh"
+    },
+    {
+      "skill_name": "Kỹ năng làm việc nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Sinh viên có kỹ năng làm việc nhóm"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm thương mại 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

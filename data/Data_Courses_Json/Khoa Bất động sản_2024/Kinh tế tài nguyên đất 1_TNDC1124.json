@@ -1,0 +1,72 @@
+{
+  "course_id": "TNDC1124",
+  "title": "Land resource economics 1",
+  "overview": "This course provides fundamental knowledge about economics in the use and management of land resources. It covers the characteristics of land resources and economic issues related to them. The course includes knowledge about soil fertility, the nature and relationships of land rent in land use, absolute and comparative advantages, and opportunity costs in land resource use. The course is taught using a combination of lectures and seminars.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Land resource economics",
+      "Soil fertility",
+      "Land rent",
+      "Economic advantages",
+      "Opportunity costs"
+    ],
+    "key_concepts": [
+      "Soil fertility",
+      "Land rent",
+      "Economic advantages",
+      "Opportunity costs"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the scientific nature of land economics",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will understand the fundamental concepts of land economics."
+    },
+    {
+      "skill_name": "Analyzing economic relationships in land management and use",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze economic relationships in land management and use."
+    },
+    {
+      "skill_name": "Collecting information and evaluating land use efficiency",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will develop skills in collecting information and evaluating land use efficiency."
+    },
+    {
+      "skill_name": "Understanding social context and professional ethics",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will gain an understanding of the social context and professional ethics."
+    },
+    {
+      "skill_name": "Self-learning and experience accumulation",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be equipped with the ability to self-learn and accumulate experience to enhance their expertise in land economics."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

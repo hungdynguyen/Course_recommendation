@@ -1,0 +1,66 @@
+{
+  "course_id": "TNKT1155",
+  "title": "KINH TẾ LÂM NGHIỆP",
+  "overview": "Cung cấp kiến thức về kinh tế lâm nghiệp, bao gồm tổng quan, tài nguyên rừng, lao động, quản lý sử dụng tài nguyên rừng, vốn và đầu tư, lâm nghiệp xã hội, sản xuất kinh doanh nông lâm kết hợp, và thể chế chính sách trong lâm nghiệp.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế lâm nghiệp",
+    "sub_domains": [
+      "Tài nguyên rừng",
+      "Lao động trong lâm nghiệp",
+      "Quản lý sử dụng tài nguyên rừng",
+      "Vốn và đầu tư xây dựng cơ bản trong ngành lâm nghiệp",
+      "Lâm nghiệp xã hội",
+      "Phương thức sản xuất kinh doanh nông lâm kết hợp",
+      "Thể chế và chính sách trong lâm nghiệp"
+    ],
+    "key_concepts": [
+      "Kinh tế lâm nghiệp",
+      "Tài nguyên rừng",
+      "Lao động",
+      "Quản lý sử dụng tài nguyên rừng",
+      "Vốn và đầu tư",
+      "Lâm nghiệp xã hội",
+      "Phương thức sản xuất kinh doanh nông lâm kết hợp",
+      "Thể chế và chính sách"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Nhớ và hiểu",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Nhớ và hiểu được các nội dung chính về kinh tế lâm nghiệp"
+    },
+    {
+      "skill_name": "Vận dụng",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng kiến thức để phân tích quản lý sử dụng tài nguyên rừng, vốn và đầu tư xây dựng cơ bản trong ngành lâm nghiệp"
+    },
+    {
+      "skill_name": "Hiểu và vận dụng",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Hiểu và vận dụng nội dung về phương thức sản xuất kinh doanh nông lâm kết hợp, thể chế và chính sách trong lâm nghiệp"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế nông nghiệp 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

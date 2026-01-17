@@ -1,0 +1,50 @@
+{
+  "course_id": "QLCN1104",
+  "title": "Science and Technology Policy",
+  "overview": "This course provides students with knowledge about the theory and practice of science and technology policy. It covers the process of building, critiquing, implementing, monitoring, and evaluating science and technology policies in the context of Vietnam with global integration and competition.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Science and Technology Policy",
+    "sub_domains": [
+      "Basic knowledge of science & technology",
+      "Interrelationship between science, technology, and socio-economic development",
+      "Objectives, roles, principles, and management tools for science & technology",
+      "Analysis and evaluation of science & technology policies",
+      "R&D activities in organizations"
+    ],
+    "key_concepts": [
+      "Policy formulation",
+      "Policy implementation",
+      "Policy evaluation"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy analysis",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to evaluate science and technology policies in organizational practices under different scenarios, apply tools for policy analysis, and plan, implement, and evaluate R&D policies."
+    },
+    {
+      "skill_name": "Presentation and teamwork",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to effectively present and work in teams."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

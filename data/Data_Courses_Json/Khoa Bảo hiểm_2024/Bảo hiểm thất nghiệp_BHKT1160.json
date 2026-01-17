@@ -1,0 +1,52 @@
+{
+  "course_id": "BHKT1160",
+  "title": "Bảo hiểm thất nghiệp",
+  "overview": "Học phần này cung cấp các kiến thức về bảo hiểm thất nghiệp, bao gồm các vấn đề của thất nghiệp trong nền kinh tế thị trường, pháp luật hỗ trợ người lao động mất việc làm, pháp luật bảo hiểm thất nghiệp tại Việt Nam, và hệ thống bảo hiểm thất nghiệp ở một số nước trên thế giới.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Bảo hiểm xã hội 1",
+    "sub_domains": [
+      "Thất nghiệp và bảo hiểm thất nghiệp trong nền kinh tế thị trường",
+      "Pháp luật hỗ trợ người lao động mất việc làm và sự cần thiết của bảo hiểm thất nghiệp ở Việt Nam",
+      "Pháp luật bảo hiểm thất nghiệp ở Việt Nam",
+      "Hệ thống bảo hiểm thất nghiệp ở một số nước trên thế giới"
+    ],
+    "key_concepts": [
+      "Thất nghiệp",
+      "Bảo hiểm thất nghiệp",
+      "Pháp luật bảo hiểm thất nghiệp",
+      "Hệ thống bảo hiểm thất nghiệp"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Vận dụng kiến thức về bảo hiểm thất nghiệp để giải quyết các vấn đề căn bản trong lĩnh vực bảo hiểm",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể vận dụng kiến thức về bảo hiểm thất nghiệp để giải quyết các vấn đề căn bản trong lĩnh vực bảo hiểm."
+    },
+    {
+      "skill_name": "Kết hợp kỹ năng phân tích tổng hợp và tư duy hệ thống để tham mưu và tổ chức quản lý hoạt động bảo hiểm thất nghiệp",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có thể kết hợp kỹ năng phân tích tổng hợp và tư duy hệ thống để tham mưu và tổ chức quản lý hoạt động bảo hiểm thất nghiệp."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm xã hội 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

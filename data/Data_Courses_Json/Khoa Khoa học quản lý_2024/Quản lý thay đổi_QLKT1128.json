@@ -1,0 +1,63 @@
+{
+  "course_id": "QLKT1128",
+  "title": "Quản lý thay đổi",
+  "overview": "Học phần Quản lý thay đổi cung cấp những kiến thức cơ bản về quản lý sự thay đổi trong các tổ chức, tìm hiểu các yếu tố cản trở và thúc đẩy sự thay đổi, các mô hình quản lý sự thay đổi trong các tổ chức. Phân tích và áp dụng các tình huống thực tế về sự thay đổi trong các tổ chức.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý thay đổi",
+    "sub_domains": [
+      "Thay đổi của tổ chức",
+      "Kháng cự thay đổi",
+      "Lý thuyết quản lý thay đổi",
+      "Quá trình quản lý thay đổi của tổ chức",
+      "Học tập để thay đổi và xây dựng tổ chức học tập",
+      "Phát triển tổ chức",
+      "Xu hướng quản lý thay đổi của tổ chức"
+    ],
+    "key_concepts": [
+      "Quản lý sự thay đổi",
+      "Kháng cự thay đổi",
+      "Lực đẩy và lực cản thay đổi",
+      "Quá trình quản lý thay đổi",
+      "Tổ chức học tập",
+      "Phát triển tổ chức",
+      "Xu hướng quản lý thay đổi"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Vận dụng, tổng hợp kiến thức cho phân tích về sự thay đổi, kháng cự thay đổi tổ chức",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể phân tích về sự thay đổi, kháng cự thay đổi tổ chức"
+    },
+    {
+      "skill_name": "Thực hành tốt các kỹ năng giao tiếp, thuyết trình, đàm phán và thương lượng",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể thực hành tốt các kỹ năng giao tiếp, thuyết trình, đàm phán và thương lượng trong bối cảnh thay đổi"
+    },
+    {
+      "skill_name": "Thực hành tốt kỹ năng phân tích thay đổi tại một tổ chức cụ thể",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể thực hành tốt kỹ năng phân tích thay đổi tại một tổ chức cụ thể"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "course_id": "TNTN1121",
+  "title": "Kinh tế tài nguyên 2",
+  "overview": "Học phần này cung cấp cho sinh viên những kiến thức cơ bản và chuyên sâu về đặc điểm, vai trò và kinh tế phân bổ, khai thác, sử dụng và bảo tồn các loại tài nguyên thiên nhiên cụ thể trong nền kinh tế thị trường như tài nguyên năng lượng, tài nguyên rừng, tài nguyên đất, tài nguyên nước, tài nguyên biển, tài nguyên nông nghiệp, tài nguyên cảnh quan thiên nhiên, động vật hoang dã và đa dạng sinh học. Đồng thời học phần cung cấp cho sinh viên kỹ năng phân tích, đánh giá và bước đầu vận dụng kiến thức và kỹ năng vào giải quyết những vấn đề kinh tế tài nguyên đặt ra trong thực tiễn.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Natural Resource Economics",
+      "Environmental Economics"
+    ],
+    "key_concepts": [
+      "Economic allocation",
+      "Resource exploitation",
+      "Resource conservation",
+      "Sustainable development"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analytical skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên sẽ biết cách phân tích và giải quyết các vấn đề kinh tế cụ thể liên quan đến tài nguyên thiên nhiên."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên sẽ có khả năng đánh giá và phê phán các vấn đề kinh tế tài nguyên trong thực tiễn."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế tài nguyên 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic knowledge of natural resources",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

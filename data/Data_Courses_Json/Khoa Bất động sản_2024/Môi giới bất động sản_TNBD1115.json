@@ -1,0 +1,50 @@
+{
+  "course_id": "TNBD1115",
+  "title": "Môi giới Bất động sản",
+  "overview": "Học phần Môi giới Bất động sản là môn học chuyên ngành, nằm trong khung chương trình đào tạo cử nhân bất động sản. Môn học trang bị cho học viên những kiến thức khoa học và kỹ năng nghiệp vụ cơ bản về môi giới bất động sản, tư vấn trong kinh doanh bất động sản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 135,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Bất động sản",
+    "sub_domains": [
+      "Môi giới",
+      "Tư vấn kinh doanh"
+    ],
+    "key_concepts": [
+      "Hoạt động môi giới",
+      "Tư vấn kinh doanh",
+      "Kỹ năng môi giới",
+      "Quản lý văn phòng môi giới"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Kỹ năng môi giới",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể thu thập thông tin, phân tích, đánh giá căn bản các đối tượng tham gia thương vụ; để thực hiện các nghiệp vụ môi giới bất động sản; có khả năng tổ chức triển khai thực hiện một thương vụ môi giới bất động sản."
+    },
+    {
+      "skill_name": "Kỹ năng tổ chức",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có khả năng tổ chức triển khai thực hiện thương vụ môi giới và giải quyết các vấn đề trong thực tiễn."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thị trường bất động sản"
+    ],
+    "minimum_entry_skills": []
+  }
+}

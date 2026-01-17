@@ -1,0 +1,98 @@
+{
+  "course_id": "QLXH1103",
+  "title": "Khu vực công và Quản lý công",
+  "overview": "Học phần này cung cấp cho sinh viên các kiến thức cơ bản, có hệ thống về khu vực công và quản lý công, giúp người học nắm được những hoạt động quản lý công cơ bản của nhà nước. Đồng thời, thông qua học phần, người học sẽ có khả năng nhận biết được các hoạt động trong khu vực công, các chức năng của nhà nước và phương pháp mà nhà nước sử dụng trong quản lý công.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Public Sector and Public Management",
+    "sub_domains": [
+      "Public Sector",
+      "Public Management"
+    ],
+    "key_concepts": [
+      "Public Sector",
+      "Public Management",
+      "Public Services",
+      "Public Goods",
+      "Public Administration"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Knowledge Application",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Vận dụng kiến thức về khu vực công và quản lý công vào giải thích vấn đề công"
+    },
+    {
+      "skill_name": "Problem Analysis",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Phân tích, lý giải được vấn đề công và đề xuất giải pháp quản lý phù hợp trong khu vực công"
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phát triển kỹ năng làm việc nhóm; tổ chức và điều hành nhóm làm việc hiệu quả"
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phát triển kỹ năng quản lý tốt thời gian và nguồn lực"
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phát triển kỹ năng phân tích vấn đề công và ra quyết định trong quản lý công"
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Thực hành làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi"
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Thực hành hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định"
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Hành động mang tinh thần phụng sự, có trách nhiệm xã hội và đạo đức nghề nghiệp"
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Hành động tự học hỏi để đáp ứng yêu cầu công việc và thích ứng với sự thay đổi"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

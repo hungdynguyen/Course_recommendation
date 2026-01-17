@@ -1,0 +1,101 @@
+{
+  "course_id": "TNBD1139",
+  "title": "Khóa luận tốt nghiệp",
+  "overview": "Khóa luận tốt nghiệp giúp người học gắn học với hành, lý luận với thực tiễn, thông qua quá trình thực hiện tìm hiểu chuyên môn tại cơ sở thực tập.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 500,
+    "credits": 10
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Bất động sản và Kinh tế tài nguyên",
+    "sub_domains": [
+      "kinh tế xã hội",
+      "kiến thức chuyên môn"
+    ],
+    "key_concepts": [
+      "nghiên cứu khoa học",
+      "tổ chức thực hiện hoạt động nghiên cứu",
+      "tự học hỏi",
+      "tự hoàn thiện"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và tổ chức thực hiện nghiên cứu",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kỹ năng phân tích, tổ chức thực hiện nghiên cứu một vấn đề chuyên môn bằng phương pháp nghiên cứu khoa học"
+    },
+    {
+      "skill_name": "Làm việc trong môi trường thực tiễn",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kỹ năng làm việc trong các môi trường thực tiễn của nền kinh tế, của ngành bất động sản, có kỹ năng tiếp cận vấn đề và xử lý các vấn đề từ thực tế"
+    },
+    {
+      "skill_name": "Tự học hỏi và hoàn thiện",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có kỹ năng tự học hỏi, tự hoàn thiện trong công tác, tác phong làm việc, thể hiện quan điểm, thái độ của cá nhân và ý thức tập thể"
+    },
+    {
+      "skill_name": "Tư duy và phân tích đa chiều",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có kỹ năng tư duy, phân tích và tổng hợp đa chiều, nắm bắt được các xu thế và yêu cầu mới từ thực tiễn, có kỹ năng lập kế hoạch để không ngừng tự học và tự hoàn thiện"
+    },
+    {
+      "skill_name": "Làm việc độc lập và trách nhiệm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có năng lực làm việc độc lập, có trách nhiệm trong các công việc nhóm và trách nhiệm cá nhân trong nhóm và tại đơn vị thực tập"
+    },
+    {
+      "skill_name": "Lập kế hoạch và sử dụng nguồn lực",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có năng lực lập kế hoạch và sử dụng các nguồn tài liệu, các nguồn lực phù hợp để thực hiện chủ đề nghiên cứu"
+    },
+    {
+      "skill_name": "Trình bày vấn đề và bảo vệ quan điểm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có năng lực trình bày vấn đề, bảo vệ quan điểm cá nhân, tiếp thu các ý kiến đa chiều và tổng hợp, hoàn thiện chủ đề nghiên cứu"
+    },
+    {
+      "skill_name": "Trách nhiệm xã hội và đạo đức nghề nghiệp",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có trách nhiệm xã hội, đạo đức nghề nghiệp trong môi trường công việc, có ý thức và thực hiện liêm chính học thuật"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 0,
+    "practice_percentage": 100,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Chuyên đề thực tế"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Kiến thức cơ bản về kinh tế xã hội",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Kiến thức chuyên môn về bất động sản",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "course_id": "QLKT1126",
+  "title": "Tâm lý quản lý",
+  "overview": "Học phần này cung cấp kiến thức cơ bản về tâm lý được sử dụng trong quản lý, bao gồm tâm lý cá nhân, tâm lý nhóm, tâm lý người lãnh đạo và tâm lý khách hàng.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Psychology in Management",
+      "Individual Psychology",
+      "Group Psychology",
+      "Leadership Psychology",
+      "Customer Psychology"
+    ],
+    "key_concepts": [
+      "Concepts of Management Psychology",
+      "History of Psychology",
+      "Significance of Management Psychology Research",
+      "Research Methods in Management Psychology",
+      "Application of Psychological Laws"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Knowledge of Management Psychology",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the basic concepts and theories of management psychology."
+    },
+    {
+      "skill_name": "Application of Psychological Laws",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply psychological laws in creating motivation, managing change, decision-making, and conflict resolution."
+    },
+    {
+      "skill_name": "Independent Work and Professional Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Demonstrate independent work and professional responsibility, social responsibility, and adaptability."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

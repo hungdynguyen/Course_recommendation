@@ -1,0 +1,74 @@
+{
+  "course_id": "TNBD1138",
+  "title": "Quy hoạch phát triển đô thị và nông thôn",
+  "overview": "Học phần trang bị cho người học những kiến thức khoa học về mục tiêu, yêu cầu, nội dung của quy hoạch phát triển đô thị và nông thôn. Nhiệm vụ và mục đích của học phần nhằm xác định mục tiêu, động lực phát triển về nhiều mặt như: quy mô dân số, đất đai, chỉ tiêu về hạ tầng xã hội, hạ tầng kỹ thuật; mô hình phát triển, định hướng phát triển không gian nội thị và khu vực ngoại thị, trung tâm chính trị - hành chính, dịch vụ, thương mại, văn hoá, giáo dục, đào tạo, y tế, công viên cây xanh, thể dục, thể thao cấp đô thị; quy hoạch hệ thống công trình hạ tầng kỹ thuật khung trên mặt đất, trên cao và ngầm dưới đất; đánh giá môi trường chiến lược; kế hoạch ưu tiên đầu tư và nguồn lực thực hiện.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Urban and Rural Development Planning",
+    "sub_domains": [
+      "Urbanization process",
+      "Rural development",
+      "Urban and rural planning",
+      "Environmental assessment",
+      "Infrastructure planning"
+    ],
+    "key_concepts": [
+      "Urbanization",
+      "Rural development",
+      "Urban planning",
+      "Rural planning",
+      "Environmental impact assessment",
+      "Infrastructure development"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the basics of urban and rural development planning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the basics of urban and rural development planning, the objectives, and requirements of the planning process."
+    },
+    {
+      "skill_name": "Analyzing urbanization processes",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Understand the urbanization process, analyze the aspects of history, process, characteristics, and issues raised by urbanization in urban and rural development, and the issues raised by planning activities."
+    },
+    {
+      "skill_name": "Understanding the tasks of planning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the tasks of planning, grasp the natural, social, technical, and other basic issues in urban and rural development planning."
+    },
+    {
+      "skill_name": "Understanding the structure of urban planning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the structure of urban planning, explain the basic relationships and connections between the main functional components of the city."
+    },
+    {
+      "skill_name": "Understanding the general situation of rural society in Vietnam",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the role, importance, and social responsibility of planning activities; enhance a sense of responsibility, perseverance, professionalism, and cooperation in solving emerging problems; have the ability to think and work independently, adapt to the context, and take responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "course_id": "QLKT1130",
+  "title": "Chuyên đề thực tế",
+  "overview": "Học phần Chuyên đề thực tế là học phần mà sinh viên không học trên lớp. Sinh viên sẽ lựa chọn các chủ đề khác nhau tùy theo mong muốn và lĩnh vực muốn chuyên sâu để viết bài luận nghiên cứu có độ dài từ 20 đến 25 trang và nộp vào cuối kì học. Các chủ đề mà sinh viên ngành Khoa học quản lý (Quản lý kinh tế) liên quan đến quản lý tổ chức, quản lý nhà nước về kinh tế.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 60,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Economic Management",
+      "Organizational Management",
+      "Public Administration"
+    ],
+    "key_concepts": [
+      "Management of organizations",
+      "Economic management by the state"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Problem-solving",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply knowledge of organizational management and functional management to solve management issues"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Analyze decisions in organizational management and clarify management situations in a market economy"
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Conduct independent research, manage resources and work efficiency, and adapt to changes"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 0,
+    "practice_percentage": 100,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

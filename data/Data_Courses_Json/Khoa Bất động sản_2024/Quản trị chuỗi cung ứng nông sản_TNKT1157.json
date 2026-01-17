@@ -1,0 +1,66 @@
+{
+  "course_id": "TNKT1157",
+  "title": "Quản trị chuỗi cung ứng nông sản",
+  "overview": "Môn học cung cấp những kiến thức cơ bản về kinh tế trong quản trị chuỗi cung ứng nông sản, các tác nhân trong chuỗi cung ứng nông sản, các vấn đề nội tại sẽ tác động đến các tác nhân và các hệ thống hỗ trợ chuỗi cung ứng nông sản.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế nông nghiệp 1",
+    "sub_domains": [
+      "Chuỗi cung ứng và logistics",
+      "Chuỗi cung ứng nông sản",
+      "Động lực của chuỗi cung ứng nông sản và các thách thức của quản trị chuỗi cung ứng nông sản ở Việt Nam",
+      "Các tác nhân tham gia vào chuỗi cung ứng nông sản",
+      "Các vấn đề nội tại trong quản trị chuỗi cung ứng nông sản",
+      "Hệ thống hỗ trợ chuỗi cung ứng nông sản"
+    ],
+    "key_concepts": [
+      "Chuỗi cung ứng nông sản",
+      "Tính dễ hư hỏng của nông sản",
+      "Chất lượng nông sản",
+      "Rủi ro",
+      "Cơ sở hạ tầng",
+      "Công nghệ thông tin",
+      "Vai trò của chính phủ"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và giải thích quan hệ kinh tế trong quản trị chuỗi cung ứng nông sản",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Có kỹ năng vận dụng được kiến thức để giải thích quan hệ kinh tế trong quản trị chuỗi cung ứng nông sản từ lý luận bản chất chuỗi; đánh giá các tác nhân tham gia vào chuỗi; so sánh các hiệu quả các hệ thống hỗ trợ quản trị chuỗi cung ứng nông sản."
+    },
+    {
+      "skill_name": "Phân tích và đánh giá các tác nhân tham gia vào chuỗi",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Phát triển các kỹ năng phân tích, đánh giá các tác nhân tham gia vào chuỗi"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế nông nghiệp 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Hiểu biết cơ bản về chuỗi cung ứng nông sản",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Kỹ năng phân tích và đánh giá tác nhân tham gia vào chuỗi",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

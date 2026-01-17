@@ -1,0 +1,61 @@
+{
+  "course_id": "BHKT1124",
+  "title": "Phân tích kinh doanh bảo hiểm",
+  "overview": "Học phần này cung cấp cho sinh viên chuyên ngành những kiến thức cơ bản và chuyên sâu, hiện đại và có hệ thống về các phương pháp phân tích hoạt động kinh doanh trong doanh nghiệp bảo hiểm; những nội dung cơ bản cần phân tích, trình tự phân tích và tài liệu phân tích.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Business Analysis",
+    "sub_domains": [
+      "Insurance Business Analysis",
+      "Financial Analysis",
+      "Investment Analysis"
+    ],
+    "key_concepts": [
+      "Insurance Business Activities",
+      "Reinsurance",
+      "Financial Activities",
+      "Investment Activities",
+      "Business Results and Efficiency Analysis"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Business Analysis",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên nắm vững và vận dụng các hệ thống chỉ tiêu, phương pháp phân tích hoạt động kinh doanh và tổ chức phân tích kinh doanh trong doanh nghiệp bảo hiểm."
+    },
+    {
+      "skill_name": "Business Results and Efficiency Analysis",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có khả năng đánh giá kết quả và hiệu quả kinh doanh; từ đó hoạch định chính sách và chiến lược phát triển, tổ chức bộ máy của doanh nghiệp bảo hiểm dựa trên thông tin thu được trong báo cáo phân tích kinh doanh."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 60,
+    "practice_percentage": 40,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản trị kinh doanh bảo hiểm 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance Business Management",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Financial Management",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

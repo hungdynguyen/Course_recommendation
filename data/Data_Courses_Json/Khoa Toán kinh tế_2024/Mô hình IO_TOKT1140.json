@@ -1,0 +1,53 @@
+{
+  "course_id": "TOkt1140",
+  "title": "Input-Output Model",
+  "overview": "This course provides professional knowledge for the Economics and Mathematics specialization. It equips students with basic knowledge about the Input-Output model and its analysis in economics. The course uses Excel to practice with real data, aiming for practical application so that students can analyze and forecast demand for resources in the economy based on different scenarios.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Mathematics for Economists"
+    ],
+    "key_concepts": [
+      "Input-Output Model",
+      "National Accounting System",
+      "Value and Physical Input-Output Tables",
+      "Economic Analysis from Input-Output Model"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and applying Input-Output model",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to understand and apply the Input-Output model using Excel."
+    },
+    {
+      "skill_name": "Analyzing economic data",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to analyze economic data and make predictions based on different scenarios."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Mathematics for Economists"
+    ],
+    "minimum_entry_skills": []
+  }
+}

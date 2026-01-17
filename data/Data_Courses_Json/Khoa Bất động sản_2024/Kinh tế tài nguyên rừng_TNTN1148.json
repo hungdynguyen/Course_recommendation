@@ -1,0 +1,66 @@
+{
+  "course_id": "TNTN1148",
+  "title": "Kinh tế tài nguyên rừng",
+  "overview": "Học phần trang bị cho sinh viên kiến thức tổng quan kinh tế rừng, hiện trạng rừng Việt Nam, quản lý nhà nước về lâm nghiệp, hệ thống quản lý tổ chức ngành lâm nghiệp. Môn học cũng giúp học viên nắm được các công cụ cần thiết cho việc tính toán về sản lượng rừng, phân bổ nguồn lực và tiêu dùng các sản phẩm và dịch vụ rừng, cũng như phân tích các quyết định đầu tư, quản lý rừng nhằm bảo tồn, khai thác, tối ưu hóa lợi nhuận và các lợi ích khác từ rừng.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế tài nguyên",
+    "sub_domains": [
+      "Kinh tế tài nguyên 1",
+      "Kinh tế tài nguyên 2"
+    ],
+    "key_concepts": [
+      "rừng",
+      "vai trò của rừng",
+      "phân loại rừng",
+      "tổng giá trị rừng",
+      "giá trị sử dụng",
+      "giá trị phi sử dụng",
+      "hàng hóa công cộng",
+      "hàng hóa tư nhân",
+      "thị trường lâm sản",
+      "cung cầu",
+      "thương mại quốc tế",
+      "chính sách quản lý rừng"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và giải thích các quan hệ kinh tế về tài nguyên rừng",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên có thể giải thích các quan hệ kinh tế chuyên sâu về tài nguyên rừng và tính toán các giá trị sản phẩm và dịch vụ rừng"
+    },
+    {
+      "skill_name": "Tính toán giá trị kinh tế rừng",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể tính toán giá trị kinh tế rừng bằng mô hình Faustmann"
+    },
+    {
+      "skill_name": "Phân tích tác động của chính sách kinh tế",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có thể phân tích tác động của chính sách kinh tế tới việc khai thác và sử dụng sản phẩm rừng"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế tài nguyên 1",
+      "Kinh tế tài nguyên 2"
+    ],
+    "minimum_entry_skills": []
+  }
+}

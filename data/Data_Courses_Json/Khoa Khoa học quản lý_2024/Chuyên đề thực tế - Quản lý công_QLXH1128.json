@@ -1,0 +1,63 @@
+{
+  "course_id": "QLXH1128",
+  "title": "Chuyên đề thực tế",
+  "overview": "Đây là học phần không giảng trên lớp học. Sinh viên sẽ lựa chọn các chủ đề khác nhau tùy theo mong muốn và lĩnh vực muốn chuyên sâu để viết bài luận nghiên cứu có độ dài từ 20 đến 25 trang và nộp vào cuối kì học.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 60,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Economics",
+      "Public Management",
+      "Organization Management"
+    ],
+    "key_concepts": [
+      "Management of organizations",
+      "Public management",
+      "Organization management",
+      "Research methodology"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply critical thinking skills to identify and solve problems related to organizational and public management."
+    },
+    {
+      "skill_name": "Research skills",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Use research methods and tools to analyze and solve problems related to organizational and public management."
+    },
+    {
+      "skill_name": "Time and resource management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Manage time and resources effectively."
+    },
+    {
+      "skill_name": "Independent work and professional ethics",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Demonstrate the ability to work independently, take responsibility for professional tasks, and adhere to professional ethics."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 0,
+    "practice_percentage": 100,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

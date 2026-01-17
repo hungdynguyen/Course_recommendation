@@ -1,0 +1,61 @@
+{
+  "course_id": "TNKT1117",
+  "title": "Quản trị kinh doanh nông nghiệp 1",
+  "overview": "Học phần này cung cấp cho người học những kiến thức cơ bản và chuyên sâu về tổ chức, quản lý và điều hành hoạt động sản xuất kinh doanh của các cơ sở kinh doanh nông nghiệp.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế nông nghiệp 1",
+    "sub_domains": [
+      "Đối tượng, nhiệm vụ và phương pháp nghiên cứu môn học quản trị kinh doanh nông nghiệp",
+      "Các loại hình tổ chức kinh doanh nông nghiệp",
+      "Cơ sở khoa học của quản trị kinh doanh nông nghiệp",
+      "Tổ chức bộ máy quản trị trong các cơ sở kinh doanh nông nghiệp",
+      "Phương hướng và quy mô sản xuất kinh doanh nông nghiệp",
+      "Chiến lược kinh doanh nông nghiệp",
+      "Kế hoạch sản xuất kinh doanh trong cơ sở kinh doanh nông nghiệp",
+      "Tổ chức sử dụng đất đai trong cơ sở kinh doanh nông nghiệp",
+      "Quản trị nguồn lao động trong cơ sở kinh doanh nông nghiệp"
+    ],
+    "key_concepts": [
+      "Đối tượng, nhiệm vụ và phương pháp nghiên cứu môn học quản trị kinh doanh nông nghiệp",
+      "Các loại hình tổ chức kinh doanh nông nghiệp",
+      "Cơ sở khoa học của quản trị kinh doanh nông nghiệp",
+      "Tổ chức bộ máy quản trị trong các cơ sở kinh doanh nông nghiệp",
+      "Chiến lược kinh doanh nông nghiệp",
+      "Kế hoạch sản xuất kinh doanh trong cơ sở kinh doanh nông nghiệp",
+      "Tổ chức sử dụng đất đai trong cơ sở kinh doanh nông nghiệp",
+      "Quản trị nguồn lao động trong cơ sở kinh doanh nông nghiệp"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và xây dựng chiến lược và kế hoạch của một cơ sở kinh doanh nông nghiệp",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "SV có thể phân tích và xây dựng chiến lược và kế hoạch của một cơ sở kinh doanh nông nghiệp"
+    },
+    {
+      "skill_name": "Phân tích và đề xuất phương án về tổ chức sử dụng đất đai và lao động của một cơ sở kinh doanh nông nghiệp",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "SV có thể phân tích và đề xuất phương án về tổ chức sử dụng đất đai và lao động của một cơ sở kinh doanh nông nghiệp"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế nông nghiệp 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

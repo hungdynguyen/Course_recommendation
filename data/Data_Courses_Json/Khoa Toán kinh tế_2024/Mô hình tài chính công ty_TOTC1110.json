@@ -1,0 +1,82 @@
+{
+  "course_id": "TOTC1110",
+  "title": "Models of Financial Corporate",
+  "overview": "This course provides concepts about the market value of a company and methods to determine the company's value, known as Market Value. It approaches company valuation through the Modigliani & Miller model and the OPM model based on input factors such as cost of capital and risk adjustment according to the CAPM model, future profit simulation, debt leverage, corporate income tax, and individual income tax. The course also covers corporate financial management topics such as raising capital through securities issuance, borrowing, leasing, project investment, project appraisal, residual project value, and profit distribution through dividend and retained earnings policies. It combines knowledge of financial statements to discuss the use of financial ratios and stock trading prices, and the beta coefficient.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Financial Corporate Models",
+    "sub_domains": [
+      "Cost of Capital",
+      "Company Valuation",
+      "Corporate Financial Management",
+      "Financial Statements Analysis",
+      "Taxation"
+    ],
+    "key_concepts": [
+      "Modigliani & Miller model",
+      "OPM model",
+      "CAPM model",
+      "Debt Leverage",
+      "Corporate Income Tax",
+      "Individual Income Tax",
+      "Project Investment",
+      "Profit Distribution",
+      "Financial Ratios",
+      "Stock Trading Prices",
+      "Beta Coefficient"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Modeling skills for company valuation and risk measurement",
+      "category": "Hard Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop skills in modeling to value and measure company risk, financial calculation skills through Excel."
+    },
+    {
+      "skill_name": "Analyzing company value and policy",
+      "category": "Hard Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Develop skills in analyzing company value and policy."
+    },
+    {
+      "skill_name": "Data extraction from financial statements for company valuation and risk management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Develop skills in extracting data from financial statements for company valuation and risk management."
+    },
+    {
+      "skill_name": "Independent learning, organization, and group work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Develop the ability to learn independently, organize, manage group work, and persuade others."
+    },
+    {
+      "skill_name": "Personal and group responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop personal responsibility, group responsibility, and discipline in learning."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Mathematics Foundation",
+      "Financial Asset Valuation Model 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

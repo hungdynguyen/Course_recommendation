@@ -1,0 +1,118 @@
+{
+  "course_id": "BHKT1155",
+  "title": "Đầu tư trong bảo hiểm",
+  "overview": "Học phần Đầu tư trong bảo hiểm là một môn học chuyên ngành hẹp, cung cấp kiến thức về hoạt động đầu tư gắn liền với đặc thù của các doanh nghiệp bảo hiểm (DNBH). Trên cơ sở khái quát về hoạt động kinh doanh bảo hiểm, học phần này nghiên cứu các vấn đề lý thuyết cơ bản về hoạt động đầu tư trong DNBH: nguyên tắc và đặc điểm của hoạt động đầu tư trong DNBH, các quy định pháp lý đối với hoạt động đầu tư trong DNBH, nguồn vốn đầu tư và các hình thức đầu tư trong DNBH, xây dựng chiến lược đầu tư, tổ chức thực hiện và đánh giá hiệu quả hoạt động đầu tư.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Investment in insurance companies",
+    "sub_domains": [
+      "Theoretical basics of investment activities in insurance companies",
+      "Legal constraints on investment activities in insurance companies",
+      "Sources and forms of investment in insurance companies",
+      "Building investment strategies",
+      "Organizing and evaluating the effectiveness of investment activities"
+    ],
+    "key_concepts": [
+      "Principles and characteristics of investment activities in insurance companies",
+      "Legal regulations on investment activities in insurance companies",
+      "Sources and forms of investment in insurance companies",
+      "Building investment strategies",
+      "Organizing and evaluating the effectiveness of investment activities"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature of investment activities in insurance companies",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Understand the necessity and role of investment activities in insurance companies"
+    },
+    {
+      "skill_name": "Understanding the principles of investment activities in insurance companies",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Understand the principles of investment activities in insurance companies and the factors affecting investment activities"
+    },
+    {
+      "skill_name": "Applying knowledge to analyze and evaluate the role of investment activities in insurance companies",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply foundational knowledge to analyze and evaluate the role of investment activities in insurance companies"
+    },
+    {
+      "skill_name": "Understanding legal constraints on investment activities in insurance companies",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand legal constraints on investment activities in insurance companies and apply knowledge to determine the maximum investment capital and amount for various investment portfolios"
+    },
+    {
+      "skill_name": "Understanding forms of investment in insurance companies",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand forms of investment in insurance companies such as collateral loans, stock investments, and savings deposits"
+    },
+    {
+      "skill_name": "Applying knowledge to analyze and evaluate financial investment activities in specific cases",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply knowledge to analyze and evaluate financial investment activities in specific cases"
+    },
+    {
+      "skill_name": "Understanding the management of investment activities in insurance companies",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the management of investment activities in insurance companies"
+    },
+    {
+      "skill_name": "Understanding evaluation criteria and methods for investment activities",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand evaluation criteria and methods for investment activities in various aspects"
+    },
+    {
+      "skill_name": "Applying methods and models to analyze and evaluate investment activities",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Apply methods and models to analyze and evaluate investment activities to clarify the results and effectiveness of investment management in non-life and life insurance companies"
+    },
+    {
+      "skill_name": "Teamwork and critical thinking skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop teamwork and critical thinking skills"
+    },
+    {
+      "skill_name": "Independent work and adaptability",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop independent work skills, creativity, flexibility, and the ability to adapt to the business and investment environment of insurance companies"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 60,
+    "practice_percentage": 40,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm thương mại 1",
+      "Quản trị kinh doanh bảo hiểm 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

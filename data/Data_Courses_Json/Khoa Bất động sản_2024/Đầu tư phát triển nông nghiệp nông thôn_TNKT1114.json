@@ -1,0 +1,78 @@
+{
+  "course_id": "TNKT 1114",
+  "title": "Đầu tư phát triển nông nghiệp, nông thôn",
+  "overview": "Học phần này trang bị cho sinh viên kiến thức, phương pháp và kỹ năng về đầu tư phát triển trong nông nghiệp nông thôn, bao gồm vai trò, đặc điểm của đầu tư phát triển nông nghiệp, nông thôn; các hình thức tổ chức quản lý hoạt động đầu tư; các tiêu chí/ căn cứ lựa chọn và ra quyết định đầu tư về thị trường, công nghệ, vốn, hiệu quả đầu tư tài chính, hiệu quả kinh tế - xã hội - môi trường; quản lý đầu tư phát triển nông nghiệp, nông thôn.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế nông nghiệp 1",
+    "sub_domains": [
+      "Đầu tư",
+      "Phân tích tài chính",
+      "Phân tích kinh tế",
+      "Quản lý dự án"
+    ],
+    "key_concepts": [
+      "Đầu tư phát triển nông nghiệp, nông thôn",
+      "Phân tích thị trường",
+      "Lựa chọn công nghệ",
+      "Tính toán tài chính",
+      "Phân tích kinh tế",
+      "Thẩm định dự án",
+      "Quản lý dự án"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu và áp dụng các kiến thức về đầu tư phát triển nông nghiệp, nông thôn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Sinh viên hiểu và áp dụng các kiến thức về đầu tư phát triển nông nghiệp, nông thôn"
+    },
+    {
+      "skill_name": "Phân tích thị trường và lựa chọn công nghệ trong đầu tư phát triển nông nghiệp, nông thôn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên phân tích thị trường và lựa chọn công nghệ trong đầu tư phát triển nông nghiệp, nông thôn"
+    },
+    {
+      "skill_name": "Tính toán tài chính và phân tích kinh tế trong đầu tư phát triển nông nghiệp, nông thôn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên tính toán tài chính và phân tích kinh tế trong đầu tư phát triển nông nghiệp, nông thôn"
+    },
+    {
+      "skill_name": "Thẩm định và quản lý dự án đầu tư phát triển nông nghiệp, nông thôn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên thẩm định và quản lý dự án đầu tư phát triển nông nghiệp, nông thôn"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế nông nghiệp 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Hiểu biết về kinh tế nông nghiệp",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Kỹ năng phân tích thị trường",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

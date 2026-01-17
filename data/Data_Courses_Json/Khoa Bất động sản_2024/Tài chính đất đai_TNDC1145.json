@@ -1,0 +1,53 @@
+{
+  "course_id": "TNDC1145",
+  "title": "Tài chính đất đai",
+  "overview": "Môn học cung cấp những kiến thức cơ bản về quản lý tài chính đối với một loại tài nguyên là đất đai, trong đó chỉ rõ các quan hệ về tiền tề - giá trị giữa Nhà nước với các chủ thể khác trong nền kinh tế quốc dân có sử dụng đất. Những kiến thức mà môn học cung cấp là cơ sở phân tích đánh giá các công cụ kinh tế được sử dụng trong quá trình thực hiện quản lý sử dụng đất.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Land Finance",
+    "sub_domains": [
+      "Quản lý nhà nước về tài chính đất đai",
+      "Tổng quan về công cụ thuế đất",
+      "Tiền sử dụng đất và giá đất",
+      "Thanh tra tài chính đất đai"
+    ],
+    "key_concepts": [
+      "Quản lý tài chính đất đai",
+      "Thuế đất",
+      "Giá đất",
+      "Thanh tra tài chính"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích tình huống tài chính đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Có kỹ năng phân tích tình huống để ứng dụng phương pháp, công cụ trong tính toán các khoản thu tài chính đất đai"
+    },
+    {
+      "skill_name": "Làm việc nhóm",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Có khả năng làm việc cá nhân, làm việc nhóm trong lựa chọn, đánh giá, đưa ra kết luận chuyên sâu về một vấn đề tài chính đất đai cụ thể"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý học 1",
+      "Phương pháp nghiên cứu kinh tế - xã hội"
+    ],
+    "minimum_entry_skills": []
+  }
+}

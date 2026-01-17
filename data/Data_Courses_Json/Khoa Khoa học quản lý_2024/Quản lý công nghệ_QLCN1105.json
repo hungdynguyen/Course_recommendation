@@ -1,0 +1,61 @@
+{
+  "course_id": "QLCN1105",
+  "title": "Quản lý công nghệ",
+  "overview": "Quản lý công nghệ là môn học cơ sở trong trình tự các môn học: cơ bản - cơ sở - chuyên ngành, hiện đang được giảng dạy phổ biến cho hệ đào tạo đại học và sau đại học. Môn học cung cấp các kiến thức cơ bản và hiện đại về công nghệ và quản lý công nghệ để người học có thể tự xây dựng cho mình một công cụ dưới dạng phương pháp luận về sử dụng công nghệ, trên cơ sở đó kết hợp với các kiến thức môn học khác để đạt được hiệu quả cao trong hoạt động sản xuất kinh doanh cũng như quản lý.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Management",
+    "sub_domains": [
+      "Technology Management",
+      "Economics"
+    ],
+    "key_concepts": [
+      "Technology",
+      "Management",
+      "Economics"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing and evaluating scientific and technological activities at micro and macro levels",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze and evaluate scientific and technological activities at micro and macro levels."
+    },
+    {
+      "skill_name": "Implementing technological management activities in enterprises under the context of a changing technological environment",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to implement technological management activities in enterprises under the context of a changing technological environment."
+    },
+    {
+      "skill_name": "Using modern methods and tools to manage technology at the organizational level",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to use modern methods and tools to manage technology at the organizational level."
+    },
+    {
+      "skill_name": "Practicing presentation, teamwork, and group management skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to practice presentation, teamwork, and group management skills."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

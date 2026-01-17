@@ -1,0 +1,64 @@
+{
+  "course_id": "BHKT1166",
+  "title": "Nhập môn định phí bảo hiểm",
+  "overview": "Học phần này cung cấp những kiến thức lý thuyết cơ bản, tổng quan về định phí bảo hiểm, các cơ sở và cách thức tính phí bảo hiểm nhân thọ, bảo hiểm phi nhân thọ cũng như tính toán dự phòng phí của một doanh nghiệp bảo hiểm.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Bảo hiểm",
+    "sub_domains": [
+      "Bảo hiểm thương mại 2"
+    ],
+    "key_concepts": [
+      "Định phí bảo hiểm",
+      "Cơ sở khoa học",
+      "Giả định",
+      "Dự phòng nghiệp vụ",
+      "Giá trị giải ước",
+      "Tính phí bảo hiểm nhân thọ",
+      "Tính phí bảo hiểm phi nhân thọ"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu cơ sở kỹ thuật của công tác định phí bảo hiểm",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Hiểu được cơ sở kỹ thuật của công tác định phí bảo hiểm, các giả định cần thiết khi tính phí."
+    },
+    {
+      "skill_name": "Hiểu vai trò và ý nghĩa của dự phòng nghiệp vụ",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Hiểu được vai trò, ý nghĩa của dự phòng nghiệp vụ và giá trị giải ước trong bảo hiểm nhân thọ, dự phòng trong bảo hiểm phi nhân thọ."
+    },
+    {
+      "skill_name": "Vận dụng công thức và giả định để tính phí",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng các công thức và giả định để thực hành tính phí của một số loại hình bảo hiểm nhân thọ và một số nghiệp vụ bảo hiểm phi nhân thọ."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm thương mại 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Bảo hiểm thương mại",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

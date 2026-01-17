@@ -1,0 +1,61 @@
+{
+  "course_id": "TNDC1140",
+  "title": "Land resource economics 2",
+  "overview": "This course presents knowledge and skills to evaluate the current state of the land environment. It guides students through the development of the land market, explaining the formation process and economic relationships within the land market. Land Economics 2 focuses on analyzing economic issues in the use of various types of land such as urban land, agricultural land, and other specialized land types.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Land Economics",
+      "Environmental Economics",
+      "Agricultural Economics"
+    ],
+    "key_concepts": [
+      "Land market",
+      "Land use",
+      "Environmental degradation",
+      "Urban land",
+      "Agricultural land"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing land market dynamics",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to analyze the dynamics of the land market and its economic relationships."
+    },
+    {
+      "skill_name": "Evaluating land use",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to evaluate the use of various types of land."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Land resource economics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of land economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of environmental economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

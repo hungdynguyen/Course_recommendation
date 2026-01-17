@@ -1,0 +1,97 @@
+{
+  "course_id": "TNKT 1163",
+  "title": "Chuyên đề thực tế",
+  "overview": "Học phần chuyên đề thực tế là học phần bắt buộc của ngành Kinh tế nông nghiệp tại Trường Đại học Kinh tế quốc dân. Thông qua việc thăm quan tại cơ sở, sinh viên sẽ vận dụng những kiến thức đã được trang bị vào phân tích, liên hệ thực tiễn và đề xuất các ý tưởng có liên quan đến lĩnh vực kinh tế nông nghiệp.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 200,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh tế nông nghiệp",
+    "sub_domains": [
+      "Kiến thức kinh tế liên quan đến lĩnh vực kinh tế nông nghiệp",
+      "Khả năng giải thích và phân tích các vấn đề phát triển kinh tế nông nghiệp thực tế tại cơ sở qua quan sát thực tế",
+      "Nhận thức được tầm quan trọng về lĩnh vực kinh tế nông nghiệp tại cơ sở và hình thành ý tưởng, hướng giải quyết"
+    ],
+    "key_concepts": [
+      "Tổng hợp những kiến thức đã được trang bị của chương trình đào tạo để xác định các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực kinh tế nông nghiệp",
+      "Vận dụng những kiến thức đã được trang bị trong chương trình đào tạo để phân tích và đưa ra đánh giá các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực kinh tế nông nghiêp",
+      "Liên hệ được vấn đề lí thuyết và thực tế phát triển kinh tế nông nghiêp tại cơ sở",
+      "Xác định được chính sách nông nghiệp phù hợp để giải thích tình huống kinh tế nông nghiệp cụ thể",
+      "Giải thích được những vấn đề còn tồn tại trong kinh tế nông nghiệp đặt ra tại cơ sở",
+      "Kỹ năng xử lý tổng hợp để đưa ra những đánh giá về phát triển kinh tế nông nghiệp",
+      "Chủ động trong học tập, nghiên cứu, làm việc nhóm",
+      "Chủ động lựa chọn phương pháp, các tài liệu nghiên cứu để phân tích tình huống thực tế về kinh tế nông nghiêp"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Tổng hợp kiến thức",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể tổng hợp những kiến thức đã được trang bị của chương trình đào tạo để xác định các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực kinh tế nông nghiệp"
+    },
+    {
+      "skill_name": "Phân tích và đánh giá",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có thể vận dụng những kiến thức đã được trang bị trong chương trình đào tạo để phân tích và đưa ra đánh giá các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực kinh tế nông nghiêp"
+    },
+    {
+      "skill_name": "Liên hệ thực tiễn",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có thể liên hệ được vấn đề lí thuyết và thực tế phát triển kinh tế nông nghiêp tại cơ sở"
+    },
+    {
+      "skill_name": "Xác định chính sách",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Sinh viên có thể xác định được chính sách nông nghiệp phù hợp để giải thích tình huống kinh tế nông nghiệp cụ thể"
+    },
+    {
+      "skill_name": "Giải thích vấn đề",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có thể giải thích được những vấn đề còn tồn tại trong kinh tế nông nghiệp đặt ra tại cơ sở"
+    },
+    {
+      "skill_name": "Xử lý tổng hợp",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên có kỹ năng xử lý tổng hợp để đưa ra những đánh giá về phát triển kinh tế nông nghiệp"
+    },
+    {
+      "skill_name": "Chủ động trong học tập",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể chủ động trong học tập, nghiên cứu, làm việc nhóm"
+    },
+    {
+      "skill_name": "Chọn phương pháp nghiên cứu",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Sinh viên có thể chủ động lựa chọn phương pháp, các tài liệu nghiên cứu để phân tích tình huống thực tế về kinh tế nông nghiêp"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 0,
+    "practice_percentage": 100,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Sinh viên  hoàn thành các học phần thuộc khối kiến thức cơ sở ngành"
+    ],
+    "minimum_entry_skills": []
+  }
+}

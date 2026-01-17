@@ -1,0 +1,60 @@
+{
+  "course_id": "TNTN1106",
+  "title": "Natural Resource Economics 1",
+  "overview": "This course provides students with fundamental knowledge about natural resource economics, including practical issues of natural resource economics, the relationship between nature and the economy, theoretical foundations of natural resource economics, market and social efficiency, sustainable use of natural resources, natural resource policies, principles of natural resource analysis, and methods to determine the economic value of natural resources.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Microeconomics",
+      "Macroeconomics"
+    ],
+    "key_concepts": [
+      "Natural resource economics",
+      "Market and social efficiency",
+      "Sustainable use of natural resources",
+      "Natural resource policies"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Analyzing economic issues in natural resource allocation, exploitation, and use",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to identify and analyze economic issues in the allocation, exploitation, and use of natural resources in practical scenarios."
+    },
+    {
+      "skill_name": "Understanding the economic aspects of natural resource management",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will understand the economic aspects of natural resource management, including the theoretical foundations, market and social efficiency, and sustainable use of natural resources."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of microeconomics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic understanding of macroeconomics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

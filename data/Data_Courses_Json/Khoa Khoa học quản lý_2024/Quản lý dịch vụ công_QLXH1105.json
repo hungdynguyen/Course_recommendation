@@ -1,0 +1,52 @@
+{
+  "course_id": "QLXH1105",
+  "title": "Quản lý dịch vụ công",
+  "overview": "Học phần này được thiết kế nhằm cung cấp cho sinh viên ngành Quản lý công và các ngành khác kiến thức có hệ thống về quản lý cung cấp dịch vụ công của một tổ chức.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Public Services Management",
+    "sub_domains": [
+      "Service Delivery",
+      "Human Resource Management",
+      "Operational Management",
+      "Strategic Management"
+    ],
+    "key_concepts": [
+      "Public Services",
+      "Service Management",
+      "Customer Relationship",
+      "Human Resource Management",
+      "Operational Management",
+      "Strategic Management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Service Management Skills",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Thực hành tốt các kỹ năng trong quản lý dịch vụ công: kỹ năng thiết kế quy trình cung ứng dịch vụ công và hệ thống đo lường đánh giá sự thực hiện trong cung ứng dịch vụ công; đề xuất các biện pháp nâng cao sự hài lòng của các đối tượng thụ hưởng dịch vụ công."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Thực hành tốt các kỹ năng: phát hiện và giải quyết vấn đề, tư duy phản biện, làm việc nhóm, truyền thông, giao tiếp, đàm phán và giải quyết xung đột."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

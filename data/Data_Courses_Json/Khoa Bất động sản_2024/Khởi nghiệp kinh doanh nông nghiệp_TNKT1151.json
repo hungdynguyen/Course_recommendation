@@ -1,0 +1,51 @@
+{
+  "course_id": "TNKT1151",
+  "title": "Khởi nghiệp kinh doanh nông nghiệp",
+  "overview": "Khởi nghiệp kinh doanh nông nghiệp là bước khởi đầu đầy khó khăn đối với mỗi doanh nghiệp thuộc bất kỳ lĩnh vực nào, đặc biệt là lĩnh vực nông nghiệp. Học phần này trang bị cho sinh viên những kiến thức cần thiết và kỹ năng cơ bản để tự khởi nghiệp kinh doanh trong lĩnh vực nông nghiệp cũng như ở các lĩnh vực khác.",
+  "difficulty_level": "Intermediate",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Kinh doanh nông nghiệp I",
+    "sub_domains": [
+      "Ý tưởng và mục tiêu kinh doanh nông nghiệp",
+      "Nghiên cứu thị trường trong kinh doanh nông nghiệp",
+      "Kế hoạch khởi nghiệp kinh doanh nông nghiệp",
+      "Những vấn đề phát sinh và rủi ro trong kinh doanh nông nghiệp",
+      "Tạo lập doanh nghiệp và triển khai hoạt động kinh doanh nông nghiệp"
+    ],
+    "key_concepts": [
+      "Kinh doanh nông nghiệp",
+      "Khởi nghiệp kinh doanh nông nghiệp"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Xây dựng kế hoạch khởi nghiệp kinh doanh nông nghiệp",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có thể vận dụng kiến thức để xây dựng kế hoạch khởi nghiệp kinh doanh nông nghiệp."
+    },
+    {
+      "skill_name": "Tạo lập doanh nghiệp và triển khai hoạt động kinh doanh nông nghiệp",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sinh viên có những kỹ năng trong việc tạo lập doanh nghiệp và triển khai hoạt động kinh doanh nông nghiệp."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh nông nghiệp I"
+    ],
+    "minimum_entry_skills": []
+  }
+}

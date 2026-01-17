@@ -1,0 +1,108 @@
+{
+  "course_id": "QLKT1113",
+  "title": "Quản lý Phát triển Kinh tế Địa phương",
+  "overview": "Học phần này được thiết kế nhằm cung cấp cho sinh viên ngành Khoa học quản lý và các ngành khác kiến thức có hệ thống về phát triển kinh tế địa phương và quản lý phát triển kinh tế địa phương.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Khoa học Quản lý",
+    "sub_domains": [
+      "Quản lý doanh nghiệp",
+      "Quản lý nhà nước",
+      "Phát triển kinh tế địa phương"
+    ],
+    "key_concepts": [
+      "Doanh nghiệp và năng lực cạnh tranh",
+      "Vai trò của nhà nước và chính quyền địa phương",
+      "Chiến lược và quy hoạch phát triển kinh tế địa phương"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Hiểu được vai trò của doanh nghiệp trong phát triển kinh tế địa phương",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ nắm vững kiến thức về vai trò của doanh nghiệp trong phát triển kinh tế địa phương"
+    },
+    {
+      "skill_name": "Hiểu được nguyên lý hoạt động của doanh nghiệp",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ nắm vững kiến thức về nguyên lý hoạt động của doanh nghiệp"
+    },
+    {
+      "skill_name": "Hiểu được các yếu tố tạo nên năng lực cạnh tranh của doanh nghiệp",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ nắm vững kiến thức về các yếu tố tạo nên năng lực cạnh tranh của doanh nghiệp"
+    },
+    {
+      "skill_name": "Hiểu được vai trò của nhà nước trong quản lý phát triển kinh tế địa phương",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ nắm vững kiến thức về vai trò của nhà nước trong quản lý phát triển kinh tế địa phương"
+    },
+    {
+      "skill_name": "Hiểu được cách thức xây dựng chiến lược, quy hoạch phát triển kinh tế địa phương",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ nắm vững kiến thức về cách thức xây dựng chiến lược, quy hoạch phát triển kinh tế địa phương"
+    },
+    {
+      "skill_name": "Có kỹ năng tư duy, phân tích chiến lược, quy hoạch phát triển kinh tế địa phương",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ phát triển được kỹ năng tư duy, phân tích chiến lược, quy hoạch phát triển kinh tế địa phương"
+    },
+    {
+      "skill_name": "Có kỹ năng hoạch định và tổ chức thực hiện các chiến lược, quy hoạch triển kinh tế xã hội của địa phương",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ phát triển được kỹ năng hoạch định và tổ chức thực hiện các chiến lược, quy hoạch triển kinh tế xã hội của địa phương"
+    },
+    {
+      "skill_name": "Có năng lực làm việc độc lập, chịu trách nhiệm",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ thể hiện được năng lực làm việc độc lập, chịu trách nhiệm"
+    },
+    {
+      "skill_name": "Có nhận thức về trách nhiệm xã hội, đạo đức nghề nghiệp và rèn luyện được khả năng học hỏi",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sinh viên sẽ thể hiện được nhận thức về trách nhiệm xã hội, đạo đức nghề nghiệp và rèn luyện được khả năng học hỏi"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 60,
+    "practice_percentage": 40,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản lý nhà nước trong nền kinh tế thị trường"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Hiểu biết về quản lý doanh nghiệp",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Hiểu biết về quản lý nhà nước",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "course_id": "TNKT1116",
+  "title": "Phân tích chính sách nông nghiệp nông thôn",
+  "overview": "Học phần này tập trung vào việc phân tích các khía cạnh từ hoạch định, thực thi đến đánh giá kết quả thực hiện chính sách nhằm thúc đẩy phát triển bền vững nông nghiệp nông thôn.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Agricultural Economics",
+      "Policy Analysis"
+    ],
+    "key_concepts": [
+      "Policy Analysis",
+      "Agricultural Economics",
+      "Rural Development"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng các kiến thức & công cụ về kinh tế, các phương pháp phân tích sản xuất và tiêu dùng nông sản, phương pháp phân tích ngành hàng áp dụng trong phân tích các chính sách nông nghiệp và nông thôn."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Phân tích các chính sách nông nghiệp và nông thôn, cũng như áp dụng các kết quả phân tích vào quá trình hoạch định, thực hiện và đánh giá kết quả thực hiện chính sách nông nghiệp nông thôn."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh nông nghiệp I (TNKT1153)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Agricultural Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Policy Analysis",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

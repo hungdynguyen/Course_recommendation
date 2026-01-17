@@ -1,0 +1,64 @@
+{
+  "course_id": "TNDC1152",
+  "title": "Chuyên đề thực tế",
+  "overview": "Học phần chuyên đề thực tế là học phần bắt buộc của ngành Quản lý đất đai tại Trường Đại học Kinh tế quốc dân. Sinh viên sẽ vận dụng kiến thức đã học vào phân tích, liên hệ thực tiễn và đề xuất các ý tưởng liên quan đến lĩnh vực kinh tế, quản lý và sử dụng đất.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 200,
+    "credits": 4
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quản lý đất đai",
+    "sub_domains": [
+      "Kinh tế",
+      "Quản lý",
+      "Sử dụng đất"
+    ],
+    "key_concepts": [
+      "Chính sách đất đai",
+      "Phân tích tình huống thực tế",
+      "Làm việc nhóm"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Kiến thức kinh tế liên quan đến lĩnh vực quản lí đất đai",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Tổng hợp và phân tích các vấn đề lý thuyết và thực tiễn thuộc lĩnh vực quản lý đất đai"
+    },
+    {
+      "skill_name": "Khả năng giải thích và phân tích các vấn đề quản lí đất đai thực tế tại cơ sở qua quan sát thực tế",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Liên hệ vấn đề lý thuyết và thực tế quản lý và sử dụng đất đai tại cơ sở"
+    },
+    {
+      "skill_name": "Có khả năng làm việc cá nhân lựa chọn chính sách, giải quyết một vấn đề về quản lí đất đai",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Giải thích những vấn đề còn tồn tại trong quản lý đất đai đặt ra tại cơ sở"
+    },
+    {
+      "skill_name": "Nhận thức được tầm quan trọng của chủ đề quản lí đất đai tại cơ sở và hình thành ý tưởng, hướng giải quyết một vấn đề quản lí đất đai",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Chủ động trong học tập, nghiên cứu, làm việc nhóm"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Sinh viên hoàn thành các học phần thuộc khối kiến thức cơ sở ngành"
+    ],
+    "minimum_entry_skills": []
+  }
+}
