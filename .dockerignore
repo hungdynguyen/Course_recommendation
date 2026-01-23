@@ -1,0 +1,84 @@
+# Data directories - should be mounted as volumes
+data/elasticsearch/
+data/mysql/
+data/neo4j/
+data/processed/
+data/raw/
+
+# Logs
+logs/
+*.log
+
+# Testing files
+testing/
+*.test.py
+test_*.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Docker files
+docker-compose.yml
+docker-compose*.yml
+Dockerfile
+.dockerignore
+
+# Documentation
+*.md
+!README.md
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Environment variables (should use build args or runtime config)
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+tmp/
+temp/

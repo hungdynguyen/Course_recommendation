@@ -9,11 +9,11 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements and install Python dependencies
-COPY src/service_api/requirements.txt .
+COPY services/service_api/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy source code (will be overridden by volume in dev mode)
-COPY . .
+COPY services/service_api /app
 
 # Expose API port
 EXPOSE 8000
