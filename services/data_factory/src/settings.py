@@ -22,6 +22,7 @@ class ElasticsearchConfig:
 class EmbeddingConfig:
     provider: str
     model_name: str
+    model_path: Optional[str]  # Local path to trained model (overrides model_name if provided)
     batch_size: int
     device: str
     normalize: bool

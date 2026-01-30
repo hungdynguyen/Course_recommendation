@@ -39,6 +39,7 @@ data/neo4j/
 data/mysql/
 data/graph/
 *.db
+models/
 
 # Cache
 .cache/

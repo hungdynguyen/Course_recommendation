@@ -1,0 +1,25 @@
+import requests
+
+token="EwBIBMl6BAAUu4TQbLz/EdYigQnDPtIo76ZZUKsAATrOh+ByS1Zk4NYPfbZ9ej1FjJjI/v7OW3w+RPkvf6CwSWd1lpYKIFdjA/TNztg6dBQ9oJlcHyf8lLduvcdUffEra5sm17idQhohvJAk2Z/84wrEOOmPf6J0m/3qfC3nGcdzFN/w8vQlbcsAMoXnadMZN4s3/1qkucJntTul6XMEwlooNJ6akDm1mQgYM+CNTszq2/ZMeLbUmpiZB93DGQ/8nym0tBxoDBmhYntbtR0473+6gbITnCh+LZNdw9JUkSvXGXfwvFAEJso1dpk24zKTgCgOjL00Bb0l1Nw1q+PKbQxYVuhDW86MMmOUg/FJWFnHnKwp9M7JoZM3PtgcxB4QZgAAEBqTFSnS3DdLdr4g6w0+47kQAyCtK+1N8wTXFC6dnRtLhzsgyPQY0v4hFEH8cznYu0TKJa8qw09xfxoV1z67wb47elMzI3RO6tHPPPxr++EtrX4g63QmBPFTsFn0yL4dAVgi+0eJhBr5wEAmxwOrJ7M/utjfmPQVTal6ptRVOZWthuwU0KgwToesHo6xrb+xxkDZI0UT939AKNR+LFI80b8FFNgh+BHYLorRa1mgWWZdU2Q2cZmYsLM9d4B2UG0Qv3lrixwf1EBIqOIuTrn4F7DZ/zdt2f4TdONeVr3jcKdNdj4XvWHvSe+8n0OpxwzDowD6kbuBx9VW5E1fTNA/tDSGI7BUQIBYQqyX3FNPrXGrrEIzcJkTBm8w5FcUBH8MFgb9Y3GHmhhKJNaoklDyRFryeJ3IL61gLsbbEPGAoMW9D467/qUteOKHRu6Mu4G0ZeBvcP6FNMwQnGeOuh3PQ7sN5xcBMdVZL0U8ITlC+Gc4ONhxXXqL3jJC/ro6fbzi3lDcSPD6jKYqUxYycVlTvW0aL4TOnHgjLTEMkXAfs3R3mS0n6ovpqB2ICra6joLi7J6WSp6WMG9lP8onaDACViiWuoylDGp1/MbUE9JrG9EerJEhSXkBShhHH9r5FO5bapkUuEZWktMey1AWe4J67kcublRZx6AERP2zoelh+rGVRNTPlZ4Z8zc6x68HVNonlZ9AUu8M5odvtjHllqeHZPrwcVb/GiGNZOgbRnGlKuA9IxeKZ7twe1rMK/HrNxH+7172xBzSQnBKX1zchtHzkcpn6gsgHo7xcti/duwfgttHK+qgpCB+ev8Cpp2IyXRabtkJLsp9PTHWka6ChcN/xhzchN0nfCZNAuu52mIML8zkQKuM4ylXQdjpqudFe46tEHP72ngV5qysAC2qSJu78OQ2nBucjUgDLbXUNXfeRZKqTYIjp5ukH3xpEoynlO087r/uMxKkmBhI/0EyMzN3rS5hSm5dD+uQy4R8w3GAMCOGpjVhUKBt6aOEHFM7MBCMRCoJ6pWSCpVkh9khFBYWX0uLQ8cyddt8rWEnhsWbh86lAGJCAw=="
+
+url = "https://graph.microsoft.com/v1.0/me/drive/items/8A651C97CCFE1043!sdca64b0c5e6244249524981f68651239/content"
+
+response = requests.get(
+    url,
+    headers={
+        "Authorization": f"Bearer {token}"
+    }
+)
+
+response.raise_for_status()
+
+import io
+
+file_bytes = io.BytesIO(response.content)
+
+import pandas as pd
+
+# read excel
+df = pd.read_excel(file_bytes, sheet_name='Task')
+print(df.head())
+

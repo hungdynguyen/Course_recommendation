@@ -19,9 +19,10 @@ elasticsearch:
 
 embedding:
   provider: sentence_transformers
-  model_name: Qwen/Qwen3-Embedding-0.6B
+  model_name: Qwen/Qwen3-Embedding-0.6B  
+  model_path: models/qwen_embedding_finetuned
   batch_size: 2
-  device: cuda
+  device: cuda  # 'cuda' hoặc 'cpu'
   normalize: true
 
 reranker:
