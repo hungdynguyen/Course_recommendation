@@ -1,0 +1,11 @@
+{
+  "total_samples": 41805,
+  "unique_skills": 13935,
+  "variations_per_skill": 3,
+  "hard_negatives_per_sample": 3,
+  "success_rate": 0.3473706865628811,
+  "processing_time_seconds": 13213.291653871536,
+  "created_at": "2026-01-31T14:10:56.591922",
+  "model": "gemini-2.5-pro",
+  "concurrent_requests": 50
+}

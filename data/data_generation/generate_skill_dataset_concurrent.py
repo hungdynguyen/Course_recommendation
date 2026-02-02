@@ -26,11 +26,13 @@ OUTPUT_DIR = BASE_DIR / "processed" / "training_dataset"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Generation parameters
-TARGET_SAMPLES = 30
+TARGET_SAMPLES = 41817
 VARIATIONS_PER_SKILL = 3  # Number of positive variations per skill
-NUM_HARD_NEGATIVES = 2  # Number of hard negatives per skill
-LLM_MODEL = "gemini-3-flash-preview"
-MAX_CONCURRENT_REQUESTS = 20  # Number of concurrent API calls
+NUM_HARD_NEGATIVES = 3  # Total hard negatives (1 per query variation)
+NEGATIVES_PER_QUERY = 1  # Number of negatives per query
+# LLM_MODEL = "gemini-3-flash-preview"
+LLM_MODEL = "gemini-2.5-pro"
+MAX_CONCURRENT_REQUESTS = 50  
 CHECKPOINT_INTERVAL = 50  # Save progress every N skills
 MAX_RETRIES = 3  # Retry failed requests
 
@@ -55,6 +57,8 @@ class SkillDatasetGenerator:
                 raise FileNotFoundError(f"ESCO skills file not found: {skills_file}")
         
         df = pd.read_csv(skills_file, encoding='utf-8')
+        # Replace NaN with empty strings
+        df = df.fillna('')
         self.esco_skills = df.to_dict('records')
         
         print(f"Loaded {len(self.esco_skills)} ESCO skills from CSV")
@@ -64,14 +68,16 @@ class SkillDatasetGenerator:
         """Generate both positive variations and hard negatives in a single prompt"""
         async with semaphore:
             skill_name = skill.get('preferredLabel', 'Unknown Skill')
-            skill_description = skill.get('description', '')
-            skill_definition = skill.get('definition', '')
-            skill_scope_note = skill.get('scopeNote', '')
+            skill_description = str(skill.get('description', '')).strip() if pd.notna(skill.get('description')) else ''
+            skill_definition = str(skill.get('definition', '')).strip() if pd.notna(skill.get('definition')) else ''
+            skill_scope_note = str(skill.get('scopeNote', '')).strip() if pd.notna(skill.get('scopeNote')) else ''
             skill_uri = skill.get('conceptUri', '')
             skill_type = skill.get('skillType', '')
             alt_labels = skill.get('altLabels', '')
             
-            full_description = f"{skill_description} {skill_definition} {skill_scope_note}".strip()
+            # Build full_description by joining non-empty parts
+            desc_parts = [p for p in [skill_description, skill_definition, skill_scope_note] if p]
+            full_description = ' '.join(desc_parts).strip()
             if not full_description:
                 full_description = skill_name
             
@@ -163,11 +169,24 @@ Output format: Return ONLY a JSON object with this structure:
         print(f"  - Hard negatives per skill: {NUM_HARD_NEGATIVES}")
         
         checkpoint_file = OUTPUT_DIR / "dataset_checkpoint.json"
+        final_dataset_file = OUTPUT_DIR / "skill_finetuning_dataset.json"
         
-        # Load existing checkpoint if available
+        # Load existing successful skills from final dataset
         results = []
         processed_uris = set()
-        if checkpoint_file.exists():
+        
+        # Priority 1: Load from final dataset file (successful skills)
+        if final_dataset_file.exists():
+            try:
+                with open(final_dataset_file, 'r', encoding='utf-8') as f:
+                    existing_dataset = json.load(f)
+                processed_uris = {item['metadata']['skill_uri'] for item in existing_dataset}
+                print(f"  📂 Loaded {len(processed_uris)} successfully processed skills from final dataset")
+            except Exception as e:
+                print(f"  ⚠️ Could not load final dataset: {e}")
+        
+        # Priority 2: Load from checkpoint if final dataset doesn't exist
+        if not processed_uris and checkpoint_file.exists():
             try:
                 with open(checkpoint_file, 'r', encoding='utf-8') as f:
                     results = json.load(f)
@@ -224,14 +243,21 @@ Output format: Return ONLY a JSON object with this structure:
         
         return successful_results
     
-    def format_final_dataset(self, results: List[Dict]) -> List[Dict]:
+    def format_final_dataset(self, results: List[Dict], existing_dataset: List[Dict] = None) -> List[Dict]:
         """Format the generated data into final training dataset structure"""
         print(f"\n{'='*60}")
         print("Formatting Final Dataset")
         print(f"{'='*60}")
         
+        # Start with existing dataset if provided
+        final_dataset = existing_dataset if existing_dataset else []
+        existing_count = len(final_dataset)
+        
+        if existing_count > 0:
+            print(f"  📂 Starting with {existing_count} existing samples")
+        
         # Format into final structure
-        final_dataset = []
+        new_samples = []
         skipped_count = 0
         
         for result in results:
@@ -247,12 +273,23 @@ Output format: Return ONLY a JSON object with this structure:
                 skipped_count += 1
                 continue
             
-            # Create a sample for each variation
-            for variation in variations:
-                final_dataset.append({
+            # Ensure we have enough negatives
+            if len(hard_negatives) < NUM_HARD_NEGATIVES:
+                skipped_count += 1
+                continue
+            
+            # Create a sample for each variation with unique negative
+            for idx, variation in enumerate(variations):
+                # Mỗi query lấy 1 negative riêng
+                if idx >= len(hard_negatives):
+                    continue  # Skip nếu không đủ negatives
+                
+                query_negative = [hard_negatives[idx]]  # 1 negative duy nhất
+                
+                new_samples.append({
                     'query': variation,
                     'positive': f"{result['skill_name']}. {result['original_description']}",
-                    'negatives': hard_negatives,
+                    'negatives': query_negative,
                     'metadata': {
                         'skill_uri': result['skill_uri'],
                         'skill_name': result['skill_name'],
@@ -263,11 +300,16 @@ Output format: Return ONLY a JSON object with this structure:
                     }
                 })
         
+        # Add new samples to final dataset
+        final_dataset.extend(new_samples)
+        
         if skipped_count > 0:
             print(f"  ⚠️ Skipped {skipped_count} skills with missing data")
         
+        print(f"  ✅ Added {len(new_samples)} new samples")
+        
         unique_skills = len(set(s['metadata']['skill_uri'] for s in final_dataset))
-        print(f"✅ Formatted {len(final_dataset)} samples from {unique_skills} skills")
+        print(f"✅ Total: {len(final_dataset)} samples from {unique_skills} skills")
         
         return final_dataset
     
@@ -292,14 +334,24 @@ Output format: Return ONLY a JSON object with this structure:
         
         start_time = time.time()
         
+        # Load existing dataset if it exists
+        output_file = OUTPUT_DIR / "skill_finetuning_dataset.json"
+        existing_dataset = []
+        if output_file.exists():
+            try:
+                with open(output_file, 'r', encoding='utf-8') as f:
+                    existing_dataset = json.load(f)
+                print(f"  📂 Loaded {len(existing_dataset)} existing samples from final dataset")
+            except Exception as e:
+                print(f"  ⚠️ Could not load existing dataset: {e}")
+        
         # Generate both positive variations AND hard negatives in one go
         results = await self.generate_dataset_batch(skills_to_process)
         
-        # Format into final dataset structure
-        final_dataset = self.format_final_dataset(results)
+        # Format into final dataset structure (merge with existing)
+        final_dataset = self.format_final_dataset(results, existing_dataset)
         
         # Save final dataset
-        output_file = OUTPUT_DIR / "skill_finetuning_dataset.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(final_dataset, f, ensure_ascii=False, indent=2)
         
@@ -314,8 +366,6 @@ Output format: Return ONLY a JSON object with this structure:
         
         # Save as CSV
         df_simple = pd.DataFrame(simplified_data)
-        csv_file = OUTPUT_DIR / "skill_finetuning_dataset_simple.csv"
-        df_simple.to_csv(csv_file, index=False, encoding='utf-8-sig')
         
         # Save as Excel
         excel_file = OUTPUT_DIR / "skill_finetuning_dataset_simple.xlsx"
@@ -351,7 +401,6 @@ Output format: Return ONLY a JSON object with this structure:
         print(f"  - Processing time: {elapsed_time:.1f}s ({elapsed_time/60:.1f}m)")
         print(f"\n📁 Output:")
         print(f"  - Dataset: {output_file}")
-        print(f"  - Simplified CSV: {csv_file}")
         print(f"  - Simplified Excel: {excel_file}")
         print(f"  - Statistics: {stats_file}")
         print(f"\n🎯 Ready for fine-tuning!")

@@ -1,0 +1,21 @@
+{
+  "conversion_info": {
+    "input_file": "/root/courses_rec/data/processed/training_dataset/skill_finetuning_dataset.json",
+    "output_file": "/root/courses_rec/data/processed/training_dataset/skill_finetuning_dataset_triplets.json",
+    "converted_at": "2026-02-02T11:01:10.335449"
+  },
+  "old_format": {
+    "total_samples": 41805,
+    "structure": "query + positive + negatives (list)"
+  },
+  "new_format": {
+    "total_samples": 41805,
+    "unique_triplets": 41805,
+    "duplicates_removed": 0,
+    "structure": "query + positive + negative (single)"
+  },
+  "skills": {
+    "unique_skills": 13935,
+    "avg_samples_per_skill": 3.0
+  }
+}
