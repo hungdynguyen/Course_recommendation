@@ -40,6 +40,7 @@ data/mysql/
 data/graph/
 *.db
 models/
+data/Khóa luận - bản lần 1
 
 # Cache
 .cache/

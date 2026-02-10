@@ -236,7 +236,7 @@ def main():
     
     # Paths
     base_dir = Path(__file__).resolve().parent.parent.parent.parent
-    dataset_file = base_dir / "data" / "processed" / "training_dataset" / "skill_finetuning_dataset.json"
+    dataset_file = base_dir / "data" / "processed" / "training_dataset" / "test_dataset.json"
     
     if not dataset_file.exists():
         LOGGER.error(f"Dataset file not found: {dataset_file}")
