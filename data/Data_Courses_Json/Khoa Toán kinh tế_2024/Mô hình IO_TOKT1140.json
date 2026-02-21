@@ -1,45 +1,61 @@
 {
   "course_id": "TOkt1140",
   "title": "Input-Output Model",
-  "overview": "This course provides professional knowledge for the Economics and Mathematics specialization. It equips students with basic knowledge about the Input-Output model and its analysis in economics. The course uses Excel to practice with real data, aiming for practical application so that students can analyze and forecast demand for resources in the economy based on different scenarios.",
   "difficulty_level": "Beginner",
-  "duration": {
-    "total_hours": 150,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Economics",
-    "sub_domains": [
-      "Microeconomics",
-      "Macroeconomics",
-      "Mathematics for Economists"
-    ],
-    "key_concepts": [
-      "Input-Output Model",
-      "National Accounting System",
-      "Value and Physical Input-Output Tables",
-      "Economic Analysis from Input-Output Model"
-    ]
-  },
+  "duration": "45 hours",
   "skill_outcomes": [
     {
-      "skill_name": "Understanding and applying Input-Output model",
-      "category": "Tool/Software",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Students will be able to understand and apply the Input-Output model using Excel."
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze economic models and systems."
     },
     {
-      "skill_name": "Analyzing economic data",
+      "skill_name": "Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical concepts to economic models."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret data using Excel."
+    },
+    {
+      "skill_name": "Critical Thinking",
       "category": "Soft Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Create",
-      "outcome_description": "Students will be able to analyze economic data and make predictions based on different scenarios."
+      "outcome_description": "Evaluate and critique economic models and data."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to solve economic problems."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and economic analyses."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and apply findings to economic models."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Use Excel for data analysis and economic modeling."
+    },
+    {
+      "skill_name": "Input-Output Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply Input-Output models in economic analysis."
+    },
+    {
+      "skill_name": "National Accounts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze national accounts data."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 30,
-    "practice_percentage": 70,
     "has_project": true
   },
   "entry_requirements": {
@@ -48,6 +64,19 @@
       "Macroeconomics 1",
       "Mathematics for Economists"
     ],
-    "minimum_entry_skills": []
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Mathematics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "minimum_proficiency_level": 2
+      }
+    ]
   }
 }

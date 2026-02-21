@@ -1,0 +1,72 @@
+{
+  "course_id": "NNKC 1132",
+  "title": "English 2",
+  "difficulty_level": "Intermediate",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening",
+      "category": "Soft Skill",
+      "outcome_description": "Understand main ideas and take notes on short dialogues and monologues in academic contexts."
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively on a range of topics, using appropriate vocabulary and grammar structures."
+    },
+    {
+      "skill_name": "Reading",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend main ideas and extract specific details from texts, understand context."
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Construct sentences and paragraphs, develop arguments and present ideas coherently."
+    },
+    {
+      "skill_name": "English Language Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Improve overall English proficiency for academic and professional contexts."
+    },
+    {
+      "skill_name": "IELTS Preparation",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare for IELTS exams, focusing on listening, speaking, reading, and writing skills."
+    },
+    {
+      "skill_name": "Business English",
+      "category": "Hard Skill",
+      "outcome_description": "Enhance business English communication skills."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate information from texts and discussions."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Participate in group discussions and collaborative activities."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and prepare for exams."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "English 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English Proficiency",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

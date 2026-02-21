@@ -1,0 +1,103 @@
+{
+  "course_id": "TOCB1111",
+  "title": "Giải tích 1",
+  "overview": "Học phần trang bị cho người học những kiến thức cơ bản, cần thiết của Giải tích toán học, bao gồm: phép toán vi phân và phép toán tích phân hàm số một biến, phép toán vi phân hàm số nhiều biến và các ứng dụng của giải tích trong kinh tế và kinh doanh để người học có thể tiếp cận, phân tích, nghiên cứu các mô hình kinh tế bằng các phương pháp toán học.",
+  "difficulty_level": "Intermediate",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Mathematics",
+    "sub_domains": [
+      "Calculus",
+      "Economics"
+    ],
+    "key_concepts": [
+      "Single variable calculus",
+      "Multivariable calculus",
+      "Applications in economics and business"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding of basic concepts",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Students will be able to articulate basic concepts of single variable functions, limits, continuity, derivatives, and extrema of single variable functions."
+    },
+    {
+      "skill_name": "Integration techniques",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to explain basic concepts of indefinite and definite integrals, integration methods, and improper integrals."
+    },
+    {
+      "skill_name": "Multivariable functions",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to describe basic concepts of two-variable and three-variable functions, partial derivatives, and extrema of two-variable functions."
+    },
+    {
+      "skill_name": "Economic concepts",
+      "category": "Hard Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to list and describe basic economic concepts such as supply function, demand function, cost function, revenue function, profit function, production function, marginal analysis, price elasticity of demand, consumer surplus, and producer surplus."
+    },
+    {
+      "skill_name": "Problem solving",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply knowledge of limits, derivatives, and extrema of single variable functions to establish models and solve application problems in economics and business such as maximizing profit, maximizing revenue, minimizing cost."
+    },
+    {
+      "skill_name": "Integration applications",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply knowledge of integration to calculate net change, present value, and future value of an income stream, consumer surplus, and producer surplus."
+    },
+    {
+      "skill_name": "Multivariable calculus applications",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply basic knowledge of multivariable calculus to solve problems: maximizing profit, maximizing revenue, minimizing cost, optimal resource allocation."
+    },
+    {
+      "skill_name": "Mathematical problem solving",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to apply methods of mathematical analysis to solve problems in practice, economics, and business."
+    },
+    {
+      "skill_name": "Independent learning",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to develop the ability to learn independently, work independently, and work in groups."
+    },
+    {
+      "skill_name": "Responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Students will be able to develop the ability to take personal responsibility and partial responsibility for the group."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

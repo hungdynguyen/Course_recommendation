@@ -1,0 +1,67 @@
+{
+  "course_id": "CNTT1159",
+  "title": "Information Technology Project Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and differentiate basic concepts of IT projects, apply project management knowledge to manage IT projects, distinguish functions and tasks of a project manager, and manage project phases and areas."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Develop leadership skills to organize and lead project teams, manage project progress, quality, communication, and risks."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills for effective project management, including report writing and presentation."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving skills to analyze and resolve issues related to IT projects."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork skills, understand responsibilities, and professional ethics."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills to research and complete assignments."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Improve critical thinking skills to evaluate and manage IT projects effectively."
+    },
+    {
+      "skill_name": "IT Project Management Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use software tools like Microsoft Project, Jira, and Trello to manage IT projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology - CNTT1116",
+      "System Analysis and Design - CNTT1117"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Information Technology",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Project Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

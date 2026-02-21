@@ -1,0 +1,67 @@
+{
+  "course_id": "TOKT1143",
+  "title": "Phân tích thống kê nhiều chiều",
+  "overview": "Học phần này nằm trong khối kiến thức giáo dục chuyên nghiệp của chương trình đào tạo bậc cử nhân khối ngành Kinh tế và Quản trị kinh doanh. Học phần cung cấp những kiến thức chuyên nghiệp cho chuyên ngành Toán kinh tế. Nội dung của học phần tập trung vào các phương pháp và kỹ thuật phân tích thống kê với số liệu nhiều chiều. Các phương pháp này có tính ứng dụng cao trong phân tích kinh tế xã hội và quản trị kinh doanh.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Toán kinh tế",
+    "sub_domains": [
+      "Phân tích thống kê",
+      "Phân tích nhân tố",
+      "Phân tích tương ứng",
+      "Phân tích tương quan",
+      "Phân tích phân cụm",
+      "Phân tích khác biệt"
+    ],
+    "key_concepts": [
+      "Phân tích hồi quy",
+      "Phân tích tương quan",
+      "Phân tích nhân tố",
+      "Phân tích tương ứng",
+      "Phân tích tương quan chính tắc",
+      "Phân tích phân cụm",
+      "Phân tích khác biệt"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích thống kê nhiều chiều",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Áp dụng các phương pháp phân tích thống kê nhiều chiều với sự hỗ trợ của các phần mềm thống kê chuyên dụng"
+    },
+    {
+      "skill_name": "Kỹ năng tự học",
+      "category": "Soft Skill",
+      "target_proficiency_level": 5,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Phát triển khả năng tự học hỏi, làm việc độc lập, làm việc theo nhóm, chịu trách nhiệm cá nhân và trách nhiệm một phần đối với nhóm"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Lý thuyết xác suất",
+      "Thống kê toán"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Phân tích thống kê cơ bản",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Kỹ năng sử dụng phần mềm thống kê",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "course_id": "TOkt1128",
+  "title": "Econometrics 2",
+  "overview": "Econometrics 2 introduces several classes of econometric models widely used in economic analysis, including dynamic regression models, multiple equation regression models, regression models with limited dependent variables, and regression models with panel data.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 135,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Dynamic Regression Models",
+      "Multiple Equation Regression Models",
+      "Limited Dependent Variable Models",
+      "Panel Data Regression Models"
+    ],
+    "key_concepts": [
+      "Autoregressive Models",
+      "Distributed Lag Models",
+      "Logit and Probit Models",
+      "Ordinal and Multinomial Logit Models",
+      "Panel Data Models"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Model Identification and Classification",
+      "category": "Soft Skill",
+      "target_proficiency_level": 1,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Recognize and understand the classification of common dynamic models: autoregressive models, distributed lag models."
+    },
+    {
+      "skill_name": "Understanding Short and Long Term Effects",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the meaning of short-term and long-term impact coefficients in dynamic models."
+    },
+    {
+      "skill_name": "Model Specification and Estimation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 1,
+      "bloom_taxonomy_level": "Remember",
+      "outcome_description": "Understand the specification of multiple equation models and estimation methods."
+    },
+    {
+      "skill_name": "Model Comparison",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Differentiate the mathematical-statistical nature of logit-probit models, ordinal logit models, multinomial logit models from linear regression models."
+    },
+    {
+      "skill_name": "Panel Data Regression Models",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Understand the mathematical-statistical nature of regression models with panel data."
+    },
+    {
+      "skill_name": "Economic Research Linkage",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Relate economic, financial, and business research issues to econometric methods."
+    },
+    {
+      "skill_name": "Model Selection",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Determine the appropriate model form based on the nature of relationships between variables and the classification of dependent variables."
+    },
+    {
+      "skill_name": "Software Application",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Use specialized software to estimate coefficients in models with specific data."
+    },
+    {
+      "skill_name": "Short and Long Term Impact Assessment",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Evaluate the short-term and long-term impact of independent variables on continuous dependent variables."
+    },
+    {
+      "skill_name": "Impact Assessment in System of Equations",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Evaluate the impact of independent variables on dependent variables in a system of equations."
+    },
+    {
+      "skill_name": "Impact Assessment for Discrete Dependent Variables",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Evaluate the marginal impact of independent variables on discrete dependent variables."
+    },
+    {
+      "skill_name": "Impact Assessment Considering Fixed and Random Effects",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Evaluate the impact of independent variables on dependent variables while considering both fixed and random effects of unobserved factors."
+    },
+    {
+      "skill_name": "Active Learning and Research",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Be proactive in learning, research, and group work."
+    },
+    {
+      "skill_name": "Proactive Problem Selection",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Be proactive in selecting issues, data, models, and using software for calculation and analysis."
+    },
+    {
+      "skill_name": "Proactive Presentation",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Be proactive in presenting research results."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Econometrics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Econometric Models",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Regression Analysis",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "course_id": "TOkt1101",
+  "title": "Econometrics 1",
+  "overview": "This course presents the basic knowledge and skills of econometrics, applied in economic, financial, and business analysis. It guides students through the methodology, steps to build, evaluate, and analyze regression model results, supporting decision-making and policy evaluation. Econometrics 1 focuses on cross-sectional data analysis methods, quantitative and qualitative variables, and introduces time series regression.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Probability Theory and Mathematical Statistics"
+    ],
+    "key_concepts": [
+      "Regression Analysis",
+      "OLS Estimation",
+      "Model Evaluation",
+      "Time Series Analysis"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Econometric Methods",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to understand and apply econometric methods in economic, financial, and business analysis."
+    },
+    {
+      "skill_name": "Building and Evaluating Regression Models",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to build and evaluate regression models using statistical software."
+    },
+    {
+      "skill_name": "Analyzing Results for Decision Making",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze results to support decision-making and policy evaluation."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Probability Theory and Mathematical Statistics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Understanding of Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

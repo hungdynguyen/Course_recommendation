@@ -1,55 +1,77 @@
 {
   "course_id": "TOkt1150",
   "title": "Graduation Thesis",
-  "overview": "Graduation Thesis is a course conducted after students have completed general education, industry knowledge, specialized courses, and supplementary knowledge. The course does not have scheduled class hours, but students work individually with their advisors. Students may choose to intern at a unit to familiarize themselves with the working environment, applying their knowledge and skills to solve practical problems or conduct research.",
-  "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 150,
-    "credits": 10
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Economics and Finance",
-    "sub_domains": [
-      "General Knowledge",
-      "Industry Knowledge",
-      "Specialized Knowledge"
-    ],
-    "key_concepts": [
-      "Research Methodology",
-      "Problem Solving",
-      "Critical Thinking"
-    ]
-  },
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
   "skill_outcomes": [
     {
-      "skill_name": "Systematize Knowledge",
+      "skill_name": "Research Methodology",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Create",
-      "outcome_description": "Systematize knowledge from general education, industry knowledge, specialized courses, and supplementary knowledge."
+      "outcome_description": "Systematize knowledge and apply research methods to solve practical problems."
     },
     {
-      "skill_name": "Apply Knowledge",
-      "category": "Hard Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Apply knowledge and skills to solve practical problems or conduct research."
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate research findings, propose solutions and policies."
     },
     {
       "skill_name": "Independent Learning",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Demonstrate independent learning and responsibility."
+      "outcome_description": "Develop self-study habits and take responsibility for personal learning."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Present research findings effectively and defend arguments before a panel."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic theories and models to practical issues."
+    },
+    {
+      "skill_name": "Finance",
+      "category": "Hard Skill",
+      "outcome_description": "Apply financial theories and models to practical issues."
+    },
+    {
+      "skill_name": "Python",
+      "category": "Hard Skill",
+      "outcome_description": "Use Python for data analysis and modeling."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct statistical analysis using software like Eviews, STATA, SPSS, R, SAS."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports and summaries."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 0,
-    "practice_percentage": 100,
     "has_project": true
   },
   "entry_requirements": {
-    "prerequisite_courses": [],
-    "minimum_entry_skills": []
+    "prerequisite_courses": [
+      "General Education",
+      "Major Knowledge",
+      "Specialized Knowledge"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Research Methodology",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Finance",
+        "minimum_proficiency_level": 3
+      }
+    ]
   }
 }

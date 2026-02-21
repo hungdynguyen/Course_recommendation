@@ -1,0 +1,66 @@
+{
+  "course_id": "TOkt1144",
+  "title": "TỐI ƯU HÓA",
+  "overview": "Học phần cung cấp các kiến thức về Tối ưu hóa cho sinh viên ngành Toán kinh tế, việc phân tích cách thức đi đến phương án tối ưu và điều chỉnh phương án tối ưu khi yếu tố đầu vào thay đổi sẽ hướng tới rèn luyện tư duy tối ưu khi giải quyết các bài toán kinh tế với nhiều yếu tố ràng buộc và luôn chứa nhiều biến động.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Toán kinh tế",
+    "sub_domains": [
+      "Đại số",
+      "Giải tích 1",
+      "Giải tích 2"
+    ],
+    "key_concepts": [
+      "Tối ưu hóa",
+      "Quy hoạch tuyến tính",
+      "Đối ngẫu"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Cấu trúc bài toán tối ưu",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Nắm được cấu trúc của bài toán tối ưu tổng quát, cách xây dựng bài toán tối ưu từ các vấn đề kinh tế, tài chính."
+    },
+    {
+      "skill_name": "Điều kiện tối ưu",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Sử dụng điều kiện cần và đủ tối ưu để tìm và phân loại điểm cực trị của hàm số trên tập ràng buộc cho trước."
+    },
+    {
+      "skill_name": "Quy hoạch tuyến tính",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Vận dụng thành thạo kiến thức về bài toán quy hoạch tuyến tính và bài toán đối ngẫu trong việc giải quyết các bài toán cụ thể."
+    },
+    {
+      "skill_name": "Phần mềm R",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Sử dụng được những câu lệnh cơ bản trong phần mềm R. Áp dụng phần mềm R vào giải quyết một số bài toán tối ưu."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 50,
+    "practice_percentage": 50,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Đại số",
+      "Giải tích 1",
+      "Giải tích 2"
+    ],
+    "minimum_entry_skills": []
+  }
+}

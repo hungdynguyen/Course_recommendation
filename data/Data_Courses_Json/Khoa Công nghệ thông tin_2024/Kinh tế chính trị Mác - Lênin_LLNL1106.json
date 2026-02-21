@@ -1,0 +1,72 @@
+{
+  "course_id": "LLNL1106",
+  "title": "Political Economics of Marxism and Leninism",
+  "difficulty_level": "Beginner",
+  "duration": "30 hours in-class, 70 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand core concepts of Marxist and Leninist political economics, including market dynamics, value theory, and surplus value."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate economic relationships and interests in the context of modern socio-economic development."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning habits and the ability to accumulate knowledge and experience to enhance professional competence."
+    },
+    {
+      "skill_name": "Global Citizenship",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and global awareness in personal and professional contexts."
+    },
+    {
+      "skill_name": "Marxist Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the fundamental theories of value labor, surplus value, and market dynamics as proposed by Marx and Lenin."
+    },
+    {
+      "skill_name": "Leninist Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand Lenin's theories on monopoly and state monopoly in capitalist market economies."
+    },
+    {
+      "skill_name": "Socialism-Oriented Market Economy",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the characteristics and relationships of interests in a socialism-oriented market economy in Vietnam."
+    },
+    {
+      "skill_name": "Economic Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the process of industrialization, modernization, and economic integration in Vietnam."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply research methods and theories to analyze economic phenomena and relationships."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize theoretical foundations to solve economic problems and conflicts of interest in practical scenarios."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Philosophy of Marxism-Leninism"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

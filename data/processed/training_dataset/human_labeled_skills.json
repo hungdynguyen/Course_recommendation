@@ -1,0 +1,1164 @@
+[
+  {
+    "course_skill_id": 0,
+    "course_skill_text": "English Language Proficiency",
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "esco_name": "English",
+    "esco_description": "The English language. English is an official and working language of the EU."
+  },
+  {
+    "course_skill_id": 1,
+    "course_skill_text": "International Business Knowledge",
+    "esco_uri": "http://data.europa.eu/esco/skill/77931759-69af-4637-8b26-c8376f9240e2",
+    "esco_name": "international business",
+    "esco_description": "The processes related to production or distribution of goods and services across borders."
+  },
+  {
+    "course_skill_id": 2,
+    "course_skill_text": "Cross-Cultural Communication",
+    "esco_uri": "http://data.europa.eu/esco/skill/c683335e-b862-44a5-9d37-fc85b39cf022",
+    "esco_name": "establish communication with foreign cultures",
+    "esco_description": "Strive to understand the cultural codes of the society where the company operates and to establish a solid communication and mutual understanding with its members."
+  },
+  {
+    "course_skill_id": 4,
+    "course_skill_text": "Critical Thinking",
+    "esco_uri": "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+    "esco_name": "think critically",
+    "esco_description": "Make and defend judgements based on internal evidence and external criteria. Critically evaluate the credibility and reliability of information before using or passing it on to others. Develop independent and critical thinking."
+  },
+  {
+    "course_skill_id": 5,
+    "course_skill_text": "Collaboration",
+    "esco_uri": "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+    "esco_name": "cooperate with colleagues",
+    "esco_description": "Cooperate with colleagues in order to ensure that operations run effectively."
+  },
+  {
+    "course_skill_id": 7,
+    "course_skill_text": "English Language Teaching",
+    "esco_uri": "http://data.europa.eu/esco/skill/a9ead737-a7cd-4046-adea-1ff7326db09f",
+    "esco_name": "teach languages",
+    "esco_description": "Instruct students in the theory and practice of a language. Use a wide range of teaching and learning techniques to promote proficiency in reading, writing, listening, and speaking in that language."
+  },
+  {
+    "course_skill_id": 8,
+    "course_skill_text": "Curriculum Design",
+    "esco_uri": "http://data.europa.eu/esco/skill/7ee872de-db39-4ae3-8e19-75d1a2cdf697",
+    "esco_name": "develop learning curriculum",
+    "esco_description": "Develop and plan the learning goals and outcomes for education institutions, as well as the required teaching methods and potential education resources. Organise content, form, methods and technologies for delivery of study experiences."
+  },
+  {
+    "course_skill_id": 10,
+    "course_skill_text": "Classroom Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/cedd0710-62ae-4ff4-89ae-ac52375f86ec",
+    "esco_name": "perform classroom management",
+    "esco_description": "Maintain discipline and engage students during instruction."
+  },
+  {
+    "course_skill_id": 13,
+    "course_skill_text": "Instructional Techniques",
+    "esco_uri": "http://data.europa.eu/esco/skill/a9ead737-a7cd-4046-adea-1ff7326db09f",
+    "esco_name": "teach languages",
+    "esco_description": "Instruct students in the theory and practice of a language. Use a wide range of teaching and learning techniques to promote proficiency in reading, writing, listening, and speaking in that language."
+  },
+  {
+    "course_skill_id": 14,
+    "course_skill_text": "Educational Technology",
+    "esco_uri": "http://data.europa.eu/esco/skill/0e62eba3-d076-47e5-b22d-340a8faccb3b",
+    "esco_name": "assistive technology in education",
+    "esco_description": "Digital devices and equipment that support learners with learning, communication or mobility challenges to access educational resources and achieve their full potential. It includes software such as text to speech and optical character recognition."
+  },
+  {
+    "course_skill_id": 15,
+    "course_skill_text": "Linguistics",
+    "esco_uri": "http://data.europa.eu/esco/skill/810df100-e85a-4c13-b619-34030a75ecc2",
+    "esco_name": "linguistics",
+    "esco_description": "The scientific study of language and its three aspects, language form, language meaning, and language in context."
+  },
+  {
+    "course_skill_id": 26,
+    "course_skill_text": "Academic Reading",
+    "esco_uri": "http://data.europa.eu/esco/skill/7ce196c4-65c5-4aa0-88a2-9ab08eb9fd49",
+    "esco_name": "academic English",
+    "esco_description": "The English language that is used in academic research and universities courses."
+  },
+  {
+    "course_skill_id": 38,
+    "course_skill_text": "Public Speaking",
+    "esco_uri": "http://data.europa.eu/esco/skill/609a8ac1-9d29-4237-9886-596dbbe7ca8a",
+    "esco_name": "address an audience",
+    "esco_description": "Speak in a structured, deliberate and face-to-face manner to a group of listeners to inform, influence, or entertain them."
+  },
+  {
+    "course_skill_id": 42,
+    "course_skill_text": "Academic Writing",
+    "esco_uri": "http://data.europa.eu/esco/skill/7ce196c4-65c5-4aa0-88a2-9ab08eb9fd49",
+    "esco_name": "academic English",
+    "esco_description": "The English language that is used in academic research and universities courses."
+  },
+  {
+    "course_skill_id": 46,
+    "course_skill_text": "Research Proposal Writing",
+    "esco_uri": "http://data.europa.eu/esco/skill/0ee7b0d6-db98-4785-9948-f2ef415d155a",
+    "esco_name": "write research proposals",
+    "esco_description": "Synthetise and write proposals aiming to solve research problems. Draft the proposal baseline and objectives, the estimated budget, risks and impact. Document the advances and new developments on the relevant subject and field of study."
+  },
+  {
+    "course_skill_id": 48,
+    "course_skill_text": "Literature Review",
+    "esco_uri": "http://data.europa.eu/esco/skill/0d282d6e-8cb9-4339-8e7d-cfafed96b5ed",
+    "esco_name": "conduct literature research",
+    "esco_description": "Conduct a comprehensive and systematic research of information and publications on a specific literature topic. Present a comparative evaluative literature summary."
+  },
+  {
+    "course_skill_id": 49,
+    "course_skill_text": "Data Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+    "esco_name": "data analytics",
+    "esco_description": "The science of analysing and making decisions based on raw data collected from various sources. Includes knowledge of techniques using algorithms that derive insights or trends from that data to support decision-making processes."
+  },
+  {
+    "course_skill_id": 50,
+    "course_skill_text": "Group Work",
+    "esco_uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+    "esco_name": "work in teams",
+    "esco_description": "Work confidently within a group with each doing their part in the service of the whole."
+  },
+  {
+    "course_skill_id": 53,
+    "course_skill_text": "Argumentation",
+    "esco_uri": "http://data.europa.eu/esco/skill/39e7d2a3-8d01-497c-8c5f-d51ab53a4a22",
+    "esco_name": "present arguments persuasively",
+    "esco_description": "Present arguments during a negotiation or debate, or in written form, in a persuasive manner in order to obtain the most support for the case the speaker or writer represents."
+  },
+  {
+    "course_skill_id": 55,
+    "course_skill_text": "Debate",
+    "esco_uri": "http://data.europa.eu/esco/skill/bad0f996-a299-4631-a7d8-104185b2ef22",
+    "esco_name": "engage in debates",
+    "esco_description": "Construct and present arguments used in a constructive debate and discussion in order to convince the opposing party or a neutral third party of the debater's stance."
+  },
+  {
+    "course_skill_id": 60,
+    "course_skill_text": "English Grammar",
+    "esco_uri": "http://data.europa.eu/esco/skill/96ae5ab6-d696-4d4f-be1c-d02e722c6f55",
+    "esco_name": "apply grammar and spelling rules",
+    "esco_description": "Apply the rules of spelling and grammar and ensure consistency throughout texts."
+  },
+  {
+    "course_skill_id": 63,
+    "course_skill_text": "Multimedia Communication",
+    "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+    "esco_name": "use different communication channels",
+    "esco_description": "Make use of various types of communication channels such as verbal, handwritten, digital and telephonic communication with the purpose of constructing and sharing ideas or information."
+  },
+  {
+    "course_skill_id": 69,
+    "course_skill_text": "Cultural Awareness",
+    "esco_uri": "http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf",
+    "esco_name": "respect the diversity of cultural values and norms",
+    "esco_description": "Demonstrate intercultural competence and respect for one's own cultural values and norms. Show tolerance of and appreciation for the different values and norms held by different people and cultures and developed under different circumstances or in different times and places."
+  },
+  {
+    "course_skill_id": 72,
+    "course_skill_text": "Self-directed Learning",
+    "esco_uri": "http://data.europa.eu/esco/skill/c29aa9d2-4da8-4bdd-831c-8d4a2fb51730",
+    "esco_name": "work independently",
+    "esco_description": "Develop one's own ways of doing things, motivating oneself with little or no supervision, and depending on oneself to get things done."
+  },
+  {
+    "course_skill_id": 78,
+    "course_skill_text": "Conflict Resolution",
+    "esco_uri": "http://data.europa.eu/esco/skill/96de2e86-e287-41f2-88ab-15a2343afc6f",
+    "esco_name": "resolve conflicts",
+    "esco_description": "Mediate in conflicts and tense situations by acting between parties, striving to effect an agreement, reconciliate, and resolve problems. Settle a conflict in such a way that none of the victims feels badly treated and avoid arguments in advance."
+  },
+  {
+    "course_skill_id": 89,
+    "course_skill_text": "Risk Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+    "esco_name": "risk management",
+    "esco_description": "The process of identifying, assessing, and prioritising of all types of risks and where they could come from, such as natural causes, legal changes, or uncertainty in any given context, and the methods for dealing with risks effectively."
+  },
+  {
+    "course_skill_id": 100,
+    "course_skill_text": "Translation",
+    "esco_uri": "http://data.europa.eu/esco/skill/449f0945-4943-49f9-bd98-edfdfd7c00ba",
+    "esco_name": "translate texts",
+    "esco_description": "Translate text from one language to another, conserving the meaning and the nuances of the original text, without adding, changing or omitting anything and avoiding the expression of personal feelings and opinions."
+  },
+  {
+    "course_skill_id": 101,
+    "course_skill_text": "Technical Terminology",
+    "esco_uri": "http://data.europa.eu/esco/skill/d8567009-7c6f-43fb-82fb-7154ed8ebca9",
+    "esco_name": "technical terminology",
+    "esco_description": "Type of language used in a certain context, containing terms that have a meaning specific to a particular group or activity, such as in industry, medicine, or law."
+  },
+  {
+    "course_skill_id": 113,
+    "course_skill_text": "Human Resource Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba",
+    "esco_name": "human resource management",
+    "esco_description": "The function in an organisation concerned with the recruitment of employees and the optimisation of employee performance."
+  },
+  {
+    "course_skill_id": 120,
+    "course_skill_text": "Technology Utilization",
+    "esco_uri": "http://data.europa.eu/esco/skill/5c845ff8-b3f7-42b1-a846-a4238a8b404e",
+    "esco_name": "use ICT resources to solve work related tasks",
+    "esco_description": "Choose and use ICT resources in order to solve related tasks."
+  },
+  {
+    "course_skill_id": 125,
+    "course_skill_text": "Online Learning",
+    "esco_uri": "http://data.europa.eu/esco/skill/b78f324d-e16c-43f8-97d2-50d3a7cd1fb3",
+    "esco_name": "work with virtual learning environments",
+    "esco_description": "Incorporate the use of online learning environments and platforms into the process of instruction."
+  },
+  {
+    "course_skill_id": 133,
+    "course_skill_text": "French Language",
+    "esco_uri": "http://data.europa.eu/esco/skill/e747e77e-0ea1-4001-8b07-1d11946b5f1b",
+    "esco_name": "French",
+    "esco_description": "The French language. French is an official and working language of the EU."
+  },
+  {
+    "course_skill_id": 135,
+    "course_skill_text": "Financial Asset Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/99571e68-801f-49af-a897-5f75996642e1",
+    "esco_name": "financial analysis",
+    "esco_description": "The process of assessing the financial possibilities, means, and status of an organisation or individual by analysing financial statements and reports in order to make well informed business or financial decisions."
+  },
+  {
+    "course_skill_id": 138,
+    "course_skill_text": "Portfolio Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/452c4c68-50d7-42ed-8c4e-b437446637d0",
+    "esco_name": "develop investment portfolio",
+    "esco_description": "Create an investment portfolio for a customer that includes an insurance policy or multiple policies to cover specific risks, such as financial risks, assistance, reinsurance, industrial risks or natural and technical disasters."
+  },
+  {
+    "course_skill_id": 139,
+    "course_skill_text": "Financial Mathematics",
+    "esco_uri": "http://data.europa.eu/esco/skill/2a0efd9a-4a60-4edc-8561-f2754d24eeb8",
+    "esco_name": "mathematical economics",
+    "esco_description": "The interdisciplinary field between mathematical methods and economics that deals with using math principles to contruct models for economic theory where conclusions can be drawn following a mathematical logic."
+  },
+  {
+    "course_skill_id": 144,
+    "course_skill_text": "Probability Theory",
+    "esco_uri": "http://data.europa.eu/esco/skill/b758675a-b03b-4e4b-897c-57ca14b1a3d0",
+    "esco_name": "probability theory",
+    "esco_description": "The branch of mathematics concerned with the analysis of random phenomena."
+  },
+  {
+    "course_skill_id": 145,
+    "course_skill_text": "Random Variables and Probability Distributions",
+    "esco_uri": "http://data.europa.eu/esco/skill/b758675a-b03b-4e4b-897c-57ca14b1a3d0",
+    "esco_name": "probability theory",
+    "esco_description": "The branch of mathematics concerned with the analysis of random phenomena."
+  },
+  {
+    "course_skill_id": 147,
+    "course_skill_text": "Mathematics",
+    "esco_uri": "http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2",
+    "esco_name": "mathematics",
+    "esco_description": "Mathematics is the study of topics such as quantity, structure, space, and change. It involves the identification of patterns and formulating new conjectures based on them. Mathematicians strive to prove the truth or falsity of these conjectures. There are many fields of mathematics, some of which are widely used for practical applications."
+  },
+  {
+    "course_skill_id": 148,
+    "course_skill_text": "Decision Making",
+    "esco_uri": "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47",
+    "esco_name": "make decisions",
+    "esco_description": "Make a choice from several alternative possibilities."
+  },
+  {
+    "course_skill_id": 150,
+    "course_skill_text": "Econometrics",
+    "esco_uri": "http://data.europa.eu/esco/skill/2a0efd9a-4a60-4edc-8561-f2754d24eeb8",
+    "esco_name": "mathematical economics",
+    "esco_description": "The interdisciplinary field between mathematical methods and economics that deals with using math principles to contruct models for economic theory where conclusions can be drawn following a mathematical logic."
+  },
+  {
+    "course_skill_id": 153,
+    "course_skill_text": "Statistical Software",
+    "esco_uri": "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a",
+    "esco_name": "statistical analysis system software",
+    "esco_description": "Specific software system (SAS) used for advanced analytics, business intelligence, data management, and predictive analytics."
+  },
+  {
+    "course_skill_id": 156,
+    "course_skill_text": "Monte Carlo methods",
+    "esco_uri": "http://data.europa.eu/esco/skill/6b4f794c-062e-4e05-863a-ae1bad44f395",
+    "esco_name": "Monte Carlo simulation",
+    "esco_description": "A mathematical technique used to predict, estimate, and analyse a range of future possible outcomes for an uncertain event. The process is performed through a simulation to estimate a range of values. "
+  },
+  {
+    "course_skill_id": 158,
+    "course_skill_text": "Programming with R",
+    "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+    "esco_name": "R",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in R."
+  },
+  {
+    "course_skill_id": 159,
+    "course_skill_text": "Statistical analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+    "esco_name": "apply statistical analysis techniques",
+    "esco_description": "Use models (descriptive or inferential statistics) and techniques (data mining or machine learning) for statistical analysis and ICT tools to analyse data, uncover correlations and forecast trends."
+  },
+  {
+    "course_skill_id": 165,
+    "course_skill_text": "Linear Algebra",
+    "esco_uri": "http://data.europa.eu/esco/skill/55e910e4-736d-44cf-bfa9-b15adc5d91d2",
+    "esco_name": "algebra",
+    "esco_description": "The subdiscipline of mathematics that uses formulae, symbols, and equations to represent and manipulate numbers and quantities."
+  },
+  {
+    "course_skill_id": 168,
+    "course_skill_text": "Customer Segmentation",
+    "esco_uri": "http://data.europa.eu/esco/skill/136e0cab-0b19-48f7-9086-745d615f416b",
+    "esco_name": "customer segmentation",
+    "esco_description": "The process whereby a target market is divided into specific sets of consumers for further market analysis."
+  },
+  {
+    "course_skill_id": 169,
+    "course_skill_text": "Predictive Modeling",
+    "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+    "esco_name": "build predictive models",
+    "esco_description": "Create models to predict the probability of an outcome."
+  },
+  {
+    "course_skill_id": 170,
+    "course_skill_text": "Python (Computer Programming)",
+    "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+    "esco_name": "Python (computer programming)",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Python."
+  },
+  {
+    "course_skill_id": 171,
+    "course_skill_text": "Excel",
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "esco_name": "use microsoft office",
+    "esco_description": "Use the standard programs contained in Microsoft Office. Create a document and do basic formatting, insert page breaks, create headers or footers, and insert graphics, create automatically generated tables of contents and merge form letters from a database of addresses. Create auto-calculating spreadsheets, create images, and sort and filter data tables."
+  },
+  {
+    "course_skill_id": 173,
+    "course_skill_text": "Customer Lifetime Value Estimation",
+    "esco_uri": "http://data.europa.eu/esco/skill/146eccdc-c52a-4d61-9406-3af617caa7d6",
+    "esco_name": "forecast sales over periods of time",
+    "esco_description": "Calculate and estimate the expected sales of products and services over different periods of time in order to determine their profitability."
+  },
+  {
+    "course_skill_id": 174,
+    "course_skill_text": "Product Pricing",
+    "esco_uri": "http://data.europa.eu/esco/skill/183134a2-3f8e-4a38-9e81-35c2bec0272b",
+    "esco_name": "set up pricing strategies",
+    "esco_description": "Apply methods used for setting product value taking into consideration market conditions, competitor actions, input costs, and others."
+  },
+  {
+    "course_skill_id": 176,
+    "course_skill_text": "Sentiment Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/89ba58e8-a67e-4d2b-ad42-6acab25c241b",
+    "esco_name": "measure customer feedback",
+    "esco_description": "Evaluate customer's comments in order to find out whether customers feel satisfied or dissatisfied with the product or service."
+  },
+  {
+    "course_skill_id": 182,
+    "course_skill_text": "Data Science",
+    "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+    "esco_name": "data science",
+    "esco_description": "The field of study that deals with big amount of data using AI techniques such as machine learning algorithms to predict patterns and obtain useful information to make business decisions"
+  },
+  {
+    "course_skill_id": 183,
+    "course_skill_text": "R (Computer Programming)",
+    "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+    "esco_name": "R",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in R."
+  },
+  {
+    "course_skill_id": 184,
+    "course_skill_text": "Machine Learning",
+    "esco_uri": "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+    "esco_name": "machine learning",
+    "esco_description": "The principles, methods and algorithms of machine learning, a subfield of artificial intelligence. Common machine learning models such as supervised or unsupervised models, semi- supervised models and reinforcement learning models."
+  },
+  {
+    "course_skill_id": 185,
+    "course_skill_text": "Data Visualization",
+    "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+    "esco_name": "deliver visual presentation of data",
+    "esco_description": "Create visual representations of data such as charts or diagrams for easier understanding."
+  },
+  {
+    "course_skill_id": 187,
+    "course_skill_text": "Time Series Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/06670261-ea6b-4b52-a915-c7d4ff837f74",
+    "esco_name": "identify statistical patterns",
+    "esco_description": "Analyse statistical data in order to find patterns and trends in the data or between variables."
+  },
+  {
+    "course_skill_id": 188,
+    "course_skill_text": "Model Estimation",
+    "esco_uri": "http://data.europa.eu/esco/skill/e2887d71-8ff4-4188-9926-22bdaefa7713",
+    "esco_name": "develop predictive models",
+    "esco_description": "Develop simplified descriptions, mainly mathematical descriptions of processes or systems, in order to assist calculations and predictions."
+  },
+  {
+    "course_skill_id": 197,
+    "course_skill_text": "Microeconomics",
+    "esco_uri": "http://data.europa.eu/esco/skill/7cacd304-996d-47d1-88ef-4ddb9ce102bd",
+    "esco_name": "microeconomics",
+    "esco_description": "The economic field that studies the behaviour and interactions between specific actors of the economy, namely consumers and firms. It is the field that analyses the decision-making process of individuals and the factors that influence purchasing decisions."
+  },
+  {
+    "course_skill_id": 198,
+    "course_skill_text": "Macroeconomics",
+    "esco_uri": "http://data.europa.eu/esco/skill/d1910ad7-0c87-4f38-8a41-7c193e5dc16d",
+    "esco_name": "macroeconomics",
+    "esco_description": "The economic field that studies the performance and behaviour of all the sectors of an economy aggregated. This field evaluates the financial performance of a country and considers indicator such as gross domestic product (GDP), price levels, unemployment rates, and inflation."
+  },
+  {
+    "course_skill_id": 200,
+    "course_skill_text": "Calculus",
+    "esco_uri": "http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2",
+    "esco_name": "mathematics",
+    "esco_description": "Mathematics is the study of topics such as quantity, structure, space, and change. It involves the identification of patterns and formulating new conjectures based on them. Mathematicians strive to prove the truth or falsity of these conjectures. There are many fields of mathematics, some of which are widely used for practical applications."
+  },
+  {
+    "course_skill_id": 202,
+    "course_skill_text": "Bayesian Statistics",
+    "esco_uri": "http://data.europa.eu/esco/skill/b758675a-b03b-4e4b-897c-57ca14b1a3d0",
+    "esco_name": "probability theory",
+    "esco_description": "The branch of mathematics concerned with the analysis of random phenomena."
+  },
+  {
+    "course_skill_id": 203,
+    "course_skill_text": "Data Interpretation",
+    "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "esco_name": "perform data analysis",
+    "esco_description": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process."
+  },
+  {
+    "course_skill_id": 207,
+    "course_skill_text": "Statistical Software (R/Python)",
+    "esco_uri": "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a",
+    "esco_name": "statistical analysis system software",
+    "esco_description": "Specific software system (SAS) used for advanced analytics, business intelligence, data management, and predictive analytics."
+  },
+  {
+    "course_skill_id": 208,
+    "course_skill_text": "Independent Learning and Responsibility",
+    "esco_uri": "http://data.europa.eu/esco/skill/c29aa9d2-4da8-4bdd-831c-8d4a2fb51730",
+    "esco_name": "work independently",
+    "esco_description": "Develop one's own ways of doing things, motivating oneself with little or no supervision, and depending on oneself to get things done."
+  },
+  {
+    "course_skill_id": 209,
+    "course_skill_text": "Business Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+    "esco_name": "business analytics",
+    "esco_description": "The disciplines and technologies for solving business problems through employing quantitative methods such as data analysis and statistical models."
+  },
+  {
+    "course_skill_id": 210,
+    "course_skill_text": "Set Theory",
+    "esco_uri": "http://data.europa.eu/esco/skill/ef30e7f8-1ef0-4a6f-87ac-d6a701125305",
+    "esco_name": "set theory",
+    "esco_description": "The subdiscipline of mathematical logic that studies the properties of well-determined sets of objects, relevant to mathematics."
+  },
+  {
+    "course_skill_id": 211,
+    "course_skill_text": "Algorithm Design",
+    "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+    "esco_name": "algorithms",
+    "esco_description": "The self-contained step-by-step sets of operations that carry out calculations, data processing and automated reasoning, usually to solve problems."
+  },
+  {
+    "course_skill_id": 215,
+    "course_skill_text": "Game Theory",
+    "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+    "esco_name": "game theory",
+    "esco_description": "The study of mathematical models of strategic decisions among stakeholders. It has applications in all fields of social science, as well as in systems science, computer science and logic. Essential concepts are the Nash Equilibrium and the Prisoner's Dilemma.\n\n"
+  },
+  {
+    "course_skill_id": 218,
+    "course_skill_text": "Python",
+    "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+    "esco_name": "Python (computer programming)",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Python."
+  },
+  {
+    "course_skill_id": 220,
+    "course_skill_text": "Policy Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/c5449667-9b40-4114-8d74-f51177669984",
+    "esco_name": "policy analysis",
+    "esco_description": "Understanding of the basic tenets of policymaking in a specific sector, its implementation processes and its consequences."
+  },
+  {
+    "course_skill_id": 224,
+    "course_skill_text": "Taxation",
+    "esco_uri": "http://data.europa.eu/esco/skill/2ecf90f1-c511-464b-b26f-598d69182c70",
+    "esco_name": "calculate tax",
+    "esco_description": "Calculate the taxes which have to be paid by an individual or organisation, or paid back by a governmental institution, compliant with specific legislation."
+  },
+  {
+    "course_skill_id": 227,
+    "course_skill_text": "Data Cleaning and Preparation",
+    "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+    "esco_name": "perform data cleansing",
+    "esco_description": "Detect and correct corrupt records from data sets, ensure that the data become and remain structured according to guidelines."
+  },
+  {
+    "course_skill_id": 228,
+    "course_skill_text": "Statistical Software Proficiency",
+    "esco_uri": "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a",
+    "esco_name": "statistical analysis system software",
+    "esco_description": "Specific software system (SAS) used for advanced analytics, business intelligence, data management, and predictive analytics."
+  },
+  {
+    "course_skill_id": 237,
+    "course_skill_text": "Customer service",
+    "esco_uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "esco_name": "customer service",
+    "esco_description": "Processes and principles related to the customer, client, service user and to personal services; these may include procedures to evaluate customer's or service user's satisfaction."
+  },
+  {
+    "course_skill_id": 240,
+    "course_skill_text": "Psychology",
+    "esco_uri": "http://data.europa.eu/esco/skill/bfe4f330-d595-48c7-ab3c-f309471d6953",
+    "esco_name": "psychology",
+    "esco_description": "The human behaviour and performance with individual differences in ability, personality, interests, learning, and motivation."
+  },
+  {
+    "course_skill_id": 241,
+    "course_skill_text": "Interpersonal Skills",
+    "esco_uri": "http://data.europa.eu/esco/skill/326809fc-238d-40c2-881e-40042f7f2f0d",
+    "esco_name": "establish collaborative relations",
+    "esco_description": "Establish a connection between organisations or individuals which may benefit from communicating with one another in order to facilitate an enduring positive collaborative relationship between both parties."
+  },
+  {
+    "course_skill_id": 243,
+    "course_skill_text": "Marketing",
+    "esco_uri": "http://data.europa.eu/esco/skill/13e2378e-0d10-450d-843a-b3592575826e",
+    "esco_name": "implement marketing strategies",
+    "esco_description": "Implement strategies which aim to promote a specific product or service, using the developed marketing strategies."
+  },
+  {
+    "course_skill_id": 244,
+    "course_skill_text": "Operations Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+    "esco_name": "operations management",
+    "esco_description": "The backend business functions that are implemented with the aim of achieving the high efficiency and profitability within an organisation."
+  },
+  {
+    "course_skill_id": 251,
+    "course_skill_text": "History",
+    "esco_uri": "http://data.europa.eu/esco/skill/2b22f3b1-5de4-43f9-b6d1-b20f65871268",
+    "esco_name": "history",
+    "esco_description": "The discipline that studies, analyses, and presents the events of the past related to humans."
+  },
+  {
+    "course_skill_id": 252,
+    "course_skill_text": "Ethics",
+    "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+    "esco_name": "ethics",
+    "esco_description": "The philosophical study that deals with solving questions of human morality; it defines and systemises concepts such as right, wrong, and crime."
+  },
+  {
+    "course_skill_id": 254,
+    "course_skill_text": "Supply Chain Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "esco_name": "supply chain management",
+    "esco_description": "The flow of goods in the supply chain, movement and storage of raw materials, work-in-process inventory, and finished goods from point of origin to point of consumption."
+  },
+  {
+    "course_skill_id": 258,
+    "course_skill_text": "Respect for Tradition",
+    "esco_uri": "http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf",
+    "esco_name": "respect the diversity of cultural values and norms",
+    "esco_description": "Demonstrate intercultural competence and respect for one's own cultural values and norms. Show tolerance of and appreciation for the different values and norms held by different people and cultures and developed under different circumstances or in different times and places."
+  },
+  {
+    "course_skill_id": 260,
+    "course_skill_text": "Tour Design",
+    "esco_uri": "http://data.europa.eu/esco/skill/1f612375-7b50-45e0-b39f-e6b07f3dd562",
+    "esco_name": "select visitor routes",
+    "esco_description": "Examine and select points of interest, travel routes and sites to be visited."
+  },
+  {
+    "course_skill_id": 261,
+    "course_skill_text": "Tour Operation",
+    "esco_uri": "http://data.europa.eu/esco/skill/7c2b05c3-a27e-4c0a-98e1-d62aaeadbf56",
+    "esco_name": "coordinate performance tours",
+    "esco_description": "Schedule planning for a series of event dates, plan timetables, organise venues, accommodations and transportation for longer tours."
+  },
+  {
+    "course_skill_id": 262,
+    "course_skill_text": "Tour Guiding",
+    "esco_uri": "http://data.europa.eu/esco/skill/a7c51c48-802c-44ee-a40e-79b18b1d4365",
+    "esco_name": "manage tourist groups",
+    "esco_description": "Monitor and guide tourists ensuring positive group dynamics and address areas of conflict and concern where they occur."
+  },
+  {
+    "course_skill_id": 274,
+    "course_skill_text": "Personal Career Development",
+    "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+    "esco_name": "manage personal professional development",
+    "esco_description": "Take responsibility for lifelong learning and continuous professional development. Engage in learning to support and update professional competence. Identify priority areas for professional development based on reflection about own practice and through contact with peers and stakeholders. Pursue a cycle of self-improvement and develop credible career plans. "
+  },
+  {
+    "course_skill_id": 283,
+    "course_skill_text": "Market Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+    "esco_name": "market analysis",
+    "esco_description": "The field of market analysis and research and its particular research methods."
+  },
+  {
+    "course_skill_id": 284,
+    "course_skill_text": "Customer Relationship Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb",
+    "esco_name": "customer relationship management",
+    "esco_description": "The customer-oriented management approach and basic principles of successful customer relations that focus on interactions with customers such as technical support, customer services, after-sales support and direct communication with the customer."
+  },
+  {
+    "course_skill_id": 402,
+    "course_skill_text": "Human Resources Planning",
+    "esco_uri": "http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba",
+    "esco_name": "human resource management",
+    "esco_description": "The function in an organisation concerned with the recruitment of employees and the optimisation of employee performance."
+  },
+  {
+    "course_skill_id": 421,
+    "course_skill_text": "Digital Image Processing",
+    "esco_uri": "http://data.europa.eu/esco/skill/945b8655-5577-4c3a-946a-842d4527afa8",
+    "esco_name": "digital image processing",
+    "esco_description": "The different aspects and practices of image processing and manipulation like image interpolation, aliasing, image enhancement, contrast stretching, histogram processing and equalization, singular value decomposition, singular value equalization, wavelets filtering and many others."
+  },
+  {
+    "course_skill_id": 422,
+    "course_skill_text": "Web Architecture",
+    "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+    "esco_name": "web programming",
+    "esco_description": "The programming paradigm that is based on combining markup (which adds context and structure to text) and other web programming code, such as AJAX, javascript and PHP, in order to carry out appropriate actions and visualise the content."
+  },
+  {
+    "course_skill_id": 423,
+    "course_skill_text": "Web Development",
+    "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+    "esco_name": "web programming",
+    "esco_description": "The programming paradigm that is based on combining markup (which adds context and structure to text) and other web programming code, such as AJAX, javascript and PHP, in order to carry out appropriate actions and visualise the content."
+  },
+  {
+    "course_skill_id": 425,
+    "course_skill_text": "Web Testing",
+    "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+    "esco_name": "develop ICT test suite",
+    "esco_description": "Create a series of test cases to check software behaviour versus specifications. These test cases are then to be used during subsequent testing."
+  },
+  {
+    "course_skill_id": 426,
+    "course_skill_text": "Object-Oriented Programming",
+    "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+    "esco_name": "object-oriented modelling",
+    "esco_description": "The object-oriented paradigm, which is based on classes, objects, methods and interfaces and their application in software design and analysis, programming organisation and techniques."
+  },
+  {
+    "course_skill_id": 428,
+    "course_skill_text": "Information Security",
+    "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+    "esco_name": "manage system security",
+    "esco_description": "Analyse the critical assets of a company and identify weaknesses and vulnerabilities that lead to intrusion or attack. Apply security detection techniques. Understand cyber attack techniques and implement effective countermeasures."
+  },
+  {
+    "course_skill_id": 429,
+    "course_skill_text": "Professional Networking",
+    "esco_uri": "http://data.europa.eu/esco/skill/bf5d77ad-e18c-48d8-83f0-bc79c011c74a",
+    "esco_name": "develop professional network",
+    "esco_description": "Reach out to and meet up with people in a professional context. Find common ground and use your contacts for mutual benefit. Keep track of the people in your personal professional network and stay up to date on their activities."
+  },
+  {
+    "course_skill_id": 430,
+    "course_skill_text": "System Configuration",
+    "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+    "esco_name": "design information system",
+    "esco_description": "Define the architecture, composition, components, modules, interfaces and data for integrated information systems (hardware, software and network), based on system requirements and specifications."
+  },
+  {
+    "course_skill_id": 434,
+    "course_skill_text": "Database Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+    "esco_name": "operate relational database management system",
+    "esco_description": "Extract, store and verify information using database management systems based on the relational database model, which arranges data into tables of rows and columns, such as Oracle Database, Microsoft SQL Server and MySQL."
+  },
+  {
+    "course_skill_id": 435,
+    "course_skill_text": "Version Control",
+    "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+    "esco_name": "manage changes in ICT system",
+    "esco_description": "Plan, realise and monitor system changes and upgrades. Maintain earlier system versions. Revert, if necessary, to a safe older system version."
+  },
+  {
+    "course_skill_id": 438,
+    "course_skill_text": "Cybersecurity Fundamentals",
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "esco_name": "cyber security",
+    "esco_description": "The methods and best practices that protect ICT systems, networks, computers, devices, services, processes and people against unauthorised access, modification and/or denial of service of assets."
+  },
+  {
+    "course_skill_id": 439,
+    "course_skill_text": "Cryptography",
+    "esco_uri": "http://data.europa.eu/esco/skill/f0163b63-6794-4eb7-b17b-f91d11b2602d",
+    "esco_name": "implement cryptographic constructs",
+    "esco_description": "Implement cryptographic constructs such as hash functions, symmetric-key algorithms, and asymmetric-key algorithms, in the context of specific applications."
+  },
+  {
+    "course_skill_id": 440,
+    "course_skill_text": "Network Security Assessment",
+    "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+    "esco_name": "identify ICT security risks",
+    "esco_description": "Apply methods and techniques to identify potential security threats, security breaches and risk factors using ICT tools for surveying ICT systems, analysing risks, vulnerabilities and threats and evaluating contingency plans."
+  },
+  {
+    "course_skill_id": 441,
+    "course_skill_text": "Threat Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+    "esco_name": "identify ICT security risks",
+    "esco_description": "Apply methods and techniques to identify potential security threats, security breaches and risk factors using ICT tools for surveying ICT systems, analysing risks, vulnerabilities and threats and evaluating contingency plans."
+  },
+  {
+    "course_skill_id": 444,
+    "course_skill_text": "Software Testing",
+    "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+    "esco_name": "execute software tests",
+    "esco_description": "Perform tests to ensure that a software product will perform flawlessly under the specified customer requirements and identify software defects (bugs) and malfunctions, using specialised software tools and testing techniques."
+  },
+  {
+    "course_skill_id": 446,
+    "course_skill_text": "Automation",
+    "esco_uri": "http://data.europa.eu/esco/skill/f4a6e9f7-5cff-46c0-894c-59c20bb78694",
+    "esco_name": "automation technology",
+    "esco_description": "Set of technologies that make a process, system, or apparatus operate automatically through the use of control systems."
+  },
+  {
+    "course_skill_id": 447,
+    "course_skill_text": "Testing Tools",
+    "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+    "esco_name": "tools for ICT test automation",
+    "esco_description": "The specialised software to execute or control tests and compare predicted testing outputs with actual testing results such as Selenium, QTP and LoadRunner"
+  },
+  {
+    "course_skill_id": 448,
+    "course_skill_text": "Software Development Lifecycle",
+    "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+    "esco_name": "systems development life-cycle",
+    "esco_description": "The sequence of steps, such as planning, creating, testing and deploying and the models for the development and life-cycle management of a system."
+  },
+  {
+    "course_skill_id": 454,
+    "course_skill_text": "System Testing",
+    "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+    "esco_name": "manage system testing",
+    "esco_description": "Select, perform and track testings on software or hardware to detect system defects both within the integrated system units, the inter-assemblages and the system as a whole. Organise testings such as installation testing, security testing and graphical user interface testing."
+  },
+  {
+    "course_skill_id": 455,
+    "course_skill_text": "Acceptance Testing",
+    "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+    "esco_name": "execute software tests",
+    "esco_description": "Perform tests to ensure that a software product will perform flawlessly under the specified customer requirements and identify software defects (bugs) and malfunctions, using specialised software tools and testing techniques."
+  },
+  {
+    "course_skill_id": 456,
+    "course_skill_text": "Mobile Application Development",
+    "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+    "esco_name": "mobile device software frameworks",
+    "esco_description": "The API (Application Program Interfaces), such as Android, iOS, windows phone which enables programmers to quickly and easily write applications for mobile devices."
+  },
+  {
+    "course_skill_id": 457,
+    "course_skill_text": "Programming Languages",
+    "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+    "esco_name": "computer programming",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms (e.g. object oriented programming, functional programming) and of programming languages."
+  },
+  {
+    "course_skill_id": 458,
+    "course_skill_text": "User Interface Design",
+    "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+    "esco_name": "design user interface",
+    "esco_description": "Create software or device components which enable interaction between humans and systems or machines, using appropriate techniques, languages and tools so as to streamline interaction while using the system or machine."
+  },
+  {
+    "course_skill_id": 460,
+    "course_skill_text": "Networking",
+    "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+    "esco_name": "network engineering",
+    "esco_description": "The subfield of computer technology that concerns the managing the connectivity of networks through data, voice, calls and wireless network services."
+  },
+  {
+    "course_skill_id": 461,
+    "course_skill_text": "Testing",
+    "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+    "esco_name": "execute software tests",
+    "esco_description": "Perform tests to ensure that a software product will perform flawlessly under the specified customer requirements and identify software defects (bugs) and malfunctions, using specialised software tools and testing techniques."
+  },
+  {
+    "course_skill_id": 464,
+    "course_skill_text": "Monetary Policy",
+    "esco_uri": "http://data.europa.eu/esco/skill/a73dafe3-219e-4533-ae97-25b9798ea12a",
+    "esco_name": "determine monetary policy actions",
+    "esco_description": "Identify the actions concerning the financial policy of a country to maintain price stability and controlling the money supply such as changing the interest or inflation rate."
+  },
+  {
+    "course_skill_id": 468,
+    "course_skill_text": "Unemployment",
+    "esco_uri": "http://data.europa.eu/esco/skill/0f9f8352-0488-4a1e-9171-2c5466c17f41",
+    "esco_name": "analyse unemployment rates",
+    "esco_description": "Analyse data and perform research concerning unemployment in a region or nation in order to identify causes for unemployment and possible solutions."
+  },
+  {
+    "course_skill_id": 470,
+    "course_skill_text": "Database Design",
+    "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+    "esco_name": "design database scheme",
+    "esco_description": "Draft a database scheme by following the Relational Database Management System (RDBMS) rules in order to create a logically arranged group of objects such as tables, columns and processes."
+  },
+  {
+    "course_skill_id": 471,
+    "course_skill_text": "SQL",
+    "esco_uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+    "esco_name": "SQL",
+    "esco_description": "The computer language SQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the American National Standards Institute and the International Organization for Standardization."
+  },
+  {
+    "course_skill_id": 472,
+    "course_skill_text": "Data Modeling",
+    "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+    "esco_name": "data models",
+    "esco_description": "The techniques and existing systems used for structuring data elements and showing relationships between them, as well as methods for interpreting the data structures and relationships."
+  },
+  {
+    "course_skill_id": 473,
+    "course_skill_text": "Data Security",
+    "esco_uri": "http://data.europa.eu/esco/skill/adcca622-b933-4ba3-bc43-bf371879edc3",
+    "esco_name": "data security principles",
+    "esco_description": "The principles of information and data security. They include, among others, confidentiality, integrity, and availability."
+  },
+  {
+    "course_skill_id": 474,
+    "course_skill_text": "Programming Fundamentals",
+    "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+    "esco_name": "computer programming",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms (e.g. object oriented programming, functional programming) and of programming languages."
+  },
+  {
+    "course_skill_id": 475,
+    "course_skill_text": "Programming in C",
+    "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+    "esco_name": "C++",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in C++."
+  },
+  {
+    "course_skill_id": 476,
+    "course_skill_text": "Data Structures",
+    "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+    "esco_name": "data models",
+    "esco_description": "The techniques and existing systems used for structuring data elements and showing relationships between them, as well as methods for interpreting the data structures and relationships."
+  },
+  {
+    "course_skill_id": 482,
+    "course_skill_text": "Cloud Computing",
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "esco_name": "cloud technologies",
+    "esco_description": "The technologies which enable access to hardware, software, data and services through remote servers and software networks irrespective of their location and architecture."
+  },
+  {
+    "course_skill_id": 483,
+    "course_skill_text": "Cloud Security",
+    "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+    "esco_name": "cloud security and compliance",
+    "esco_description": "Cloud security and compliance concepts, including shared responsibility model, cloud access management capabilities, and resources for security support."
+  },
+  {
+    "course_skill_id": 484,
+    "course_skill_text": "Data Protection",
+    "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+    "esco_name": "data protection",
+    "esco_description": "The principles, ethical issues, regulations and protocols of data protection."
+  },
+  {
+    "course_skill_id": 485,
+    "course_skill_text": "Access Control",
+    "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+    "esco_name": "information confidentiality",
+    "esco_description": "The mechanisms and regulations which allow for selective access control and guarantee that only authorised parties (people, processes, systems and devices) have access to data, the way to comply with confidential information and the risks of non-compliance."
+  },
+  {
+    "course_skill_id": 487,
+    "course_skill_text": "Identity Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/33efa504-2f26-424d-b662-cee77e6e9c93",
+    "esco_name": "digital identity management",
+    "esco_description": "The process of providing, managing, auditing and securing digital identities to facilitate and enable approved, authentic requests or connections to view company data, services, systems, networks, and assets."
+  },
+  {
+    "course_skill_id": 489,
+    "course_skill_text": "Security Design Patterns",
+    "esco_uri": "http://data.europa.eu/esco/skill/adcca622-b933-4ba3-bc43-bf371879edc3",
+    "esco_name": "data security principles",
+    "esco_description": "The principles of information and data security. They include, among others, confidentiality, integrity, and availability."
+  },
+  {
+    "course_skill_id": 496,
+    "course_skill_text": "Web Design",
+    "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+    "esco_name": "implement front-end website design",
+    "esco_description": "Develop website layout and enhance user experience based on provided design concepts."
+  },
+  {
+    "course_skill_id": 497,
+    "course_skill_text": "HTML",
+    "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+    "esco_name": "use markup languages",
+    "esco_description": "Utilise computer languages that are syntactically distinguishable from the text, to add annotations to a document, specify layout and process types of documents such as HTML."
+  },
+  {
+    "course_skill_id": 498,
+    "course_skill_text": "CSS",
+    "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+    "esco_name": "CSS",
+    "esco_description": "The computer language CSS is a style sheet language that conveys the presentation of structured documents. These documents have to adhere to style sheets, a set of stylistic rules such as font, color and layout."
+  },
+  {
+    "course_skill_id": 499,
+    "course_skill_text": "JavaScript",
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "esco_name": "JavaScript",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in JavaScript."
+  },
+  {
+    "course_skill_id": 500,
+    "course_skill_text": "Responsive Design",
+    "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+    "esco_name": "maintain responsive design",
+    "esco_description": "Ensure that the website runs on the latest technology and is multi-platform compatible and mobile-friendly."
+  },
+  {
+    "course_skill_id": 501,
+    "course_skill_text": "User Experience (UX)",
+    "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+    "esco_name": "software interaction design",
+    "esco_description": "The methodologies for designing interaction between users and a software product or service to satisfy the needs and preferences of most of the people who will interface with the product and to simplify the communication between product and user such as Goal-oriented design."
+  },
+  {
+    "course_skill_id": 503,
+    "course_skill_text": "Data Processing Methods",
+    "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+    "esco_name": "use data processing techniques",
+    "esco_description": "Gather, process and analyse relevant data and information, properly store and update data and represent figures and data using charts and statistical diagrams."
+  },
+  {
+    "course_skill_id": 504,
+    "course_skill_text": "Artificial Intelligence",
+    "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+    "esco_name": "principles of artificial intelligence",
+    "esco_description": "The artificial intelligence theories, applied principles, architectures and systems, such as intelligent agents, multi-agent systems, expert systems, rule-based systems, neural networks, ontologies and cognition theories."
+  },
+  {
+    "course_skill_id": 506,
+    "course_skill_text": "Matlab Programming",
+    "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+    "esco_name": "MATLAB",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in MATLAB."
+  },
+  {
+    "course_skill_id": 509,
+    "course_skill_text": "Web Services",
+    "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+    "esco_name": "web services",
+    "esco_description": "XML-based information systems that allows for direct interactions between applications through Internet. It is a set of protocols for transferring data between applications and systems."
+  },
+  {
+    "course_skill_id": 511,
+    "course_skill_text": "Operating Systems",
+    "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+    "esco_name": "operating systems",
+    "esco_description": "The features, restrictions, architectures and other characteristics of operating systems such Linux, Windows, MacOS, etc."
+  },
+  {
+    "course_skill_id": 518,
+    "course_skill_text": "Data Mining",
+    "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+    "esco_name": "data mining",
+    "esco_description": "The methods of artificial intelligence, machine learning, statistics and databases used to extract content from a dataset."
+  },
+  {
+    "course_skill_id": 519,
+    "course_skill_text": "Data Preprocessing",
+    "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+    "esco_name": "use data processing techniques",
+    "esco_description": "Gather, process and analyse relevant data and information, properly store and update data and represent figures and data using charts and statistical diagrams."
+  },
+  {
+    "course_skill_id": 522,
+    "course_skill_text": "R",
+    "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+    "esco_name": "R",
+    "esco_description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in R."
+  },
+  {
+    "course_skill_id": 523,
+    "course_skill_text": "BI Tools",
+    "esco_uri": "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051",
+    "esco_name": "data extraction, transformation and loading tools",
+    "esco_description": "The tools for integration of information from multiple applications, created and maintained by organisations, into one consistent and transparent data structure."
+  },
+  {
+    "course_skill_id": 525,
+    "course_skill_text": "System Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/3f86173d-e101-4fcd-934f-ff9de29c081c",
+    "esco_name": "perform system analysis",
+    "esco_description": "Execute system analyses and calculate to what extent changes could affect outcomes."
+  },
+  {
+    "course_skill_id": 526,
+    "course_skill_text": "System Design",
+    "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+    "esco_name": "system design",
+    "esco_description": "The process of defining the architecture for different components and modules of a system, as well as the relevant data, for satisfying specific requirements."
+  },
+  {
+    "course_skill_id": 528,
+    "course_skill_text": "UML Modeling",
+    "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+    "esco_name": "unified modelling language",
+    "esco_description": "The general-purpose modelling language used in software development to offer a standard visualisation of system designs."
+  },
+  {
+    "course_skill_id": 530,
+    "course_skill_text": "Physics",
+    "esco_uri": "http://data.europa.eu/esco/skill/692ace70-7f97-4214-92bd-88f7637d8a44",
+    "esco_name": "physics",
+    "esco_description": "The natural science involving the study of matter, motion,  energy, force and related notions."
+  },
+  {
+    "course_skill_id": 533,
+    "course_skill_text": "Lean Manufacturing",
+    "esco_uri": "http://data.europa.eu/esco/skill/82fea746-853f-4f1b-8ab7-55de8619cccd",
+    "esco_name": "lean manufacturing",
+    "esco_description": "Lean manufacturing is a methodology that focuses on minimizing waste within manufacturing systems while simultaneously maximizing productivity."
+  },
+  {
+    "course_skill_id": 534,
+    "course_skill_text": "Maintenance Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84",
+    "esco_name": "manage maintenance operations",
+    "esco_description": "Oversee maintenance activities, making sure that staff is following procedures and ensuring routine and periodic refurbishment and maintenance activities."
+  },
+  {
+    "course_skill_id": 535,
+    "course_skill_text": "Uncertainty Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/5cd1930c-278d-4929-b413-27352f5b3687",
+    "esco_name": "cope with uncertainty",
+    "esco_description": "Tolerate and work constructively within unexpected and unpredictable situations."
+  },
+  {
+    "course_skill_id": 540,
+    "course_skill_text": "Customer Satisfaction Analysis",
+    "esco_uri": "http://data.europa.eu/esco/skill/00e53a0a-c0ba-4c9f-a2ed-4706d5832a00",
+    "esco_name": "guarantee customer satisfaction",
+    "esco_description": "Handle customer expectations in a professional manner, anticipating and addressing their needs and desires. Provide flexible customer service to ensure customer satisfaction and loyalty."
+  },
+  {
+    "course_skill_id": 541,
+    "course_skill_text": "Quality Control",
+    "esco_uri": "http://data.europa.eu/esco/skill/41a3240f-58ba-44e2-a688-edeb21ea5c16",
+    "esco_name": "conduct quality control analysis",
+    "esco_description": "Conduct inspections and tests of services, processes, or products to evaluate quality."
+  },
+  {
+    "course_skill_id": 544,
+    "course_skill_text": "Business Operations Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/0a48d064-dd04-47fb-a00d-85e9b4874033",
+    "esco_name": "business management principles",
+    "esco_description": "Principles governing business management methods such as strategy planning, methods of efficient production, people and resources coordination."
+  },
+  {
+    "course_skill_id": 546,
+    "course_skill_text": "Self-Study",
+    "esco_uri": "http://data.europa.eu/esco/skill/468135b7-5757-48c3-9509-fde0e13ec5be",
+    "esco_name": "manage personal progression",
+    "esco_description": "Take charge of and market your own skills and competences to advance in work and private life."
+  },
+  {
+    "course_skill_id": 547,
+    "course_skill_text": "Corporate Governance",
+    "esco_uri": "http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c",
+    "esco_name": "implement corporate governance",
+    "esco_description": "Apply a set of principles and mechanisms by which an organisation is managed and directed, set procedures of information, control flow and decision making, distribute rights and responsibilities among departments and individuals, set corporate objectives and monitor and evaluate actions and results."
+  },
+  {
+    "course_skill_id": 548,
+    "course_skill_text": "Stakeholder Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/8f9e8842-94f3-48d5-8d09-c43829bcabc5",
+    "esco_name": "liaise with shareholders",
+    "esco_description": "Communicate and serve as communication point with shareholders in order to provide an overview on their investments, returns, and long-term plans of the company to increase profitability."
+  },
+  {
+    "course_skill_id": 552,
+    "course_skill_text": "Negotiation Skills",
+    "esco_uri": "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+    "esco_name": "negotiate compromises",
+    "esco_description": "Communicate with others with the intention of reaching a common understanding or to resolve a point of difference, without losing sight of one's own or others' intentions or goals.\n"
+  },
+  {
+    "course_skill_id": 554,
+    "course_skill_text": "Cost Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+    "esco_name": "cost management",
+    "esco_description": "The process of planning, monitoring and adjusting the expenses and revenues of a business in order to achieve cost efficiency and capability."
+  },
+  {
+    "course_skill_id": 555,
+    "course_skill_text": "Team Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb",
+    "esco_name": "lead a team",
+    "esco_description": "Lead, supervise and motivate a group of people, in order to meet the expected results within a given timeline and with the foreseen resources in mind."
+  },
+  {
+    "course_skill_id": 556,
+    "course_skill_text": "Contract Management",
+    "esco_uri": "http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e",
+    "esco_name": "negotiate sales contracts",
+    "esco_description": "Come to an agreement between commercial partners with a focus on terms and conditions, specifications, delivery time, price etc."
+  },
+  {
+    "course_skill_id": 567,
+    "course_skill_text": "Entrepreneurship",
+    "esco_uri": "http://data.europa.eu/esco/skill/658605f2-1c95-49f0-bd98-0af7b15ad0b0",
+    "esco_name": "entrepreneurship",
+    "esco_description": "The development, organisation and management of an own business venture."
+  },
+  {
+    "course_skill_id": 568,
+    "course_skill_text": "Customer Satisfaction",
+    "esco_uri": "http://data.europa.eu/esco/skill/8330c86e-63cf-4be6-849f-4f77628cc5c5",
+    "esco_name": "satisfy customers",
+    "esco_description": "Communicate with customers and make them feel satisfied."
+  },
+  {
+    "course_skill_id": 654,
+    "course_skill_text": "Leadership in Multicultural Settings",
+    "esco_uri": "http://data.europa.eu/esco/skill/07ba491f-2fd4-4bab-bf52-32934c6f0b9f",
+    "esco_name": "work in an international environment",
+    "esco_description": "Guide your career to an international level which often requires the ability to interact, relate and communicate with individuals from different cultures."
+  },
+  {
+    "course_skill_id": 652,
+    "course_skill_text": "Legal Knowledge",
+    "esco_uri": "http://data.europa.eu/esco/skill/06f46a6e-62d3-4ca0-bedb-cb4c021c14ee",
+    "esco_name": "legal studies",
+    "esco_description": "The study of law; the situations and causes that elicit responses from institutions in the form of laws and regulations. Some areas of law are civil, business, criminal, and property law."
+  }
+]

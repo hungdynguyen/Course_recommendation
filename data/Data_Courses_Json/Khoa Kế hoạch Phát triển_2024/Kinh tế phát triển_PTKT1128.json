@@ -1,0 +1,52 @@
+{
+  "course_id": "PTKT1128",
+  "title": "Kinh tế Phát triển",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand core concepts and theories of economic development, including classification of countries, economic and social characteristics of developing countries, and the essence and content of economic development."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate the economic development process of Vietnam and other developing countries using relevant data and models."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to assess economic growth, structural transformation, and social progress."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop research skills to independently study and accumulate knowledge, and to form professional ethics and social responsibility."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in seminars and discussions, contributing to group learning and problem-solving."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Foster self-learning habits and continuous improvement in understanding economic development theories and practices."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

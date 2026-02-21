@@ -1,0 +1,73 @@
+{
+  "course_id": "CNTT1157",
+  "title": "Mobile Applications Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Mobile Application Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and deploy mobile applications on Android or iOS platforms."
+    },
+    {
+      "skill_name": "Programming Languages",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in Java, Objective-C, Swift, and cross-platform tools like Xamarin, React Native."
+    },
+    {
+      "skill_name": "User Interface Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement user interfaces for mobile applications."
+    },
+    {
+      "skill_name": "Data Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and store data in mobile applications."
+    },
+    {
+      "skill_name": "Networking",
+      "category": "Hard Skill",
+      "outcome_description": "Implement network connectivity and resource management in mobile applications."
+    },
+    {
+      "skill_name": "Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Perform testing and quality assurance on mobile applications."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in teams to manage and complete mobile application projects."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through presentations and reports."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving skills to develop mobile applications."
+    },
+    {
+      "skill_name": "Creativity",
+      "category": "Soft Skill",
+      "outcome_description": "Innovate and create diverse solutions in mobile application development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundations of Programming (CNTT1128)",
+      "Java Programming (CNTT1153)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

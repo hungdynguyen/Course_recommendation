@@ -1,95 +1,85 @@
 {
   "course_id": "TOKT1149",
-  "title": "Ứng dụng khoa học dữ liệu trong Marketing",
-  "overview": "Học phần này trang bị cho sinh viên các kiến thức và công cụ khai phá dữ liệu ứng dụng trong tiếp thị.",
+  "title": "Data Driven Marketing",
   "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 150,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Marketing",
-    "sub_domains": [
-      "Data Analysis",
-      "Machine Learning",
-      "Customer Segmentation",
-      "Product Pricing",
-      "Customer Lifetime Value",
-      "Basket Analysis",
-      "Sentiment Analysis"
-    ],
-    "key_concepts": [
-      "KPIs",
-      "Monte Carlo Simulation",
-      "Clustering",
-      "Recommendation Systems",
-      "Naive Bayes",
-      "Logistic Regression",
-      "Decision Trees",
-      "Markov Chains"
-    ]
-  },
+  "duration": "45 hours in-class, 105 hours self-study",
   "skill_outcomes": [
     {
-      "skill_name": "KPI Calculation and Visualization",
+      "skill_name": "Data Analysis",
       "category": "Soft Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Sinh viên sẽ biết cách tính toán và trực quan hóa các KPI chính trong tiếp thị"
+      "outcome_description": "Apply data analysis techniques to marketing problems"
+    },
+    {
+      "skill_name": "Marketing Analytics",
+      "category": "Soft Skill",
+      "outcome_description": "Use data-driven techniques to inform marketing strategies"
     },
     {
       "skill_name": "Customer Segmentation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Create",
-      "outcome_description": "Sinh viên sẽ sử dụng các phương pháp phân cụm để phân khúc khách hàng"
+      "category": "Soft Skill",
+      "outcome_description": "Utilize clustering methods to segment customers"
     },
     {
-      "skill_name": "Product Pricing",
+      "skill_name": "Predictive Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Develop predictive models for customer behavior"
+    },
+    {
+      "skill_name": "Python (Computer Programming)",
       "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Sinh viên sẽ biết cách định giá sản phẩm sử dụng mô hình định giá phù hợp"
+      "outcome_description": "Implement machine learning algorithms using Python"
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Use Excel for data analysis and modeling"
+    },
+    {
+      "skill_name": "Monte Carlo Simulation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Monte Carlo simulation for customer lifetime value estimation"
     },
     {
       "skill_name": "Customer Lifetime Value Estimation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Sinh viên sẽ ước lượng và dự đoán giá trị vòng đời khách hàng sử dụng công cụ học máy và mô phỏng Monte Carlo"
+      "category": "Soft Skill",
+      "outcome_description": "Estimate customer lifetime value using various techniques"
+    },
+    {
+      "skill_name": "Product Pricing",
+      "category": "Soft Skill",
+      "outcome_description": "Determine optimal product pricing strategies"
     },
     {
       "skill_name": "Basket Analysis",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Sinh viên sẽ phân tích giỏ hàng sử dụng các quy tắc kết hợp"
+      "category": "Soft Skill",
+      "outcome_description": "Analyze shopping baskets to enhance cross-selling opportunities"
     },
     {
       "skill_name": "Sentiment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Build systems to analyze customer sentiment"
+    },
+    {
+      "skill_name": "Dashboard Development",
       "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Create",
-      "outcome_description": "Sinh viên sẽ xây dựng hệ thống phân tích cảm xúc của khách hàng về sản phẩm dịch vụ"
+      "outcome_description": "Create dashboards to monitor marketing KPIs"
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 40,
-    "practice_percentage": 60,
     "has_project": true
   },
   "entry_requirements": {
     "prerequisite_courses": [
-      "Lý thuyết xác suất và Thống kê toán",
-      "Khoa học dữ liệu trong kinh tế và kinh doanh"
+      "Probability and Statistics",
+      "Data Science in Economics and Business"
     ],
     "minimum_entry_skills": [
       {
-        "skill_name": "Basic Data Analysis",
+        "skill_name": "Basic Statistics",
         "minimum_proficiency_level": 2
       },
       {
-        "skill_name": "Basic Programming",
+        "skill_name": "Data Science Fundamentals",
         "minimum_proficiency_level": 2
       }
     ]

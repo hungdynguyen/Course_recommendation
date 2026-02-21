@@ -1,0 +1,57 @@
+{
+  "course_id": "NNTM1178",
+  "title": "English – Listening and Speaking skills 3",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Develop advanced English language proficiency, including vocabulary, grammar, and complex expressions at the pre-C1 level, suitable for academic and social contexts."
+    },
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance the ability to understand and interpret complex and abstract topics in English, using advanced listening strategies."
+    },
+    {
+      "skill_name": "Oral Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve the ability to articulate arguments, engage in debates, and present ideas effectively in academic settings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking and analytical skills to evaluate and synthesize information from various sources."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork and collaborative skills, including planning, managing resources, and evaluating group activities."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Foster independent learning skills, including planning, managing resources, and evaluating personal progress."
+    },
+    {
+      "skill_name": "Academic Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve academic communication skills, including appropriate behavior and attitudes in academic environments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "English – Listening and Speaking skills 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "English Language Proficiency",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,58 +1,69 @@
 {
   "course_id": "TOkt1116",
-  "title": "Lý thuyết mô hình toán kinh tế 2",
-  "overview": "Tiếp nối học phần Lý thuyết mô hình toán kinh tế 1, sau khi nghiên cứu các nội dung cơ bản về xây dựng mô hình, phân tích so sánh và lớp mô hình tối ưu, học phần 2 đi sâu nghiên cứu các nội dung liên quan tới kiểm chứng và ước lượng mô hình hành vi tiêu dùng/sản xuất, nhóm mô hình cân bằng (tĩnh) trong kinh tế.",
-  "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 135,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Economics",
-    "sub_domains": [
-      "Microeconomics",
-      "Macroeconomics",
-      "Mathematical Economics"
-    ],
-    "key_concepts": [
-      "Modeling",
-      "Equilibrium",
-      "Behavioral Models",
-      "Market Analysis"
-    ]
-  },
+  "title": "Mathematical Economic Modeling",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
   "skill_outcomes": [
     {
-      "skill_name": "Modeling and Analyzing Economic Equilibrium",
+      "skill_name": "Economic Modeling",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Students will be able to analyze and model economic equilibrium in both micro and macroeconomic contexts."
+      "outcome_description": "Understand and apply economic modeling techniques to analyze and solve economic problems."
     },
     {
-      "skill_name": "Quantitative Analysis",
+      "skill_name": "Microeconomics",
       "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Students will be able to apply quantitative methods to analyze economic models and behaviors."
+      "outcome_description": "Analyze and solve microeconomic problems using mathematical models."
+    },
+    {
+      "skill_name": "Macroeconomics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and solve macroeconomic problems using mathematical models."
+    },
+    {
+      "skill_name": "Mathematical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical analysis to economic models."
+    },
+    {
+      "skill_name": "Econometrics",
+      "category": "Hard Skill",
+      "outcome_description": "Estimate and test economic models using econometric techniques."
+    },
+    {
+      "skill_name": "Market Equilibrium",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze market equilibrium in various economic contexts."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of economic policies on market equilibrium."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to solve economic problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate economic models and policies."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 50,
-    "practice_percentage": 50,
     "has_project": false
   },
   "entry_requirements": {
     "prerequisite_courses": [
-      "Lý thuyết mô hình toán kinh tế 1"
+      "Mathematical Economic Modeling 1"
     ],
     "minimum_entry_skills": [
       {
-        "skill_name": "Basic Modeling Techniques",
+        "skill_name": "Basic Mathematics",
         "minimum_proficiency_level": 2
       },
       {
-        "skill_name": "Economic Theories",
+        "skill_name": "Economics",
         "minimum_proficiency_level": 2
       }
     ]

@@ -1,0 +1,66 @@
+{
+  "course_id": "TOCB1103",
+  "title": "Giải tích 2",
+  "overview": "Học phần trang bị cho người học những kiến thức cơ bản, cần thiết của giải tích toán học về: (i) phương trình vi phân; (ii) phương trình sai phân; (iii) lý thuyết chuỗi; và (iv) tích phân bội và các ứng dụng để người học có thể tiếp cận, phân tích, nghiên cứu các mô hình kinh tế động bằng các phương pháp toán học.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Mathematics",
+    "sub_domains": [
+      "Differential Equations",
+      "Difference Equations",
+      "Series Theory",
+      "Multiple Integrals"
+    ],
+    "key_concepts": [
+      "Differential Equations",
+      "Difference Equations",
+      "Series",
+      "Multiple Integrals"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Solving Differential Equations",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Solve first-order and second-order linear differential equations with constant coefficients."
+    },
+    {
+      "skill_name": "Solving Difference Equations",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Solve first-order and second-order linear difference equations with constant coefficients."
+    },
+    {
+      "skill_name": "Convergence of Series",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Determine the convergence of series and the radius and interval of convergence of power series."
+    },
+    {
+      "skill_name": "Multiple Integrals",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Calculate double and triple integrals using iterated integrals and coordinate transformations."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Giải tích 1 (TOCB1111)"
+    ],
+    "minimum_entry_skills": []
+  }
+}

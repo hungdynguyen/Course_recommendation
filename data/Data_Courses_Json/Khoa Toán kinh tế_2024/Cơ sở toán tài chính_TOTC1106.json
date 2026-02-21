@@ -1,49 +1,61 @@
 {
   "course_id": "TOTC1106",
   "title": "Fundamentals of Mathematical Finance",
-  "overview": "This course covers two main topics: deterministic financial mathematics and stochastic processes in financial modeling.",
-  "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 150,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Mathematics",
-    "sub_domains": [
-      "Probability Theory",
-      "Algebra",
-      "Calculus 1",
-      "Calculus 2"
-    ],
-    "key_concepts": [
-      "Interest rates",
-      "Cash flows",
-      "Discounting models",
-      "Stochastic processes",
-      "Martingale measures",
-      "Ito calculus",
-      "Option pricing models"
-    ]
-  },
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
   "skill_outcomes": [
     {
-      "skill_name": "Modeling financial processes",
+      "skill_name": "Mathematical Finance",
       "category": "Soft Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Develop skills in modeling financial asset prices and derivative pricing using stochastic processes."
+      "outcome_description": "Understand and apply fundamental concepts of mathematical finance in deterministic and stochastic environments."
     },
     {
-      "skill_name": "Financial computation",
+      "skill_name": "Financial Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in modeling financial asset prices and derivatives using stochastic processes."
+    },
+    {
+      "skill_name": "Excel for Finance",
       "category": "Hard Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Create",
-      "outcome_description": "Master financial computations in both deterministic and stochastic environments using Excel and R."
+      "outcome_description": "Utilize Excel for financial calculations and modeling."
+    },
+    {
+      "skill_name": "Stochastic Calculus",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate stochastic integrals and solve stochastic differential equations."
+    },
+    {
+      "skill_name": "Derivatives Pricing",
+      "category": "Hard Skill",
+      "outcome_description": "Price European options using binary models and stochastic methods."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning and group work skills."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to financial problems and models."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply risk-neutral measures in financial models."
+    },
+    {
+      "skill_name": "Algorithmic Simulation",
+      "category": "Hard Skill",
+      "outcome_description": "Simulate financial processes using R programming."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and take responsibility for group tasks."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 40,
-    "practice_percentage": 60,
     "has_project": true
   },
   "entry_requirements": {
@@ -55,12 +67,12 @@
     ],
     "minimum_entry_skills": [
       {
-        "skill_name": "Basic understanding of financial markets",
-        "minimum_proficiency_level": 2
+        "skill_name": "Calculus",
+        "minimum_proficiency_level": 3
       },
       {
-        "skill_name": "Basic programming skills",
-        "minimum_proficiency_level": 2
+        "skill_name": "Probability Theory",
+        "minimum_proficiency_level": 3
       }
     ]
   }

@@ -1,0 +1,62 @@
+{
+  "course_id": "QTKD1153",
+  "title": "Quản trị hậu cần và chuỗi cung ứng",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concepts, activities, roles, trends, and objectives of logistics management."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concepts, activities, roles, trends, and objectives of supply chain management."
+    },
+    {
+      "skill_name": "Customer Service Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concepts, activities, roles, trends, and objectives of customer service management in logistics operations."
+    },
+    {
+      "skill_name": "Information Systems Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concepts, activities, roles, trends, and objectives of information systems management in logistics operations."
+    },
+    {
+      "skill_name": "Transportation Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concepts, activities, roles, trends, and objectives of transportation management."
+    },
+    {
+      "skill_name": "Inventory Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concepts, activities, roles, trends, and objectives of inventory management."
+    },
+    {
+      "skill_name": "Procurement Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concepts, activities, roles, trends, and objectives of procurement management."
+    },
+    {
+      "skill_name": "Global Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concepts, activities, roles, trends, and objectives of global supply chain management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản trị kinh doanh 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Business Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

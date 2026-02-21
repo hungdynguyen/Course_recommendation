@@ -1,0 +1,78 @@
+{
+  "course_id": "DLKS1155",
+  "title": "Graduation thesis",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and apply knowledge to solve practical problems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, analyze, and propose solutions to business management issues."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Collect, process, and analyze data related to practical business issues."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze business operations and management issues in hospitality."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Develop leadership and management skills in hospitality."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to new situations and continuously update knowledge."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional ethics and responsibility."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills in business contexts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking to solve complex business problems."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write structured and coherent reports."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Operations Service Management 2",
+      "Operations Service Management 3",
+      "Hotel Business Management"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Hospitality Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

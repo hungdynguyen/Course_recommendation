@@ -1,68 +1,85 @@
 {
   "course_id": "TOkt1101",
   "title": "Econometrics 1",
-  "overview": "This course presents the basic knowledge and skills of econometrics, applied in economic, financial, and business analysis. It guides students through the methodology, steps to build, evaluate, and analyze regression model results, supporting decision-making and policy evaluation. Econometrics 1 focuses on cross-sectional data analysis methods, quantitative and qualitative variables, and introduces time series regression.",
   "difficulty_level": "Beginner",
-  "duration": {
-    "total_hours": 150,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Economics",
-    "sub_domains": [
-      "Microeconomics",
-      "Macroeconomics",
-      "Probability Theory and Mathematical Statistics"
-    ],
-    "key_concepts": [
-      "Regression Analysis",
-      "OLS Estimation",
-      "Model Evaluation",
-      "Time Series Analysis"
-    ]
-  },
+  "duration": "45 hours",
   "skill_outcomes": [
     {
-      "skill_name": "Understanding Econometric Methods",
-      "category": "Tool/Software",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Students will be able to understand and apply econometric methods in economic, financial, and business analysis."
+      "skill_name": "Econometrics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand econometric models, estimation methods, and statistical inference to solve economic, financial, and business problems."
     },
     {
-      "skill_name": "Building and Evaluating Regression Models",
-      "category": "Tool/Software",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Students will be able to build and evaluate regression models using statistical software."
+      "skill_name": "Regression Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Construct, estimate, and evaluate econometric models using software."
     },
     {
-      "skill_name": "Analyzing Results for Decision Making",
-      "category": "Tool/Software",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Students will be able to analyze results to support decision-making and policy evaluation."
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze model results to support decision-making and policy analysis."
+    },
+    {
+      "skill_name": "Quantitative Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct individual and group work on econometric research projects."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use specialized software (Eviews, R) for econometric analysis."
+    },
+    {
+      "skill_name": "Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical concepts to econometric models."
+    },
+    {
+      "skill_name": "Computer Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Write and execute code for econometric analysis."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, diagnose, and address issues in econometric models."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate econometric findings and research."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams on econometric projects."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 30,
-    "practice_percentage": 70,
     "has_project": true
   },
   "entry_requirements": {
     "prerequisite_courses": [
       "Microeconomics 1",
       "Macroeconomics 1",
-      "Probability Theory and Mathematical Statistics"
+      "Probability and Mathematical Statistics"
     ],
     "minimum_entry_skills": [
       {
-        "skill_name": "Basic Understanding of Economics",
-        "minimum_proficiency_level": 2
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 1
       },
       {
-        "skill_name": "Basic Understanding of Statistics",
-        "minimum_proficiency_level": 2
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Mathematics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Computer Programming",
+        "minimum_proficiency_level": 1
       }
     ]
   }

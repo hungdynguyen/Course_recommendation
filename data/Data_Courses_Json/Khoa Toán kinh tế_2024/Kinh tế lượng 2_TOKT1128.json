@@ -1,138 +1,66 @@
 {
   "course_id": "TOkt1128",
   "title": "Econometrics 2",
-  "overview": "Econometrics 2 introduces several classes of econometric models widely used in economic analysis, including dynamic regression models, multiple equation regression models, regression models with limited dependent variables, and regression models with panel data.",
   "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 135,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Economics",
-    "sub_domains": [
-      "Dynamic Regression Models",
-      "Multiple Equation Regression Models",
-      "Limited Dependent Variable Models",
-      "Panel Data Regression Models"
-    ],
-    "key_concepts": [
-      "Autoregressive Models",
-      "Distributed Lag Models",
-      "Logit and Probit Models",
-      "Ordinal and Multinomial Logit Models",
-      "Panel Data Models"
-    ]
-  },
+  "duration": "45 hours in-class, 90 hours self-study",
   "skill_outcomes": [
     {
-      "skill_name": "Model Identification and Classification",
+      "skill_name": "Econometrics",
       "category": "Soft Skill",
-      "target_proficiency_level": 1,
-      "bloom_taxonomy_level": "Remember",
-      "outcome_description": "Recognize and understand the classification of common dynamic models: autoregressive models, distributed lag models."
+      "outcome_description": "Understand and apply various econometric models, estimation methods, and statistical inference to solve economic, financial, and business problems."
     },
     {
-      "skill_name": "Understanding Short and Long Term Effects",
+      "skill_name": "Statistical Analysis",
       "category": "Soft Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Understand",
-      "outcome_description": "Understand the meaning of short-term and long-term impact coefficients in dynamic models."
+      "outcome_description": "Construct, estimate, and evaluate econometric models using specialized software, interpret results to support decision-making and policy analysis."
     },
     {
-      "skill_name": "Model Specification and Estimation",
+      "skill_name": "Research Methodology",
       "category": "Soft Skill",
-      "target_proficiency_level": 1,
-      "bloom_taxonomy_level": "Remember",
-      "outcome_description": "Understand the specification of multiple equation models and estimation methods."
+      "outcome_description": "Conduct independent and group research projects using econometric methods, select appropriate models, and analyze data."
     },
     {
-      "skill_name": "Model Comparison",
+      "skill_name": "Data Analysis",
       "category": "Soft Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Understand",
-      "outcome_description": "Differentiate the mathematical-statistical nature of logit-probit models, ordinal logit models, multinomial logit models from linear regression models."
+      "outcome_description": "Analyze and interpret data using econometric models and software tools."
     },
     {
-      "skill_name": "Panel Data Regression Models",
+      "skill_name": "Quantitative Research",
       "category": "Soft Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Understand",
-      "outcome_description": "Understand the mathematical-statistical nature of regression models with panel data."
+      "outcome_description": "Design and execute quantitative research projects, including data collection, model building, and result interpretation."
     },
     {
-      "skill_name": "Economic Research Linkage",
+      "skill_name": "Model Building",
       "category": "Soft Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Relate economic, financial, and business research issues to econometric methods."
+      "outcome_description": "Build and evaluate econometric models for various types of data and research questions."
     },
     {
-      "skill_name": "Model Selection",
-      "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Determine the appropriate model form based on the nature of relationships between variables and the classification of dependent variables."
+      "skill_name": "Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Use specialized software (Eviews, R) for econometric analysis."
     },
     {
-      "skill_name": "Software Application",
-      "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Use specialized software to estimate coefficients in models with specific data."
+      "skill_name": "Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical concepts in econometric modeling and analysis."
     },
     {
-      "skill_name": "Short and Long Term Impact Assessment",
+      "skill_name": "Critical Thinking",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Evaluate the short-term and long-term impact of independent variables on continuous dependent variables."
+      "outcome_description": "Critically evaluate econometric models and their applications in real-world scenarios."
     },
     {
-      "skill_name": "Impact Assessment in System of Equations",
+      "skill_name": "Collaboration",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Evaluate the impact of independent variables on dependent variables in a system of equations."
+      "outcome_description": "Work effectively in teams to solve complex econometric problems."
     },
     {
-      "skill_name": "Impact Assessment for Discrete Dependent Variables",
+      "skill_name": "Communication",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Evaluate the marginal impact of independent variables on discrete dependent variables."
-    },
-    {
-      "skill_name": "Impact Assessment Considering Fixed and Random Effects",
-      "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Evaluate the impact of independent variables on dependent variables while considering both fixed and random effects of unobserved factors."
-    },
-    {
-      "skill_name": "Active Learning and Research",
-      "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Be proactive in learning, research, and group work."
-    },
-    {
-      "skill_name": "Proactive Problem Selection",
-      "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Be proactive in selecting issues, data, models, and using software for calculation and analysis."
-    },
-    {
-      "skill_name": "Proactive Presentation",
-      "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Be proactive in presenting research results."
+      "outcome_description": "Effectively communicate research findings and model results."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 50,
-    "practice_percentage": 50,
     "has_project": true
   },
   "entry_requirements": {
@@ -141,11 +69,15 @@
     ],
     "minimum_entry_skills": [
       {
-        "skill_name": "Basic Econometric Models",
+        "skill_name": "Econometrics",
         "minimum_proficiency_level": 2
       },
       {
-        "skill_name": "Regression Analysis",
+        "skill_name": "Programming",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Mathematics",
         "minimum_proficiency_level": 2
       }
     ]

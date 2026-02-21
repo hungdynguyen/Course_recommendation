@@ -1,0 +1,64 @@
+{
+  "course_id": "QTVH 1107",
+  "title": "Business Ethics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical principles in business contexts, recognize and resolve ethical issues in business operations, and promote responsible business practices."
+    },
+    {
+      "skill_name": "Corporate Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and implement corporate social responsibility (CSR) principles, and develop CSR strategies for businesses."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply ethical decision-making frameworks in business scenarios."
+    },
+    {
+      "skill_name": "Social Capital",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of social capital in business and how to build it."
+    },
+    {
+      "skill_name": "Ethical Program Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement ethical programs and codes of conduct in organizations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze ethical issues critically and propose effective solutions."
+    },
+    {
+      "skill_name": "Sustainable Business Practices",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and promote sustainable business practices."
+    },
+    {
+      "skill_name": "Stakeholder Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage stakeholder relationships ethically and responsibly."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate personal responsibility and leadership in promoting sustainable business practices."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Business Management 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -98,6 +98,9 @@
             border-bottom: 1px solid #e5e7eb;
             cursor: pointer;
             transition: all 0.2s;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
         }
         
         .skill-item:hover {
@@ -130,8 +133,20 @@
             color: #6b7280;
         }
         
+        .skill-description {
+            font-size: 12px;
+            color: #6b7280;
+            line-height: 1.4;
+            font-style: italic;
+            margin-top: 4px;
+        }
+        
         .skill-item.active .skill-source {
             color: rgba(255,255,255,0.8);
+        }
+        
+        .skill-item.active .skill-description {
+            color: rgba(255,255,255,0.7);
         }
         
         .matches-panel {
@@ -385,6 +400,7 @@
         let currentSkill = null;
         let currentMatches = [];
         let selectedMatch = null;
+        let precomputeCheckInterval = null;
         
         // Initialize
         async function init() {
@@ -395,10 +411,43 @@
                 if (data.success) {
                     await loadSkills();
                     updateStats();
+                    
+                    // Start checking precompute progress
+                    checkPrecomputeProgress();
                 }
             } catch (error) {
                 console.error('Initialization error:', error);
                 alert('Failed to initialize. Please refresh the page.');
+            }
+        }
+        
+        // Check precompute progress
+        async function checkPrecomputeProgress() {
+            const response = await fetch('/api/stats');
+            const data = await response.json();
+            
+            if (data.success && data.precompute_progress) {
+                const progress = data.precompute_progress;
+                
+                if (!progress.done && progress.total > 0) {
+                    const percent = Math.round((progress.current / progress.total) * 100);
+                    console.log(`Pre-computing: ${progress.current}/${progress.total} (${percent}%)`);
+                    
+                    // Update header if exists
+                    const headerEl = document.querySelector('.header h1');
+                    if (headerEl && !progress.done) {
+                        headerEl.innerHTML = `Skill Labeling Tool <small style="font-size: 14px; opacity: 0.8;">(Pre-computing: ${percent}%)</small>`;
+                    }
+                    
+                    // Check again in 2 seconds
+                    setTimeout(checkPrecomputeProgress, 2000);
+                } else if (progress.done) {
+                    console.log('✓ Pre-computation complete!');
+                    const headerEl = document.querySelector('.header h1');
+                    if (headerEl) {
+                        headerEl.textContent = 'Skill Labeling Tool';
+                    }
+                }
             }
         }
         
@@ -431,7 +480,8 @@
                      data-id="${skill.id}" 
                      onclick="selectSkill(${skill.id})">
                     <div class="skill-text">${escapeHtml(skill.skill_text)}</div>
-                    <div class="skill-source">${escapeHtml(skill.source_course)}</div>
+                    <div class="skill-source">📚 ${escapeHtml(skill.source_course)}</div>
+                    ${skill.description ? `<div class="skill-description">${escapeHtml(skill.description)}</div>` : ''}
                 </div>
             `).join('');
             
@@ -470,10 +520,20 @@
                 
                 const data = await response.json();
                 
+                console.log('=== SEARCH RESPONSE ===');
+                console.log('Success:', data.success);
+                console.log('Cached:', data.cached ? '✓ YES' : '✗ NO');
+                console.log('Matches count:', data.matches ? data.matches.length : 0);
+                if (data.matches && data.matches.length > 0) {
+                    console.log('First match:', data.matches[0]);
+                }
+                
                 if (data.success) {
                     currentMatches = data.matches;
                     selectedMatch = null;
-                    renderMatches();
+                    renderMatches(data.cached);
+                } else {
+                    alert('Search failed: ' + data.error);
                 }
             } catch (error) {
                 console.error('Error searching:', error);
@@ -482,12 +542,25 @@
         }
         
         // Render matches
-        function renderMatches() {
+        function renderMatches(isCached = false) {
             const container = document.getElementById('matchesContainer');
+            
+            if (!currentMatches || currentMatches.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <p>No ESCO matches found</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            const cacheIndicator = isCached ? 
+                '<span style="color: #10b981; font-size: 12px; margin-left: 10px;">⚡ Cached</span>' : 
+                '<span style="color: #f59e0b; font-size: 12px; margin-left: 10px;">🔄 Fresh</span>';
             
             const html = `
                 <div class="panel-header">
-                    <h2>Top 50 ESCO Skills</h2>
+                    <h2>Top 50 ESCO Skills${cacheIndicator}</h2>
                     <div class="current-skill">
                         <div class="current-skill-label">Current Skill</div>
                         <div class="current-skill-text">${escapeHtml(currentSkill.skill_text)}</div>

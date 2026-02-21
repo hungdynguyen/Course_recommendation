@@ -1,0 +1,50 @@
+{
+  "course_id": "DLKS1150",
+  "title": "History of Vietnamese Culture",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours (30 hours of lectures and 15 hours of seminars/practicals)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cultural Studies",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the origins, development, and transformation of Vietnamese culture, its interactions with other cultures, and its distinctive characteristics and values."
+    },
+    {
+      "skill_name": "Historical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze historical periods of Vietnamese culture from traditional to modern times."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of Vietnamese culture in business contexts, particularly in the tourism and hospitality industry."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and discuss cultural topics in group settings."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups to complete assignments and projects."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-discipline and responsibility in academic and professional settings."
+    },
+    {
+      "skill_name": "Cultural Sensitivity",
+      "category": "Soft Skill",
+      "outcome_description": "Respect and appreciate cultural diversity, and understand the importance of preserving and promoting traditional Vietnamese culture."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

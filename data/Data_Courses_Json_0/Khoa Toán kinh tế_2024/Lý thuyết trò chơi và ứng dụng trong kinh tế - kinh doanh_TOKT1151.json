@@ -1,0 +1,52 @@
+{
+  "course_id": "TOkt1151",
+  "title": "Game Theory and Applications in Economics - Business",
+  "overview": "This course presents theoretical knowledge of game theory and skills in applying game theory in economics and business. It introduces strategic games, methods for modeling economic agents' behavior as games, including players, strategies, payoffs, and information. The focus is on finding Nash equilibrium, including pure and mixed strategy equilibria, and their applications in economics, finance, and business.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Game Theory"
+    ],
+    "key_concepts": [
+      "Nash Equilibrium",
+      "Strategic Games",
+      "Information Asymmetry"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Game Theory Application",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to explain, analyze economic theories, and apply them in decision-making, identifying the existence and finding equilibrium strategies in real-world scenarios."
+    },
+    {
+      "skill_name": "Strategic Thinking",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will develop strategic thinking skills to model and analyze real-world situations using game theory approaches."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Probability Theory",
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

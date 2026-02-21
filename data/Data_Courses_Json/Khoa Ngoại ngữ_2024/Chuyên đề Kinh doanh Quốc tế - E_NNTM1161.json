@@ -1,0 +1,59 @@
+{
+  "course_id": "NNTM 1161",
+  "title": "Chuyên đề Kinh doanh quốc tế – E",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Develop proficiency in English language skills (listening, speaking, reading, writing) in the context of international business."
+    },
+    {
+      "skill_name": "International Business Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Gain comprehensive understanding of international business, including trade and foreign direct investment."
+    },
+    {
+      "skill_name": "Cross-Cultural Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the impact of cultural, economic, political, and legal environments on international business."
+    },
+    {
+      "skill_name": "Strategic Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of organizational structure and management in international business."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking and analytical skills to solve practical problems in international business."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork and collaboration skills."
+    },
+    {
+      "skill_name": "Ethical and Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand ethical and social responsibilities in international business."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tiếng Anh – Kỹ năng Nghe, Nói 3",
+      "Tiếng Anh – Kỹ năng Đọc, Viết 3",
+      "Thực hành tổng hợp - Tiếng Anh kinh tế và kinh doanh 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English Proficiency",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

@@ -1,54 +1,77 @@
 {
   "course_id": "TOTC1120",
-  "title": "Quản trị rủi ro định lượng 1",
-  "overview": "Học phần này được giảng dạy cho sinh viên năm thứ 3 ngành Toán kinh tế. Nội dung bao gồm các kiến thức cơ bản về quản trị rủi ro, phân tích định lượng, và các mô hình rủi ro và định giá.",
-  "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 150,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Quantitative Risk Management",
-    "sub_domains": [
-      "Foundations of Risk Management",
-      "Quantitative Analysis",
-      "Valuation and Risk Models"
-    ],
-    "key_concepts": [
-      "Risk factors",
-      "Quantitative analysis",
-      "Risk models",
-      "Risk management principles",
-      "Financial risk management"
-    ]
-  },
+  "title": "Quantitative Risk Management 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
   "skill_outcomes": [
     {
-      "skill_name": "Risk analysis",
+      "skill_name": "Risk Management",
       "category": "Soft Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Phân tích, đánh giá các nhân tố rủi ro và ứng dụng phân tích định lượng trong quản trị rủi ro"
+      "outcome_description": "Understand and apply fundamental concepts of risk management."
     },
     {
-      "skill_name": "Modeling risk",
+      "skill_name": "Quantitative Analysis",
       "category": "Hard Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Create",
-      "outcome_description": "Phát triển kỹ năng mô hình hóa rủi ro, tính toán rủi ro"
+      "outcome_description": "Develop skills in quantitative analysis and risk modeling."
+    },
+    {
+      "skill_name": "Financial Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Use financial models for risk assessment and management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate risk factors and apply quantitative analysis in risk management."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve complex problems related to risk management."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and manage group responsibilities."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning and organizational skills."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively and persuade others."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate personal and group responsibility and discipline in learning."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 45,
-    "practice_percentage": 55,
     "has_project": true
   },
   "entry_requirements": {
     "prerequisite_courses": [
-      "Kinh tế lượng",
-      "Lý thuyết tài chính tiền tệ",
-      "Mô hình phân tích và định giá tài sản tài chính 1"
+      "Econometrics",
+      "Financial Theory",
+      "Financial Asset Analysis and Valuation 1"
     ],
-    "minimum_entry_skills": []
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Econometrics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Financial Theory",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Financial Asset Analysis and Valuation",
+        "minimum_proficiency_level": 2
+      }
+    ]
   }
 }

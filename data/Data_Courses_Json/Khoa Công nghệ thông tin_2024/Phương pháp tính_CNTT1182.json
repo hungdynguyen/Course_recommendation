@@ -1,0 +1,50 @@
+{
+  "course_id": "CNTT1182",
+  "title": "Phương pháp tính",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Numerical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply numerical methods for solving equations, approximating functions, and numerical integration."
+    },
+    {
+      "skill_name": "Matlab Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Use Matlab to implement numerical methods and solve mathematical problems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills through independent and group work."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking by analyzing and solving complex mathematical problems."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve mathematical problems and complete assignments."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills through presentations and group discussions."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently seek and understand new knowledge and technologies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

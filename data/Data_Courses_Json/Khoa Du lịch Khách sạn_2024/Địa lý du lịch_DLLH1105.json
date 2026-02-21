@@ -1,0 +1,50 @@
+{
+  "course_id": "DLLH1105",
+  "title": "Geography of Tourism",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism Geography",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze concepts and approaches in tourism geography, including tourism systems, tourist demand, resources, and infrastructure."
+    },
+    {
+      "skill_name": "Tourism Resource Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate statistical information on tourism resources, infrastructure, and technical facilities in various territories."
+    },
+    {
+      "skill_name": "Tourism Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Develop sales strategies for tourist destinations based on cross-selling, upselling, and after-sales services."
+    },
+    {
+      "skill_name": "Geographical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze geographical characteristics of continents, regions, and countries around the world, as well as in Vietnam."
+    },
+    {
+      "skill_name": "Sustainable Tourism",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate responsibility and creativity in learning, and a positive attitude towards protecting and utilizing tourism resources sustainably."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to evaluate and analyze tourism-related data and information."
+    },
+    {
+      "skill_name": "Collaborative Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Participate actively in group discussions and presentations, demonstrating effective communication and teamwork."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Iterable, List
+from typing import Iterable, List, Optional
 import logging
 
 import numpy as np
@@ -32,16 +32,27 @@ class EmbeddingService:
             cache_folder=str(cache_folder) if cache_folder else None,
         )
 
-    def encode(self, texts: Iterable[str]) -> np.ndarray:
+    def encode(
+        self, 
+        texts: Iterable[str],
+        batch_size: Optional[int] = None,
+        show_progress: Optional[bool] = None,
+        normalize: Optional[bool] = None
+    ) -> np.ndarray:
         model_source = self._config.model_path or self._config.model_name
         LOGGER.info("Generating embeddings using model: %s", model_source)
         sentences: List[str] = list(texts)
         
+        # Use provided parameters or fall back to config defaults
+        batch_size = batch_size if batch_size is not None else self._config.batch_size
+        show_progress_bar = show_progress if show_progress is not None else True
+        normalize_embeddings = normalize if normalize is not None else self._config.normalize
+        
         embeddings = self._model.encode(
             sentences,
-            batch_size=self._config.batch_size,
-            show_progress_bar=True,
-            normalize_embeddings=self._config.normalize,
+            batch_size=batch_size,
+            show_progress_bar=show_progress_bar,
+            normalize_embeddings=normalize_embeddings,
         )
         return np.array(embeddings)
 

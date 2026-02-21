@@ -1,0 +1,67 @@
+{
+  "course_id": "QTTH1116",
+  "title": "Quản trị chi phí kinh doanh",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cost Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts of cost and cost management, principles of cost calculation, and methods of cost control."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret cost data to support business decision-making."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Use cost information to make informed business decisions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve cost-related problems in a business context."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in a team setting to manage costs."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through presentations and group discussions."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership skills in managing costs and decision-making processes."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical principles in cost management and business decisions."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study skills and adapt to different work environments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

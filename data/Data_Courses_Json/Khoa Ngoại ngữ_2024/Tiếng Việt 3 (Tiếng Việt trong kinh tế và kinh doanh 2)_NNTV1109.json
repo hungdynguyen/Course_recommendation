@@ -1,0 +1,52 @@
+{
+  "course_id": "NNTV1109",
+  "title": "Tiếng Việt trong kinh tế và kinh doanh",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Develops proficiency in Vietnamese language, including vocabulary, grammar, and economic terminology."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Enhances communication skills in Vietnamese, including listening, speaking, reading, and writing."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Improves critical thinking and problem-solving skills related to language use."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Fosters teamwork and collaborative skills in language learning activities."
+    },
+    {
+      "skill_name": "Information Literacy",
+      "category": "Soft Skill",
+      "outcome_description": "Develops skills in finding and using information related to economic topics."
+    },
+    {
+      "skill_name": "Cultural Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Increases understanding of business culture and economic practices in Vietnam and internationally."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tiếng Việt 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Vietnamese Language Skills",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

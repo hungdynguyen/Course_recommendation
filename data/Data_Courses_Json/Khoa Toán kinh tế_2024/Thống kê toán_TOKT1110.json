@@ -1,179 +1,61 @@
 {
   "course_id": "TOkt1110",
   "title": "Mathematical Statistics",
-  "overview": "This course covers fundamental and advanced knowledge and skills in descriptive and inferential statistics, with applications in economics, finance, and business. It introduces Bayesian statistics as a new approach.",
-  "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 150,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Statistics",
-    "sub_domains": [
-      "Descriptive Statistics",
-      "Inferential Statistics",
-      "Bayesian Statistics"
-    ],
-    "key_concepts": [
-      "Data types",
-      "Estimation",
-      "Hypothesis testing",
-      "ANOVA",
-      "R programming"
-    ]
-  },
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
   "skill_outcomes": [
     {
-      "skill_name": "Data Types and Structures",
+      "skill_name": "Statistical Analysis",
       "category": "Soft Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Differentiate between types of data and variables"
+      "outcome_description": "Understand and apply basic and advanced concepts of descriptive and inferential statistics in economics, finance, and business."
     },
     {
-      "skill_name": "Data Presentation",
+      "skill_name": "Probability Theory",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Recognize the significance of data presentation methods"
+      "outcome_description": "Apply probability theory to analyze statistical data and support decision-making."
     },
     {
-      "skill_name": "Descriptive Statistics",
+      "skill_name": "Statistical Software",
       "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Differentiate and combine descriptive statistics and explain their meanings and properties"
-    },
-    {
-      "skill_name": "Random Sampling",
-      "category": "Hard Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Understand",
-      "outcome_description": "Differentiate and explain random sampling and sampling distribution"
-    },
-    {
-      "skill_name": "Point Estimation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Estimate parameters using point estimation and confidence intervals"
-    },
-    {
-      "skill_name": "Hypothesis Testing",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Determine hypothesis testing for one sample, two samples, and ANOVA"
-    },
-    {
-      "skill_name": "Non-parametric Hypothesis Testing",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Conduct non-parametric hypothesis testing"
+      "outcome_description": "Use specialized software and programming languages to present data, perform calculations, and conduct statistical analysis."
     },
     {
       "skill_name": "Bayesian Statistics",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Differentiate and explain Bayesian statistics"
-    },
-    {
-      "skill_name": "Data Description",
-      "category": "Hard Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Understand",
-      "outcome_description": "Describe data through appropriate tables and charts"
-    },
-    {
-      "skill_name": "Accurate Descriptive Statistics",
-      "category": "Hard Skill",
-      "target_proficiency_level": 2,
-      "bloom_taxonomy_level": "Understand",
-      "outcome_description": "Calculate accurate descriptive statistics and use them to analyze and compare variables in specific data"
-    },
-    {
-      "skill_name": "Unbiased and Efficient Point Estimation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Find unbiased and efficient point estimates among various point estimates and construct point estimate formulas"
-    },
-    {
-      "skill_name": "Confidence Interval Calculation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Calculate confidence intervals, sample sizes corresponding to mean, variance, and proportion parameters"
-    },
-    {
-      "skill_name": "Parametric Hypothesis Testing",
-      "category": "Hard Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Conduct hypothesis testing for mean, variance, and proportion with one sample, two samples, and multiple samples"
-    },
-    {
-      "skill_name": "Correlation Hypothesis Testing",
-      "category": "Hard Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Conduct hypothesis testing for quantitative, ordinal, and nominal variables' correlation in specific problems"
-    },
-    {
-      "skill_name": "Probability Distribution Hypothesis Testing",
-      "category": "Hard Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Conduct hypothesis testing for probability distribution and independence"
-    },
-    {
-      "skill_name": "Graphical Representation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Use software to create appropriate and effective graphs"
-    },
-    {
-      "skill_name": "Descriptive Statistics Calculation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Use software to calculate descriptive statistics and confidence intervals"
-    },
-    {
-      "skill_name": "Probability and P-value Calculation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Use software to calculate probability values and P-values"
-    },
-    {
-      "skill_name": "Executing Pre-existing Tests",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Use software packages to execute pre-existing tests"
-    },
-    {
-      "skill_name": "Self-study and Practice",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Self-study theories and solve application exercises"
+      "outcome_description": "Understand and apply Bayesian approaches in statistical analysis."
     },
     {
-      "skill_name": "Software Practice",
+      "skill_name": "Critical Thinking",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Self-practice with specialized software for statistics"
+      "outcome_description": "Independently learn and choose appropriate statistical methods for specific problems."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Soft Skill",
+      "outcome_description": "Interpret and analyze data using statistical methods."
+    },
+    {
+      "skill_name": "Hypothesis Testing",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct hypothesis testing on parameters and non-parametric data."
+    },
+    {
+      "skill_name": "Variance Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Perform variance analysis on data sets."
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Model and analyze data using statistical techniques."
+    },
+    {
+      "skill_name": "Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Use programming languages like R for statistical analysis."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 60,
-    "practice_percentage": 40,
     "has_project": false
   },
   "entry_requirements": {
@@ -182,11 +64,7 @@
     ],
     "minimum_entry_skills": [
       {
-        "skill_name": "Basic Probability Theory",
-        "minimum_proficiency_level": 2
-      },
-      {
-        "skill_name": "Basic Statistics",
+        "skill_name": "Basic Mathematics",
         "minimum_proficiency_level": 2
       }
     ]

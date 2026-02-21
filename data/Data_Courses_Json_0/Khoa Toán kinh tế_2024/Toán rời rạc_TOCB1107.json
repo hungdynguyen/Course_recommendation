@@ -1,0 +1,86 @@
+{
+  "course_id": "TOCB1107",
+  "title": "Toán rời rạc",
+  "overview": "Học phần này cung cấp kiến thức cơ bản về logic, chứng minh, tập hợp và hàm, các thuật toán, bài toán đếm, lý thuyết đồ thị và cây. Học phần trang bị kỹ năng phân tích, phân loại, tính toán trên các đối tượng như tập hợp, mệnh đề, hàm, thuật toán, đồ thị; và vận dụng thuật toán để giải quyết các bài toán thực tế như mã hóa, tìm đường đi ngắn nhất, tô mầu đồ thị, cây khung nhỏ nhất.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Toán",
+    "sub_domains": [
+      "Logic",
+      "Chứng minh",
+      "Tập hợp và hàm",
+      "Thuật toán",
+      "Bài toán đếm",
+      "Lý thuyết đồ thị",
+      "Cây"
+    ],
+    "key_concepts": [
+      "Logic và mệnh đề",
+      "Quy nạp toán học",
+      "Tập hợp",
+      "Hàm và quan hệ hai ngôi",
+      "Thuật toán",
+      "Độ phức tạp của thuật toán",
+      "Thuật toán đệ quy",
+      "Thuật toán về số nguyên",
+      "Hệ thống mật mã RSA",
+      "Các nguyên lý đếm cơ bản",
+      "Hoán vị và tổ hợp",
+      "Thuật toán sinh hoán vị và sinh tổ hợp",
+      "Nguyên lý Dirichlet",
+      "Đồ thị và mô hình đồ thị",
+      "Đường đi Euler và đường đi Hamilton",
+      "Đường đi ngắn nhất",
+      "Đồ thị phẳng và tô mầu đồ thị",
+      "Cây",
+      "Duyệt cây",
+      "Cây khung và cây khung nhỏ nhất"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Phân tích và phân loại",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Phân biệt được các phương pháp chứng minh trong toán học, liệt kê các khái niệm và tính chất cơ bản về hàm và quan hệ, phân loại các khái niệm, tính chất, thuật toán cơ bản đối với số nguyên."
+    },
+    {
+      "skill_name": "Tính toán",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Thành thạo các phép toán tập hợp, mệnh đề, hàm, phép toán với các số nguyên, chuyển đổi hệ cơ số, tính toán các đại lượng trong đồ thị như: bậc, ma trận liên thuộc, ma trận liền kề, ma trận trọng số, đường đi, tổng trọng số của một cây, độ sâu của cây."
+    },
+    {
+      "skill_name": "Đọc và diễn đạt thuật toán",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Understand",
+      "outcome_description": "Có kỹ năng đọc, diễn đạt, phân tích, đánh giá một thuật toán."
+    },
+    {
+      "skill_name": "Vận dụng thuật toán",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Vận dụng các kiến thức và một số thuật toán về số nguyên vào việc xây dựng một hệ mật mã như đảo ngữ, RSA; vận dụng thuật toán sinh tổ hợp và sinh hoán vị vào giải quyết bài toán chiếc túi, bài toán người đi du lịch; vận dụng các kiến thức về đồ thị để giải các bài toán thực tiễn như: tìm đường đi ngắn nhất, tô mầu đồ thị, cây khung nhỏ nhất."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Nhập môn CNTT (CNTT1116)",
+      "Toán cho các nhà kinh tế (TOCB1110)"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "course_id": "NNTV1108",
+  "title": "Tiếng Việt trong kinh tế và kinh doanh 1",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Develop proficiency in Vietnamese language, including vocabulary, grammar, and economic terminology."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills in Vietnamese, including listening, speaking, reading, and writing."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking and problem-solving skills in a language context."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork and collaboration skills in language learning activities."
+    },
+    {
+      "skill_name": "Information Literacy",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to effectively search and utilize information related to economic and business topics."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve skills in delivering prepared and impromptu presentations in Vietnamese."
+    },
+    {
+      "skill_name": "Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance writing skills in Vietnamese, including structuring and grammar."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tiếng Việt cơ bản"
+    ],
+    "minimum_entry_skills": []
+  }
+}

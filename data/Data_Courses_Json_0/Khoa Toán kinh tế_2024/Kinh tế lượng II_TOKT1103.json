@@ -1,0 +1,71 @@
+{
+  "course_id": "TOTKT1103",
+  "title": "Econometrics II",
+  "overview": "This course provides a solid theoretical and practical foundation for explaining empirical evidence: short-term and long-term economic relationships, simultaneous effects of variables, effects of factors on choices, fixed and random effects, components of time series and the nature of a time series. The course consists of two parts: econometric theory and practical experimentation with each type of model using the R software.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Economics",
+    "sub_domains": [
+      "Short-term and long-term economic relationships",
+      "Simultaneous effects of variables",
+      "Effects of factors on choices",
+      "Fixed and random effects",
+      "Components of time series",
+      "Nature of a time series"
+    ],
+    "key_concepts": [
+      "Delayed distribution models",
+      "Autoregressive models",
+      "Causal relationships",
+      "Simultaneous equation models",
+      "Discrete choice models like logit, probit, multinomial",
+      "Panel data models",
+      "Basic concepts and models of time series and economic forecasting"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Modeling to determine short-term and long-term impacts",
+      "category": "Soft Skill",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to model to determine short-term and long-term impacts, simultaneous effects of variables, effects of factors on choices, fixed and random effects, and components of time series."
+    },
+    {
+      "skill_name": "Analyzing and evaluating models",
+      "category": "Soft Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Analyze",
+      "outcome_description": "Students will be able to analyze and evaluate models, and provide opinions based on scientific calculations."
+    },
+    {
+      "skill_name": "Using specialized software for estimation, analysis, and optimization of models",
+      "category": "Hard Skill",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Apply",
+      "outcome_description": "Students will be able to use specialized software for estimation, analysis, and optimization of models."
+    },
+    {
+      "skill_name": "Working in groups, self-study, and proposing research topics on economics/finance/business management",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to work in groups, self-study, and propose research topics on economics/finance/business management, and critically evaluate related content and policies."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Econometrics I"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "course_id": "QTTH1120",
+  "title": "Corporate Reengineering",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Process Reengineering",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the principles of business process reengineering, including the identification of business processes, redesigning processes, and restructuring organizations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and solve complex business problems."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership skills in group settings and in managing change within organizations."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to achieve common goals."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively, both verbally and in writing, to convey complex ideas and solutions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to real-world business scenarios."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects and tasks efficiently, including planning, execution, and evaluation."
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and manage organizational change effectively."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze business operations and identify areas for improvement."
+    },
+    {
+      "skill_name": "Strategic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think strategically about business operations and organizational structure."
+    },
+    {
+      "skill_name": "Organizational Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design and implement organizational structures that support business goals."
+    },
+    {
+      "skill_name": "Continuous Improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Promote a culture of continuous improvement within organizations."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make ethical decisions in business contexts."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to different work environments and changing business conditions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in self-directed learning to continuously improve professional skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Business Management 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Management Knowledge",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

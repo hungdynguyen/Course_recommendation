@@ -1,0 +1,75 @@
+{
+  "course_id": "NNTM1110",
+  "title": "Interpretation 1",
+  "difficulty_level": "Beginner",
+  "duration": "30 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Interpretation Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic interpretation techniques in both consecutive and simultaneous interpretation."
+    },
+    {
+      "skill_name": "Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate proficiency in listening, understanding, and translating between English and Vietnamese."
+    },
+    {
+      "skill_name": "Vocabulary Building",
+      "category": "Soft Skill",
+      "outcome_description": "Expand vocabulary and terminology in various fields such as culture, politics, education, and environment."
+    },
+    {
+      "skill_name": "Note-taking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective note-taking skills for interpretation tasks."
+    },
+    {
+      "skill_name": "Self-study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Foster self-study habits and lifelong learning attitudes."
+    },
+    {
+      "skill_name": "Professional Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to professional ethics and responsibilities in interpretation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and interpret complex information."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to enhance interpretation skills."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time efficiently to complete interpretation tasks."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both written and spoken forms."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "English Listening 3",
+      "English Speaking 3",
+      "English Reading 3",
+      "English Writing 3"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English Proficiency",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

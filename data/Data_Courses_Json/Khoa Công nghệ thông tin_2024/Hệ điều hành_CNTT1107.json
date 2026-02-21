@@ -1,0 +1,72 @@
+{
+  "course_id": "CNTT1107",
+  "title": "Operating Systems",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Operating Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the organization and functions of computer systems and operating systems, including task management, process synchronization, disk management, file systems, peripheral management, and system protection and security."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to real-world operating system issues, including process communication and synchronization, deadlock prevention, and recovery."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects, manage tasks, and present solutions related to operating systems."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to work independently, understand responsibilities, and adhere to professional ethics."
+    },
+    {
+      "skill_name": "Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Implement process tree and thread creation, and apply process communication and synchronization techniques in practical programming."
+    },
+    {
+      "skill_name": "System Security",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply security measures in operating systems, including access control and encryption techniques."
+    },
+    {
+      "skill_name": "Memory Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage main memory, virtual memory, and disk storage, including fragmentation and swap management."
+    },
+    {
+      "skill_name": "File Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Design and manage file systems, including directory structures, file access, and permissions."
+    },
+    {
+      "skill_name": "Disk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement disk scheduling algorithms and manage disk storage effectively."
+    },
+    {
+      "skill_name": "Input/Output Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage input/output operations, including DMA and interrupt control."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "CNTT1116 (Introduction to Information Technology)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

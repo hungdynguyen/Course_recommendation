@@ -1,0 +1,71 @@
+{
+  "course_id": "CNTT1197",
+  "title": "Cybersecurity",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cybersecurity Fundamentals",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and discuss key issues related to network security models"
+    },
+    {
+      "skill_name": "Cryptography",
+      "category": "Tool/Software",
+      "outcome_description": "Apply cryptographic methods in network security"
+    },
+    {
+      "skill_name": "Network Security Assessment",
+      "category": "Tool/Software",
+      "outcome_description": "Identify, analyze, and evaluate network system weaknesses"
+    },
+    {
+      "skill_name": "Threat Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Identify and analyze network attack threats"
+    },
+    {
+      "skill_name": "Network Security Solutions",
+      "category": "Tool/Software",
+      "outcome_description": "Apply network security knowledge to build practical security solutions"
+    },
+    {
+      "skill_name": "English Literature Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to read and understand English language materials"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to detect, evaluate, and solve network security issues"
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work independently and in groups"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to express and defend personal viewpoints, understand and fulfill responsibilities"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Computer Network and Data Transmission"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Programming Skills",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

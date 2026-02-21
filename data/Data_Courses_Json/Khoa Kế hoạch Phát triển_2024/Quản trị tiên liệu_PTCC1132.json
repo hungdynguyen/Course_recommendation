@@ -1,0 +1,48 @@
+{
+  "course_id": "PTCC 1132",
+  "title": "Anticipatory Governance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to use advanced forecasting tools and methods to identify and analyze future trends, aiding in strategic decision-making."
+    },
+    {
+      "skill_name": "Scenario Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Apply scenario planning techniques to build future scenarios and develop strategic plans for organizations, ensuring flexibility and adaptability."
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate factors influencing anticipatory governance and develop effective management solutions to respond to business environment changes."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance autonomous planning and change management capabilities, fostering leadership and visionary thinking."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve the ability to present ideas logically and argue persuasively."
+    },
+    {
+      "skill_name": "Forecasting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts of anticipatory governance and forecasting in economic and social contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economic and Social Forecasting 1",
+      "Development Planning 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

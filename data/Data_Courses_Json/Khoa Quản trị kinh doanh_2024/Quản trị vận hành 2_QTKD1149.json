@@ -1,0 +1,76 @@
+{
+  "course_id": "QTKD1149",
+  "title": "Quản trị vận hành 2",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Operations Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and theories related to operations and operations management."
+    },
+    {
+      "skill_name": "Strategic Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand concepts and theories related to strategy and operations activities."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply various methods to solve practical operations problems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Combine experience, knowledge, and tools to solve operations management issues."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze project scenarios and practical operations examples."
+    },
+    {
+      "skill_name": "Lean Manufacturing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply lean manufacturing principles and JIT (Just-In-Time) concepts."
+    },
+    {
+      "skill_name": "Maintenance Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role and main activities of maintenance in operations."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand supply chain concepts and manage resources effectively."
+    },
+    {
+      "skill_name": "Production Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Apply production planning techniques and manage production schedules."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Operations Knowledge",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

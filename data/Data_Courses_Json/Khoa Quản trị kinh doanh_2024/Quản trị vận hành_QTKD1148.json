@@ -1,0 +1,87 @@
+{
+  "course_id": "QTKD1148",
+  "title": "Quản trị vận hành",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Operations Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concepts and theories related to operations management, including production, services, and process design."
+    },
+    {
+      "skill_name": "Strategic Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concepts and theories related to strategic operations management."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply various methods in operations management to make decisions and solve practical problems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze case studies and practical examples in operations management to solve problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Combine experience, knowledge, and tools to demonstrate problem-solving skills in operations management."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and coordinate group projects and presentations effectively."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Participate in discussions, answer questions, and present research findings effectively."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead group discussions and presentations, and actively contribute to group activities."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, share ideas, and support group members."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver presentations with clear structure, logical content, and professional format."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research, gather data, and analyze information to support group projects."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and participate in class activities."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make ethical decisions and demonstrate professional behavior in all activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Business Operations",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

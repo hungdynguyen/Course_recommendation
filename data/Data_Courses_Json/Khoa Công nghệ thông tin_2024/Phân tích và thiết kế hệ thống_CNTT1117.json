@@ -1,0 +1,92 @@
+{
+  "course_id": "CNTT1117",
+  "title": "System Analysis and Design",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "System Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply system analysis methodologies, including UML modeling."
+    },
+    {
+      "skill_name": "System Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design system architecture, user interfaces, and database schemas."
+    },
+    {
+      "skill_name": "Object-Oriented Analysis and Design",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and design systems using object-oriented principles and UML."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage system development projects, including requirements gathering and project planning."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve complex problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and solve system-related problems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to real-world system design challenges."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through presentations and reports."
+    },
+    {
+      "skill_name": "UML Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Model system requirements, architecture, and behavior using UML diagrams."
+    },
+    {
+      "skill_name": "Software Development",
+      "category": "Soft Skill",
+      "outcome_description": "Understand software development processes and methodologies."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently and seek out relevant knowledge."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical responsibilities in system design and development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT1116)",
+      "Programming Basics (CNTT1128)",
+      "Database Fundamentals (TIKT1130)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming Basics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Database Fundamentals",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Information Technology Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

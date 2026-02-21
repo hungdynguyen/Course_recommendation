@@ -1,0 +1,82 @@
+{
+  "course_id": "TOCB1101",
+  "title": "Đại số",
+  "overview": "Học phần Đại số trang bị cho người học các kiến thức cơ bản của đại số tuyến tính về hệ phương trình tuyến tính, ma trận, định thức, không gian véctơ và ánh xạ tuyến tính. Học phần cũng nhằm rèn luyện cho người học khả năng tư duy, kỹ năng tính toán và xây dựng nền tảng toán học để người học có thể ứng dụng vào phân tích, nghiên cứu các vấn đề trong lĩnh vực kinh tế, kinh doanh, khoa học và công nghệ.",
+  "difficulty_level": "Beginner",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Đại số tuyến tính",
+    "sub_domains": [
+      "Hệ phương trình tuyến tính",
+      "Ma trận",
+      "Định thức",
+      "Không gian véctơ",
+      "Ánh xạ tuyến tính"
+    ],
+    "key_concepts": [
+      "Hệ phương trình tuyến tính",
+      "Ma trận",
+      "Định thức",
+      "Không gian véctơ",
+      "Ánh xạ tuyến tính"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Giải hệ phương trình tuyến tính",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Giải hệ phương trình tuyến tính bằng các phương pháp khác nhau như: phương pháp khử Gauss và Gauss - Jordan, phương pháp ma trận, phương pháp định thức."
+    },
+    {
+      "skill_name": "Giải bài toán liên quan đến ma trận và định thức",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Giải các bài toán cơ bản liên quan đến ma trận và định thức như: tìm ma trận tổng, tìm ma trận tích, tìm hạng của maatrix, tìm điều kiện để ma trận có ma trận nghịch đảo, tìm ma trận nghịch đảo của một ma trận (nếu có), tính định thức."
+    },
+    {
+      "skill_name": "Giải bài toán liên quan đến không gian véctơ",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Giải các bài toán cơ bản liên quan đến không gian véc tơ như: chứng minh một tập hợp là không gian véctơ con, tìm cơ sở và số chiều của không gian véc tơ, xác định tính độc lập tuyến tính hay phụ thuộc tuyến tính của một hệ véctơ, chứng minh một hệ véc tơ là cơ sở của một không gian véctơ."
+    },
+    {
+      "skill_name": "Nhận diện ánh xạ tuyến tính",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Nhận diện được ánh xạ tuyến tính và giải được các bài toán về tìm ma trận của ánh xạ tuyến tính, tìm giá trị riêng và véc tơ riêng của ma trận, giải bài toán chéo hoá ma trận."
+    },
+    {
+      "skill_name": "Giải thích khái niệm cơ bản của kinh tế học",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Giải thích được khái niệm cơ bản của kinh tế học như: hàm cung, hàm cầu, cân bằng thị trường."
+    },
+    {
+      "skill_name": "Vận dụng kiến thức và kỹ năng về hệ phương trình, ma trận, định thức",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Vận dụng các kiến thức và kỹ năng về hệ phương trình, ma trận, định thức để thiết lập và giải các mô hình cân bằng thị trường một hàng hoá và thị trường nhiều hàng hoá liên quan, mô hình cân bằng nền kinh tế vĩ mô, mô hình cân đối liên ngành, phân tích mạng lưới, mã hoá văn bản, xích Markov."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Không"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "course_id": "TOTC1106",
+  "title": "Fundamentals of Mathematical Finance",
+  "overview": "This course covers two main topics: deterministic financial mathematics and stochastic processes in financial modeling.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Mathematics",
+    "sub_domains": [
+      "Probability Theory",
+      "Algebra",
+      "Calculus 1",
+      "Calculus 2"
+    ],
+    "key_concepts": [
+      "Interest rates",
+      "Cash flows",
+      "Discounting models",
+      "Stochastic processes",
+      "Martingale measures",
+      "Ito calculus",
+      "Option pricing models"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Modeling financial processes",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop skills in modeling financial asset prices and derivative pricing using stochastic processes."
+    },
+    {
+      "skill_name": "Financial computation",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Master financial computations in both deterministic and stochastic environments using Excel and R."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 40,
+    "practice_percentage": 60,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Probability Theory",
+      "Algebra",
+      "Calculus 1",
+      "Calculus 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of financial markets",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic programming skills",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

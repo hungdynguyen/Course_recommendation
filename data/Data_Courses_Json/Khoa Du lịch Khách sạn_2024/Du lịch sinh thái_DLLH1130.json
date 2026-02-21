@@ -1,0 +1,65 @@
+{
+  "course_id": "DLLH1130",
+  "title": "Ecotourism",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze trends in responsible tourism and the development of ecotourism."
+    },
+    {
+      "skill_name": "Environmental Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate awareness and responsibility towards the environment, and a positive attitude towards the conservation and sustainable use of tourism resources."
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and determine marketing models in ecotourism."
+    },
+    {
+      "skill_name": "Sustainability",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of ecotourism in economic, social, and environmental aspects."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on the role of organizations and individuals in ecotourism."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and synthesize the characteristics, conditions, and basic principles of ecotourism."
+    },
+    {
+      "skill_name": "Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Present group reports and defend them in class discussions."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work in groups to develop and present case studies on ecotourism."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Calculate the carrying capacity of ecotourism destinations based on various indicators and conditions."
+    },
+    {
+      "skill_name": "Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop plans and strategies for ecotourism management and business."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

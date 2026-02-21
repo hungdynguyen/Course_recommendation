@@ -1,0 +1,87 @@
+{
+  "course_id": "CNTT1181",
+  "title": "Knowledge Discovery in Database",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts, methods, and skills for data analysis using advanced data mining techniques to extract knowledge from large datasets."
+    },
+    {
+      "skill_name": "Data Mining",
+      "category": "Hard Skill",
+      "outcome_description": "Use data mining techniques to solve problems in economics and business, and select appropriate techniques for data analysis."
+    },
+    {
+      "skill_name": "Data Preprocessing",
+      "category": "Hard Skill",
+      "outcome_description": "Apply data preprocessing techniques such as cleaning, integration, reduction, and transformation."
+    },
+    {
+      "skill_name": "Pattern Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Use pattern recognition techniques to discover knowledge from data."
+    },
+    {
+      "skill_name": "Clustering",
+      "category": "Hard Skill",
+      "outcome_description": "Apply clustering algorithms to group data into meaningful clusters."
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category": "Hard Skill",
+      "outcome_description": "Use machine learning algorithms for classification and regression tasks."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Interpret analysis results to support decision-making in economic and business contexts."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in a team and take responsibility for individual contributions."
+    },
+    {
+      "skill_name": "Python",
+      "category": "Hard Skill",
+      "outcome_description": "Use Python for data analysis and machine learning tasks."
+    },
+    {
+      "skill_name": "R",
+      "category": "Hard Skill",
+      "outcome_description": "Use R for data analysis and visualization."
+    },
+    {
+      "skill_name": "SQL",
+      "category": "Hard Skill",
+      "outcome_description": "Use SQL for database management and data querying."
+    },
+    {
+      "skill_name": "BI Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Use Business Intelligence tools for data analysis and visualization."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate data to make informed decisions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "None specified"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

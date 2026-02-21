@@ -1,0 +1,54 @@
+{
+  "course_id": "TOkt1145",
+  "title": "Probability and Mathematical Statistics",
+  "overview": "This course provides knowledge and skills in data analysis and decision support using probability and statistical methods. It consists of two main parts: (1) foundational knowledge in probability and probability distributions, (2) statistical methods with applications in economics and business, including portfolio management and quality management.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Probability and Statistics",
+    "sub_domains": [
+      "Descriptive Statistics",
+      "Probability Theory",
+      "Random Variables",
+      "Sampling Distributions",
+      "Parameter Estimation",
+      "Hypothesis Testing",
+      "Analysis of Variance",
+      "Practical Data Analysis"
+    ],
+    "key_concepts": [
+      "Probability Distributions",
+      "Statistical Inference",
+      "Excel",
+      "R"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Tool/Software",
+      "target_proficiency_level": 2,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to use Excel and R for data visualization and statistical analysis."
+    },
+    {
+      "skill_name": "Statistical Inference",
+      "category": "Tool/Software",
+      "target_proficiency_level": 3,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Students will be able to make inferences from data and support decision-making in economics and business."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

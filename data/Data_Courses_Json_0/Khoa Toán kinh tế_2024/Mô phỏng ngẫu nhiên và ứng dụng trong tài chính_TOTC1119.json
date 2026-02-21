@@ -1,0 +1,103 @@
+{
+  "course_id": "TOTC1119",
+  "title": "Stochastic simulation and applications in finance",
+  "overview": "This elective course for third-year students in economics mathematics and financial mathematics provides theoretical foundations and techniques for random number generation, continuous and discrete random variable simulation, multivariate random distribution simulation, random process simulation, and variance reduction techniques in simulation. Throughout the course, students will practice simulation skills through various financial applications.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 135,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Mathematics",
+    "sub_domains": [
+      "Algebra",
+      "Calculus 1",
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Financial Mathematics Basics"
+    ],
+    "key_concepts": [
+      "Random sampling",
+      "Monte Carlo method",
+      "Continuous and discrete random variable simulation",
+      "Multivariate random distribution simulation",
+      "Random process simulation",
+      "Variance reduction techniques"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Programming and random simulation with R",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Apply R as a programming language and for random simulation"
+    },
+    {
+      "skill_name": "Monte Carlo method application",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Apply Monte Carlo simulation to solve real-world problems with random outcomes"
+    },
+    {
+      "skill_name": "Financial asset modeling",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Describe and model the movement of financial assets over time using Monte Carlo simulation to make investment and risk management decisions"
+    },
+    {
+      "skill_name": "Random process modeling",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop skills to build, transform, and simulate real-world problems related to randomness on computers"
+    },
+    {
+      "skill_name": "Financial derivative modeling",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop skills to build random models for the volatility of basic financial assets such as stocks, bonds, interest rates, etc."
+    },
+    {
+      "skill_name": "Independent and group work",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop self-learning, organizing, and managing group work skills, as well as the ability to synthesize issues and persuade others"
+    },
+    {
+      "skill_name": "Personal and group responsibility",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Develop personal responsibility, group responsibility, and discipline in learning"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Algebra",
+      "Calculus 1",
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Financial Mathematics Basics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic programming",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic financial mathematics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

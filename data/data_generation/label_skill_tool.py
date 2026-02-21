@@ -11,6 +11,7 @@ from pathlib import Path
 from flask import Flask, render_template, jsonify, request
 import pandas as pd
 import numpy as np
+import threading
 
 # Add parent directories to path
 BASE_DIR = Path(__file__).parent.parent.parent
@@ -26,6 +27,8 @@ COURSES_DIR = DATA_DIR / "Data_Courses_Json"
 ESCO_SKILLS_PATH = DATA_DIR / "raw" / "skill_taxonomy" / "skills_en.csv"
 OUTPUT_DIR = DATA_DIR / "processed" / "training_dataset"
 LABELED_DATA_FILE = OUTPUT_DIR / "human_labeled_skills.json"
+ESCO_EMBEDDINGS_CACHE = OUTPUT_DIR / "esco_embeddings_cache.npz"
+SEARCH_RESULTS_CACHE = OUTPUT_DIR / "search_results_cache.json"
 
 app = Flask(__name__)
 
@@ -38,6 +41,9 @@ class SkillLabeler:
         self.reranker_service = None
         self.labeled_data = []
         self.settings = None
+        self._initialized = False
+        self._search_cache = {}  # Cache search results
+        self._precompute_progress = {'current': 0, 'total': 0, 'done': False}
         
     def load_course_skills(self):
         """Load all skills from course JSON files"""
@@ -54,15 +60,24 @@ class SkillLabeler:
                     with open(course_file, 'r', encoding='utf-8') as f:
                         course_data = json.load(f)
                     
-                    # Extract skills from course
-                    skills = course_data.get('skills', [])
-                    course_name = course_data.get('course_name', course_file.stem)
+                    # Extract skills from course (using 'skill_outcomes' field)
+                    skills = course_data.get('skill_outcomes', [])
+                    course_name = course_data.get('title', course_file.stem)
                     
                     for skill in skills:
-                        skill_text = skill if isinstance(skill, str) else skill.get('skill_name', '')
+                        if isinstance(skill, str):
+                            skill_text = skill
+                            description = ''
+                        else:
+                            skill_text = skill.get('skill_name', '')
+                            description = skill.get('outcome_description', '')
+                        
                         if skill_text and skill_text not in all_skills:
                             all_skills.append(skill_text)
-                            skill_sources[skill_text] = course_name
+                            skill_sources[skill_text] = {
+                                'course_name': course_name,
+                                'description': description
+                            }
                             
                 except Exception as e:
                     print(f"Error loading {course_file}: {e}")
@@ -72,13 +87,40 @@ class SkillLabeler:
             {
                 'id': idx,
                 'skill_text': skill,
-                'source_course': skill_sources.get(skill, 'Unknown')
+                'source_course': skill_sources.get(skill, {}).get('course_name', 'Unknown'),
+                'description': skill_sources.get(skill, {}).get('description', '')
             }
             for idx, skill in enumerate(all_skills)
         ]
         
         print(f"Loaded {len(self.course_skills)} unique course skills")
         return self.course_skills
+    
+    def load_search_cache(self):
+        """Load search results cache from file"""
+        if SEARCH_RESULTS_CACHE.exists():
+            try:
+                print("Loading search results cache from file...")
+                with open(SEARCH_RESULTS_CACHE, 'r', encoding='utf-8') as f:
+                    self._search_cache = json.load(f)
+                print(f"Loaded {len(self._search_cache)} cached search results")
+            except Exception as e:
+                print(f"Failed to load search cache: {e}")
+                self._search_cache = {}
+        else:
+            print("No search cache file found")
+            self._search_cache = {}
+    
+    def save_search_cache(self):
+        """Save search results cache to file"""
+        try:
+            OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+            print(f"Saving {len(self._search_cache)} search results to cache...")
+            with open(SEARCH_RESULTS_CACHE, 'w', encoding='utf-8') as f:
+                json.dump(self._search_cache, f, ensure_ascii=False, indent=2)
+            print("Search cache saved!")
+        except Exception as e:
+            print(f"Failed to save search cache: {e}")
     
     def load_esco_skills(self):
         """Load ESCO skills taxonomy"""
@@ -126,8 +168,20 @@ class SkillLabeler:
         
         print("Services initialized!")
     
-    def build_esco_embeddings(self):
-        """Build embeddings for all ESCO skills"""
+    def build_esco_embeddings(self, force_rebuild=False):
+        """Build embeddings for all ESCO skills with caching"""
+        # Try to load from cache first
+        if not force_rebuild and ESCO_EMBEDDINGS_CACHE.exists():
+            print("Loading ESCO embeddings from cache...")
+            try:
+                data = np.load(ESCO_EMBEDDINGS_CACHE)
+                self.esco_embeddings = data['embeddings']
+                print(f"Loaded cached embeddings: {self.esco_embeddings.shape}")
+                return
+            except Exception as e:
+                print(f"Failed to load cache: {e}. Rebuilding...")
+        
+        # Build embeddings if cache not available
         print("Building ESCO skill embeddings...")
         esco_texts = [s['full_text'] for s in self.esco_skills]
         
@@ -139,23 +193,57 @@ class SkillLabeler:
         )
         
         print(f"Built embeddings: {self.esco_embeddings.shape}")
+        
+        # Save to cache
+        print("Saving embeddings to cache...")
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+        np.savez_compressed(ESCO_EMBEDDINGS_CACHE, embeddings=self.esco_embeddings)
+        print("Cache saved!")
     
-    def find_top_matches(self, query_skill: str, top_k: int = 50):
+    def find_top_matches(self, query_skill: str, top_k: int = 50, verbose: bool = False):
         """Find top K matching ESCO skills using embedding + reranker"""
+        # Check cache first
+        cache_key = f"{query_skill}:{top_k}"
+        if cache_key in self._search_cache:
+            if verbose:
+                print(f"[CACHE HIT] Returning cached results for '{query_skill}'")
+            return self._search_cache[cache_key]
+        
+        if verbose:
+            print(f"\n[DEBUG] find_top_matches called with: '{query_skill}', top_k={top_k}")
+            print(f"[DEBUG] embedding_service: {self.embedding_service is not None}")
+            print(f"[DEBUG] esco_embeddings: {self.esco_embeddings is not None}")
+            if self.esco_embeddings is not None:
+                print(f"[DEBUG] esco_embeddings.shape: {self.esco_embeddings.shape}")
+            print(f"[DEBUG] esco_skills count: {len(self.esco_skills)}")
+        
         if self.embedding_service is None or self.esco_embeddings is None:
+            if verbose:
+                print("[DEBUG] Returning empty - service or embeddings not initialized")
             return []
         
         # Step 1: Encode query skill
+        if verbose:
+            print("[DEBUG] Encoding query skill...")
         query_embedding = self.embedding_service.encode([query_skill])[0]
+        if verbose:
+            print(f"[DEBUG] Query embedding shape: {query_embedding.shape}")
         
         # Step 2: Compute cosine similarities
+        if verbose:
+            print("[DEBUG] Computing similarities...")
         similarities = np.dot(self.esco_embeddings, query_embedding) / (
             np.linalg.norm(self.esco_embeddings, axis=1) * np.linalg.norm(query_embedding)
         )
+        if verbose:
+            print(f"[DEBUG] Similarities shape: {similarities.shape}")
+            print(f"[DEBUG] Similarities range: [{similarities.min():.4f}, {similarities.max():.4f}]")
         
         # Step 3: Get top candidates for reranking (more than final top_k)
         num_candidates = min(200, len(self.esco_skills))
         top_indices = np.argsort(similarities)[::-1][:num_candidates]
+        if verbose:
+            print(f"[DEBUG] Top {num_candidates} indices selected")
         
         candidates = []
         for idx in top_indices:
@@ -165,30 +253,87 @@ class SkillLabeler:
                 'index': int(idx)
             })
         
+        if verbose:
+            print(f"[DEBUG] Built {len(candidates)} candidates")
+        
         # Step 4: Rerank if reranker is available
         if self.reranker_service:
-            print(f"Reranking {len(candidates)} candidates...")
+            if verbose:
+                print(f"[DEBUG] Reranking {len(candidates)} candidates...")
             
             # Prepare pairs for reranking
             pairs = [[query_skill, c['esco_skill']['full_text']] for c in candidates]
             
             # Get rerank scores
             rerank_scores = self.reranker_service.compute_scores(pairs)
+            if verbose:
+                print(f"[DEBUG] Got {len(rerank_scores)} rerank scores")
             
             # Update scores
             for i, candidate in enumerate(candidates):
                 candidate['rerank_score'] = float(rerank_scores[i])
                 candidate['final_score'] = float(rerank_scores[i])  # Use rerank as final
+                candidate['similarity'] = float(rerank_scores[i])  # For frontend compatibility
             
             # Sort by rerank score
             candidates.sort(key=lambda x: x['rerank_score'], reverse=True)
         else:
             # Use embedding score only
+            if verbose:
+                print("[DEBUG] No reranker - using embedding scores")
             for candidate in candidates:
                 candidate['final_score'] = candidate['embedding_score']
+                candidate['similarity'] = candidate['embedding_score']  # For frontend compatibility
         
         # Return top K
-        return candidates[:top_k]
+        result = candidates[:top_k]
+        if verbose:
+            print(f"[DEBUG] Returning {len(result)} results")
+        
+        # Cache the result
+        cache_key = f"{query_skill}:{top_k}"
+        self._search_cache[cache_key] = result
+        
+        return result
+    
+    def precompute_all_searches(self, top_k: int = 50):
+        """Pre-compute search results for all course skills"""
+        if not self.course_skills:
+            print("No course skills to precompute")
+            return
+        
+        self._precompute_progress = {'current': 0, 'total': len(self.course_skills), 'done': False}
+        
+        print(f"\n{'='*60}")
+        print(f"Pre-computing search results for {len(self.course_skills)} skills...")
+        print(f"Already cached: {len(self._search_cache)} results")
+        print(f"{'='*60}")
+        
+        for idx, skill in enumerate(self.course_skills, 1):
+            skill_text = skill['skill_text']
+            cache_key = f"{skill_text}:{top_k}"
+            
+            # Skip if already cached
+            if cache_key in self._search_cache:
+                self._precompute_progress['current'] = idx
+                continue
+            
+            # Compute and cache
+            print(f"[{idx}/{len(self.course_skills)}] Processing: {skill_text[:50]}...")
+            self.find_top_matches(skill_text, top_k)
+            self._precompute_progress['current'] = idx
+            
+            # Save cache every 10 skills
+            if idx % 10 == 0:
+                self.save_search_cache()
+        
+        # Final save
+        self.save_search_cache()
+        
+        self._precompute_progress['done'] = True
+        print(f"{'='*60}")
+        print(f"Pre-computation complete! Cached {len(self._search_cache)} results")
+        print(f"{'='*60}\n")
     
     def load_labeled_data(self):
         """Load existing labeled data"""
@@ -243,13 +388,40 @@ def index():
 
 @app.route('/api/init', methods=['GET'])
 def init_data():
-    """Initialize and load all data"""
+    """Initialize and load all data (only once)"""
     try:
-        labeler.load_esco_skills()
-        labeler.init_services()
-        labeler.build_esco_embeddings()
-        labeler.load_course_skills()
-        labeler.load_labeled_data()
+        # Check if actually initialized (not just the flag)
+        needs_init = (
+            not labeler._initialized or 
+            labeler.embedding_service is None or 
+            labeler.esco_embeddings is None or
+            len(labeler.esco_skills) == 0
+        )
+        
+        if needs_init:
+            print("Initializing labeler...")
+            labeler.load_esco_skills()
+            labeler.init_services()
+            labeler.build_esco_embeddings()  # Uses cache if available
+            labeler.load_course_skills()
+            labeler.load_labeled_data()
+            labeler.load_search_cache()  # Load cached search results
+            labeler._initialized = True
+            print("Initialization complete!")
+            
+            # Check if we have cached results for all skills
+            if len(labeler.course_skills) > 0:
+                cached_count = sum(1 for skill in labeler.course_skills 
+                                 if f"{skill['skill_text']}:50" in labeler._search_cache)
+                print(f"\nSearch cache status: {cached_count}/{len(labeler.course_skills)} skills cached")
+                
+                if cached_count < len(labeler.course_skills):
+                    print(f"⚠️  {len(labeler.course_skills) - cached_count} skills not cached!")
+                    print("Run 'python data/data_generation/precompute_search_cache.py' to pre-compute all results")
+                else:
+                    print("✓ All skills cached! Searches will be instant.")
+        else:
+            print("Already initialized, skipping...")
         
         labeled_ids = labeler.get_labeled_skill_ids()
         
@@ -290,10 +462,25 @@ def search_matches():
     top_k = data.get('top_k', 50)
     
     try:
-        matches = labeler.find_top_matches(skill_text, top_k)
+        cache_key = f"{skill_text}:{top_k}"
+        is_cached = cache_key in labeler._search_cache
+        
+        print(f"\n=== SEARCH REQUEST ===")
+        print(f"Skill text: {skill_text}")
+        print(f"Top K: {top_k}")
+        print(f"Cached: {'✓ YES' if is_cached else '✗ NO'}")
+        
+        matches = labeler.find_top_matches(skill_text, top_k, verbose=not is_cached)
+        
+        print(f"Found {len(matches)} matches")
+        if matches and not is_cached:
+            print(f"First match keys: {matches[0].keys()}")
+            print(f"First match sample: name={matches[0].get('esco_skill', {}).get('name')}, similarity={matches[0].get('similarity')}")
+        
         return jsonify({
             'success': True,
-            'matches': matches
+            'matches': matches,
+            'cached': is_cached
         })
     except Exception as e:
         import traceback
@@ -333,8 +520,26 @@ def get_stats():
         'total': total,
         'labeled': labeled,
         'remaining': total - labeled,
-        'progress_percent': round((labeled / total * 100), 2) if total > 0 else 0
+        'progress_percent': round((labeled / total * 100), 2) if total > 0 else 0,
+        'precompute_progress': labeler._precompute_progress
     })
+
+@app.route('/api/rebuild_cache', methods=['POST'])
+def rebuild_cache():
+    """Force rebuild ESCO embeddings cache"""
+    try:
+        if labeler.embedding_service is None:
+            labeler.init_services()
+        
+        labeler.build_esco_embeddings(force_rebuild=True)
+        return jsonify({
+            'success': True,
+            'message': 'Cache rebuilt successfully'
+        })
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        return jsonify({'success': False, 'error': str(e)}), 500
 
 def main():
     print("="*60)

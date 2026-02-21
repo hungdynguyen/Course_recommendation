@@ -1,0 +1,65 @@
+{
+  "course_id": "CNTT1196",
+  "title": "Practical Training",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Industry Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Gain a deep understanding of the working environment in the IT industry."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge to solve real-world problems in a business setting."
+    },
+    {
+      "skill_name": "Technology Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate the effectiveness of current IT solutions, identify challenges, and propose improvements."
+    },
+    {
+      "skill_name": "System Configuration",
+      "category": "Hard Skill",
+      "outcome_description": "Install and configure basic software and hardware systems based on business requirements."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to complete assigned projects and tasks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking and evaluation skills for technology solutions."
+    },
+    {
+      "skill_name": "Professional Networking",
+      "category": "Soft Skill",
+      "outcome_description": "Build professional relationships with industry experts and expand career opportunities."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and execute projects assigned by instructors or businesses."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in discussions, ask and answer questions, and present ideas effectively."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write comprehensive and structured reports after practical training sessions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

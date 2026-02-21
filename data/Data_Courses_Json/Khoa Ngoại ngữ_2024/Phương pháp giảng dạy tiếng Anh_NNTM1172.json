@@ -1,0 +1,73 @@
+{
+  "course_id": "NNTM1172",
+  "title": "English Teaching Methodology",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Language Teaching",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and apply modern teaching methods for English, including task-based and communicative language teaching."
+    },
+    {
+      "skill_name": "Curriculum Design",
+      "category": "Tool/Software",
+      "outcome_description": "Design lesson plans and teaching materials for English language learners."
+    },
+    {
+      "skill_name": "Assessment Techniques",
+      "category": "Tool/Software",
+      "outcome_description": "Develop and implement effective assessment methods for evaluating English language proficiency."
+    },
+    {
+      "skill_name": "Classroom Management",
+      "category": "Tool/Software",
+      "outcome_description": "Manage classroom activities and interactions effectively."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers in group activities and discussions."
+    },
+    {
+      "skill_name": "Professionalism",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional conduct and teaching demeanor."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate teaching methods and materials critically."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in English, both verbally and in writing."
+    },
+    {
+      "skill_name": "Instructional Techniques",
+      "category": "Tool/Software",
+      "outcome_description": "Apply various instructional techniques for teaching vocabulary, grammar, and language skills."
+    },
+    {
+      "skill_name": "Educational Technology",
+      "category": "Tool/Software",
+      "outcome_description": "Utilize educational technology to enhance teaching and learning."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "English – Listening & Speaking Skills 3",
+      "English – Reading and Writing Skills 3"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "English Language Proficiency",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

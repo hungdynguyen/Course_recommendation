@@ -1,0 +1,53 @@
+{
+  "course_id": "TOTC1121",
+  "title": "Quantitative risk management 2",
+  "overview": "This course covers the measurement and management of various types of risks such as market risk, credit risk, operational risk, liquidity risk, and integrated risk management. It aims to provide students with knowledge and skills to approach international certification standards, specifically the Market Risk Measurement and Management, Credit risk measurement and management, and Operational and resiliency sections of the Financial Risk Manager (FRM-level 2) certification by the Global Association of Risk Professionals (GARP).",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quantitative Risk Management",
+    "sub_domains": [
+      "Market Risk",
+      "Credit Risk",
+      "Operational Risk",
+      "Liquidity Risk"
+    ],
+    "key_concepts": [
+      "VaR model",
+      "Credit risk models",
+      "Operational risk models",
+      "Liquidity risk models"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk measurement and management",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to apply models such as VaR, credit risk models, and liquidity risk models to measure and manage various types of risks."
+    },
+    {
+      "skill_name": "Data analysis",
+      "category": "Tool/Software",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Students will be able to use software tools such as Excel, R, and Python to analyze data and estimate risk parameters."
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 30,
+    "practice_percentage": 70,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quantitative risk management 1",
+      "Financial asset analysis and valuation 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "course_id": "TOTC1120",
+  "title": "Quản trị rủi ro định lượng 1",
+  "overview": "Học phần này được giảng dạy cho sinh viên năm thứ 3 ngành Toán kinh tế. Nội dung bao gồm các kiến thức cơ bản về quản trị rủi ro, phân tích định lượng, và các mô hình rủi ro và định giá.",
+  "difficulty_level": "Advanced",
+  "duration": {
+    "total_hours": 150,
+    "credits": 3
+  },
+  "knowledge_graph_alignment": {
+    "primary_domain": "Quantitative Risk Management",
+    "sub_domains": [
+      "Foundations of Risk Management",
+      "Quantitative Analysis",
+      "Valuation and Risk Models"
+    ],
+    "key_concepts": [
+      "Risk factors",
+      "Quantitative analysis",
+      "Risk models",
+      "Risk management principles",
+      "Financial risk management"
+    ]
+  },
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk analysis",
+      "category": "Soft Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Evaluate",
+      "outcome_description": "Phân tích, đánh giá các nhân tố rủi ro và ứng dụng phân tích định lượng trong quản trị rủi ro"
+    },
+    {
+      "skill_name": "Modeling risk",
+      "category": "Hard Skill",
+      "target_proficiency_level": 4,
+      "bloom_taxonomy_level": "Create",
+      "outcome_description": "Phát triển kỹ năng mô hình hóa rủi ro, tính toán rủi ro"
+    }
+  ],
+  "pedagogy_format": {
+    "theory_percentage": 45,
+    "practice_percentage": 55,
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế lượng",
+      "Lý thuyết tài chính tiền tệ",
+      "Mô hình phân tích và định giá tài sản tài chính 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

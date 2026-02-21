@@ -1,0 +1,57 @@
+{
+  "course_id": "NNTM1181",
+  "title": "English – Reading & Writing Skills 3",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Develop advanced reading and writing skills in English at the B2 to C1 level according to the Common European Framework of Reference for Languages (CEFR), equivalent to IELTS 6.0-6.5."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to reading and writing tasks, including identifying arguments, distinguishing between facts and opinions, and analyzing complex texts."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork and collaborative skills in group activities and discussions."
+    },
+    {
+      "skill_name": "Academic Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Master various academic writing styles, including descriptive essays, argumentative essays, and problem-solution essays."
+    },
+    {
+      "skill_name": "Vocabulary Building",
+      "category": "Soft Skill",
+      "outcome_description": "Expand vocabulary through context, dictionary usage, and advanced reading materials."
+    },
+    {
+      "skill_name": "Test Preparation",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare for international English proficiency tests such as IELTS."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study and self-assessment skills to enhance independent learning."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "English – Reading & Writing Skills 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "English Language Proficiency",
+        "minimum_proficiency_level": 5
+      }
+    ]
+  }
+}

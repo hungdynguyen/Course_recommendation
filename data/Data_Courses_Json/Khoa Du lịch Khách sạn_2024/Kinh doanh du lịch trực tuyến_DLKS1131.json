@@ -1,0 +1,64 @@
+{
+  "course_id": "DLKS1131",
+  "title": "E-TOURISM BUSINESS",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Technology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the strategic role of information technology in business and tourism management."
+    },
+    {
+      "skill_name": "Marketing Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply marketing management principles in the context of tourism and hospitality."
+    },
+    {
+      "skill_name": "Service Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate proficiency in service operations within the hospitality industry."
+    },
+    {
+      "skill_name": "Digital Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize digital marketing tools and strategies in tourism and hospitality."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic plans incorporating digital transformation in tourism and hospitality."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects related to digital transformation in tourism and hospitality."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and communicate digital transformation strategies in tourism and hospitality."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical responsibility in professional and civic contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Information Technology",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Marketing Principles",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

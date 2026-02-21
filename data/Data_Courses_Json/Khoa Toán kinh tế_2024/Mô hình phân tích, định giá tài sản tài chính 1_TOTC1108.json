@@ -1,63 +1,95 @@
 {
   "course_id": "TOTC1108",
-  "title": "Mô hình phân tích và định giá tài sản tài chính 1",
-  "overview": "Môn học này dành cho sinh viên ngành Toán ứng dụng trong kinh tế năm thứ 3. Nội dung chính bao gồm việc ứng dụng các phương pháp toán học để mô hình hóa quá trình phân tích và định giá các tài sản trên thị trường tài chính.",
-  "difficulty_level": "Intermediate",
-  "duration": {
-    "total_hours": 150,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Finance",
-    "sub_domains": [
-      "Portfolio theory",
-      "Capital asset pricing model",
-      "Arbitrage pricing theory"
-    ],
-    "key_concepts": [
-      "Financial asset analysis",
-      "Portfolio management",
-      "Capital asset pricing",
-      "Arbitrage pricing"
-    ]
-  },
+  "title": "The models for analyzing and evaluating the financial assets 1",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
   "skill_outcomes": [
     {
-      "skill_name": "Apply portfolio theory",
+      "skill_name": "Financial Modeling",
       "category": "Soft Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Ứng dụng các mô hình: Trung bình – Phương sai vào việc phân tích và lựa chọn danh mục đầu tư"
+      "outcome_description": "Develop skills in building, estimating, and testing models for portfolio selection and financial asset pricing."
     },
     {
-      "skill_name": "Evaluate financial asset pricing",
+      "skill_name": "Portfolio Management",
       "category": "Soft Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Ứng dụng mô hình định giá tài sản vốn vào ước lượng lợi suất kỳ vọng của tài sản, danh mục trên thị trường, vào ước lượng giá kỳ vọng của tài sản trong tương lai"
+      "outcome_description": "Apply portfolio theory and capital asset pricing models to analyze and select investment portfolios."
     },
     {
-      "skill_name": "Analyze financial asset risk",
+      "skill_name": "Risk Management",
       "category": "Soft Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Ứng dụng mô hình đa nhân tố và lý thuyết định giá cơ lợi vào ước lượng lợi suất kỳ vọng của tài sản, danh mục trên thị trường, đánh giá sự tồn tại cơ lợi trong đầu tư"
+      "outcome_description": "Analyze and manage financial risks using various models and strategies."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct financial analysis using real-world data with software tools like Excel and R."
+    },
+    {
+      "skill_name": "Mathematical Finance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply mathematical concepts to financial asset analysis and valuation."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic theories to financial asset analysis and valuation."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Estimate and test models using statistical methods."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate financial models and theories."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and manage group dynamics."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both written and oral formats."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and independent working skills."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve complex financial problems using analytical and quantitative methods."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 30,
-    "practice_percentage": 70,
     "has_project": true
   },
   "entry_requirements": {
     "prerequisite_courses": [
-      "Kinh tế vi mô 1",
-      "Kinh tế vĩ mô 1",
-      "Lý thuyết mô hình toán Kinh tế 1",
-      "Kinh tế lượng",
-      "Tối ưu hóa",
-      "Lý thuyết tài chính tiền tệ"
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Mathematical Economic Models 1",
+      "Econometrics",
+      "Optimization",
+      "Financial and Monetary Theory"
     ],
-    "minimum_entry_skills": []
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 3
+      }
+    ]
   }
 }

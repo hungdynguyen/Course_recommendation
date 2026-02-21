@@ -1,45 +1,96 @@
 {
   "course_id": "TOKT1171",
   "title": "Chuyên đề thực tế - Toán kinh tế",
-  "overview": "Chuyên đề thực tế trong CTĐT Toán kinh tế là học phần được thiết kế nhằm tạo điều kiện cho sinh viên tiếp cận với thực tế công việc và các ứng dụng của chuyên ngành toán kinh tế trong các lĩnh vực của đời sống xã hội từ vĩ mô đến vi mô, nâng cao khả năng giải quyết các tình huống thực tế bằng kiến thức, kĩ năng và tư duy của Toán kinh tế.",
   "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 60,
-    "credits": 4
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Toán kinh tế",
-    "sub_domains": [
-      "Thu thập số liệu",
-      "Xử lý dữ liệu",
-      "Xây dựng mô hình dự báo",
-      "Ứng dụng AI"
-    ],
-    "key_concepts": [
-      "Giải quyết tình huống thực tế",
-      "Tư duy Toán kinh tế",
-      "Phân tích định lượng"
-    ]
-  },
+  "duration": "60 hours",
   "skill_outcomes": [
     {
-      "skill_name": "Giải quyết tình huống thực tế",
-      "category": "Tool/Software",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Sinh viên có thể giải quyết các tình huống thực tế bằng kiến thức và kỹ năng Toán kinh tế."
+      "skill_name": "Quantitative Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply quantitative methods to solve real-world economic and financial problems."
     },
     {
-      "skill_name": "Phân tích định lượng",
-      "category": "Tool/Software",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Sinh viên có thể phân tích định lượng các vấn đề thực tế và đưa ra khuyến nghị cải tiến."
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Collect, process, and analyze data to inform decision-making."
+    },
+    {
+      "skill_name": "Economic Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and interpret economic models to forecast and analyze economic phenomena."
+    },
+    {
+      "skill_name": "AI Application",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply AI techniques in economic and financial contexts."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Produce clear, structured, and evidence-based reports."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and critique economic and financial issues, proposing solutions and policies."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, contributing to group projects and discussions."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan, organize, and manage projects, including setting goals and timelines."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present findings and arguments to diverse audiences."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research, gathering and evaluating information from various sources."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, analyze, and solve complex economic and financial problems."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both written and oral formats."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical software (Eviews, STATA, SPSS, R, Python, SAS) for data analysis."
+    },
+    {
+      "skill_name": "Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical concepts to economic and financial analysis."
+    },
+    {
+      "skill_name": "Python (Computer Programming)",
+      "category": "Hard Skill",
+      "outcome_description": "Write and execute Python scripts for data analysis and modeling."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply economic theories and principles."
+    },
+    {
+      "skill_name": "Finance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply financial theories and principles."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 25,
-    "practice_percentage": 75,
     "has_project": true
   },
   "entry_requirements": {

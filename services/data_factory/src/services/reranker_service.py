@@ -130,3 +130,44 @@ class RerankerService:
 
         reranked.sort(key=lambda item: item["rerank_score"], reverse=True)
         return reranked
+
+    def compute_scores(self, pairs: List[List[str]]) -> List[float]:
+        """
+        Compute reranking scores for query-document pairs.
+        
+        Args:
+            pairs: List of [query, document] pairs
+            
+        Returns:
+            List of scores (one per pair)
+        """
+        if not pairs:
+            return []
+
+        scores: List[float] = []
+        batch_size = max(1, self._config.batch_size)
+
+        for start in range(0, len(pairs), batch_size):
+            batch_pairs = pairs[start : start + batch_size]
+            query_texts = [pair[0] for pair in batch_pairs]
+            doc_texts = [pair[1] for pair in batch_pairs]
+            encoded = self._tokenizer(
+                query_texts,
+                doc_texts,
+                padding=True,
+                truncation=True,
+                max_length=self._config.max_length,
+                return_tensors="pt",
+            ).to(self._device)
+            
+            with torch.no_grad():
+                logits = self._model(**encoded).logits.squeeze(-1)
+            
+            # Handle both single and batch predictions
+            batch_scores = logits.detach().cpu()
+            if batch_scores.dim() == 0:  # Single prediction
+                scores.append(float(batch_scores.item()))
+            else:  # Batch predictions
+                scores.extend(batch_scores.tolist())
+
+        return scores

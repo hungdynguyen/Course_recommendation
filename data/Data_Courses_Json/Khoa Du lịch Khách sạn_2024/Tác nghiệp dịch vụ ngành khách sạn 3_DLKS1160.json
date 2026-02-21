@@ -1,0 +1,52 @@
+{
+  "course_id": "DLKS1160",
+  "title": "Operation of hospitality services 3",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Hospitality services",
+      "category": "Soft Skill",
+      "outcome_description": "Perform basic hospitality services tasks such as front desk, room service, and food service."
+    },
+    {
+      "skill_name": "Customer service",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate in Vietnamese and English in business tourism."
+    },
+    {
+      "skill_name": "Report writing",
+      "category": "Soft Skill",
+      "outcome_description": "Produce reports using computer applications."
+    },
+    {
+      "skill_name": "Professionalism",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a sense of professionalism and responsibility in work."
+    },
+    {
+      "skill_name": "Customer orientation",
+      "category": "Soft Skill",
+      "outcome_description": "Serve and guide customers with a positive attitude."
+    },
+    {
+      "skill_name": "Environmental and social responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate responsibility towards the environment and society, and protect traditional cultural values."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Operation of hospitality services 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Hospitality services",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

@@ -1,94 +1,65 @@
 {
   "course_id": "TOTKT1127",
   "title": "Econometrics I",
-  "overview": "This course introduces basic knowledge and skills in applied econometric models for analyzing, evaluating the impact of decisions in economics, finance, business, and forecasting. The course focuses on cross-sectional models and a part on time series. Key contents include model formulation, estimation, analysis of linear regression models, model selection and evaluation, statistical inference on regression coefficients and forecasting. In addition to OLS, other advanced estimation methods (GLS, robust estimation, and instrumental variable methods) are introduced. The course uses R/Python software to process and analyze models with real data.",
-  "difficulty_level": "Advanced",
-  "duration": {
-    "total_hours": 150,
-    "credits": 3
-  },
-  "knowledge_graph_alignment": {
-    "primary_domain": "Economics",
-    "sub_domains": [
-      "Probability Theory",
-      "Mathematical Statistics",
-      "Microeconomics",
-      "Macroeconomics"
-    ],
-    "key_concepts": [
-      "Regression models",
-      "OLS method",
-      "Maximum Likelihood Estimation",
-      "Statistical inference",
-      "Qualitative variables regression",
-      "Model adjustment",
-      "Time series regression"
-    ]
-  },
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
   "skill_outcomes": [
     {
-      "skill_name": "Model formulation",
+      "skill_name": "Econometrics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the methodology of regression analysis; the nature and role of components in regression models (variables, regression coefficients, random error). Explain the role of assumptions for two types of data for the properties of estimations. Construct formulas for estimating coefficients, standard errors, and model fit parameters from OLS and MLE methods. Perform statistical inference on regression coefficients, forecasts, and forecast error evaluation. Analyze the causes, consequences, and methods of detecting violations of OLS assumptions and handling them. Interpret the economic meaning of estimated coefficients and the meaning of outputs when performing regression. Propose economic/financial/business issues that apply econometric models."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in using software to visualize, estimate coefficients, perform statistical inference, forecast, and evaluate models. Combine techniques and standards to detect when OLS assumptions are not satisfied and address them to achieve the best model. Proficient in analyzing estimation results and comparing them with theory. Present/write a report presenting analysis results and recommendations from specific economic data."
+    },
+    {
+      "skill_name": "Statistical Software (R/Python)",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in using statistical software for data processing, visualization, analysis, and evaluation in the experimental analysis process with specific datasets. Handle data, perform regression analysis, and evaluate models using software."
+    },
+    {
+      "skill_name": "Independent Learning and Responsibility",
       "category": "Soft Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Evaluate",
-      "outcome_description": "Students will be able to formulate econometric models based on specific economic, financial, or business issues."
+      "outcome_description": "Demonstrate independence in learning, research, and teamwork. Integrate self-study, teamwork, and presentation skills. Identify research topics in economics/business, including problem formulation, data collection, model establishment, data processing, analysis, and report writing."
     },
     {
-      "skill_name": "Regression analysis",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Students will be able to perform regression analysis using R/Python software."
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, contribute to group projects, and collaborate on research topics."
     },
     {
-      "skill_name": "Model selection and evaluation",
-      "category": "Hard Skill",
-      "target_proficiency_level": 4,
-      "bloom_taxonomy_level": "Create",
-      "outcome_description": "Students will be able to select and evaluate econometric models based on specific data sets."
-    },
-    {
-      "skill_name": "Statistical inference",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Analyze",
-      "outcome_description": "Students will be able to conduct statistical inference on regression coefficients and forecasting."
-    },
-    {
-      "skill_name": "Time series analysis",
-      "category": "Hard Skill",
-      "target_proficiency_level": 3,
-      "bloom_taxonomy_level": "Apply",
-      "outcome_description": "Students will be able to analyze time series data and perform regression analysis with time series variables."
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate econometric models, data, and research findings critically."
     }
   ],
   "pedagogy_format": {
-    "theory_percentage": 30,
-    "practice_percentage": 70,
     "has_project": true
   },
   "entry_requirements": {
     "prerequisite_courses": [
       "Probability Theory",
       "Mathematical Statistics",
-      "Microeconomics",
-      "Macroeconomics"
+      "Microeconomics 1",
+      "Macroeconomics 1"
     ],
     "minimum_entry_skills": [
       {
-        "skill_name": "Basic understanding of probability theory",
+        "skill_name": "Probability Theory",
         "minimum_proficiency_level": 2
       },
       {
-        "skill_name": "Basic understanding of mathematical statistics",
+        "skill_name": "Mathematical Statistics",
         "minimum_proficiency_level": 2
       },
       {
-        "skill_name": "Basic understanding of microeconomics",
+        "skill_name": "Microeconomics",
         "minimum_proficiency_level": 2
       },
       {
-        "skill_name": "Basic understanding of macroeconomics",
+        "skill_name": "Macroeconomics",
         "minimum_proficiency_level": 2
       }
     ]

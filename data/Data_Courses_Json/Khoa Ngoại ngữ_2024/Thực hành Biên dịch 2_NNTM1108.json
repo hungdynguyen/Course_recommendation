@@ -1,0 +1,72 @@
+{
+  "course_id": "NNTM1108",
+  "title": "Translation 2",
+  "difficulty_level": "Advanced",
+  "duration": "2 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Translation",
+      "category": "Soft Skill",
+      "outcome_description": "Translate texts between Vietnamese and English, focusing on economic and business topics."
+    },
+    {
+      "skill_name": "Language Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze sentence structures and vocabulary in both source and target languages."
+    },
+    {
+      "skill_name": "Technical Terminology",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and use appropriate technical terms in both languages."
+    },
+    {
+      "skill_name": "Business Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of economics, business management, marketing, human resources, finance, accounting, trade, and international economics."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in groups to improve translation skills."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate responsibility and ethical conduct in translation work."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study habits and techniques for translation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve translation problems using critical thinking."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to meet translation deadlines."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in class discussions and group activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Translation 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Translation Skills",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}
