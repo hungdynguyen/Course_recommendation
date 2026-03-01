@@ -1,0 +1,38 @@
+{
+  "dataset_info": {
+    "path": "data/processed/training_dataset/train_dataset_80.json",
+    "total_samples": 33444,
+    "model": "Qwen/Qwen3-Embedding-0.6B"
+  },
+  "positive_scores": {
+    "mean": 0.7513332962989807,
+    "median": 0.7578125,
+    "std": 0.08249013125896454,
+    "min": 0.373046875,
+    "max": 0.984375,
+    "q25": 0.69921875,
+    "q75": 0.80859375
+  },
+  "negative_scores": {
+    "mean": 0.7014118432998657,
+    "median": 0.70703125,
+    "std": 0.08014651387929916,
+    "min": 0.177734375,
+    "max": 0.9609375,
+    "q25": 0.65234375,
+    "q75": 0.7578125
+  },
+  "margins": {
+    "mean": 0.0499214306473732,
+    "median": 0.05078125,
+    "std": 0.09845993667840958,
+    "min": -0.453125,
+    "max": 0.484375,
+    "q25": -0.015625,
+    "q75": 0.1171875
+  },
+  "quality_metrics": {
+    "false_negatives": 9689,
+    "false_negative_ratio": 28.970816887932067
+  }
+}

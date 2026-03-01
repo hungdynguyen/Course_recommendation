@@ -12,7 +12,6 @@ from src.utils.logging_utils import setup_logging
 
 LOGGER = logging.getLogger("data_factory.cli")
 
-
 def main() -> None:
     default_logging = Path(__file__).resolve().parent.parent / "config" / "logging.yaml"
     if default_logging.exists():

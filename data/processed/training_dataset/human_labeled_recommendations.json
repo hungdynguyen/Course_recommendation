@@ -1,0 +1,42 @@
+[
+  {
+    "pair_id": 0,
+    "jd_id": "68ea27ff8aedb9b95765344c",
+    "selected_courses": [
+      {
+        "course_id": "NNTM 1150",
+        "title": "English for Banking and Finance – in English"
+      },
+      {
+        "course_id": "QTKD1150",
+        "title": "Khóa luận tốt nghiệp"
+      },
+      {
+        "course_id": "NNTM1177",
+        "title": "English – Listening and Speaking skills 2"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-03-01T19:44:04.242628"
+  },
+  {
+    "pair_id": 1,
+    "jd_id": "68e7d2488aedb9b95765329d",
+    "selected_courses": [
+      {
+        "course_id": "QTTH1132",
+        "title": "Business Decisions Making"
+      },
+      {
+        "course_id": "CNTT1112",
+        "title": "Computer Architecture"
+      },
+      {
+        "course_id": "CNTT1186",
+        "title": "Advanced Technologies in Information and Communication Technology"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-03-01T19:44:58.729572"
+  }
+]

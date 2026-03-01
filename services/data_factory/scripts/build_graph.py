@@ -27,7 +27,7 @@ def main() -> None:
     )
 
     pipeline = GraphBuildPipeline(settings, neo4j_service)
-    pipeline.run(clear_existing=True)  # Clear existing on first run
+    pipeline.run(clear_existing=True)  
 
 
 if __name__ == "__main__":

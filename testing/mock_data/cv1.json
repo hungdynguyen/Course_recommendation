@@ -1,0 +1,132 @@
+{
+  "candidate_id": "CV001",
+  "personal_info": {
+    "name": "Nguyễn Văn An",
+    "current_position": "Junior Web Developer",
+    "years_of_experience": 2,
+    "education": [
+      {
+        "degree": "Bachelor of Information Technology",
+        "institution": "University of Economics Ho Chi Minh City",
+        "graduation_year": 2022,
+        "major": "Software Engineering"
+      }
+    ]
+  },
+  "work_experience": [
+    {
+      "company": "TechStart Vietnam",
+      "position": "Junior Web Developer",
+      "duration": "2022 - Present (2 years)",
+      "responsibilities": [
+        "Developed and maintained web applications using React and Node.js",
+        "Designed and implemented RESTful APIs",
+        "Worked with MySQL databases for data storage",
+        "Collaborated with cross-functional teams using Agile methodologies",
+        "Performed code reviews and wrote unit tests"
+      ]
+    },
+    {
+      "company": "Freelance Projects",
+      "position": "Web Developer",
+      "duration": "2021 - 2022 (1 year)",
+      "responsibilities": [
+        "Built responsive websites for local businesses",
+        "Integrated third-party APIs and payment gateways",
+        "Managed client requirements and project timelines"
+      ]
+    }
+  ],
+  "technical_skills": [
+    {
+      "skill_name": "Programming Languages",
+      "proficiency_level": 3,
+      "details": ["JavaScript", "Python (basic)", "HTML/CSS", "SQL"]
+    },
+    {
+      "skill_name": "Web Development",
+      "proficiency_level": 4,
+      "details": ["React.js", "Node.js", "Express.js", "RESTful API"]
+    },
+    {
+      "skill_name": "Database Management",
+      "proficiency_level": 3,
+      "details": ["MySQL", "MongoDB", "Database Design"]
+    },
+    {
+      "skill_name": "Version Control",
+      "proficiency_level": 3,
+      "details": ["Git", "GitHub", "GitLab"]
+    },
+    {
+      "skill_name": "Software Development",
+      "proficiency_level": 3,
+      "details": ["Agile/Scrum", "Code Review", "Unit Testing", "Debugging"]
+    },
+    {
+      "skill_name": "Basic Data Skills",
+      "proficiency_level": 2,
+      "details": ["SQL Queries", "Basic Data Analysis with Excel", "Data Visualization with Charts"]
+    }
+  ],
+  "soft_skills": [
+    {
+      "skill_name": "Teamwork",
+      "proficiency_level": 4,
+      "description": "Collaborated effectively with designers and backend developers"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "proficiency_level": 3,
+      "description": "Debugged complex issues and optimized application performance"
+    },
+    {
+      "skill_name": "Communication",
+      "proficiency_level": 3,
+      "description": "Communicated technical concepts to non-technical stakeholders"
+    },
+    {
+      "skill_name": "Self-Learning",
+      "proficiency_level": 4,
+      "description": "Actively learning new technologies through online courses"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "JavaScript Algorithms and Data Structures",
+      "issuer": "freeCodeCamp",
+      "year": 2021
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce application with product catalog, shopping cart, and payment integration",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe API"]
+    },
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Created a responsive portfolio website showcasing projects and skills",
+      "technologies": ["React", "styled-components", "GitHub Pages"]
+    }
+  ],
+  "career_goal": {
+    "target_role": "Data Scientist",
+    "motivation": "Passionate about leveraging data to solve business problems and make data-driven decisions. Want to transition from web development to data science to work on more analytical and predictive projects.",
+    "learning_efforts": [
+      "Currently learning Python for Data Analysis (Pandas, NumPy)",
+      "Completed online course on Statistics Fundamentals",
+      "Working through Machine Learning basics on Coursera"
+    ]
+  },
+  "skill_gaps_identified": [
+    "Statistics and Probability",
+    "Machine Learning Algorithms",
+    "Data Visualization (advanced - Matplotlib, Seaborn, Tableau)",
+    "Big Data Technologies (Spark, Hadoop)",
+    "Statistical Modeling",
+    "Feature Engineering",
+    "Model Deployment",
+    "Deep Learning"
+  ]
+}
