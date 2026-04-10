@@ -1,0 +1,103 @@
+{
+  "course_id": "NNTM1173",
+  "title": "Critical Thinking",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Concepts of Critical Thinking",
+      "category": "Hard Skill",
+      "outcome_description": "Understand fundamental concepts of critical thinking including knowledge, skills, and attitudes."
+    },
+    {
+      "skill_name": "Recognizing Importance of Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate awareness of the importance of critical thinking and argument construction in speaking and writing."
+    },
+    {
+      "skill_name": "Analyzing Structure of Arguments",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and analyze the structure of arguments."
+    },
+    {
+      "skill_name": "Differentiating Deductive and Inductive Arguments",
+      "category": "Hard Skill",
+      "outcome_description": "Distinguish between deductive and inductive arguments and their subtypes."
+    },
+    {
+      "skill_name": "Understanding Argument Construction Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend how speakers and writers construct arguments."
+    },
+    {
+      "skill_name": "Identifying Logical Fallacies",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and analyze logical fallacies in arguments."
+    },
+    {
+      "skill_name": "Evaluating Argument Validity",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the validity and strength of arguments."
+    },
+    {
+      "skill_name": "Avoiding Ambiguities in Thinking",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and avoid ambiguities in thinking when speaking and writing."
+    },
+    {
+      "skill_name": "Recognizing Persuasive Elements",
+      "category": "Hard Skill",
+      "outcome_description": "Identify persuasive elements in arguments such as ethos, pathos, and logos."
+    },
+    {
+      "skill_name": "Applying Persuasive Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply persuasive techniques to construct convincing arguments in speaking and writing."
+    },
+    {
+      "skill_name": "Engaging in Debate",
+      "category": "Hard Skill",
+      "outcome_description": "Participate in debates on current topics."
+    },
+    {
+      "skill_name": "Writing Argumentative Essays",
+      "category": "Hard Skill",
+      "outcome_description": "Write argumentative essays defending personal viewpoints."
+    },
+    {
+      "skill_name": "Developing Critical Questions",
+      "category": "Hard Skill",
+      "outcome_description": "Formulate critical questions about real-life issues."
+    },
+    {
+      "skill_name": "Applying Critical Thinking to Solve Practical Problems",
+      "category": "Hard Skill",
+      "outcome_description": "Use critical thinking to solve practical problems."
+    },
+    {
+      "skill_name": "Collaborative Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork skills such as cooperation, task allocation, effective communication, and conflict resolution."
+    },
+    {
+      "skill_name": "Expressing Personal Views",
+      "category": "Soft Skill",
+      "outcome_description": "Articulate and defend personal views based on objective and scientific approaches."
+    },
+    {
+      "skill_name": "Practicing Regularly",
+      "category": "Soft Skill",
+      "outcome_description": "Consistently practice critical thinking through exercises in textbooks, group assignments, and daily life."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Listening and Speaking Skills 3",
+      "Reading and Writing Skills 3"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

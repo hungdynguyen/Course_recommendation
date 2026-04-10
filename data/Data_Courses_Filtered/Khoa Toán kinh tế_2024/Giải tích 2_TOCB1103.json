@@ -1,0 +1,71 @@
+{
+  "course_id": "TOCB1103",
+  "title": "Calculus 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Differential Equations Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "State basic concepts related to differential equations."
+    },
+    {
+      "skill_name": "Difference Equations Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Summarize basic concepts related to difference equations."
+    },
+    {
+      "skill_name": "Series Theory Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Explain basic concepts related to series theory including number series and function series, list fundamental theorems about convergence of number series and function series."
+    },
+    {
+      "skill_name": "Double Integrals Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Describe basic concepts related to double integrals and triple integrals."
+    },
+    {
+      "skill_name": "Solving First Order Differential Equations",
+      "category": "Hard Skill",
+      "outcome_description": "Solve certain types of first-order differential equations."
+    },
+    {
+      "skill_name": "Solving Second Order Linear Homogeneous Differential Equations",
+      "category": "Hard Skill",
+      "outcome_description": "Solve second-order linear homogeneous differential equations with constant coefficients."
+    },
+    {
+      "skill_name": "Solving First Order Difference Equations",
+      "category": "Hard Skill",
+      "outcome_description": "Solve certain types of first-order difference equations."
+    },
+    {
+      "skill_name": "Solving Second Order Linear Homogeneous Difference Equations",
+      "category": "Hard Skill",
+      "outcome_description": "Solve second-order linear homogeneous difference equations with constant coefficients."
+    },
+    {
+      "skill_name": "Testing Convergence of Series",
+      "category": "Hard Skill",
+      "outcome_description": "Use signs to test the convergence of number series; find radius and interval of convergence for power series."
+    },
+    {
+      "skill_name": "Evaluating Double and Triple Integrals",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate double and triple integrals by converting to iterated integrals or using coordinate transformations."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities, work independently, and collaborate effectively in teams."
+    },
+    {
+      "skill_name": "Personal Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal responsibility and partial responsibility towards team outcomes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

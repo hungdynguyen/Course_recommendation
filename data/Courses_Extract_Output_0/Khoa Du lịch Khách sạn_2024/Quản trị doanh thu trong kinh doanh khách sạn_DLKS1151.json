@@ -1,0 +1,55 @@
+{
+  "course_id": "DLKS1151",
+  "title": "Revenue Management in Hospitality Business",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours (30 hours theory, 15 hours discussion/practical)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Revenue Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles and practices of revenue management in the hospitality industry."
+    },
+    {
+      "skill_name": "Market Segmentation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply market segmentation strategies to optimize revenue."
+    },
+    {
+      "skill_name": "Demand Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical methods to predict consumer demand."
+    },
+    {
+      "skill_name": "Inventory Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage inventory levels to maximize revenue."
+    },
+    {
+      "skill_name": "Dynamic Pricing",
+      "category": "Hard Skill",
+      "outcome_description": "Implement dynamic pricing strategies based on fluctuating values."
+    },
+    {
+      "skill_name": "Hotel Pricing Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Develop effective pricing strategies for hotels."
+    },
+    {
+      "skill_name": "Revenue Optimization",
+      "category": "Hard Skill",
+      "outcome_description": "Optimize revenue through various management techniques."
+    },
+    {
+      "skill_name": "Legal and Ethical Issues",
+      "category": "Soft Skill",
+      "outcome_description": "Identify legal and ethical considerations in revenue management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

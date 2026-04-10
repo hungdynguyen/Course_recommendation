@@ -1,0 +1,35 @@
+{
+  "course_id": "TNDC1126",
+  "title": "Principles of Land Administration",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of land in society and the functions of land management."
+    },
+    {
+      "skill_name": "Legal Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the legal aspects of land administration."
+    },
+    {
+      "skill_name": "Technical Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Apply technical methods in land management."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic implications of land policies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

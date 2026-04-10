@@ -1,0 +1,47 @@
+{
+  "course_id": "TOCB1103",
+  "title": "Calculus 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply fundamental concepts of differential equations, difference equations, series theory, and multiple integrals."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills to solve differential equations, difference equations, series convergence, and multiple integrals."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking to analyze and solve mathematical problems in economics, business, science, and technology."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Improve independent learning and collaborative work skills."
+    },
+    {
+      "skill_name": "Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal and group responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Calculus 1 (TOCB1111)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Calculus 1",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

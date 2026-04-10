@@ -1,0 +1,36 @@
+{
+  "course_id": "KTQT1106",
+  "title": "Managerial Accounting 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cost Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze costs for managerial decisions."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to make informed decisions based on cost analysis."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to analyze long-term investment decisions."
+    },
+    {
+      "skill_name": "Performance Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to evaluate business performance using accounting tools."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to plan strategically using managerial accounting principles."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

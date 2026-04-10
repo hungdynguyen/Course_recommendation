@@ -1,0 +1,50 @@
+{
+  "course_id": "NNTV1102",
+  "title": "Introduction to Linguistics",
+  "difficulty_level": "Advanced",
+  "duration": "100 hours (30 classroom hours + 70 self-study hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Language Origin Theories",
+      "category": "Hard Skill",
+      "outcome_description": "Describe key concepts such as language, speech; content of origin theories, development, nature, function of language, phonetics, vocabulary, semantics, and grammar."
+    },
+    {
+      "skill_name": "Language Development Process",
+      "category": "Hard Skill",
+      "outcome_description": "Provide examples from real-life linguistic phenomena to illustrate language theories. Compare different language theories. Classify linguistic phenomena based on predefined criteria."
+    },
+    {
+      "skill_name": "Theoretical Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply general theoretical issues about language to explain specific linguistic phenomena."
+    },
+    {
+      "skill_name": "Confident Expression",
+      "category": "Soft Skill",
+      "outcome_description": "Express and explain language-related issues confidently."
+    },
+    {
+      "skill_name": "Independent Research Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Independently create, present research, lectures, and work related to language issues creatively, proactively, and thoroughly."
+    },
+    {
+      "skill_name": "Positive Engagement",
+      "category": "Soft Skill",
+      "outcome_description": "Actively accept knowledge about language and be willing to participate in projects, work related to language such as research, teaching, guiding others."
+    },
+    {
+      "skill_name": "Practical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Propose, trust, and have the ability to defend and take responsibility for practical work applying language theories to solve problems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

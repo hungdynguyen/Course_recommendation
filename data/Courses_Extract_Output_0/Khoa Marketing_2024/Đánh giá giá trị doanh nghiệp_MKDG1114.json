@@ -1,0 +1,43 @@
+{
+  "course_id": "Marketing Evaluation Course",
+  "title": "Đánh giá giá trị doanh nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Valuation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply theories and practices in business valuation."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial statements and economic indicators to assess business value."
+    },
+    {
+      "skill_name": "Cost of Capital",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate cost of capital according to international standards and Vietnamese regulations."
+    },
+    {
+      "skill_name": "Enterprise Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks associated with business valuation."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with legal requirements related to business valuation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting",
+      "Corporate Finance"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

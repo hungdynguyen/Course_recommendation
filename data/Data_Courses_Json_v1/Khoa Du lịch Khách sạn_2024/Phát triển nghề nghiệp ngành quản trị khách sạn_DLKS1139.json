@@ -1,0 +1,65 @@
+{
+  "course_id": "DLKS1139",
+  "title": "Career development in hospitality industry",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Hospitality Industry Overview",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the history and structure of the hospitality industry."
+    },
+    {
+      "skill_name": "Career Opportunities",
+      "category": "Soft Skill",
+      "outcome_description": "Identify career opportunities and job requirements in the hospitality industry."
+    },
+    {
+      "skill_name": "Personal Career Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal career strategies and plans."
+    },
+    {
+      "skill_name": "Industry Trends",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze trends and future prospects in the hospitality industry."
+    },
+    {
+      "skill_name": "Professional Standards",
+      "category": "Soft Skill",
+      "outcome_description": "Understand professional standards for various positions in the hospitality industry."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze the relationship between theory and practice in career development."
+    },
+    {
+      "skill_name": "Self-Management",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-management and responsibility in career development."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate career plans and strategies."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver effective presentations on career development topics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "course_id": "Business Planning",
+  "title": "Business Planning Course",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop comprehensive business plans including marketing, production, human resources, and financial planning."
+    },
+    {
+      "skill_name": "Strategic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply strategic thinking to identify and solve complex business problems."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage projects effectively by setting goals, monitoring progress, and evaluating outcomes."
+    },
+    {
+      "skill_name": "Critical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze business scenarios critically to make informed decisions."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively with stakeholders through presentations and reports."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economics",
+      "Finance"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

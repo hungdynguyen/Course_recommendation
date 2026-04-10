@@ -1,0 +1,50 @@
+{
+  "course_id": "TIHT1104",
+  "title": "Software Engineering",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Requirements Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to define and specify software requirements."
+    },
+    {
+      "skill_name": "Software Design",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of software design principles and methodologies."
+    },
+    {
+      "skill_name": "Object-Oriented Design",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in object-oriented design using UML."
+    },
+    {
+      "skill_name": "Real-Time Systems Design",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of real-time systems design concepts."
+    },
+    {
+      "skill_name": "Software Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Skills in software testing techniques and methods."
+    },
+    {
+      "skill_name": "Software Maintenance",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of software maintenance processes."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Basics of managing a software project."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

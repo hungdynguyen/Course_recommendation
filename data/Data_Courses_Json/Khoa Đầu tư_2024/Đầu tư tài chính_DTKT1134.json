@@ -1,0 +1,108 @@
+{
+  "course_id": "DTKT1134",
+  "title": "Financial Investment",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Markets",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role and functions of financial markets, asset classes, financial instruments, and market structures."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze investment opportunities, evaluate financial assets, and manage investment portfolios."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage financial risks, understand the relationship between risk and return, and apply diversification strategies."
+    },
+    {
+      "skill_name": "Portfolio Management",
+      "category": "Soft Skill",
+      "outcome_description": "Construct and optimize investment portfolios using modern portfolio theory."
+    },
+    {
+      "skill_name": "Financial Instruments",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the characteristics and operations of various financial instruments, including stocks, bonds, and derivatives."
+    },
+    {
+      "skill_name": "Investment Strategies",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement investment strategies based on market conditions and asset allocation principles."
+    },
+    {
+      "skill_name": "Market Efficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept of market efficiency and its implications for investment decisions."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and analysis on financial markets and investment opportunities."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to solve investment problems and present findings."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and comply with relevant laws and regulations in financial investment activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Capital Markets"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Financial Markets",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Investment Analysis",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Risk Management",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Portfolio Management",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Financial Instruments",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Investment Strategies",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Market Efficiency",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Independent Research",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Group Work",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Compliance",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

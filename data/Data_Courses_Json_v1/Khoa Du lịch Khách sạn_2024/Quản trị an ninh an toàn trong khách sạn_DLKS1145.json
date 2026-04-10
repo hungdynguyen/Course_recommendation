@@ -1,0 +1,131 @@
+{
+  "course_id": "DLKS1145",
+  "title": "SECURITY AND SAFETY MANAGEMENT IN HOSPITALITY",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Security Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the role and significance of security and safety in hotel management."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply risk management principles in hotel operations."
+    },
+    {
+      "skill_name": "Emergency Response",
+      "category": "Soft Skill",
+      "outcome_description": "Manage emergency situations effectively in hotel settings."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership skills in security and safety management."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in team settings to ensure security and safety."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to professional ethics and responsibilities in security and safety roles."
+    },
+    {
+      "skill_name": "Safety Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with safety regulations and standards in hotel operations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze factors affecting security and safety systems in hotels."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to security and safety in hotel environments."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in security and safety contexts."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to ensure continuous security and safety operations."
+    },
+    {
+      "skill_name": "Customer Service",
+      "category": "Soft Skill",
+      "outcome_description": "Provide customer service in a secure and safe environment."
+    },
+    {
+      "skill_name": "Facility Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage hotel facilities to ensure security and safety."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure legal compliance in security and safety practices."
+    },
+    {
+      "skill_name": "Health and Safety",
+      "category": "Soft Skill",
+      "outcome_description": "Understand health and safety requirements for security personnel."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve conflicts related to security and safety issues."
+    },
+    {
+      "skill_name": "Training and Development",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct training and development programs for security personnel."
+    },
+    {
+      "skill_name": "Documentation",
+      "category": "Soft Skill",
+      "outcome_description": "Maintain accurate documentation for security and safety incidents."
+    },
+    {
+      "skill_name": "Technology Utilization",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize technology for security and safety management."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions in security and safety management."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to changing security and safety scenarios."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Knowledge of Hospitality Management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Knowledge of Tourism Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "course_id": "QTVH 1109",
+  "title": "Business Communication",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the role of communication in a globalized and unpredictable world",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the importance of effective communication in a global context."
+    },
+    {
+      "skill_name": "Understanding various forms of communication in the workplace",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize different types of communication such as teamwork, recruitment communication, multicultural communication, written communication, business presentations, and business negotiations."
+    },
+    {
+      "skill_name": "Handling basic situations in business communication",
+      "category": "Hard Skill",
+      "outcome_description": "Manage conflicts within teams, multicultural communication, business negotiations, handling difficult situations in business presentations, and recruitment interviews."
+    },
+    {
+      "skill_name": "Linking communication concepts with business management issues",
+      "category": "Hard Skill",
+      "outcome_description": "Apply communication theories to real-world business scenarios."
+    },
+    {
+      "skill_name": "Using communication skills in social and work contexts",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize communication skills effectively in various settings."
+    },
+    {
+      "skill_name": "Active learning and research",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate initiative in learning, research, and group work."
+    },
+    {
+      "skill_name": "Confident presentation of research results",
+      "category": "Soft Skill",
+      "outcome_description": "Present research findings confidently."
+    },
+    {
+      "skill_name": "Confident handling of business communication situations",
+      "category": "Soft Skill",
+      "outcome_description": "Handle business communication situations confidently."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

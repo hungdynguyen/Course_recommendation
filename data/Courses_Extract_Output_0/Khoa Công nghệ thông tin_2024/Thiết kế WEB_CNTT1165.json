@@ -1,0 +1,47 @@
+{
+  "course_id": "CNTT1165",
+  "title": "Web Design",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "HTML",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply HTML syntax for structuring web content."
+    },
+    {
+      "skill_name": "CSS",
+      "category": "Soft Skill",
+      "outcome_description": "Apply CSS for styling and designing visually appealing web layouts."
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "Soft Skill",
+      "outcome_description": "Use JavaScript to create interactive and dynamic web features."
+    },
+    {
+      "skill_name": "Responsive Web Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design flexible and user-friendly web pages that adapt to various devices."
+    },
+    {
+      "skill_name": "Web Development Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize tools such as Visual Studio Code and Figma for efficient web development."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills through practical projects and real-world applications."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Programming Basics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

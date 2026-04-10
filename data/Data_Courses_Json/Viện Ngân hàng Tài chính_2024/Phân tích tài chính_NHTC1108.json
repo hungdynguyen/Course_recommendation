@@ -1,0 +1,103 @@
+{
+  "course_id": "NHTC1108",
+  "title": "Financial Analysis",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the objectives of financial analysis from the perspective of company managers, lenders, and stock analysts."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Describe the importance and relationships between financial statements in financial analysis."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Describe the basic content of each step in the financial analysis process."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the definitions, uses, and limitations of tools and techniques used in financial analysis."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Calculate and explain financial ratios of a company."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Use financial ratios and other tools to assess the financial situation of a company and forecast future financial conditions."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Identify financial issues of a company through financial analysis and propose solutions and recommendations."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand methods of financial analysis (horizontal, vertical, ratio group analysis, DuPont analysis)."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand how to determine and explain financial ratios in various groups of financial analysis (liquidity, operational efficiency, capital structure, profitability, growth)."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Identify strengths and weaknesses in a company's business operations."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to leverage strengths and mitigate weaknesses in business operations."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Detect basic forms of financial statement fraud in practice."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and defend personal viewpoints on financial analysis issues in practice."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork skills to complete group assignments and discussions."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete all assignments with high efficiency."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and practice social responsibility and professional ethics in financial analysis."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Organize, evaluate, and inspire team members in assigned tasks and social activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Money and Financial Theory",
+      "Corporate Finance 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

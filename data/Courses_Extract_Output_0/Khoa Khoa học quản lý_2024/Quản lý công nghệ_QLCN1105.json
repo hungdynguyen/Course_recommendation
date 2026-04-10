@@ -1,0 +1,37 @@
+{
+  "course_id": "Management of Technology",
+  "title": "Quản lý Công nghệ",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Technology Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics and modern aspects of technology management."
+    },
+    {
+      "skill_name": "Competitive Advantage",
+      "category": "Soft Skill",
+      "outcome_description": "Identify how technology can provide a competitive advantage for businesses."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic plans incorporating technological advancements."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve complex problems related to technology management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

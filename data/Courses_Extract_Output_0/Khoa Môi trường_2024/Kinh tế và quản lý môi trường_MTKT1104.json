@@ -1,0 +1,40 @@
+{
+  "course_id": "MTKT1104",
+  "title": "Environmental economics and management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the theoretical and practical relationship between economy and environment."
+    },
+    {
+      "skill_name": "Resource management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate economic and social benefits of natural resource utilization."
+    },
+    {
+      "skill_name": "Decision making",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the economic value of resources and environment for management decisions."
+    },
+    {
+      "skill_name": "Policy analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Assess the impact of policies on environmental management."
+    },
+    {
+      "skill_name": "Global environmental issues",
+      "category": "Soft Skill",
+      "outcome_description": "Understand global environmental challenges and their economic implications."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

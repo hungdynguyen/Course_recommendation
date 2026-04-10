@@ -1,0 +1,51 @@
+{
+  "course_id": "DLKS1128",
+  "title": "Cultural Tourism",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours (30 hours theory, 15 hours discussion/practice)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding cultural knowledge, heritage, and cultural tourism",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the relationship between culture and tourism, and related cultural fields."
+    },
+    {
+      "skill_name": "Analyzing market conditions for cultural tourism products",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the value of cultural tourism resources in Vietnam, including tangible and intangible resources."
+    },
+    {
+      "skill_name": "Managing cultural tourism resources",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content and form of cultural tourism management, and activities for sustainable development."
+    },
+    {
+      "skill_name": "Classifying cultural tourism resources",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to classify cultural tourism resources and analyze the cultural tourism market in Vietnam."
+    },
+    {
+      "skill_name": "Building, supplying, promoting, and selling cultural tourism products",
+      "category": "Hard Skill",
+      "outcome_description": "Skills to build, supply, promote, and sell cultural tourism products suitable for the market and conditions in Vietnam."
+    },
+    {
+      "skill_name": "Managing cultural tourism sites sustainably",
+      "category": "Hard Skill",
+      "outcome_description": "Skills to manage cultural tourism sites according to sustainable development guidelines."
+    },
+    {
+      "skill_name": "Responsibility towards the environment and society",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate responsibility towards the environment and society."
+    },
+    {
+      "skill_name": "Respecting cultural diversity",
+      "category": "Soft Skill",
+      "outcome_description": "Respect cultural diversity, understand, and preserve traditional Vietnamese cultural values."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

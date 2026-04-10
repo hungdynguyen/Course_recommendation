@@ -1,0 +1,66 @@
+{
+  "course_id": "QTTH1128",
+  "title": "Enterprise development and change",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of enterprise change and development",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand fundamental concepts such as definitions, nature, factors promoting and hindering change, planned change models, management and leadership of change, intervention measures, and global trends in enterprise change and development."
+    },
+    {
+      "skill_name": "Applying planned change models in practice",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply various planned change models to real-world scenarios for enterprise development and change."
+    },
+    {
+      "skill_name": "Recognizing the necessity and contents of managing and leading change",
+      "category": "Hard Skill",
+      "outcome_description": "Students recognize the importance and components of managing and leading change within enterprises."
+    },
+    {
+      "skill_name": "Implementing intervention measures in enterprise change and development",
+      "category": "Hard Skill",
+      "outcome_description": "Students implement various intervention measures to facilitate enterprise change and development."
+    },
+    {
+      "skill_name": "Identifying global trends in enterprise change and development",
+      "category": "Hard Skill",
+      "outcome_description": "Students identify and understand global trends influencing enterprise change and development."
+    },
+    {
+      "skill_name": "Working independently with discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Students demonstrate independent work habits and discipline."
+    },
+    {
+      "skill_name": "Working effectively in diverse teams",
+      "category": "Soft Skill",
+      "outcome_description": "Students collaborate effectively in dynamic and diverse teams."
+    },
+    {
+      "skill_name": "Communicating through group assignments and presentations",
+      "category": "Soft Skill",
+      "outcome_description": "Students communicate effectively through group assignments and presentations."
+    },
+    {
+      "skill_name": "Handling data, analyzing, and solving problems",
+      "category": "Soft Skill",
+      "outcome_description": "Students handle data, analyze information, and solve practical problems related to enterprise change and development."
+    },
+    {
+      "skill_name": "Self-researching, studying, accumulating, and enhancing specialized knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Students engage in self-research, study, accumulate, and enhance their specialized knowledge, adapting to different working environments."
+    },
+    {
+      "skill_name": "Recognizing professional ethics and social responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Students understand professional ethics and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

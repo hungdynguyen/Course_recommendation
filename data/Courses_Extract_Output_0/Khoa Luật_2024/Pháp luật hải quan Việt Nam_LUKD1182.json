@@ -1,0 +1,44 @@
+{
+  "course_id": "LUKD1182",
+  "title": "Viet Nam Customs Law",
+  "difficulty_level": "Advanced",
+  "duration": "150 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Customs Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic principles of Vietnamese Customs Law and international customs laws."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Apply legal compliance procedures in customs operations."
+    },
+    {
+      "skill_name": "International Trade",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze international trade regulations and their impact on customs operations."
+    },
+    {
+      "skill_name": "Regulatory Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the regulatory framework governing customs activities in Vietnam and internationally."
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve disputes related to customs law through proper channels."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Law of Economics",
+      "Civil Law",
+      "Commercial Law"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

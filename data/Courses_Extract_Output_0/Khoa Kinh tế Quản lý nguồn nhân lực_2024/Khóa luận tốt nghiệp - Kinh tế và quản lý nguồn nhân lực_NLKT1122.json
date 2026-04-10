@@ -1,0 +1,36 @@
+{
+  "course_id": "NLKT1122",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Apply research methodologies to identify and solve real-world problems."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and analyze data relevant to a specific field of study."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports summarizing research findings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate and interpret data effectively."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects from conception to completion, including planning, execution, and evaluation."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

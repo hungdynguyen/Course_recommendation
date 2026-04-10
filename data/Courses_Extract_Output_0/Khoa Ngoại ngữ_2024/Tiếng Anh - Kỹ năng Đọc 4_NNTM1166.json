@@ -1,0 +1,49 @@
+{
+  "course_id": "Tiếng Anh – Kỹ năng Đọc 4",
+  "title": "English - Reading Skills 4",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Academic Reading",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to read and understand academic texts at a C1 level according to the Common European Framework of Reference."
+    },
+    {
+      "skill_name": "Vocabulary Building",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop a rich academic vocabulary through reading materials and exercises."
+    },
+    {
+      "skill_name": "Note-taking",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn effective note-taking techniques for academic purposes."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Students will enhance their ability to analyze, evaluate, connect, synthesize information, and think logically."
+    },
+    {
+      "skill_name": "Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Students will improve their comprehension skills by engaging with various academic topics such as sociology, art history, anthropology, science and technology, political science, medical science, literature, history, business, and migration studies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tiếng Anh – Kỹ năng Đọc 1",
+      "Tiếng Anh – Kỹ năng Đọc 2",
+      "Tiếng Anh – Kỹ năng Đọc 3"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Reading Skills",
+        "minimum_proficiency_level": 5
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

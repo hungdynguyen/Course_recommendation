@@ -1,0 +1,62 @@
+{
+  "course_id": "CNTT1175",
+  "title": "Unstructured database",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding unstructured data",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature of unstructured data, NoSQL databases, and types of NoSQL databases."
+    },
+    {
+      "skill_name": "Designing applications with MongoDB",
+      "category": "Hard Skill",
+      "outcome_description": "Apply MongoDB in designing software applications, especially intelligent applications."
+    },
+    {
+      "skill_name": "Using other NoSQL databases",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Neo4j, Redis, and Cassandra databases in designing software applications, especially intelligent applications."
+    },
+    {
+      "skill_name": "Executing code snippets",
+      "category": "Hard Skill",
+      "outcome_description": "Execute code snippets, queries, and exercises assigned by the instructor."
+    },
+    {
+      "skill_name": "Data retrieval and analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Efficiently search, collect, synthesize, analyze, and present solutions to problems related to unstructured databases."
+    },
+    {
+      "skill_name": "Collaborative problem-solving",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate with team members to solve group assignments, ensuring timely completion of group tasks."
+    },
+    {
+      "skill_name": "Answering questions",
+      "category": "Soft Skill",
+      "outcome_description": "Respond to questions posed by the instructor, complete class and homework assignments."
+    },
+    {
+      "skill_name": "Group discussion participation",
+      "category": "Soft Skill",
+      "outcome_description": "Participate in group discussions to solve problems and defend personal opinions before the group."
+    },
+    {
+      "skill_name": "Project execution",
+      "category": "Soft Skill",
+      "outcome_description": "Complete projects assigned by the instructor, collaborate effectively with team members to finish tasks."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Database Fundamentals (TIKT1130)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "course_id": "LUKD1182",
+  "title": "Viet Nam Customs Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Customs Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the fundamental principles of customs law in Vietnam and internationally."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal frameworks and regulations related to customs operations."
+    },
+    {
+      "skill_name": "International Trade Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the legal aspects of international trade and customs procedures."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on customs laws and regulations."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and legal analyses."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and critique legal policies and practices in customs law."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure adherence to legal standards and regulations in customs operations."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate legal terms and conditions in customs-related transactions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve complex legal issues related to customs and international trade."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively with stakeholders in customs and legal contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Law of Economics",
+      "Civil Law",
+      "Commercial Law"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Legal Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Research Skills",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Presentation Skills",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

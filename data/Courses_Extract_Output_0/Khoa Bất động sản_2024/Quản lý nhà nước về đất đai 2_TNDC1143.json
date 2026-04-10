@@ -1,0 +1,43 @@
+{
+  "course_id": "TNDC1143",
+  "title": "Land administration 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land management",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and applying principles of land management including land allocation, leasing, recovery, compensation, and resettlement."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyzing financial policies and regulations related to land development and management."
+    },
+    {
+      "skill_name": "Market Transaction Management",
+      "category": "Hard Skill",
+      "outcome_description": "Managing transactions on the land market to ensure healthy market development."
+    },
+    {
+      "skill_name": "Regulatory Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehending and adhering to governmental regulations concerning land management."
+    },
+    {
+      "skill_name": "Legal Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Interpreting legal texts and guidelines related to land law."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management 1",
+      "Research Methods in Economics and Society"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

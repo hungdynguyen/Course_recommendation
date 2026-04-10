@@ -1,0 +1,59 @@
+{
+  "course_id": "KTTC1115",
+  "title": "Accounting Internship",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizational Structure Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the characteristics of operations, operational processes, organizational structure, and accounting system in the internship unit."
+    },
+    {
+      "skill_name": "Operational Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and propose improvements for the organization's activities, organizational structure, and accounting system."
+    },
+    {
+      "skill_name": "Information Technology Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply IT skills in writing reports, including organizing and managing documentation, using software for document preparation and calculations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Use critical thinking skills to critique and criticize the application of policies and methods in accounting units."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize communication skills to write specialized reports related to accounting at the internship unit."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work skills, effective teamwork, professionalism, and high adaptability in work."
+    },
+    {
+      "skill_name": "Personal Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Show personal responsibility and accountability for group work."
+    },
+    {
+      "skill_name": "Objective Defense",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal views based on objective and scientific approaches."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 2",
+      "Accounting Information System 1",
+      "Government Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

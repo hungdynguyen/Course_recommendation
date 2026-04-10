@@ -1,0 +1,32 @@
+{
+  "course_id": "Unified Modeling Language Course",
+  "title": "Ngôn ngữ mô hình hóa thống nhất",
+  "difficulty_level": "Advanced",
+  "duration": "Not specified",
+  "skill_outcomes": [
+    {
+      "skill_name": "Object-Oriented Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply object-oriented analysis techniques using UML."
+    },
+    {
+      "skill_name": "System Design",
+      "category": "Hard Skill",
+      "outcome_description": "Master the process of system design using UML methodology."
+    },
+    {
+      "skill_name": "UML Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in using various UML modeling tools such as Rational Software Architecture, Power Designer, and StarUML."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Object-Oriented Programming"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

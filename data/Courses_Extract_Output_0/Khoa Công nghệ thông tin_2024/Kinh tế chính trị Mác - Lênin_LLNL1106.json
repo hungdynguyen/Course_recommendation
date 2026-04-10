@@ -1,0 +1,47 @@
+{
+  "course_id": "LLNL1106",
+  "title": "Political Economics of Marxism and Leninism",
+  "difficulty_level": "Beginner",
+  "duration": "50 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Theory Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze economic theories based on Marxist and Leninist principles."
+    },
+    {
+      "skill_name": "Market Dynamics",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding market dynamics and the roles of various market participants."
+    },
+    {
+      "skill_name": "Surplus Value Production",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehension of surplus value production within a market economy."
+    },
+    {
+      "skill_name": "Competition and Monopoly",
+      "category": "Soft Skill",
+      "outcome_description": "Knowledge of competition and monopoly within a market economy."
+    },
+    {
+      "skill_name": "Socialist Market Economy",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding of a socialist market economy and its economic relationships."
+    },
+    {
+      "skill_name": "Industrialization and Modernization",
+      "category": "Soft Skill",
+      "outcome_description": "Insight into industrialization, modernization, and international economic integration."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Marxism and Leninism Philosophy"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

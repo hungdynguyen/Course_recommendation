@@ -1,0 +1,58 @@
+{
+  "course_id": "CNTT1153",
+  "title": "Java Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Describe the operation of software on a computer",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how Java works and apply basic programming techniques."
+    },
+    {
+      "skill_name": "Apply basic programming techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Use control structures, functions, object-oriented programming, input/output, multithreading, and general programming concepts."
+    },
+    {
+      "skill_name": "Apply testing techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate software quality and performance, and develop user interfaces."
+    },
+    {
+      "skill_name": "Execute code segments",
+      "category": "Hard Skill",
+      "outcome_description": "Complete assignments and solve problems related to Java programming."
+    },
+    {
+      "skill_name": "Collaborate with team members",
+      "category": "Soft Skill",
+      "outcome_description": "Work together to complete group projects on time."
+    },
+    {
+      "skill_name": "Answer questions posed by instructors",
+      "category": "Soft Skill",
+      "outcome_description": "Complete assignments and participate in discussions."
+    },
+    {
+      "skill_name": "Participate in group discussions",
+      "category": "Soft Skill",
+      "outcome_description": "Defend personal opinions before a group."
+    },
+    {
+      "skill_name": "Implement instructor-assigned projects",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate with team members to complete assigned tasks."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundations of Programming (CNTT1128)",
+      "Object-Oriented Programming (CNTT1131)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

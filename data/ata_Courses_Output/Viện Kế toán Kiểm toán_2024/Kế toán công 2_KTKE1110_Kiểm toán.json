@@ -1,0 +1,58 @@
+{
+  "course_id": "KTKE1110",
+  "title": "Public Accounting 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Sector Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the general principles and regulations of public sector accounting."
+    },
+    {
+      "skill_name": "Budgetary Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply budgetary accounting principles to real-world scenarios."
+    },
+    {
+      "skill_name": "Treasury Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze treasury operations within public sector entities."
+    },
+    {
+      "skill_name": "Banking Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate banking operations within public sector entities."
+    },
+    {
+      "skill_name": "Social Insurance Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply social insurance accounting principles to real-world scenarios."
+    },
+    {
+      "skill_name": "Critical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Critically analyze policies and methods of accounting in public sector entities."
+    },
+    {
+      "skill_name": "Systematic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think systematically about recognizing, classifying, measuring, recording, preparing, and analyzing accounting reports in public sector entities."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage resources effectively and improve operational efficiency."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 1",
+      "Public Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

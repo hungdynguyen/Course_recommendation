@@ -1,0 +1,60 @@
+{
+  "course_id": "CNTT1181",
+  "title": "Knowledge Discovery in Database",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Preprocessing",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to clean and prepare data for analysis."
+    },
+    {
+      "skill_name": "Data Mining Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and application of various data mining techniques."
+    },
+    {
+      "skill_name": "Pattern Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Identifying patterns within large datasets using advanced methods."
+    },
+    {
+      "skill_name": "Clustering Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Performing cluster analysis on datasets to identify groupings."
+    },
+    {
+      "skill_name": "Classification Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Using classification algorithms to categorize data."
+    },
+    {
+      "skill_name": "BI Tools Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Business Intelligence tools such as Microsoft SQL Server."
+    },
+    {
+      "skill_name": "Programming Languages",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in programming languages such as R and Python."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyzing complex problems and making informed decisions based on data."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Developing solutions to complex data-related issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

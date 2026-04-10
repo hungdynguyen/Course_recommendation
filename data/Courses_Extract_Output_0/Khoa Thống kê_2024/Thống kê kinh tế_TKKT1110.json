@@ -1,0 +1,40 @@
+{
+  "course_id": "TKkt1110",
+  "title": "Economic Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic activities and their interrelationships within a national economy."
+    },
+    {
+      "skill_name": "Statistical Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply statistical methods to economic data for analysis and forecasting."
+    },
+    {
+      "skill_name": "Quantitative Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct quantitative research using statistical tools and techniques."
+    },
+    {
+      "skill_name": "National Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of national accounting systems."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Soft Skill",
+      "outcome_description": "Interpret complex economic data and communicate findings effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

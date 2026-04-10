@@ -1,0 +1,53 @@
+{
+  "course_id": "Multivariate Statistical Analysis",
+  "title": "Multivariate Statistical Analysis",
+  "difficulty_level": "Advanced",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply multivariate statistical methods to analyze complex datasets."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret results from multivariate analysis in economic and business contexts."
+    },
+    {
+      "skill_name": "Software Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in using statistical software such as SPSS, R, and Microsoft Excel."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate statistical models and their applications."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve complex analytical problems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Statistics",
+      "Linear Algebra",
+      "Probability Theory"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Statistical Methods",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Programming Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

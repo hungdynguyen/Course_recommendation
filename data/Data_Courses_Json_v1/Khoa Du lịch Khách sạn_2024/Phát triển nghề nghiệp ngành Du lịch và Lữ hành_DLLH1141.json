@@ -1,0 +1,55 @@
+{
+  "course_id": "DLLH1141",
+  "title": "Career development in Tourism and Travel industry",
+  "difficulty_level": "Beginner",
+  "duration": "16 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism and Hospitality",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain basic terms related to the tourism and travel industry."
+    },
+    {
+      "skill_name": "Career Development",
+      "category": "Soft Skill",
+      "outcome_description": "Identify career opportunities and develop personal career plans."
+    },
+    {
+      "skill_name": "Industry Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize various types of tourism and travel services and their providers."
+    },
+    {
+      "skill_name": "Information Technology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the impact of IT on tourism and travel business operations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-based learning and case study methods to analyze and solve industry-related issues."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective presentation and communication skills."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Show adaptability, integration, and creativity in work."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand health, moral, civic, and professional responsibilities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

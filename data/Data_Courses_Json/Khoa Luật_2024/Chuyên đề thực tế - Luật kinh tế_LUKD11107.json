@@ -1,0 +1,50 @@
+{
+  "course_id": "LUKD11107",
+  "title": "Chuyên đề thực tế (Project)",
+  "difficulty_level": "Beginner",
+  "duration": "60 hours in-class, 140 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Trade Law",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical knowledge to solve practical issues in International Trade Law"
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in research, analysis, and synthesis of issues related to International Trade Law"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems in the field of International Trade Law"
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently and accumulate experience to enhance professional expertise in International Trade Law"
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance the ability to work in a team to solve issues related to International Trade Law"
+    },
+    {
+      "skill_name": "Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a sense of discipline, responsibility, and cooperation in class and practical settings"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Improve the ability to analyze and argue issues and situations in the field of International Trade Law"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

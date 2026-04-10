@@ -1,0 +1,85 @@
+{
+  "course_id": "DLKS1152",
+  "title": "Quản trị du thuyền",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding definitions and roles of cruise tourism",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the definitions and roles of cruise tourism and classify cruise ships."
+    },
+    {
+      "skill_name": "Understanding history and development trends of cruise tourism",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the history and development trends of cruise tourism."
+    },
+    {
+      "skill_name": "Classifying products and services on cruise ships",
+      "category": "Hard Skill",
+      "outcome_description": "Classify various products and services offered on cruise ships."
+    },
+    {
+      "skill_name": "Analyzing human resource management on cruise ships",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the principles of human resource management on cruise ships."
+    },
+    {
+      "skill_name": "Analyzing food service management on cruise ships",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the principles of food service management on cruise ships."
+    },
+    {
+      "skill_name": "Analyzing facilities management on cruise ships",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the principles of facilities management on cruise ships."
+    },
+    {
+      "skill_name": "Analyzing customer service management on cruise ships",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the principles of customer service management on cruise ship."
+    },
+    {
+      "skill_name": "Analyzing safety and security management on cruise ships",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the principles of safety and security management on cruise ships."
+    },
+    {
+      "skill_name": "Understanding maritime issues and laws",
+      "category": "Hard Skill",
+      "outcome_description": "Understand maritime issues and laws."
+    },
+    {
+      "skill_name": "Analyzing destinations and geographical routes",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze destinations and geographical routes for cruise ships."
+    },
+    {
+      "skill_name": "Comparing and selecting destinations",
+      "category": "Hard Skill",
+      "outcome_description": "Compare and select destinations for cruise ships."
+    },
+    {
+      "skill_name": "Calculating logistics operations",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate logistics operations for cruise ships."
+    },
+    {
+      "skill_name": "Understanding regulations, planning, and policies for cruise tourism",
+      "category": "Hard Skill",
+      "outcome_description": "Understand regulations, planning, and policies for cruise tourism."
+    },
+    {
+      "skill_name": "Designing cruise travel itineraries",
+      "category": "Hard Skill",
+      "outcome_description": "Design cruise travel itineraries."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

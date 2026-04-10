@@ -1,0 +1,55 @@
+{
+  "course_id": "TMKT1153",
+  "title": "Graduation Thesis (Logistics and Supply Chain Management)",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research questions and hypotheses."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze data using statistical methods."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage project timelines and resources."
+    },
+    {
+      "skill_name": "Logistics Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply principles of logistics management to real-world scenarios."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Hard Skill",
+      "outcome_description": "Design and optimize supply chain processes."
+    },
+    {
+      "skill_name": "Academic Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and concise academic papers."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and critique existing research."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

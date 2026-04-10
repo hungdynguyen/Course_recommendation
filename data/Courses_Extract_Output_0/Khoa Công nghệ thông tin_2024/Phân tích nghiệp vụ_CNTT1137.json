@@ -1,0 +1,36 @@
+{
+  "course_id": "CNTT1137",
+  "title": "Business Analysis",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand core concepts and models in business analysis."
+    },
+    {
+      "skill_name": "Requirement Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and plan the lifecycle of requirements."
+    },
+    {
+      "skill_name": "Collaboration Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Engage stakeholders and collaborate effectively to define requirements."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply analytical techniques to solve business problems."
+    },
+    {
+      "skill_name": "Solution Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate solutions based on defined requirements and strategic analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

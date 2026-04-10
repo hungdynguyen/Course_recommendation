@@ -1,0 +1,112 @@
+{
+  "course_id": "QTTH1110",
+  "title": "Controlling",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the basics of management control systems, including setting up internal control systems, establishing control centers, and implementing operational and strategic controls."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to analyze and solve practical problems in business control with flexibility and leadership skills."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills through group assignments and presentations."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork skills by collaborating on group projects and presentations."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills and adaptability to different work environments."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge to solve problems in business operations and strategic control."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Develop leadership skills through group projects and presentations."
+    },
+    {
+      "skill_name": "Business Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand social responsibility and professional ethics."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply financial control principles in business operations."
+    },
+    {
+      "skill_name": "Operational Control",
+      "category": "Hard Skill",
+      "outcome_description": "Apply operational control principles in business operations."
+    },
+    {
+      "skill_name": "Strategic Control",
+      "category": "Hard Skill",
+      "outcome_description": "Apply strategic control principles in business operations."
+    },
+    {
+      "skill_name": "Internal Control",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply internal control principles in business operations."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply human resource management principles in business operations."
+    },
+    {
+      "skill_name": "Technology Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply technology management principles in business operations."
+    },
+    {
+      "skill_name": "Materials Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply materials management principles in business operations."
+    },
+    {
+      "skill_name": "Production Control",
+      "category": "Hard Skill",
+      "outcome_description": "Apply production control principles in business operations."
+    },
+    {
+      "skill_name": "Sales Control",
+      "category": "Hard Skill",
+      "outcome_description": "Apply sales control principles in business operations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Management",
+      "Financial Accounting"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Financial Accounting",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

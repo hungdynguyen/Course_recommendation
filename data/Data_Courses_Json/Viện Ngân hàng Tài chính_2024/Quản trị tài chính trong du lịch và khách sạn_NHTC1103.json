@@ -1,0 +1,77 @@
+{
+  "course_id": "NHTC1103",
+  "title": "Quản trị Tài chính trong du lịch và khách sạn",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of financial management, including financial statements, financial analysis, and financial decision-making in the hospitality industry."
+    },
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of accounting, including financial statements and financial analysis."
+    },
+    {
+      "skill_name": "Taxation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of taxation, including the impact of taxes on businesses."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply financial decision-making principles to evaluate investment projects and manage short-term assets."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of project management, including investment decision-making."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze business performance using financial statements and financial analysis."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Develop leadership skills through group projects and discussions."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills through class participation and group projects."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills through financial analysis and decision-making."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving skills to financial management issues."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Lý thuyết tài chính tiền tệ",
+      "Nguyên lý kế toán"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Financial Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

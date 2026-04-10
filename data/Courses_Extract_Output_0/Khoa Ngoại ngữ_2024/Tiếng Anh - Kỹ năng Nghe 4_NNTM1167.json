@@ -1,0 +1,31 @@
+{
+  "course_id": "NNTM1167",
+  "title": "English – Listening Skills 4",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Develop advanced listening comprehension skills to understand lectures, presentations, and systematic note-taking at C1 level according to the Common European Framework of Reference."
+    },
+    {
+      "skill_name": "Note-Taking",
+      "category": "Soft Skill",
+      "outcome_description": "Master effective note-taking techniques including abbreviations and symbols for personal use."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking by analyzing and interpreting information from various linguistic structures."
+    },
+    {
+      "skill_name": "Academic Reading",
+      "category": "Hard Skill",
+      "outcome_description": "Improve reading skills to comprehend academic materials and lectures effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

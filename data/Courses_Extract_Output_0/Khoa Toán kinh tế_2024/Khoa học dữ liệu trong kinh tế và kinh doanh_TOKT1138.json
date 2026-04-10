@@ -1,0 +1,56 @@
+{
+  "course_id": "TOkt1138",
+  "title": "Introduction to Data Science in Economics and Business 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Preprocessing",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to clean and prepare data for analysis."
+    },
+    {
+      "skill_name": "Data Visualization",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in creating visual representations of data using tools like ggplot2."
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to build statistical models including linear regression, spline regression, and generalized additive models."
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and application of supervised and unsupervised machine learning techniques."
+    },
+    {
+      "skill_name": "R Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using R for data science tasks including data manipulation and model building."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Algebra",
+      "Calculus 1",
+      "Calculus 2",
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Econometrics I"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Programming Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

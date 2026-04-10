@@ -1,0 +1,72 @@
+{
+  "course_id": "MTDT1123",
+  "title": "Urban Housing Economics and Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Housing Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts about urban housing"
+    },
+    {
+      "skill_name": "Urban Housing Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze urban housing markets"
+    },
+    {
+      "skill_name": "Urban Housing Development Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies for urban housing development"
+    },
+    {
+      "skill_name": "Financial Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage financial resources for urban housing development"
+    },
+    {
+      "skill_name": "Land Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage land resources for urban housing development"
+    },
+    {
+      "skill_name": "Community Organization",
+      "category": "Hard Skill",
+      "outcome_description": "Organize communities within urban housing management"
+    },
+    {
+      "skill_name": "Government Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage government involvement in urban housing"
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze policies related to urban housing"
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on urban housing issues"
+    },
+    {
+      "skill_name": "Collaborative Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in teams on urban housing projects"
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously improve expertise in urban housing through self-study"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1 (KHMI1101)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

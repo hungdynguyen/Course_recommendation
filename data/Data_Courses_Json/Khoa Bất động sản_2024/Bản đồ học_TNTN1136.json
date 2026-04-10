@@ -1,0 +1,64 @@
+{
+  "course_id": "TNTN1136",
+  "title": "Mapping",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Geographic Information Systems (GIS)",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concepts of mapping, digital maps, and GIS, including the components and principles of GIS."
+    },
+    {
+      "skill_name": "Data Management",
+      "category": "Soft Skill",
+      "outcome_description": "Organize, collect, integrate, and manage spatial databases from various sources."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Process and analyze spatial data using GIS software."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply GIS knowledge to solve resource management problems."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to select topics and solve problems in resource markets and products."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze, evaluate, and synthesize information from maps to support professional tasks."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Present and discuss findings effectively in group settings."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and propose topics for group projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

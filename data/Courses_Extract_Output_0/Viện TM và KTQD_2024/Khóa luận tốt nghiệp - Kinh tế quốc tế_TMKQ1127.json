@@ -1,0 +1,57 @@
+{
+  "course_id": "TMKQ1127",
+  "title": "Graduation Thesis - International Economics",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and apply research methodologies effectively."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate professionally in written and oral formats."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret complex economic data and policies critically."
+    },
+    {
+      "skill_name": "Economic Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and propose solutions based on international economic policies."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, process, and analyze large datasets related to international economics."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports detailing research findings and conclusions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "International Economics 2",
+      "Foreign Economic Policy 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "course_id": "International Business",
+  "title": "Chuyên đề Kinh doanh quốc tế",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze international business environments and strategies."
+    },
+    {
+      "skill_name": "Cross-Cultural Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively across different cultures."
+    },
+    {
+      "skill_name": "Global Market Entry Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies for entering global markets."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate effectively in international business contexts."
+    },
+    {
+      "skill_name": "Data Presentation",
+      "category": "Hard Skill",
+      "outcome_description": "Present and analyze data in international business scenarios."
+    },
+    {
+      "skill_name": "Contract Drafting",
+      "category": "Hard Skill",
+      "outcome_description": "Draft and review contracts in international business settings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve complex business problems."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in team settings."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct market research for international business opportunities."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver effective presentations in English."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Business Principles",
+      "Intermediate English"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "English Language Proficiency",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

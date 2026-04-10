@@ -1,0 +1,47 @@
+{
+  "course_id": "MTDT1123",
+  "title": "Urban Housing Economics and Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the economic principles underlying urban housing management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze global and local policies related to urban housing."
+    },
+    {
+      "skill_name": "Real Estate Finance",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate financial resources for urban housing development."
+    },
+    {
+      "skill_name": "Land Use Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Assess land resources for urban housing development."
+    },
+    {
+      "skill_name": "Community Organization",
+      "category": "Soft Skill",
+      "outcome_description": "Organize community activities related to urban housing."
+    },
+    {
+      "skill_name": "Government Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage government involvement in urban housing issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1 (KHMI1101)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

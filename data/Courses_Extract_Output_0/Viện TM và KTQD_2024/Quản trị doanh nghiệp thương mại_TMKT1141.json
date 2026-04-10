@@ -1,0 +1,48 @@
+{
+  "course_id": "TMKT1141",
+  "title": "Commercial Enterprise Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Market Research",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct market research effectively."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and managing supply chain processes."
+    },
+    {
+      "skill_name": "Inventory Management",
+      "category": "Hard Skill",
+      "outcome_description": "Managing inventory levels and control mechanisms."
+    },
+    {
+      "skill_name": "Customer Service",
+      "category": "Soft Skill",
+      "outcome_description": "Providing excellent customer service and support."
+    },
+    {
+      "skill_name": "Business Management",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehensive understanding of business management principles."
+    },
+    {
+      "skill_name": "Accounting Practices",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of accounting practices relevant to commercial enterprises."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economics",
+      "Business Administration"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "course_id": "QTKD1150",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Function Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and implement general business management functions including planning, organizing, monitoring, and controlling."
+    },
+    {
+      "skill_name": "Research Problem Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify research problems related to business management at internship sites."
+    },
+    {
+      "skill_name": "Organizational Activity Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and assess the current operations of organizations and businesses, including strategic evaluation, production activities, business development, innovation, productivity improvement, project management, decision-making, business performance assessment, sustainable business practices, etc."
+    },
+    {
+      "skill_name": "Business Environment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the economic and technological characteristics of businesses."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply methods for strategic planning, building corporate culture, leadership, business planning, organization and operation, control and evaluation, business activity improvement, project management, report writing, etc."
+    },
+    {
+      "skill_name": "Information Collection Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and process information using various methods for analysis and research."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills and propose solutions to issues identified through analysis and evaluation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking abilities."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Learn time management techniques."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve conflicts and negotiate effectively."
+    },
+    {
+      "skill_name": "Personal Branding",
+      "category": "Soft Skill",
+      "outcome_description": "Build personal brand identity."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop presentation skills."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Gain understanding of laws and regulations, comply with unit rules, adapt to working conditions."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Foster ethical responsibility towards work."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

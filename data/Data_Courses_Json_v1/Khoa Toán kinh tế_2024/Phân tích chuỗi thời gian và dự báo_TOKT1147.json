@@ -1,0 +1,72 @@
+{
+  "course_id": "TOkt1147",
+  "title": "Time Series Analysis and Forecast",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Time Series Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the characteristics and properties of time series data, and apply basic and advanced methods for analysis and forecasting."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use specialized software (Eviews, R) for time series analysis and forecasting."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform regression analysis on time series data."
+    },
+    {
+      "skill_name": "Model Estimation",
+      "category": "Hard Skill",
+      "outcome_description": "Estimate and evaluate time series models such as ARIMA, ECM, VAR, VECM, ARCH, GARCH."
+    },
+    {
+      "skill_name": "Forecasting Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply forecasting techniques for short-term and long-term predictions."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-directed learning and research skills in time series analysis."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate risk using time series models."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret time series data critically."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to analyze and forecast time series data."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Statistics",
+      "Econometrics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Econometrics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

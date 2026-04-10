@@ -1,0 +1,52 @@
+{
+  "course_id": "Quản lý thay đổi",
+  "title": "Quản lý thay đổi",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Change Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and managing organizational change."
+    },
+    {
+      "skill_name": "Resistance Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Identifying and addressing resistance to change within organizations."
+    },
+    {
+      "skill_name": "Change Theories",
+      "category": "Soft Skill",
+      "outcome_description": "Applying theories related to change management."
+    },
+    {
+      "skill_name": "Organizational Change Processes",
+      "category": "Soft Skill",
+      "outcome_description": "Analyzing processes involved in organizational change."
+    },
+    {
+      "skill_name": "Learning Organizations",
+      "category": "Soft Skill",
+      "outcome_description": "Developing and understanding learning organizations."
+    },
+    {
+      "skill_name": "Organizational Development",
+      "category": "Soft Skill",
+      "outcome_description": "Strategizing for organizational development."
+    },
+    {
+      "skill_name": "Change Trends",
+      "category": "Soft Skill",
+      "outcome_description": "Recognizing trends in organizational change management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

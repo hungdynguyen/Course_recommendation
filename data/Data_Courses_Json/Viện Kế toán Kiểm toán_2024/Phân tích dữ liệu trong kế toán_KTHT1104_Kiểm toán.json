@@ -1,0 +1,103 @@
+{
+  "course_id": "KTHT1104",
+  "title": "Data Analytics for Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analytics",
+      "category": "Soft Skill",
+      "outcome_description": "Develops the ability to explain the basics of data analysis, identify the 'IMPACT' cycle in the data analysis process, and the necessary data analysis skills for accountants."
+    },
+    {
+      "skill_name": "Data Management",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluates various types of data, extracts, transforms, loads, and stores data, and practices data processing with software."
+    },
+    {
+      "skill_name": "Data Analysis Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Applies data analysis techniques and processes the results of data analysis in accounting."
+    },
+    {
+      "skill_name": "Data Visualization",
+      "category": "Soft Skill",
+      "outcome_description": "Illustrates data visually using diagrams, visual images, and reports the results of data analysis."
+    },
+    {
+      "skill_name": "Modern Accounting Environment",
+      "category": "Soft Skill",
+      "outcome_description": "Applies dynamic data analysis in a modern accounting environment."
+    },
+    {
+      "skill_name": "Audit Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conducts audit data analysis."
+    },
+    {
+      "skill_name": "Management Accounting Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Organizes management accounting data analysis."
+    },
+    {
+      "skill_name": "Financial Reporting Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Organizes financial reporting data analysis."
+    },
+    {
+      "skill_name": "Tax Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Organizes tax data analysis."
+    },
+    {
+      "skill_name": "Office Software Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develops the ability to use office software."
+    },
+    {
+      "skill_name": "Accounting Software Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develops the ability to use accounting software and data analysis software in accounting."
+    },
+    {
+      "skill_name": "Systematic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develops systematic thinking skills from data analysis."
+    },
+    {
+      "skill_name": "Data Analysis Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develops data analysis skills in accounting."
+    },
+    {
+      "skill_name": "Interpretation of Data Analysis Results",
+      "category": "Soft Skill",
+      "outcome_description": "Develops the ability to interpret data analysis results and make recommendations based on those results."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develops the ability to communicate and write reports on data analysis content in accounting."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develops the ability to present data analysis content in accounting."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Organizes independent work, demonstrates personal responsibility, and responsibility towards the work team."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management Accounting 1",
+      "Financial Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

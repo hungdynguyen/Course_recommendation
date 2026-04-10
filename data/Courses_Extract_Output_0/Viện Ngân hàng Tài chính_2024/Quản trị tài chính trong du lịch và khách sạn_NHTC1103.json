@@ -1,0 +1,53 @@
+{
+  "course_id": "NHTC1103",
+  "title": "Financial Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Management",
+      "category": "Tool/Software",
+      "outcome_description": "Understand basic concepts of financial management, compare different business models, analyze financial management issues, especially those related to the hospitality industry."
+    },
+    {
+      "skill_name": "Taxation",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the impact of various taxes on businesses, including VAT, special consumption tax, and corporate income tax."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Tool/Software",
+      "outcome_description": "Read and interpret financial reports, particularly those relevant to the hospitality industry."
+    },
+    {
+      "skill_name": "Cost Management",
+      "category": "Tool/Software",
+      "outcome_description": "Manage costs and revenues effectively within a business."
+    },
+    {
+      "skill_name": "Project Evaluation",
+      "category": "Tool/Software",
+      "outcome_description": "Evaluate the effectiveness of projects through financial analysis."
+    },
+    {
+      "skill_name": "Cash Management",
+      "category": "Tool/Software",
+      "outcome_description": "Implement effective cash management strategies in hotels."
+    },
+    {
+      "skill_name": "Short-term Asset Management",
+      "category": "Tool/Software",
+      "outcome_description": "Manage short-term assets such as accounts receivable and inventory."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Money and Banking Theory",
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

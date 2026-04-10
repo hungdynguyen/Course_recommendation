@@ -1,0 +1,37 @@
+{
+  "course_id": "TNTN1127",
+  "title": "Natural Resources Use Planning",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of planning and conserving natural resources including land, forests, water, minerals, and marine resources."
+    },
+    {
+      "skill_name": "Planning Process",
+      "category": "Hard Skill",
+      "outcome_description": "Learn the sequence and content of each step in developing and adjusting resource utilization plans at various levels."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand government regulations on approving and reviewing resource utilization plans and conservation measures."
+    },
+    {
+      "skill_name": "Critical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze global and local resource utilization plans and propose economic, organizational, and technical solutions for sustainable development."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Natural Resource Policy"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

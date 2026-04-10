@@ -1,0 +1,41 @@
+{
+  "course_id": "BHKT1168",
+  "title": "Project",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Practical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop practical skills relevant to the insurance industry."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques based on acquired knowledge."
+    },
+    {
+      "skill_name": "Professionalism",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional behavior and work ethics."
+    },
+    {
+      "skill_name": "Industry Familiarity",
+      "category": "Hard Skill",
+      "outcome_description": "Gain familiarity with the structure and operations of insurance organizations."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research and gather information from real-world settings."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write comprehensive reports based on practical experiences."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

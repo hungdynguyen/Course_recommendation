@@ -1,0 +1,55 @@
+{
+  "course_id": "MTKT1162",
+  "title": "Environmental Communication",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature, characteristics, and key components of communication",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence, characteristics, and key elements of communication; the objectives and roles of environmental communication."
+    },
+    {
+      "skill_name": "Analyzing and comparing models of environmental communication",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and compare various models of environmental communication; different approaches to environmental communication."
+    },
+    {
+      "skill_name": "Identifying and analyzing key contents for developing and implementing environmental communication plans",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and analyze key contents for developing and implementing environmental communication plans. Understand the stages, principles, and methods for designing behavior-changing environmental communication."
+    },
+    {
+      "skill_name": "Understanding principles, characteristics, and methods when developing environmental communication plans in different geographical regions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles, characteristics, and methods when developing environmental communication plans in different geographical regions."
+    },
+    {
+      "skill_name": "Developing and implementing environmental communication plans in conflict and risk situations",
+      "category": "Hard Skill",
+      "outcome_description": "Have the knowledge to develop and implement environmental communication plans in conflict and risk situations."
+    },
+    {
+      "skill_name": "Applying knowledge from the course to design and implement environmental communication, especially in some representative geographical areas",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge from the course to design and implement environmental communication, particularly in some representative geographical areas."
+    },
+    {
+      "skill_name": "Actively developing learning and practice capabilities through discussions and answering questions about situational exercises in the program",
+      "category": "Soft Skill",
+      "outcome_description": "Actively develop learning and practice capabilities through discussions and answering questions about situational exercises in the program."
+    },
+    {
+      "skill_name": "Actively developing teamwork skills by seeking, collecting information, building content, and presenting research results through presentations",
+      "category": "Soft Skill",
+      "outcome_description": "Actively develop teamwork skills by seeking, collecting information, building content, and presenting research results through presentations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

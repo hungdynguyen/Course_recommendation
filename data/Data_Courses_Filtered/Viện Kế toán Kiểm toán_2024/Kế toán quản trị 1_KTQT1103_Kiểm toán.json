@@ -1,0 +1,67 @@
+{
+  "course_id": "KTQT1103",
+  "title": "Managerial Accounting 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature and role of managerial accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence and role of managerial accounting in businesses."
+    },
+    {
+      "skill_name": "Identifying different types of costs for decision-making",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate various types of costs in business operations for decision-making purposes."
+    },
+    {
+      "skill_name": "Analyzing cost-volume-profit relationships",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the relationship between costs, volume, and profit for decision-making."
+    },
+    {
+      "skill_name": "Analyzing break-even points and target profits",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze break-even points and target profits."
+    },
+    {
+      "skill_name": "Analyzing safety margins, product structures, cost structures, and operating leverage",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of product structure, cost structure, and operating leverage on business decisions."
+    },
+    {
+      "skill_name": "Building cost standards and production budgeting systems",
+      "category": "Hard Skill",
+      "outcome_description": "Construct cost standards and production budgeting systems for businesses."
+    },
+    {
+      "skill_name": "Analyzing variances between actual and budgeted figures",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze differences between actual and budgeted figures, explain reasons for variances, and prepare variance reports."
+    },
+    {
+      "skill_name": "Writing reports",
+      "category": "Soft Skill",
+      "outcome_description": "Develop proficiency in writing reports."
+    },
+    {
+      "skill_name": "Working independently and in teams",
+      "category": "Soft Skill",
+      "outcome_description": "Practice working independently and in teams."
+    },
+    {
+      "skill_name": "Self-management and responsibility for learning outcomes",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-management and take responsibility for personal learning outcomes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

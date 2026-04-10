@@ -1,0 +1,55 @@
+{
+  "course_id": "TNTN1152",
+  "title": "Chuyên đề thực tế",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research skills through practical experience and professional guidance."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, analyze, and solve practical problems."
+    },
+    {
+      "skill_name": "Information Gathering",
+      "category": "Soft Skill",
+      "outcome_description": "Collect and analyze information to understand issues."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effective communication, report writing, and presentation skills."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional responsibility and work ethics."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply logical and systematic analysis to problem-solving."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and manage practical activities effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

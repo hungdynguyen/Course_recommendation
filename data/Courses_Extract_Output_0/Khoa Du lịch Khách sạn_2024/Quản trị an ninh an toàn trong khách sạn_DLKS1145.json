@@ -1,0 +1,42 @@
+{
+  "course_id": "DLKS1145",
+  "title": "Security and Safety Management in Hospitality",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Safety Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and implement safety measures in hospitality settings."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Identify potential risks and develop strategies to mitigate them."
+    },
+    {
+      "skill_name": "Emergency Response",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and execute emergency response plans."
+    },
+    {
+      "skill_name": "Security Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Design and manage security systems in hospitality environments."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with legal requirements related to safety and security."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

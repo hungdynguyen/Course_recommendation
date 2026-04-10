@@ -1,0 +1,60 @@
+{
+  "course_id": "MTKT1172",
+  "title": "Chuyên đề thực tế-Quản lý Tài nguyên và Môi trường",
+  "difficulty_level": "Beginner",
+  "duration": "15 hours of theory, 45 hours of practice",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge of economic and environmental resource management activities and management tools in domestic and international contexts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in synthesizing, analyzing, and systematic thinking; ability to organize and manage human resources for professional management activities in the field of environmental resource management."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and analyze problems in environmental resource management, and develop solutions based on professional knowledge."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively to solve assigned tasks."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to search for materials, analyze, synthesize, and generalize issues in environmental resource management."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to propose, argue, and defend viewpoints, and have a spirit of cooperation and responsibility towards work."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to self-study and accumulate experience to improve professional expertise and adapt to changes in environmental resource management."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports on environmental resource management topics."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and coordinate projects, and develop collective intelligence."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

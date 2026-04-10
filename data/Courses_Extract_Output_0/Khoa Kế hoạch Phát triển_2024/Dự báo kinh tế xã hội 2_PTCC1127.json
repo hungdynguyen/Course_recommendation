@@ -1,0 +1,55 @@
+{
+  "course_id": "PTCC 1127",
+  "title": "Socio-Economic Development Forecasting 2",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Forecasting",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to forecast economic trends and developments."
+    },
+    {
+      "skill_name": "Social Forecasting",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to forecast social trends and developments."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to apply statistical methods to economic and social forecasting."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to analyze policies based on economic and social forecasts."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to interpret large datasets related to economic and social trends."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Socio-Economic Development Forecasting 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Social Sciences",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "course_id": "MKTT1151",
+  "title": "Hệ thống Nhận diện Thương hiệu",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Brand Terminology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand key terms related to brand identity systems."
+    },
+    {
+      "skill_name": "Function and Role of Brand Identity Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the functions and roles of brand identity systems in business management."
+    },
+    {
+      "skill_name": "Building Corporate Vision and Strategic Goals",
+      "category": "Hard Skill",
+      "outcome_description": "Develop the ability to build corporate vision and strategic goals for brand identity systems."
+    },
+    {
+      "skill_name": "Managing and Exploiting Brand Identity Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Gain skills to manage and exploit brand identity systems in business communication."
+    },
+    {
+      "skill_name": "Analyzing Influences on Brand Identity Management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impacts of marketing environment factors on brand identity management."
+    },
+    {
+      "skill_name": "Applying Brand Identity Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of brand identity systems to new and familiar situations, providing creative solutions adaptable to changing business environments."
+    },
+    {
+      "skill_name": "Understanding Brand Identity System Processes",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the processes, understand, and manage brand identity systems."
+    },
+    {
+      "skill_name": "Managing Brand Building Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Manage activities to create and maintain brands through core and applied brand identity systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "course_id": "TNBD1139",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop skills in selecting and executing research on specialized topics, applying theoretical knowledge to practical situations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Students will enhance their ability to analyze and solve problems in the real estate sector using critical thinking."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Students will improve their communication skills, including presenting their work and defending their viewpoints."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn to manage projects, including planning, organizing, and executing research activities."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to self-learn and continuously improve their professional skills."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Students will work collaboratively in teams and take responsibility for their roles."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Students will understand and adhere to professional ethics and academic integrity."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Students will apply economic theories to real-world problems in the real estate sector."
+    },
+    {
+      "skill_name": "Real Estate",
+      "category": "Hard Skill",
+      "outcome_description": "Students will gain in-depth knowledge and practical skills in the real estate industry, including business, management, valuation, and brokerage."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand and apply relevant laws and regulations in the real estate sector."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

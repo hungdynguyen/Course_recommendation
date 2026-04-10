@@ -1,0 +1,80 @@
+{
+  "course_id": "KTKE1101",
+  "title": "Nguyên lý kế toán",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature, position, and role of accounting in an organization",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the nature, position, and role of accounting in an organization."
+    },
+    {
+      "skill_name": "Recognizing and applying generally accepted accounting principles (GAAP)",
+      "category": "Hard Skill",
+      "outcome_description": "Apply GAAP in recognizing, measuring, and recording accounting objects and providing financial information."
+    },
+    {
+      "skill_name": "Applying the accounting cycle to revenue, expenses, and determining results",
+      "category": "Hard Skill",
+      "outcome_description": "Apply the accounting cycle to revenue, expenses, and determining results."
+    },
+    {
+      "skill_name": "Applying the accounting cycle to assets, liabilities, and equity",
+      "category": "Hard Skill",
+      "outcome_description": "Apply the accounting cycle to assets, liabilities, and equity."
+    },
+    {
+      "skill_name": "Presenting items on basic financial statements",
+      "category": "Hard Skill",
+      "outcome_description": "Apply accounting knowledge to present items on basic financial statements."
+    },
+    {
+      "skill_name": "Analyzing and evaluating the financial situation and operating results of an entity",
+      "category": "Hard Skill",
+      "outcome_description": "Apply accounting knowledge to analyze and evaluate the financial situation and operating results of an entity."
+    },
+    {
+      "skill_name": "Building systematic thinking, analyzing business operations, identifying, classifying, measuring, and recording accounting transactions in organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Build systematic thinking, analyzing business operations, identifying, classifying, measuring, and recording accounting transactions in organizations."
+    },
+    {
+      "skill_name": "Demonstrating basic communication skills; writing reports and presenting specialized topics in work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate basic communication skills; write reports and present specialized topics in work."
+    },
+    {
+      "skill_name": "Working independently and effectively in teams",
+      "category": "Soft Skill",
+      "outcome_description": "Use skills to work independently and effectively in teams."
+    },
+    {
+      "skill_name": "Adapting to working environments in regional and international integration",
+      "category": "Soft Skill",
+      "outcome_description": "Use adaptability to work in regional and international integration environments."
+    },
+    {
+      "skill_name": "Recognizing social responsibility in the accounting profession",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize social responsibility in the accounting profession."
+    },
+    {
+      "skill_name": "Discussing issues at a basic level within the accounting specialty",
+      "category": "Soft Skill",
+      "outcome_description": "Discuss issues at a basic level within the accounting specialty."
+    },
+    {
+      "skill_name": "Expressing opinions on issues at a basic level within the accounting specialty",
+      "category": "Soft Skill",
+      "outcome_description": "Express opinions on issues at a basic level within the accounting specialty."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

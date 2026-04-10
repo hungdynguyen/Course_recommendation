@@ -1,0 +1,42 @@
+{
+  "course_id": "MTDT1126",
+  "title": "Municipal Finance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Financial Management",
+      "category": "Tool/Software",
+      "outcome_description": "Understand principles and practices of urban financial management including budgeting, accounting, and auditing."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze strengths and weaknesses of municipal revenue sources and expenditures."
+    },
+    {
+      "skill_name": "Budget Preparation",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare budgets and financial reports for municipal governments."
+    },
+    {
+      "skill_name": "Financial Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Explain key financial principles relevant to municipal finance."
+    },
+    {
+      "skill_name": "Urban Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic theories to understand urban financial trends and challenges."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

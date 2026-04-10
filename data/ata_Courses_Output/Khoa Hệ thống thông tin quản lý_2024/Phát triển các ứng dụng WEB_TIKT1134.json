@@ -1,0 +1,72 @@
+{
+  "course_id": "TIKT1134",
+  "title": "Web Applications Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding web application terminology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand terms related to web applications, web programming languages, database management systems, hyper-text markup language, cascading style sheets, etc."
+    },
+    {
+      "skill_name": "Explaining front-end and back-end programming",
+      "category": "Hard Skill",
+      "outcome_description": "Explain and apply front-end and back-end programming concepts in practical scenarios."
+    },
+    {
+      "skill_name": "Deploying and managing web applications",
+      "category": "Hard Skill",
+      "outcome_description": "Deploy, operate, and develop web applications for businesses."
+    },
+    {
+      "skill_name": "Mastering web development tools",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiently use HTML, CSS, JavaScript, MySQL, and PHP to develop web-based applications."
+    },
+    {
+      "skill_name": "Systematic thinking and modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Develop systematic thinking and modeling skills for web development."
+    },
+    {
+      "skill_name": "Self-study and continuous learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to self-study and continuously update knowledge on web development."
+    },
+    {
+      "skill_name": "Independent work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or actively participate in group activities."
+    },
+    {
+      "skill_name": "Group organization",
+      "category": "Soft Skill",
+      "outcome_description": "Organize group activities effectively."
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of information systems management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Computer Science",
+      "Networking and Communication"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic understanding of computer science",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic knowledge of networking and communication",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

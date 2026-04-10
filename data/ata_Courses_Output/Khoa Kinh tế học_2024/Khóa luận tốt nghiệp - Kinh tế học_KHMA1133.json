@@ -1,0 +1,71 @@
+{
+  "course_id": "KHMA1133",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Theory Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic theories and models to identify financial, monetary, and economic issues in real-world contexts."
+    },
+    {
+      "skill_name": "Quantitative and Qualitative Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and enhance quantitative and qualitative analysis skills for evaluating policies and business decisions."
+    },
+    {
+      "skill_name": "Literature Review Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Master the ability to conduct literature reviews, synthesize secondary sources, and use analytical tools effectively."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop independent research skills, including problem-solving and critical thinking."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork skills and the ability to organize group activities."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve presentation skills to effectively communicate research findings."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Strengthen self-learning abilities and the capacity for continuous learning."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to provide professional conclusions on practical issues."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand ethical responsibilities and the importance of social responsibility in professional activities."
+    },
+    {
+      "skill_name": "Data Collection Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Learn and apply various techniques for collecting and analyzing data."
+    },
+    {
+      "skill_name": "Research Proposal Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills to create detailed research proposals and project plans."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Improve report writing skills, ensuring reports meet academic standards."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "course_id": "MKTT1102",
+  "title": "Integrated Marketing Communications",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Communications",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and role of marketing communications and integrate marketing communication tools."
+    },
+    {
+      "skill_name": "Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Apply principles and processes to develop creative strategies and build communication messages."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups to develop and evaluate integrated marketing communication plans."
+    },
+    {
+      "skill_name": "Consumer Behavior",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze consumer behavior and psychological characteristics to inform communication strategies."
+    },
+    {
+      "skill_name": "Media Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate media options and develop media plans based on target audience and brand objectives."
+    },
+    {
+      "skill_name": "Marketing Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage marketing communication activities and assess their effectiveness."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critically analyze marketing communication plans and strategies."
+    },
+    {
+      "skill_name": "Creativity",
+      "category": "Soft Skill",
+      "outcome_description": "Develop creative ideas and messages for marketing communications."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical and social responsibility in marketing communication decisions."
+    },
+    {
+      "skill_name": "Research Methods",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct market research to inform marketing communication strategies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Marketing"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Marketing",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

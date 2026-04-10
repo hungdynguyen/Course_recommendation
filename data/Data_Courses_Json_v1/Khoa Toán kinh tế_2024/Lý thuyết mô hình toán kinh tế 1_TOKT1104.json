@@ -1,0 +1,84 @@
+{
+  "course_id": "TOkt1104",
+  "title": "Mathematical Economic Modeling 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Mathematical Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to apply mathematical models to economic problems."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and applying economic theories using mathematical models."
+    },
+    {
+      "skill_name": "Microeconomics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyzing consumer and producer behavior using mathematical models."
+    },
+    {
+      "skill_name": "Macroeconomics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyzing macroeconomic indicators and their interrelations using mathematical models."
+    },
+    {
+      "skill_name": "Optimization Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Applying optimization methods to economic models."
+    },
+    {
+      "skill_name": "Linear Algebra",
+      "category": "Hard Skill",
+      "outcome_description": "Using linear algebra in economic modeling."
+    },
+    {
+      "skill_name": "Calculus",
+      "category": "Hard Skill",
+      "outcome_description": "Applying calculus to economic models."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solving economic problems using mathematical models."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyzing and interpreting economic data and models critically."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Working in teams to solve economic problems using models."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicating economic models and analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Algebra",
+      "Calculus 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

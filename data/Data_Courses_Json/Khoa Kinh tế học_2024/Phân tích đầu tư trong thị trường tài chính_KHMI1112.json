@@ -1,0 +1,72 @@
+{
+  "course_id": "KHMI1112",
+  "title": "Investment analysis in Financial Markets",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Markets",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept, characteristics, and investment tools in financial markets."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Differentiate between fundamental and technical analysis, and apply these methods to investment analysis."
+    },
+    {
+      "skill_name": "Financial Instruments Valuation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the reasons for using valuation methods for financial instruments and apply these methods to bonds and stocks."
+    },
+    {
+      "skill_name": "Portfolio Management",
+      "category": "Soft Skill",
+      "outcome_description": "Construct and manage an effective financial investment portfolio based on modern theories."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Apply economic principles, probability, and statistics to investment analysis."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent analytical skills and group work abilities in applying investment analysis methods."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-directed learning and research skills to improve the effectiveness of investment analysis and portfolio selection."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in organizing group discussions, working independently, and presenting on investment finance topics."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate a sense of discipline in class, cooperation, and responsibility in group activities, and form personal opinions on practical investment analysis issues."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2",
+      "Macroeconomics 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

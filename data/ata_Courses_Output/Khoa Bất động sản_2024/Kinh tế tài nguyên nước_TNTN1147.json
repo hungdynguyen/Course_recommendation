@@ -1,0 +1,71 @@
+{
+  "course_id": "TNTN1147",
+  "title": "Water Resource Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding characteristics and role of water resources",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the basic characteristics and roles of water resources."
+    },
+    {
+      "skill_name": "Economics of public water supply and domestic water use",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the economics of public water supply and domestic water use."
+    },
+    {
+      "skill_name": "Economics of irrigation water supply",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the economics of irrigation water supply."
+    },
+    {
+      "skill_name": "Economics of hydropower energy",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the economics of hydropower energy."
+    },
+    {
+      "skill_name": "Flood prevention and coastal protection economics",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the economics of flood prevention and coastal protection."
+    },
+    {
+      "skill_name": "Government management of water resources",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand government management of water resources."
+    },
+    {
+      "skill_name": "Analyzing economic impacts of price and interest rate tools on water resource market",
+      "category": "Hard Skill",
+      "outcome_description": "Students develop skills to analyze the economic impacts of price and interest rate tools on the water resource market."
+    },
+    {
+      "skill_name": "Interpreting and synthesizing cause-effect relationships between economic policies and water resource exploitation",
+      "category": "Hard Skill",
+      "outcome_description": "Students develop skills to interpret and synthesize cause-effect relationships between economic policies and water resource exploitation."
+    },
+    {
+      "skill_name": "Summarizing and generalizing water resource issues",
+      "category": "Hard Skill",
+      "outcome_description": "Students develop skills to summarize and generalize water resource issues."
+    },
+    {
+      "skill_name": "Planning and managing resources for independent and group activities",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop planning and management skills for independent and group activities."
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics in making judgments and evaluations about specialized issues",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop social responsibility and professional ethics in making judgments and evaluations about specialized issues."
+    },
+    {
+      "skill_name": "Recognizing and adhering to legal regulations regarding water resource management and products",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop recognition and adherence to legal regulations regarding water resource management and products."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

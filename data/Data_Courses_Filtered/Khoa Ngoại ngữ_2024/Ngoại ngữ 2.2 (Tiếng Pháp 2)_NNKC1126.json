@@ -1,0 +1,76 @@
+{
+  "course_id": "NNKC1126",
+  "title": "Second Foreign Language (French 2)",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the main points of short conversations or monologues with diverse content."
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Hard Skill",
+      "outcome_description": "Present a 2-3 minute independent speech on basic, familiar topics in daily life."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Read and understand short articles or passages about common topics."
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write emails or short letters about common topics in daily life."
+    },
+    {
+      "skill_name": "Grammar Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply grammar rules in writing and speaking."
+    },
+    {
+      "skill_name": "Vocabulary Acquisition",
+      "category": "Hard Skill",
+      "outcome_description": "Expand vocabulary through reading and writing exercises."
+    },
+    {
+      "skill_name": "Self-Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study habits including reading, pronunciation practice, sentence formation, and writing short paragraphs."
+    },
+    {
+      "skill_name": "Online Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Participate in online learning activities to reinforce classroom learning."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret information from texts and discussions."
+    },
+    {
+      "skill_name": "Collaborative Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in group discussions and collaborative problem-solving."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "French 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic French Vocabulary",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Simple Sentence Structure",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

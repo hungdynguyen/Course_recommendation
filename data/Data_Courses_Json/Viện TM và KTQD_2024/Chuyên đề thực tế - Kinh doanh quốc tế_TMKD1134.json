@@ -1,0 +1,66 @@
+{
+  "course_id": "TMKD1134",
+  "title": "Chuyên đề thực tế - Kinh doanh quốc tế",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Business",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge and skills to analyze and solve real-world problems in international business operations."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize appropriate methods and techniques to collect, analyze data, and solve problems in international business operations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent thinking and responsibility in planning, analyzing, evaluating, and proposing solutions to problems in international business operations."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, process, and analyze data to identify issues related to international business operations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate solutions to problems arising in international business operations."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Participate actively in group discussions and collaborative projects."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and solutions in written and oral formats."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and complete research projects and assignments within specified deadlines."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh quốc tế"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "International Business",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Research Methodology",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

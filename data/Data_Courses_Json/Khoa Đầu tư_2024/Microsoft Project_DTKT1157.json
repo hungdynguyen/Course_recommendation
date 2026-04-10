@@ -1,0 +1,72 @@
+{
+  "course_id": "DTKT1157",
+  "title": "Project Management Using Microsoft Project",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply Microsoft Project for project planning, resource management, cost management, and monitoring."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage project resources effectively, including allocation and balancing."
+    },
+    {
+      "skill_name": "Cost Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage project costs and monitor project progress."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems independently and in a team setting."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in a team environment."
+    },
+    {
+      "skill_name": "Microsoft Project",
+      "category": "Hard Skill",
+      "outcome_description": "Use Microsoft Project software to manage projects."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage project timelines and schedules."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in project management contexts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze project data and make informed decisions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and research skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Project Management"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Project Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

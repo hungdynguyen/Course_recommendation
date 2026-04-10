@@ -1,0 +1,42 @@
+{
+  "course_id": "DLLH1153",
+  "title": "Operation of Travel Service 2",
+  "difficulty_level": "Advanced",
+  "duration": "135 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tour Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to observe, understand, and report on travel agencies, products, customers, organizational structure, and operations."
+    },
+    {
+      "skill_name": "Travel Agency Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn to analyze travel agencies, their products, customer segments, and operational processes."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to write comprehensive reports based on observations and analysis."
+    },
+    {
+      "skill_name": "Industry Familiarity",
+      "category": "Soft Skill",
+      "outcome_description": "Students will gain a deeper understanding of the travel industry's structure and operations."
+    },
+    {
+      "skill_name": "Observation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will improve their observational skills by engaging with real-world business environments."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Operation of Travel Service 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

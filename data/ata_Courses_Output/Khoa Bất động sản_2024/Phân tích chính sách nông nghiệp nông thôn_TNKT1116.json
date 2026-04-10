@@ -1,0 +1,57 @@
+{
+  "course_id": "TNKT1116",
+  "title": "Phân tích chính sách nông nghiệp nông thôn",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature, structure, and cycle of rural agricultural policies; grasp concepts and methods for analyzing production and consumption of agricultural products."
+    },
+    {
+      "skill_name": "Cost-Benefit Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply cost-benefit analysis and cost-effectiveness analysis to evaluate the effectiveness of agricultural policies."
+    },
+    {
+      "skill_name": "Economic Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Use economic modeling tools to predict and evaluate future scenarios of policies."
+    },
+    {
+      "skill_name": "Commodity Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Determine the value of agricultural products using commodity valuation methods."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement risk management tools to minimize risks in agricultural operations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and apply results of policy analysis effectively."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-directed learning abilities and take responsibility for analyzing and applying results of policy analysis."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve presentation skills to effectively present detailed and logical reports on policy proposals or adjustments."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh doanh nông nghiệp I (TNKT1153)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

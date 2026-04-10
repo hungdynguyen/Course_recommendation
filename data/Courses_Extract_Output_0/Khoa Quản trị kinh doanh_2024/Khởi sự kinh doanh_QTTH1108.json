@@ -1,0 +1,37 @@
+{
+  "course_id": "Khởi sự kinh doanh",
+  "title": "Khởi sự kinh doanh",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Entrepreneurship",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the principles and processes of entrepreneurship."
+    },
+    {
+      "skill_name": "Business Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop a comprehensive business plan including market research and financial projections."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct effective market research to identify business opportunities."
+    },
+    {
+      "skill_name": "Business Development",
+      "category": "Hard Skill",
+      "outcome_description": "Apply strategies for starting and growing a new business venture."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Business"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

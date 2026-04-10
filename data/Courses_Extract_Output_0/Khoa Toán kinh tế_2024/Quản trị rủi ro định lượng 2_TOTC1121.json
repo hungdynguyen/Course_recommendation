@@ -1,0 +1,48 @@
+{
+  "course_id": "TOTC1121",
+  "title": "Quantitative risk management 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk measurement",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to measure various types of financial risks including market, credit, operational, and liquidity risks."
+    },
+    {
+      "skill_name": "Risk management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage and mitigate identified financial risks using quantitative methods."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Excel for financial analysis and risk assessment."
+    },
+    {
+      "skill_name": "R",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using R for statistical analysis and modeling in risk management."
+    },
+    {
+      "skill_name": "Python",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Python for data analysis and algorithmic trading in risk management."
+    },
+    {
+      "skill_name": "Basel III compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding of regulatory requirements for risk management as per Basel III guidelines."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quantitative risk management 1",
+      "Financial asset modeling and valuation 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

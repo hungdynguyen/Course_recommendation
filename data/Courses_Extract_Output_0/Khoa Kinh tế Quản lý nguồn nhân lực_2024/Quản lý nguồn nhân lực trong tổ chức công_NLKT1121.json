@@ -1,0 +1,50 @@
+{
+  "course_id": "NLKT1121",
+  "title": "Human Resource Management in public sector organisations",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "HR Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts, methods, and techniques of human resource management in public sector organizations."
+    },
+    {
+      "skill_name": "Public Sector Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Compare and contrast HR management practices between public and private sector organizations."
+    },
+    {
+      "skill_name": "Job Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze job roles within public sector organizations."
+    },
+    {
+      "skill_name": "Recruitment",
+      "category": "Soft Skill",
+      "outcome_description": "Develop recruitment strategies for public sector organizations."
+    },
+    {
+      "skill_name": "Training & Development",
+      "category": "Soft Skill",
+      "outcome_description": "Design training programs for public sector employees."
+    },
+    {
+      "skill_name": "Performance Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Implement performance evaluation systems for public sector employees."
+    },
+    {
+      "skill_name": "Compensation Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage salary and benefits structures for public sector employees."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

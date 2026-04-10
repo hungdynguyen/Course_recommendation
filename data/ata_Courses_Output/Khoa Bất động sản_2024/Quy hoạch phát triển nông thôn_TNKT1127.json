@@ -1,0 +1,46 @@
+{
+  "course_id": "TNKT 1127",
+  "title": "Rural Development Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic theories of rural development planning",
+      "category": "Hard Skill",
+      "outcome_description": "Students recognize and understand basic theories about rural development planning."
+    },
+    {
+      "skill_name": "Recognizing methods, procedures for planning, management of economic-social rural planning",
+      "category": "Hard Skill",
+      "outcome_description": "Students recognize methods, procedures for planning, management of economic-social rural planning."
+    },
+    {
+      "skill_name": "Applying knowledge to participate in evaluating, building, and critiquing rural economic-social planning",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply their knowledge to participate in evaluating, building, and critiquing rural economic-social planning."
+    },
+    {
+      "skill_name": "Participating in management activities to implement rural economic-social planning at various levels",
+      "category": "Hard Skill",
+      "outcome_description": "Students participate in management activities to implement rural economic-social planning at various levels."
+    },
+    {
+      "skill_name": "Applying knowledge to absorb other subjects at higher education levels",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply their knowledge to absorb other subjects at higher education levels."
+    },
+    {
+      "skill_name": "Self-study ability",
+      "category": "Soft Skill",
+      "outcome_description": "Students have the ability to self-study, find materials to complete assignments and tasks."
+    },
+    {
+      "skill_name": "Discipline and responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Students have discipline and responsibility, organizational skills, and cooperation spirit."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

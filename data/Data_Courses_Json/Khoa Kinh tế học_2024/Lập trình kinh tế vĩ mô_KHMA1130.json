@@ -1,0 +1,62 @@
+{
+  "course_id": "KHMA1130",
+  "title": "Macroeconomic Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Macroeconomics",
+      "category": "Soft Skill",
+      "outcome_description": "Apply advanced macroeconomic theories to analyze macroeconomic relationships and the overall economy."
+    },
+    {
+      "skill_name": "Economic Forecasting",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the impact of macroeconomic events and policy changes on the overall economy."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in searching for data, synthesizing secondary materials, and using economic analysis tools."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research, work in teams, and present knowledge through writing and discussing macroeconomic situations in Vietnam and around the world."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking skills to analyze macroeconomic issues in Vietnam and globally."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in evaluating macroeconomic programs."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Foster self-learning and research skills to enhance knowledge on macroeconomic issues in practice."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2 (KHMI1102)",
+      "Macroeconomics 2 (KHMA1102)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Macroeconomics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Economic Forecasting",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

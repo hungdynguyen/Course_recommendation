@@ -1,0 +1,72 @@
+{
+  "course_id": "TNKT1153",
+  "title": "Agribusiness I",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Agricultural Business Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basics and specifics of agricultural business operations."
+    },
+    {
+      "skill_name": "Application of Economic Theories in Agricultural Business",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic theories and tools in agricultural business contexts."
+    },
+    {
+      "skill_name": "Strategic Planning in Agricultural Business",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategic plans for agricultural businesses including production planning."
+    },
+    {
+      "skill_name": "Organizational Management in Agricultural Business",
+      "category": "Hard Skill",
+      "outcome_description": "Manage organizational activities in agricultural businesses including sales, marketing, and brand building."
+    },
+    {
+      "skill_name": "Analysis of Agricultural Business Scenarios",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze real-world scenarios in agricultural businesses and propose solutions."
+    },
+    {
+      "skill_name": "Effective Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills through seminar activities."
+    },
+    {
+      "skill_name": "Problem-Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills through practical applications in agricultural business scenarios."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork skills through collaborative seminar activities."
+    },
+    {
+      "skill_name": "Critical Thinking Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and critique agricultural business strategies."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Become a self-directed learner capable of researching and applying knowledge from various sources."
+    },
+    {
+      "skill_name": "Continuous Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Commit to continuous learning and personal development in the field of agricultural business."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics I (TNKT1109)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

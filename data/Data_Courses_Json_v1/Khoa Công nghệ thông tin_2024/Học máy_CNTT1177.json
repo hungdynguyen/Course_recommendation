@@ -1,0 +1,75 @@
+{
+  "course_id": "CNTT1177",
+  "title": "Machine Learning",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Machine Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic and advanced concepts of supervised, unsupervised, semi-supervised, and reinforcement learning."
+    },
+    {
+      "skill_name": "Python (Computer Programming)",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and implement machine learning models using Python and relevant libraries."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and preprocess data for machine learning applications."
+    },
+    {
+      "skill_name": "Model Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the performance of machine learning models using various techniques and metrics."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, analyze, and solve machine learning problems in real-world scenarios."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently to develop machine learning solutions."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critically assess and improve machine learning models and their applications."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and develop new machine learning models and techniques."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate machine learning concepts, methodologies, and results."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Linear Algebra",
+      "Probability and Statistics",
+      "Programming Basics",
+      "Data Structures and Algorithms",
+      "Artificial Intelligence"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming Basics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Data Analysis",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

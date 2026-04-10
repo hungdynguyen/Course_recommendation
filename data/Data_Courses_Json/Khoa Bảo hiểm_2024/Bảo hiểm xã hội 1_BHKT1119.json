@@ -1,0 +1,52 @@
+{
+  "course_id": "BHKT1119",
+  "title": "Social Insurance 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Insurance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the nature, characteristics, functions, and roles of social insurance; grasp the fundamental views on social insurance, its formation and development process."
+    },
+    {
+      "skill_name": "Social Welfare",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the importance of social insurance in the social welfare system; analyze the relationship between social insurance and economic growth."
+    },
+    {
+      "skill_name": "Social Security Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the social security system, financial aspects of social insurance, and the differences between social insurance funds and national budget and corporate finance."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills, group work abilities, logical and critical thinking, and the ability to inspire others; demonstrate responsibility, legal awareness, and social responsibility."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, characteristics, and functions of social insurance finance; analyze the relationship between social insurance finance and the national budget and corporate finance; understand the characteristics, sources, and purposes of social insurance funds."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Insurance",
+      "Social Welfare"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Social Welfare",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

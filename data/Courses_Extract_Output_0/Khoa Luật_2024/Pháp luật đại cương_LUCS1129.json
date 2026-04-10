@@ -1,0 +1,45 @@
+{
+  "course_id": "Law Department",
+  "title": "Basics of State and Law",
+  "difficulty_level": "Intermediate",
+  "duration": "Full Semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Political Science",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding the nature and functions of state."
+    },
+    {
+      "skill_name": "Legal Studies",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehending the essence and mechanisms of law."
+    },
+    {
+      "skill_name": "Jurisprudence",
+      "category": "Hard Skill",
+      "outcome_description": "Identifying forms of law and their global and local applications."
+    },
+    {
+      "skill_name": "Administrative Law",
+      "category": "Hard Skill",
+      "outcome_description": "Basic understanding of administrative law and legal procedures."
+    },
+    {
+      "skill_name": "Civil Law",
+      "category": "Hard Skill",
+      "outcome_description": "Fundamental knowledge of civil law and legal procedures."
+    },
+    {
+      "skill_name": "Criminal Law",
+      "category": "Hard Skill",
+      "outcome_description": "Basic understanding of criminal law and legal procedures."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

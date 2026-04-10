@@ -1,0 +1,97 @@
+{
+  "course_id": "MTKT1168",
+  "title": "Quản lý đa dạng sinh học",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Biodiversity Conservation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the importance and value of biodiversity, threats to biodiversity, and conservation strategies."
+    },
+    {
+      "skill_name": "Biodiversity Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand management models and tools for sustainable use of biodiversity resources."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge to solve practical issues related to biodiversity management at national and local levels."
+    },
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in research, analysis, and discussion on biodiversity management."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in teams to address practical management issues."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate biodiversity management policies and practices."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and recommendations in written and oral formats."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and present group projects on biodiversity conservation and management."
+    },
+    {
+      "skill_name": "Legal Framework",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal frameworks related to biodiversity conservation and management."
+    },
+    {
+      "skill_name": "Economic Tools",
+      "category": "Soft Skill",
+      "outcome_description": "Apply economic tools for sustainable biodiversity management."
+    },
+    {
+      "skill_name": "Community-Based Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply community-based management approaches for biodiversity conservation."
+    },
+    {
+      "skill_name": "Sustainable Development",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate biodiversity conservation with sustainable development policies."
+    },
+    {
+      "skill_name": "Environmental Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and evaluate environmental plans for biodiversity conservation."
+    },
+    {
+      "skill_name": "Monitoring and Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct monitoring and evaluation of biodiversity conservation efforts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Cơ sở khoa học môi trường",
+      "Quản lý Tài nguyên và Môi trường"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Environmental Science",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Resource Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

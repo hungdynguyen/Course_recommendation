@@ -1,0 +1,53 @@
+{
+  "course_id": "TMKT1140",
+  "title": "Management of Logistics Enterprise",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the roles and responsibilities of managers in a logistics enterprise"
+    },
+    {
+      "skill_name": "Strategic Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply strategic management concepts in logistics enterprises"
+    },
+    {
+      "skill_name": "Marketing Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply marketing management concepts in logistics enterprises"
+    },
+    {
+      "skill_name": "Operational Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply operational management concepts in logistics enterprises"
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply human resource management concepts in logistics enterprises"
+    },
+    {
+      "skill_name": "Business Proposal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write and present business proposals"
+    },
+    {
+      "skill_name": "Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply business management knowledge to logistics enterprises"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Logistics Management",
+      "Logistics Business"
+    ],
+    "minimum_entry_skills": []
+  }
+}

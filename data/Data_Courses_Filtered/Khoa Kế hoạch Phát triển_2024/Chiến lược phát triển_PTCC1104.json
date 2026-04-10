@@ -1,0 +1,61 @@
+{
+  "course_id": "PTCC1104",
+  "title": "Development Strategy",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Development Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Students can present the contents of strategic development and apply them appropriately to each organization."
+    },
+    {
+      "skill_name": "Understanding Strategic Development Characteristics",
+      "category": "Hard Skill",
+      "outcome_description": "Students can explain the essence and connotations of each strategic development document."
+    },
+    {
+      "skill_name": "Strategic Development Process Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Students can present the process, model, and tools for building strategic development for each type of organization."
+    },
+    {
+      "skill_name": "Analyzing and Planning Strategic Models",
+      "category": "Hard Skill",
+      "outcome_description": "Students can explain, select, and use models and tools in analyzing and planning strategic development."
+    },
+    {
+      "skill_name": "Contextual Analysis for Strategic Development",
+      "category": "Hard Skill",
+      "outcome_description": "Students can assess the strategic context and propose strategic options and conditions for implementing strategies for each organization, industry, region, and locality."
+    },
+    {
+      "skill_name": "Organizing Strategic Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Students have the skills to establish, organize, and implement strategic development."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students practice group work skills."
+    },
+    {
+      "skill_name": "Critical Thinking and Independent Opinion",
+      "category": "Soft Skill",
+      "outcome_description": "Students have critical thinking and independent opinions."
+    },
+    {
+      "skill_name": "Professional Ethics and Social Responsibility Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Students have awareness of professional ethics and social responsibility; cultivate self-study and research habits to accumulate knowledge."
+    },
+    {
+      "skill_name": "Professional Attitude and Compliance with Regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Students know their responsibilities; have a professional attitude, respect, and strictly adhere to regulations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

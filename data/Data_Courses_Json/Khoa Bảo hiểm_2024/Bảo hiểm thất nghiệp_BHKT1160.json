@@ -1,0 +1,76 @@
+{
+  "course_id": "BHKT1160",
+  "title": "Unemployment Insurance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Unemployment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze unemployment issues in a market economy and understand the role of unemployment insurance."
+    },
+    {
+      "skill_name": "Labor Law",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of labor laws to support unemployed workers and understand the necessity of unemployment insurance in Vietnam."
+    },
+    {
+      "skill_name": "Insurance Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the legal framework of unemployment insurance in Vietnam."
+    },
+    {
+      "skill_name": "Comparative Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Compare unemployment insurance systems in different countries and derive lessons for Vietnam."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and implement policies related to unemployment insurance."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and solve unemployment-related problems systematically."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and write reports on unemployment insurance policies and practices."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and research results effectively."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and discussions."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and participate in seminars."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Law",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

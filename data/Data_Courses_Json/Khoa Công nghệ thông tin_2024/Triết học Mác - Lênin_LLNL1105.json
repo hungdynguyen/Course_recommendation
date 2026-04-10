@@ -1,0 +1,50 @@
+{
+  "course_id": "LLNL1105",
+  "title": "Philosophy of Marxism and Leninism",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Philosophy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts and worldviews of Marxist-Leninist philosophy, including dialectical materialism and historical materialism."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop logical and scientific thinking skills, as well as the ability to analyze, compare, synthesize, and systematize scientific issues."
+    },
+    {
+      "skill_name": "Social Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret economic, political, and social issues using Marxist-Leninist theory."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to analyze and discuss philosophical issues."
+    },
+    {
+      "skill_name": "Global Citizenship",
+      "category": "Soft Skill",
+      "outcome_description": "Act responsibly as a global citizen, applying Marxist-Leninist principles to real-world scenarios."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and present findings in written form."
+    },
+    {
+      "skill_name": "Theory Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical knowledge to practical situations and policy analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "course_id": "LLNL1105",
+  "title": "Philosophy of Marxism and Leninism",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Philosophical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts of Marxist-Leninist philosophy and its role in social life and modern reforms."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop logical, scientific thinking and analytical skills to understand complex social issues."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Promote global citizenship and responsible social action."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to analyze and solve philosophical and social issues."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent and group research, and present findings effectively."
+    },
+    {
+      "skill_name": "Marxist Philosophy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the core concepts of dialectical materialism and historical materialism."
+    },
+    {
+      "skill_name": "Materialism",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the concept of matter, its forms of existence, and the relationship between matter and consciousness."
+    },
+    {
+      "skill_name": "Dialectics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles and laws of dialectical materialism."
+    },
+    {
+      "skill_name": "Theory of Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the theory of knowledge in dialectical materialism and the role of practice in cognition."
+    },
+    {
+      "skill_name": "Social Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the theory of social forms and the role of class struggle in social development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Political Theory"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Political Theory",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

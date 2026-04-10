@@ -1,0 +1,78 @@
+{
+  "course_id": "TNKT 1144",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend economic theories and management principles related to agricultural business."
+    },
+    {
+      "skill_name": "Problem Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate theoretical and practical issues in agricultural business."
+    },
+    {
+      "skill_name": "Theoretical-Practical Connection",
+      "category": "Hard Skill",
+      "outcome_description": "Link theoretical concepts with practical situations in agricultural business."
+    },
+    {
+      "skill_name": "Solution Proposals",
+      "category": "Hard Skill",
+      "outcome_description": "Propose solutions for development issues in agricultural business."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate initiative in learning, research, and teamwork."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Select and apply appropriate research methods and techniques."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and process data effectively for research purposes."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve problems in agricultural business."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports on research findings and proposals."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and defend the thesis."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Economic Knowledge",
+      "Management Principles",
+      "Agricultural Business Fundamentals"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Agricultural Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Research Methods",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

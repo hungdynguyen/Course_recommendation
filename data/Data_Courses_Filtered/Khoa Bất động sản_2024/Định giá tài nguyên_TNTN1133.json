@@ -1,0 +1,50 @@
+{
+  "course_id": "TNTN1133",
+  "title": "Natural Resources Valuation",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Value Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the economic value and components of natural resources, the necessity of valuing these resources, and the role of the appraiser."
+    },
+    {
+      "skill_name": "Valuation Process Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Explain, construct, and select appropriate valuation processes for natural resources."
+    },
+    {
+      "skill_name": "Application of Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to determine the value of specific types of natural resources and products/services."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to legal regulations regarding resource valuation."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and propose solutions to issues encountered during valuation processes."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to choose topics and solve problems."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate initiative in learning, research, and group work."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

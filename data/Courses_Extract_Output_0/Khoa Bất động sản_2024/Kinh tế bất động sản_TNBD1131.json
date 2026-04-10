@@ -1,0 +1,37 @@
+{
+  "course_id": "TNBD1131",
+  "title": "Real estate Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Principles",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic economic principles related to real estate."
+    },
+    {
+      "skill_name": "Real Estate Markets",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze relationships between real estate markets and financial systems."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate real estate policies and their impact on the economy."
+    },
+    {
+      "skill_name": "Theoretical Models",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical models to explain real estate market mechanisms."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Market Real Estate"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "course_id": "PTCC1126",
+  "title": "Social-Economic Forecasting 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Collection",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to collect relevant economic and social data for forecasting."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using statistical software such as EViews, Stata, and SPSS for modeling and analysis."
+    },
+    {
+      "skill_name": "Forecasting Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and application of various forecasting techniques including trend extrapolation, exponential smoothing, seasonal models, ARIMA, factor regression models, and input-output balance models."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to use forecasted data to inform optimal decision-making in strategic planning, policy formulation, and project management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1",
+      "Macroeconomic Theory 1",
+      "Quantitative Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

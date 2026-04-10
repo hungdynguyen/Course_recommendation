@@ -1,0 +1,52 @@
+{
+  "course_id": "MKMA1105",
+  "title": "Principles of Marketing",
+  "difficulty_level": "Beginner",
+  "duration": "45 in-class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic marketing concepts and principles."
+    },
+    {
+      "skill_name": "Consumer Behavior",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze consumer behavior and its impact on marketing strategies."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct market research and gather relevant data."
+    },
+    {
+      "skill_name": "Segmentation",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and segment target markets effectively."
+    },
+    {
+      "skill_name": "Positioning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective positioning strategies for products/services."
+    },
+    {
+      "skill_name": "Marketing Mix",
+      "category": "Soft Skill",
+      "outcome_description": "Apply the 4Ps (Product, Price, Place, Promotion) framework in marketing."
+    },
+    {
+      "skill_name": "English for Marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Read and understand marketing materials in English."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Micro Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

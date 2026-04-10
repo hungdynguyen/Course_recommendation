@@ -1,0 +1,71 @@
+{
+  "course_id": "LUKD 1112",
+  "title": "International Trade Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and applying general theoretical issues of international trade law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand, analyze and apply general theoretical issues of international trade law such as subjects, sources of law, principles and institutions participating in international trade activities."
+    },
+    {
+      "skill_name": "Analyzing and applying international trade law on goods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand, analyze and apply legal regulations on international trade in goods."
+    },
+    {
+      "skill_name": "Analyzing and applying international trade law on services",
+      "category": "Hard Skill",
+      "outcome_description": "Understand, analyze and apply legal regulations on international trade in services."
+    },
+    {
+      "skill_name": "Analyzing and applying intellectual property law in international trade",
+      "category": "Hard Skill",
+      "outcome_description": "Understand, analyze and apply legal regulations on intellectual property in international trade."
+    },
+    {
+      "skill_name": "Analyzing and applying legal regulations on international trade contracts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand, analyze and apply legal regulations on international trade contracts such as sales contracts, transportation contracts, marine insurance contracts, and international payment laws."
+    },
+    {
+      "skill_name": "Analyzing and applying dispute resolution mechanisms in international trade",
+      "category": "Hard Skill",
+      "outcome_description": "Understand, analyze and apply mechanisms for resolving disputes in international trade."
+    },
+    {
+      "skill_name": "Group work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills effectively."
+    },
+    {
+      "skill_name": "Communication and presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication and presentation skills effectively."
+    },
+    {
+      "skill_name": "Computer usage skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply computer usage skills effectively."
+    },
+    {
+      "skill_name": "Information analysis and synthesis skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply information analysis and synthesis skills effectively."
+    },
+    {
+      "skill_name": "Legal problem-solving skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply legal problem-solving skills effectively."
+    },
+    {
+      "skill_name": "Self-study and knowledge accumulation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Form the ability to independently study, accumulate and enhance knowledge."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

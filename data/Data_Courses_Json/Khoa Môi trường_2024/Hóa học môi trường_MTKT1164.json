@@ -1,0 +1,55 @@
+{
+  "course_id": "MTKT 1164",
+  "title": "Environmental Chemistry",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Science",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply fundamental concepts of environmental chemistry, pollution, and environmental degradation."
+    },
+    {
+      "skill_name": "Chemistry",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret chemical components and processes in air, water, and soil environments."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and work collaboratively in teams to solve environmental chemistry problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop logical reasoning and analytical skills to address environmental issues."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and solutions in both written and oral formats."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently study and apply new knowledge in environmental chemistry."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and take leadership roles in environmental projects."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply scientific principles to solve real-world environmental problems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

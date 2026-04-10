@@ -1,0 +1,57 @@
+{
+  "course_id": "MTDT1115",
+  "title": "Urban Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Economic Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain urban economic principles and theories."
+    },
+    {
+      "skill_name": "Urban Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply urban economic theories to analyze real-world city activities."
+    },
+    {
+      "skill_name": "Problem Solving in Urban Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Use urban economic theories to propose specific solutions."
+    },
+    {
+      "skill_name": "Information Retrieval",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to find, read, and synthesize scientific information from various sources."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effective teamwork skills demonstrated through group project evaluations."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity for independent learning and experience accumulation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to solve problems in urban economics."
+    },
+    {
+      "skill_name": "Decision-Making Behavior",
+      "category": "Hard Skill",
+      "outcome_description": "Study decision-making behavior regarding location choices by households and businesses."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1 (KHMI1101)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

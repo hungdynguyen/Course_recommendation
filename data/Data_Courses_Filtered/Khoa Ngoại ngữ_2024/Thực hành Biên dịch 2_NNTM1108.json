@@ -1,0 +1,72 @@
+{
+  "course_id": "NNTM1108",
+  "title": "Translation 2",
+  "difficulty_level": "Advanced",
+  "duration": "10 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding sentence structure",
+      "category": "Hard Skill",
+      "outcome_description": "Identify components and forms of phrases"
+    },
+    {
+      "skill_name": "Analyzing sentence structure",
+      "category": "Hard Skill",
+      "outcome_description": "Find main and subordinate clauses, determine relationships between clauses"
+    },
+    {
+      "skill_name": "Determining text presentation and organization",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the function of the text, build relationships between paragraphs"
+    },
+    {
+      "skill_name": "Economic Business Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge on economics, business management, marketing, human resource management, financial management, accounting, trade and international economics, investment"
+    },
+    {
+      "skill_name": "Recognizing and understanding specialized terms",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and understand specialized terms in the original language"
+    },
+    {
+      "skill_name": "Finding and understanding equivalent specialized terms",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and understand equivalent specialized terms in the target language"
+    },
+    {
+      "skill_name": "Comparing terms in the original language with equivalent expressions in the target language",
+      "category": "Hard Skill",
+      "outcome_description": "Compare terms in the original language with equivalent expressions in the target language"
+    },
+    {
+      "skill_name": "Self-study techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of memorization and practice in various contexts and texts"
+    },
+    {
+      "skill_name": "Technique application and improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize, apply, and enhance awareness of techniques for handling different phrase, sentence, and text structures"
+    },
+    {
+      "skill_name": "Building a personal translation dictionary",
+      "category": "Soft Skill",
+      "outcome_description": "Create a personal translation dictionary including terms, analysis techniques, and difficulties to be addressed in the future"
+    },
+    {
+      "skill_name": "Responsibility towards work products",
+      "category": "Soft Skill",
+      "outcome_description": "Be responsible for the quality of translations, ensuring accuracy and completeness"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Translation 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

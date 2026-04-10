@@ -1,0 +1,55 @@
+{
+  "course_id": "CNTT1198",
+  "title": "Cloud Service Security",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cloud Architecture Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts related to cloud computing architecture."
+    },
+    {
+      "skill_name": "Cloud Security Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design secure architectures for cloud computing systems."
+    },
+    {
+      "skill_name": "Infrastructure Isolation",
+      "category": "Hard Skill",
+      "outcome_description": "Isolate physical and logical infrastructure for security purposes."
+    },
+    {
+      "skill_name": "Data Protection",
+      "category": "Hard Skill",
+      "outcome_description": "Implement comprehensive data protection strategies across all OSI layers."
+    },
+    {
+      "skill_name": "Access Control",
+      "category": "Hard Skill",
+      "outcome_description": "Manage access control mechanisms for cloud-based services."
+    },
+    {
+      "skill_name": "Monitoring and Auditing",
+      "category": "Hard Skill",
+      "outcome_description": "Set up monitoring, auditing, and management processes for cloud services."
+    },
+    {
+      "skill_name": "Identity Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement identity management solutions within cloud environments."
+    },
+    {
+      "skill_name": "Compliance Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with industry standards and regulations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

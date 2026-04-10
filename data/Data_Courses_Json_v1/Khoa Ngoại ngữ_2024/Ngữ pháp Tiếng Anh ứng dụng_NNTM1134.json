@@ -1,0 +1,75 @@
+{
+  "course_id": "NNTM1134",
+  "title": "Applied English Grammar",
+  "difficulty_level": "Beginner",
+  "duration": "30 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Grammar",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of English grammar, including syntax, semantics, and morphology."
+    },
+    {
+      "skill_name": "Language Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze language structures in various contexts and explain linguistic phenomena."
+    },
+    {
+      "skill_name": "Language Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply grammar knowledge effectively in listening, speaking, reading, and writing."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to interpret linguistic phenomena."
+    },
+    {
+      "skill_name": "Academic Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Use academic communication skills in research and presentations."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and communicate ideas clearly."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop habits of self-study and continuous learning."
+    },
+    {
+      "skill_name": "Multimedia Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Use multimedia tools for communication and presentation."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Listening and Speaking English 3",
+      "Reading and Writing English 3"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "English Listening",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "English Speaking",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "English Reading",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "English Writing",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

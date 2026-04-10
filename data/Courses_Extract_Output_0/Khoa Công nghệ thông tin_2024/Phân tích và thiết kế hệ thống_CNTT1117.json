@@ -1,0 +1,54 @@
+{
+  "course_id": "CNTT1117",
+  "title": "System Analysis and Design",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "System Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze systems and their components."
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to apply design thinking principles in system development."
+    },
+    {
+      "skill_name": "UML Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Unified Modeling Language (UML) for system modeling."
+    },
+    {
+      "skill_name": "Software Development",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of software development processes and methodologies."
+    },
+    {
+      "skill_name": "Object-Oriented Design",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of object-oriented design principles and practices."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work effectively in teams on system design projects."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Skills in managing projects related to system analysis and design."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT1116)",
+      "Programming Basics (CNTT1128)",
+      "Database Fundamentals (TIKT1130)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

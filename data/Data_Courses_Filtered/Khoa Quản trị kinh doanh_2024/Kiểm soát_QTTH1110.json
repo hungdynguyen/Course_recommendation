@@ -1,0 +1,41 @@
+{
+  "course_id": "QTTH1110",
+  "title": "Controlling",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and recognizing basic knowledge about controlling",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand and recognize the necessary basic knowledge about controlling, internal control, operational control, and strategic control."
+    },
+    {
+      "skill_name": "Setting up control systems and control centers in enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand, recognize, and apply setting up control systems and control centers in enterprises."
+    },
+    {
+      "skill_name": "Strategic control of business operations",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand, recognize, and apply strategic control of business operations."
+    },
+    {
+      "skill_name": "Independent work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students have independent work skills, discipline, teamwork skills, communication skills, and leadership skills."
+    },
+    {
+      "skill_name": "Self-study and continuous learning",
+      "category": "Soft Skill",
+      "outcome_description": "Students have the ability to independently study, accumulate, and improve their professional knowledge, adapt to different working environments, and be autonomous in their work."
+    },
+    {
+      "skill_name": "Analyzing phenomena and identifying problems related to control",
+      "category": "Hard Skill",
+      "outcome_description": "Students can integrate knowledge and skills to analyze phenomena, identify problems related to control, determine the causes of problems in specific organizations/businesses, and solve practical issues flexibly with leadership and management skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

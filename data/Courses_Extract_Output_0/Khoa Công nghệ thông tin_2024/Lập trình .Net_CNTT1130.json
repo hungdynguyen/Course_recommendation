@@ -1,0 +1,50 @@
+{
+  "course_id": "QĐ/ĐHKTQD",
+  "title": "Course Description",
+  "difficulty_level": "Advanced",
+  "duration": "Not specified",
+  "skill_outcomes": [
+    {
+      "skill_name": "Programming Languages",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and proficiency in .Net programming language."
+    },
+    {
+      "skill_name": "ADO.Net",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in ADO.Net programming techniques."
+    },
+    {
+      "skill_name": "Database Interaction",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to work with databases and generate reports."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to solve management problems in economics and engineering using programming."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to independently learn and apply Dot Net programming methods."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Skill to collaborate in group settings for problem-solving."
+    },
+    {
+      "skill_name": "Application Development",
+      "category": "Hard Skill",
+      "outcome_description": "Capability to develop practical applications that interact with databases."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

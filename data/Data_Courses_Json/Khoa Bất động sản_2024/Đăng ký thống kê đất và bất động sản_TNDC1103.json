@@ -1,0 +1,70 @@
+{
+  "course_id": "TNDC1103",
+  "title": "Land & Real Estate Registration and Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land and Real Estate Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the legal framework for land and real estate registration and statistics."
+    },
+    {
+      "skill_name": "Land and Real Estate Registration",
+      "category": "Soft Skill",
+      "outcome_description": "Master the process and procedures for initial and change registration of land and real estate."
+    },
+    {
+      "skill_name": "Land and Real Estate Statistics",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret land and real estate statistical data."
+    },
+    {
+      "skill_name": "Property Documentation",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and analyze property documentation and land records."
+    },
+    {
+      "skill_name": "Property Rights and Certificates",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain property rights and certificates."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and gather relevant data."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve problems related to land and real estate registration and statistics."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and project outcomes."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Land and Real Estate",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

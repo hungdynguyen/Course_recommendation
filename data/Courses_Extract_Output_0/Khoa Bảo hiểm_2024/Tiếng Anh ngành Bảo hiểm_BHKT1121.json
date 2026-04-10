@@ -1,0 +1,48 @@
+{
+  "course_id": "BHKT1121",
+  "title": "English for Insurance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Terminology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and use basic insurance terminology in English."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks using insurance principles."
+    },
+    {
+      "skill_name": "Insurance Law",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend legal aspects of insurance including commercial and social insurance laws."
+    },
+    {
+      "skill_name": "Insurance Contracts",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and understand the structure of insurance contracts."
+    },
+    {
+      "skill_name": "Insurance Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Describe operations within an insurance company and distinguish between life and non-life insurance."
+    },
+    {
+      "skill_name": "Social Insurance Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the various systems and regulations of social insurance."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 1",
+      "Insurance Business Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

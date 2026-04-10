@@ -1,0 +1,72 @@
+{
+  "course_id": "KHMI1102",
+  "title": "Microeconomics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply advanced microeconomic theories and models to analyze economic behavior and policies."
+    },
+    {
+      "skill_name": "Quantitative Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Use quantitative methods to analyze consumer and producer behavior, market structures, and economic policies."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze decision-making under risk and uncertainty, and understand risk attitudes and mitigation strategies."
+    },
+    {
+      "skill_name": "Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical tools to economic models and problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze complex economic issues and policies."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and work in groups to solve economic problems and present findings."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate economic concepts and research findings effectively through writing and presentations."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in teams to solve economic problems and present solutions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and research skills to enhance knowledge in advanced microeconomic topics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1 (KHMI1101)",
+      "Macroeconomics 1 (KHMA1101)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Mathematics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

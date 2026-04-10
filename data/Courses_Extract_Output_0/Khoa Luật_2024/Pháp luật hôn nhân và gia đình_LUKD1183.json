@@ -1,0 +1,48 @@
+{
+  "course_id": "LUKD1183",
+  "title": "Law on Marriage and Family",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct legal research on marriage and family laws."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal principles and regulations related to marriage and family."
+    },
+    {
+      "skill_name": "Family Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply Vietnamese marriage and family laws."
+    },
+    {
+      "skill_name": "Marriage Law",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend and interpret marriage laws and regulations."
+    },
+    {
+      "skill_name": "Family Relations",
+      "category": "Hard Skill",
+      "outcome_description": "Examine legal relationships within families."
+    },
+    {
+      "skill_name": "International Family Law",
+      "category": "Hard Skill",
+      "outcome_description": "Study international aspects of marriage and family law."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Civil Law 1",
+      "Civil Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

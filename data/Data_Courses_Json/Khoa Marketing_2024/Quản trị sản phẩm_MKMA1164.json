@@ -1,0 +1,72 @@
+{
+  "course_id": "MKMA1164",
+  "title": "Product Management",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Product Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and content of product management, from product portfolio management to product lifecycle management and new product development."
+    },
+    {
+      "skill_name": "Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the content, basis, and requirements for managing product quality, new product development, and product lifecycle management."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and present new product plans in group projects, practicing teamwork, presentation, and professional communication skills."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply marketing knowledge to solve problems in product management, integrating economic and business management knowledge."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to product quality, packaging, and brand management."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and execute projects related to product development and lifecycle stages."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership in group projects, managing tasks and responsibilities effectively."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and defend new product plans and marketing strategies."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze data related to product development and market trends."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions in product management, considering various factors and market conditions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Marketing Basics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Marketing Basics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

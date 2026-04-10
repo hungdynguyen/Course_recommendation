@@ -1,0 +1,57 @@
+{
+  "course_id": "KTHT 1102",
+  "title": "Accounting Information Systems 2",
+  "difficulty_level": "Advanced",
+  "duration": "30 hours of lectures, 90 hours of self-study, 15 hours of discussion/practical sessions",
+  "skill_outcomes": [
+    {
+      "skill_name": "Internal Control and Accounting Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Describe basic activities and related objects in business processes for organizing and performing accounting work."
+    },
+    {
+      "skill_name": "Data and Document Flow Organization",
+      "category": "Hard Skill",
+      "outcome_description": "Organize basic data and document flows in business processes to provide information for decision-making."
+    },
+    {
+      "skill_name": "Basic Activities and Data Flow Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and organize basic activities and data flows in business processes based on analysis and evaluation of business activities."
+    },
+    {
+      "skill_name": "Risk Identification and Control Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Identify risks and appropriate control activities for basic operations in accounting information systems."
+    },
+    {
+      "skill_name": "Basic IT Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop basic IT skills for learning, research, and practical application in accounting information systems."
+    },
+    {
+      "skill_name": "Critical Thinking and Policy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Build critical thinking skills to evaluate the application of policies and analyze risks in accounting information systems."
+    },
+    {
+      "skill_name": "System Thinking and Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Practice system thinking skills in organizing appropriate accounting information systems for business processes."
+    },
+    {
+      "skill_name": "Project Planning and Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Organize planning, coordination, management of resources, assessment, and improvement of operational efficiency."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Accounting Information Systems 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

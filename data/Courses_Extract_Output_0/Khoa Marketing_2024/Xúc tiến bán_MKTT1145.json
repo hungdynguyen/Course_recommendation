@@ -1,0 +1,35 @@
+{
+  "course_id": "Marketing Promotion",
+  "title": "Xúc tiến bán",
+  "difficulty_level": "Intermediate",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature, role, and functions of sales promotion."
+    },
+    {
+      "skill_name": "Sales Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop a sales promotion plan including planning, organizing, and evaluating processes."
+    },
+    {
+      "skill_name": "Promotion Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize various tools and techniques for consumer and intermediary marketing promotions."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend legal requirements and regulations related to sales promotion activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

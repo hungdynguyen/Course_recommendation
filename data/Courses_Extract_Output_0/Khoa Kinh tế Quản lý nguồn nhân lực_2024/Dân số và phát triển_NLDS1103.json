@@ -1,0 +1,35 @@
+{
+  "course_id": "NLDS1103",
+  "title": "Population and Development",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Demographics Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze demographic trends and their impact on economic, social, and environmental factors."
+    },
+    {
+      "skill_name": "Population Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Forecast future population sizes and trends using statistical methods."
+    },
+    {
+      "skill_name": "Policy Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective population policies based on demographic analysis."
+    },
+    {
+      "skill_name": "Economic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Plan economic development considering demographic changes and societal needs."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

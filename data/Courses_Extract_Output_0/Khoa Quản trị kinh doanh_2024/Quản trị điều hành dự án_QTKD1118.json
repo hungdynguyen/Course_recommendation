@@ -1,0 +1,62 @@
+{
+  "course_id": "Management and Project Administration",
+  "title": "Quản trị Điều hành Dự án",
+  "difficulty_level": "Advanced",
+  "duration": "Full Semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design processes for project execution."
+    },
+    {
+      "skill_name": "Partner Selection",
+      "category": "Soft Skill",
+      "outcome_description": "Select appropriate partners for project execution."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Control project execution time effectively."
+    },
+    {
+      "skill_name": "Cost Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage project costs efficiently."
+    },
+    {
+      "skill_name": "Quality Assurance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure and monitor project quality."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage risks and changes in projects."
+    },
+    {
+      "skill_name": "Project Coordination",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and operate project coordination offices."
+    },
+    {
+      "skill_name": "IT Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply information technology in project management."
+    },
+    {
+      "skill_name": "Project Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Organize acceptance and settlement of project execution."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Management Principles"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "course_id": "TIKT1122",
+  "title": "Business Intelligence",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret large datasets to support business intelligence."
+    },
+    {
+      "skill_name": "Data Visualization",
+      "category": "Soft Skill",
+      "outcome_description": "Create visual representations of data to aid in business decision-making."
+    },
+    {
+      "skill_name": "Database Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and integrate data from various sources into a cohesive database system."
+    },
+    {
+      "skill_name": "Business Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement business strategies based on data-driven insights."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and manage projects related to business intelligence and data analytics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and solve complex business problems using data-driven approaches."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to achieve business intelligence goals."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate data insights and business intelligence findings."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make ethical decisions in the context of business intelligence and data management."
+    },
+    {
+      "skill_name": "Technical Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize software tools such as Power BI, Excel, SQL Server for data analysis and visualization."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Computer Science",
+      "Database Fundamentals"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Understanding of Databases",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

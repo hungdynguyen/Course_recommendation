@@ -1,0 +1,30 @@
+{
+  "course_id": "Not specified",
+  "title": "Kiến trúc doanh nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "Not specified",
+  "skill_outcomes": [
+    {
+      "skill_name": "Enterprise Architecture",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of enterprise architecture."
+    },
+    {
+      "skill_name": "TOGAF",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and discuss phases of TOGAF-based enterprise architecture development process."
+    },
+    {
+      "skill_name": "ArchiMate",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize ArchiMate modeling tool for enterprise architecture."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

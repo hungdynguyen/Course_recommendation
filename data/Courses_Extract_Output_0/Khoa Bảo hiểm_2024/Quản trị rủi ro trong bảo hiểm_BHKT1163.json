@@ -1,0 +1,43 @@
+{
+  "course_id": "BHKT1163",
+  "title": "Risk Management in Insurance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Identification",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to identify and analyze risks in insurance business."
+    },
+    {
+      "skill_name": "Risk Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to assess potential losses and evaluate risks using various criteria and methods."
+    },
+    {
+      "skill_name": "Risk Management Strategies",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding of risk management strategies including control and financing mechanisms."
+    },
+    {
+      "skill_name": "Insurance Business Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of how risk management applies to insurance company operations."
+    },
+    {
+      "skill_name": "International Risk Management Standards",
+      "category": "Soft Skill",
+      "outcome_description": "Familiarity with international standards and frameworks for risk management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 1",
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

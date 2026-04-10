@@ -1,0 +1,87 @@
+{
+  "course_id": "LUKD1108",
+  "title": "Labor Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the general theories and fundamental principles of labor law."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Apply legal research methods to analyze labor law issues."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret labor law regulations and their applications."
+    },
+    {
+      "skill_name": "Legal Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in legal contexts, including presenting and debating legal issues."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to solve legal problems."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning and research skills in legal studies."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to evaluate legal arguments and solutions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve practical legal problems using theoretical knowledge."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write legal documents and reports effectively."
+    },
+    {
+      "skill_name": "Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate labor disputes and collective agreements."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve labor disputes and conflicts effectively."
+    },
+    {
+      "skill_name": "Public Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver effective presentations on legal topics."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to meet legal research and presentation deadlines."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

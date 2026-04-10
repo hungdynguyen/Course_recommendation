@@ -1,0 +1,37 @@
+{
+  "course_id": "NNKC 1132",
+  "title": "English 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Understand main ideas and take notes on key details."
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Discuss a wide range of topics using simple and some complex sentence structures."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Understand main ideas and find specific information within context."
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Construct simple and complex sentences, develop ideas with appropriate transitions, and write in various styles such as discussions, opinions, causes and effects, problems and solutions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "English 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

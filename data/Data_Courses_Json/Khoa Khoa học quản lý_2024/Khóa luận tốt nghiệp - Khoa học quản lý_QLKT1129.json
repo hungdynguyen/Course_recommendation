@@ -1,0 +1,149 @@
+{
+  "course_id": "QLKT1129",
+  "title": "Khóa luận tốt nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply management knowledge to solve practical problems in real-world settings."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and propose solutions for economic and social policies."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and develop research proposals."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings and engage in discussions."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve complex problems using critical thinking skills."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership and responsibility in managing projects."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to professional ethics and social responsibility."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, process, and analyze data for research purposes."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and complete research projects independently."
+    },
+    {
+      "skill_name": "Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver effective presentations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement solutions to practical problems."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to meet project deadlines."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and manage group dynamics."
+    },
+    {
+      "skill_name": "Documentation",
+      "category": "Soft Skill",
+      "outcome_description": "Produce well-structured and formatted research documents."
+    },
+    {
+      "skill_name": "Professional Conduct",
+      "category": "Soft Skill",
+      "outcome_description": "Maintain professional behavior and conduct during internships."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "All required courses in the major"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Management",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Research Methodology",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Data Analysis",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Communication",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Leadership",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Ethics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Project Management",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Presentation",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Problem Solving",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Time Management",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Collaboration",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Documentation",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Professional Conduct",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

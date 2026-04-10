@@ -1,0 +1,73 @@
+{
+  "course_id": "NLQT1119",
+  "title": "Compensation Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Compensation Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the concepts and structure of compensation, requirements of compensation systems, and the impact of compensation on other human resource management activities."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the factors influencing compensation, including external environment, organizational factors, job-related factors, and individual factors."
+    },
+    {
+      "skill_name": "Compensation System Design",
+      "category": "Hard Skill",
+      "outcome_description": "Apply criteria for selecting when building a compensation system."
+    },
+    {
+      "skill_name": "Compensation Practices",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the concepts related to each activity of compensation management, know how to build a compensation system, manage the salary fund, and distribute salaries to employees."
+    },
+    {
+      "skill_name": "Financial Incentives",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the concepts and roles of financial incentives, types of financial incentives, and programs for individual, team, and company-wide incentives."
+    },
+    {
+      "skill_name": "Employee Benefits",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the concepts and purposes of employee benefits, types of benefits, principles of building benefit programs, and the process of managing benefit programs."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Identify differences and relationships between compensation management activities, analyze and evaluate activities and practices of compensation management."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Discuss and propose solutions to compensation management issues in organizations."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups, present and discuss group work."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate through writing and speaking, prepare reports and presentations."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently and conduct research."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Human Resource Management",
+      "Labor Quota Organization and Management 1, 2"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "course_id": "QLKT1123",
+  "title": "Functional Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizational Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the fundamental concepts, theories, and philosophies of managing organizational functions."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to collect information, analyze, and make decisions to solve problems related to managing organizational functions."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Practice soft skills such as teamwork, communication, negotiation, planning, and organization."
+    },
+    {
+      "skill_name": "Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Present and defend personal viewpoints based on an objective and systematic approach."
+    },
+    {
+      "skill_name": "Ethical Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand social context, management environment, professional ethics, and social responsibility."
+    },
+    {
+      "skill_name": "Marketing Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and position of marketing management in an organization."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and position of financial management in an organization."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and position of human resource management in an organization."
+    },
+    {
+      "skill_name": "Production Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and position of production management in an organization."
+    },
+    {
+      "skill_name": "Research and Development Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and position of research and development management in an organization."
+    },
+    {
+      "skill_name": "Quality Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and position of quality management in an organization."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Management Knowledge",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

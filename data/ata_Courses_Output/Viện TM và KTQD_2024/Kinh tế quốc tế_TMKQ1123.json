@@ -1,0 +1,71 @@
+{
+  "course_id": "TMKQ1123",
+  "title": "International Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Theory Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the objectives, significance, research methods, types of data, and ways to collect data for international economic research."
+    },
+    {
+      "skill_name": "Objective and Significance Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize the objective and significance of international economic research."
+    },
+    {
+      "skill_name": "Research Methodology Familiarity",
+      "category": "Hard Skill",
+      "outcome_description": "Familiar with the research methods of international economics."
+    },
+    {
+      "skill_name": "Data Collection Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the techniques for collecting data for international economic research."
+    },
+    {
+      "skill_name": "Understanding Economic Trends",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the objective trends, laws, and impacts of international relations."
+    },
+    {
+      "skill_name": "Theoretical Model Formation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basis for forming theoretical models of international trade and investment and their significance in international economic activities."
+    },
+    {
+      "skill_name": "Impact Analysis of International Relations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basis for forming, developing, and impacting international economic relations."
+    },
+    {
+      "skill_name": "Application of Theoretical Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge to analyze international economic relations and tools of international trade policy."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to work independently and in groups to solve requirements in study and work assignments."
+    },
+    {
+      "skill_name": "Social Context Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the social context, corporate social responsibility, and ethical awareness."
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-study, understand materials to complete assigned lessons and assignments, have a sense of classroom discipline, follow classroom rules, and have a spirit of cooperation and personal responsibility for activities assigned by the instructor."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize the social context, professional ethics, and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

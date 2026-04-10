@@ -1,0 +1,68 @@
+{
+  "course_id": "TMKT1136",
+  "title": "E-Logistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of e-logistics",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the fundamental concepts of e-logistics and its infrastructure."
+    },
+    {
+      "skill_name": "Evaluating e-logistics strategies in e-commerce",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to assess e-logistics strategies within the context of e-commerce."
+    },
+    {
+      "skill_name": "Explaining operational and control activities of e-logistics in e-commerce",
+      "category": "Hard Skill",
+      "outcome_description": "Students will explain the operational and control activities of e-logistics in e-commerce."
+    },
+    {
+      "skill_name": "Practicing e-logistics operations",
+      "category": "Hard Skill",
+      "outcome_description": "Students will practice handling orders, distribution, customer relationship management, purchasing, electronic contracts, and electronic payments through digital means."
+    },
+    {
+      "skill_name": "Resolving customer relationship management and warehouse management issues through digital means",
+      "category": "Hard Skill",
+      "outcome_description": "Students will resolve issues related to customer relationship management and warehouse management using digital tools."
+    },
+    {
+      "skill_name": "Building feasible solutions and implementing e-logistics activities at enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Students will develop practical solutions and implement e-logistics activities at enterprises."
+    },
+    {
+      "skill_name": "Analyzing and evaluating information and data to solve e-logistics problems",
+      "category": "Hard Skill",
+      "outcome_description": "Students will analyze and evaluate information and data to address e-logistics challenges faced by businesses."
+    },
+    {
+      "skill_name": "Practicing communication, negotiation, and contract signing skills through digital means",
+      "category": "Hard Skill",
+      "outcome_description": "Students will practice their communication, negotiation, and contract signing skills using digital platforms."
+    },
+    {
+      "skill_name": "Demonstrating independence and personal responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Students will demonstrate self-reliance when working independently and show personal and group responsibility."
+    },
+    {
+      "skill_name": "Expressing and defending personal views based on objective and scientific approaches",
+      "category": "Soft Skill",
+      "outcome_description": "Students will express and defend their personal views based on objective and scientific methods."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "E-commerce",
+      "Business Logistics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "course_id": "LUCS1127",
+  "title": "Law on Criminal procedures",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze criminal procedure laws scientifically."
+    },
+    {
+      "skill_name": "Legal Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Understand Vietnamese criminal procedure laws."
+    },
+    {
+      "skill_name": "Case Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage legal cases through different stages of criminal proceedings."
+    },
+    {
+      "skill_name": "Evidence Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Handle evidence and proof in criminal proceedings."
+    },
+    {
+      "skill_name": "Legal Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply criminal procedure laws to real-world scenarios."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS1104",
+      "LUCS1105",
+      "LUCS1114",
+      "LUCS1115"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "course_id": "CNTT1107",
+  "title": "Operating Systems",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Operating Systems Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and history of operating systems."
+    },
+    {
+      "skill_name": "Process Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage processes and threads, including synchronization and communication techniques."
+    },
+    {
+      "skill_name": "Memory Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement memory management techniques, including virtual memory."
+    },
+    {
+      "skill_name": "File System Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement file system structures."
+    },
+    {
+      "skill_name": "Device Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage peripheral devices and storage systems."
+    },
+    {
+      "skill_name": "Concurrency Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop concurrent programming thinking for modern software."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance group collaboration skills through project work."
+    },
+    {
+      "skill_name": "Data Security",
+      "category": "Hard Skill",
+      "outcome_description": "Apply security measures to protect operating systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

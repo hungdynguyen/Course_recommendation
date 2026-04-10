@@ -1,0 +1,49 @@
+{
+  "course_id": "KTTC1121",
+  "title": "Internship in Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Apply accounting knowledge to analyze and evaluate the strengths and weaknesses in the accounting and analysis activities of an organization."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate the strengths and weaknesses in the accounting and analysis activities of an organization."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective written communication skills in professional contexts."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in teams effectively and professionally, showing high adaptability."
+    },
+    {
+      "skill_name": "Professional Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate personal responsibility and accountability towards team work."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal viewpoints based on objective and scientific approaches."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 2",
+      "Financial Statement Analysis",
+      "Government Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

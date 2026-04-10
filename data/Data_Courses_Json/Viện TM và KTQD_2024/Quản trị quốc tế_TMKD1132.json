@@ -1,0 +1,67 @@
+{
+  "course_id": "TMKD1132",
+  "title": "International Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cross-Cultural Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze cultural differences in international business environments and develop strategies to manage them."
+    },
+    {
+      "skill_name": "International Business Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and apply strategies for international business management."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions in international management scenarios."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply leadership theories in multicultural settings."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate and negotiate in multicultural environments."
+    },
+    {
+      "skill_name": "Ethical and Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical and social responsibility principles in international business."
+    },
+    {
+      "skill_name": "Organizational Culture",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and manage organizational culture in multinational companies."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage international human resources and develop training programs."
+    },
+    {
+      "skill_name": "Globalization",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the impact of globalization on international management."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and adapt to multicultural environments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "International Business 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

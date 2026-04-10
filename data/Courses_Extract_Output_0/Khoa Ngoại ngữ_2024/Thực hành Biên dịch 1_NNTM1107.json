@@ -1,0 +1,31 @@
+{
+  "course_id": "NNTM1107",
+  "title": "Translation 1",
+  "difficulty_level": "Beginner",
+  "duration": "50 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Translation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop basic translation skills including reading, analyzing, understanding, and finding equivalent phrases."
+    },
+    {
+      "skill_name": "Language Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Students will improve their proficiency in both English and Vietnamese languages through practical translation exercises."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn how to gather and utilize information from various sources to enhance their translation work."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Students will apply critical thinking to analyze and interpret texts accurately during translation."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

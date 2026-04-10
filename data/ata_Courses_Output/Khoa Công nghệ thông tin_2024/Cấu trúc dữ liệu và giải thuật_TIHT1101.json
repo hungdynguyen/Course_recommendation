@@ -1,0 +1,107 @@
+{
+  "course_id": "TIHT1101",
+  "title": "Data Structures and Algorithms",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Structure Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain basic concepts of data structures and algorithms."
+    },
+    {
+      "skill_name": "Algorithm Performance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the performance of algorithms."
+    },
+    {
+      "skill_name": "Algorithm Representation Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand methods for representing algorithms."
+    },
+    {
+      "skill_name": "Algorithm Design Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand techniques for designing algorithms."
+    },
+    {
+      "skill_name": "Application Techniques in Algorithm Design",
+      "category": "Hard Skill",
+      "outcome_description": "Apply techniques in algorithm design."
+    },
+    {
+      "skill_name": "Array Data Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand array data structures and apply algorithms to process array data."
+    },
+    {
+      "skill_name": "Stack Data Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand stack data structures and apply algorithms to process stack data."
+    },
+    {
+      "skill_name": "Queue Data Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand queue data structures and apply algorithms to process queue data."
+    },
+    {
+      "skill_name": "Linked List Data Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand linked list data structures and apply algorithms to process linked list data."
+    },
+    {
+      "skill_name": "Tree Data Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand tree data structures and apply algorithms to process tree data."
+    },
+    {
+      "skill_name": "Graph Data Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand graph data structures and apply algorithms to process graph data."
+    },
+    {
+      "skill_name": "Sorting Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Understand sorting algorithms and apply them to sort data."
+    },
+    {
+      "skill_name": "Search Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Understand search algorithms and apply them to search data."
+    },
+    {
+      "skill_name": "External Processing Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand external processing concepts and evaluate external processing algorithms."
+    },
+    {
+      "skill_name": "Algorithm Design and Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess skills to design and present algorithms, write reports on analyzing and presenting algorithms on data structures."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess skills to independently learn about data structures and algorithms."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess skills to work independently or actively participate in group activities."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Possess social responsibility and professional ethics in the field of information management systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Computer Programming"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

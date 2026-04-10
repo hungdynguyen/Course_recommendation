@@ -1,0 +1,67 @@
+{
+  "course_id": "QLKT1120",
+  "title": "Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Plan Classification",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate various types of plans within an organization"
+    },
+    {
+      "skill_name": "Plan Development Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the process of developing plans within an organization"
+    },
+    {
+      "skill_name": "Economic-Social Development Planning Types",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between strategic planning, master planning, five-year plans, and annual plans for economic-social development"
+    },
+    {
+      "skill_name": "Economic-Social Development Planning Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the process of developing economic-social development plans at national, local, and sectoral levels"
+    },
+    {
+      "skill_name": "Analysis of Factors Influencing Economic-Social Development Plans",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze factors affecting national and local economic-social development plans"
+    },
+    {
+      "skill_name": "Strategic Thinking Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in strategic thinking, planning, and economic-social development"
+    },
+    {
+      "skill_name": "Strategic Planning Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in strategic planning and economic-social development"
+    },
+    {
+      "skill_name": "Independent Work Capability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent work capability and responsibility"
+    },
+    {
+      "skill_name": "Social Responsibility Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Develop awareness of social responsibility and professional ethics"
+    },
+    {
+      "skill_name": "Continuous Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop continuous learning ability"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

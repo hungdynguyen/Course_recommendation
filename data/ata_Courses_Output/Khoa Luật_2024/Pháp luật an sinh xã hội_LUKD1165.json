@@ -1,0 +1,57 @@
+{
+  "course_id": "LUKD 1165",
+  "title": "Law on Social Security",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Security Law Theoretical Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the general theoretical issues of social security law: concepts, characteristics of social security and social security law; objects regulated, methods of regulation, sources of law and principles of social security law; social security legal relations; History of formation and development of Vietnamese social security law."
+    },
+    {
+      "skill_name": "Social Security Law Practical Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic contents of social security law: Social Insurance, Unemployment Insurance, Health Insurance, Social Benefits, Social Assistance; Resolving social security disputes."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills effectively."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication skills effectively."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply presentation skills effectively."
+    },
+    {
+      "skill_name": "Legal Situation Resolution Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Apply skills to resolve legal situations related to social security effectively."
+    },
+    {
+      "skill_name": "Self-Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study skills to accumulate and enhance knowledge and experience in social security law."
+    },
+    {
+      "skill_name": "Active Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in presenting research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

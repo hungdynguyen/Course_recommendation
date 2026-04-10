@@ -1,0 +1,61 @@
+{
+  "course_id": "NLQT1116",
+  "title": "Labour Organization and Standardization 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Labour Organization",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of labour organization in organizations."
+    },
+    {
+      "skill_name": "Standardization",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of standardization in organizations."
+    },
+    {
+      "skill_name": "Labour Standards",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of labour standards in organizations."
+    },
+    {
+      "skill_name": "Labour Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of labour measurement in organizations."
+    },
+    {
+      "skill_name": "Labour Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of labour management in organizations."
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate various activities related to labour organization and standardization."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to problems related to labour organization and standardization."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and discuss topics related to labour organization and standardization."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously learn and improve knowledge on labour organization and standardization."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

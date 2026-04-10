@@ -1,0 +1,43 @@
+{
+  "course_id": "DTKT 1119",
+  "title": "Economics for Investment Decision Makers",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Microeconomics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic microeconomic principles and their application to investment decisions."
+    },
+    {
+      "skill_name": "Macroeconomics",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend macroeconomic concepts and how they influence investment behavior."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic factors affecting investment decisions."
+    },
+    {
+      "skill_name": "Behavioral Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of behavioral economics to understand investor behavior."
+    },
+    {
+      "skill_name": "International Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the basics of international economics and its impact on global investment flows."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

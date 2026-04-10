@@ -1,0 +1,52 @@
+{
+  "course_id": "KTKE1109",
+  "title": "Public Accounting 1",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply accounting principles and practices in public sector organizations."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze financial statements and assess the financial health of public sector organizations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and critique accounting policies and practices in public sector organizations."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively in the context of public sector accounting."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Manage resources and improve the efficiency of public sector operations."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate accounting concepts and findings in an international context."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Apply professional ethics and responsibilities in public accounting."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting (KTKE1101)"
+    ],
+    "minimum_entry_skills": []
+  }
+}

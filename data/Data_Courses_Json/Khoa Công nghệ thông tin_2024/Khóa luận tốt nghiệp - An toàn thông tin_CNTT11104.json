@@ -1,0 +1,52 @@
+{
+  "course_id": "CNTT11104",
+  "title": "Khóa luận tốt nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Security Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to analyze, evaluate, and ensure the security and confidentiality of information systems."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time and resources effectively, adapt to changes, and communicate effectively in both written and oral forms."
+    },
+    {
+      "skill_name": "System Design and Development",
+      "category": "Hard Skill",
+      "outcome_description": "Design, develop, operate, and manage information systems to solve specific problems."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and work under pressure."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in a team, organize group activities, and evaluate team members' performance."
+    },
+    {
+      "skill_name": "Legal and Ethical Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to laws and regulations, and maintain social responsibility and professional ethics in the field of Information Security."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Accumulated 75% of credits in the curriculum"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Information Security Knowledge",
+        "minimum_proficiency_level": 4
+      }
+    ]
+  }
+}

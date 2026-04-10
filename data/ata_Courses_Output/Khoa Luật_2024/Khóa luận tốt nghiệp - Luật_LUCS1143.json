@@ -1,0 +1,93 @@
+{
+  "course_id": "LUCS1143",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Issue Selection",
+      "category": "Hard Skill",
+      "outcome_description": "Select a legal issue directly related to the internship unit's activities."
+    },
+    {
+      "skill_name": "Comprehensive Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Gain a comprehensive understanding of the internship unit's operations and the application of laws."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply research methodologies to analyze legal issues and propose solutions."
+    },
+    {
+      "skill_name": "Critical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Critically analyze legal issues and their applications in real-world scenarios."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings through written reports and presentations."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills and the ability to self-study and accumulate specialized knowledge."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to legal problems with ethical considerations."
+    },
+    {
+      "skill_name": "Adherence to Rules",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to rules and regulations of the organization and understand responsibilities."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Smoothly operate in a team environment."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively and logically solve problems."
+    },
+    {
+      "skill_name": "Ethical Conduct",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional ethics as a lawyer."
+    },
+    {
+      "skill_name": "Document Review",
+      "category": "Hard Skill",
+      "outcome_description": "Review and analyze legal documents for accuracy and relevance."
+    },
+    {
+      "skill_name": "Legal Application Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the application of laws in practical settings."
+    },
+    {
+      "skill_name": "Logical Argumentation",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate logical arguments and present them effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Legal Knowledge",
+      "Required Core Courses"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "course_id": "PTCC 1127",
+  "title": "Socio – Economic Development Forecasting 2",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Forecasting",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate past and current developments in socio-economic forecasting."
+    },
+    {
+      "skill_name": "Quantitative Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply quantitative methods to forecast socio-economic trends."
+    },
+    {
+      "skill_name": "Qualitative Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct qualitative analysis to predict future trends in socio-economic forecasting."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical and econometric software to estimate models and perform forecasts."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply forecasting results in policy management and planning."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings, presenting and discussing professional content."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a habit of self-study and continuous learning in socio-economic forecasting."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand professional ethics and social responsibility in socio-economic forecasting."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Socio – Economic Development Forecasting 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economic Forecasting",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

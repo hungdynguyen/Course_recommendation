@@ -1,0 +1,66 @@
+{
+  "course_id": "NNTV1114",
+  "title": "Foundation of Vietnamese Language",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Vietnamese Origin Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Recall information about the origin of Vietnamese and its characteristics."
+    },
+    {
+      "skill_name": "Vietnamese Sound System Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the sound system of Vietnamese."
+    },
+    {
+      "skill_name": "Vietnamese Vocabulary Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze Vietnamese vocabulary and its meanings."
+    },
+    {
+      "skill_name": "Vietnamese Grammar Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of Vietnamese grammar."
+    },
+    {
+      "skill_name": "Vietnamese Text Structure Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the structure of Vietnamese texts and paragraphs."
+    },
+    {
+      "skill_name": "Comparative Linguistics",
+      "category": "Hard Skill",
+      "outcome_description": "Compare Vietnamese with English."
+    },
+    {
+      "skill_name": "Information Gathering Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Collect and analyze information related to Vietnamese language."
+    },
+    {
+      "skill_name": "Collaborative Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups on Vietnamese language projects."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and research on Vietnamese language effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think critically about Vietnamese language issues."
+    },
+    {
+      "skill_name": "Respect for Native Language",
+      "category": "Soft Skill",
+      "outcome_description": "Show respect and appreciation for the Vietnamese language."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

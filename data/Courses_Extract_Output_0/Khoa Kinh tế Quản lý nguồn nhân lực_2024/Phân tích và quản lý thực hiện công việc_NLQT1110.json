@@ -1,0 +1,57 @@
+{
+  "course_id": "NLQT 1110",
+  "title": "Job Analysis and Performance Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Job Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply job analysis techniques to define roles and responsibilities."
+    },
+    {
+      "skill_name": "Performance Management",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and implement performance management systems to enhance employee performance."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate job analysis and performance management with other HR functions such as recruitment, training, and compensation."
+    },
+    {
+      "skill_name": "Strategic Alignment",
+      "category": "Soft Skill",
+      "outcome_description": "Align job analysis and performance management practices with organizational strategic goals."
+    },
+    {
+      "skill_name": "Evaluation Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Design and utilize evaluation systems including KPIs to measure performance against strategic objectives."
+    },
+    {
+      "skill_name": "Work Description",
+      "category": "Hard Skill",
+      "outcome_description": "Create comprehensive job descriptions, performance requirements, and standards."
+    },
+    {
+      "skill_name": "Competency Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and evaluate competencies necessary for effective job performance."
+    },
+    {
+      "skill_name": "Personal Development Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Facilitate personal development planning to improve individual performance outcomes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Human Resource Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "course_id": "QLCN1106",
+  "title": "Creativity and Innovation Management",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the essence of innovation and creativity",
+      "category": "Hard Skill",
+      "outcome_description": "Students will have basic knowledge about the nature of innovation and creativity, the environment for creativity and the culture of innovation, the role of individuals and relationships in innovation and creativity, and the ability to apply this knowledge to analyze, evaluate, and explain innovation and creativity activities at micro and macro levels."
+    },
+    {
+      "skill_name": "Identifying creative individuals, creative processes, and creative group activities",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to identify creative individuals, creative processes, and creative group activities."
+    },
+    {
+      "skill_name": "Analyzing the stages of innovation implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the various forms of organizational innovation and the role of creativity and innovation in the fourth industrial revolution."
+    },
+    {
+      "skill_name": "Explaining and analyzing innovation environments at micro and macro levels",
+      "category": "Hard Skill",
+      "outcome_description": "Students will have a comprehensive understanding of the concepts and elements that constitute an innovative and creative environment and will be able to apply this knowledge to explain, analyze, and evaluate innovation environments at micro and macro levels."
+    },
+    {
+      "skill_name": "Understanding individual attitudes towards innovation and creativity in organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the roles and mindsets of individuals regarding innovation and creativity in organizations and will be able to apply this knowledge to explain, analyze, and evaluate social issues related to innovation and creativity at micro levels."
+    },
+    {
+      "skill_name": "Applying methods of approaching innovation, stages of innovation, and innovation models in organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the various methods of approaching innovation, the stages of innovation, and innovation models in organizations and will be able to apply this knowledge to explain, analyze, and evaluate innovation models at micro levels."
+    },
+    {
+      "skill_name": "Risk management in the innovation process",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand risk management in the innovation process and will be able to identify and evaluate risks at the organizational level."
+    },
+    {
+      "skill_name": "Intellectual property rights",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand intellectual property rights, infringement of intellectual property rights, and will be able to apply this knowledge to explain, analyze, and evaluate issues, causes, and consequences of intellectual property right infringements."
+    },
+    {
+      "skill_name": "Implementing solutions to enforce intellectual property rights globally",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the solutions to implement intellectual property rights enforcement in countries around the world."
+    },
+    {
+      "skill_name": "Analyzing and evaluating innovation and creativity activities at micro and macro levels",
+      "category": "Hard Skill",
+      "outcome_description": "Students will have the ability to analyze and evaluate innovation and creativity activities at micro and macro levels."
+    },
+    {
+      "skill_name": "Encouraging and motivating individuals to innovate within organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Students will have the ability to use methods to encourage and motivate individuals to innovate within organizations and create an innovation culture."
+    },
+    {
+      "skill_name": "Improving innovation capabilities and effectiveness in organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Students will have the ability to improve innovation capabilities and effectiveness in organizations."
+    },
+    {
+      "skill_name": "Selecting approaches to innovation, using innovation tools and techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Students will have the ability to select approaches to innovation, use innovation tools and techniques, and manage risks during the innovation process in organizations."
+    },
+    {
+      "skill_name": "Effective presentation, teamwork, and team management skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will have the ability to effectively present, work in teams, and manage teams."
+    },
+    {
+      "skill_name": "Independent execution of innovation management tasks",
+      "category": "Soft Skill",
+      "outcome_description": "Students will have the ability to independently execute tasks related to innovation management."
+    },
+    {
+      "skill_name": "Self-improvement and continuous learning",
+      "category": "Soft Skill",
+      "outcome_description": "Students will have the ability to self-improve and continuously learn."
+    },
+    {
+      "skill_name": "Creative and innovative mindset",
+      "category": "Soft Skill",
+      "outcome_description": "Students will have a creative and innovative mindset and will be ready and quick to adapt to changes."
+    },
+    {
+      "skill_name": "Professional ethics and social responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Students will have professional ethics and social responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

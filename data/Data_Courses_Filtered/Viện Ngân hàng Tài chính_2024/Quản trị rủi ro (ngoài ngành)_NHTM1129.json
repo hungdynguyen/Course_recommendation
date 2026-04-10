@@ -1,0 +1,48 @@
+{
+  "course_id": "NHTM1129",
+  "title": "Risk Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial System Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the financial system, various types of risks, and consequences of these risks."
+    },
+    {
+      "skill_name": "Risk Interaction Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the interplay between different types of risks."
+    },
+    {
+      "skill_name": "Risk Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify major risks faced by businesses and financial institutions."
+    },
+    {
+      "skill_name": "Risk Measurement Models",
+      "category": "Hard Skill",
+      "outcome_description": "Select appropriate risk measurement tools for specific types of risks."
+    },
+    {
+      "skill_name": "Risk Management Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Develop models and strategies for risk management."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice group work skills, group discussions, classroom debates, report writing, and presenting research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Theory",
+      "Financial Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

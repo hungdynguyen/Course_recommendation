@@ -1,0 +1,51 @@
+{
+  "course_id": "QTTH1102",
+  "title": "Business Management 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of business and business environment."
+    },
+    {
+      "skill_name": "Management Basics",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp fundamental knowledge of business management and its applications."
+    },
+    {
+      "skill_name": "Analytical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop analytical skills to evaluate business performance."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve business problems."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills for effective business interactions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Mathematics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

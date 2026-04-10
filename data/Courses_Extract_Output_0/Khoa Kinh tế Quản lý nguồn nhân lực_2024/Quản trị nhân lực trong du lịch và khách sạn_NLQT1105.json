@@ -1,0 +1,55 @@
+{
+  "course_id": "NLQT1105",
+  "title": "Human Resources Management in the Hospitality Industry",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "HR Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept, role, importance, and functions of human resource management within the context of the hospitality industry."
+    },
+    {
+      "skill_name": "Work Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze job roles and responsibilities within the hospitality sector."
+    },
+    {
+      "skill_name": "Recruitment",
+      "category": "Soft Skill",
+      "outcome_description": "Implement effective recruitment strategies for the hospitality industry."
+    },
+    {
+      "skill_name": "Performance Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate employee performance using appropriate metrics and methods."
+    },
+    {
+      "skill_name": "Training Development",
+      "category": "Soft Skill",
+      "outcome_description": "Design and implement training programs to enhance workforce capabilities."
+    },
+    {
+      "skill_name": "Compensation Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage compensation packages to motivate employees effectively."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to address human resource challenges."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and deliver presentations on human resource topics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

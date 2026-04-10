@@ -1,0 +1,83 @@
+{
+  "course_id": "BHKT1155",
+  "title": "Đầu tư trong bảo hiểm",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature of investment activities in insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the necessity and role of investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Grasping the principles of investment activities in insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles and factors affecting investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Analyzing the role of investment activities in insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Apply foundational knowledge to analyze and evaluate the role of investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Understanding legal constraints on investment activities in insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal regulations governing investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Identifying sources of capital and investment forms in insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Identify sources of capital and various investment forms in insurance companies."
+    },
+    {
+      "skill_name": "Building investment strategies for insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Develop investment strategies for insurance companies."
+    },
+    {
+      "skill_name": "Organizing and implementing investment activities in insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Organize and implement investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Evaluating the effectiveness of investment activities in insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the effectiveness of investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Managing state governance over investment activities in insurance companies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply management practices related to state governance over investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Teamwork and collaborative problem-solving",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork and collaborative problem-solving skills."
+    },
+    {
+      "skill_name": "Independent work and creative thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work and creative thinking skills."
+    },
+    {
+      "skill_name": "Critical thinking and analytical reasoning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate critical thinking and analytical reasoning skills."
+    },
+    {
+      "skill_name": "Self-management and responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-management and responsibility skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 1",
+      "Insurance Business Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

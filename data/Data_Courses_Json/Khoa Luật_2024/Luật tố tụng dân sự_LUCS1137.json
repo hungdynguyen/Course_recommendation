@@ -1,0 +1,65 @@
+{
+  "course_id": "LUCS1137",
+  "title": "Law on civil procedures",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Civil law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the principles of civil law procedures."
+    },
+    {
+      "skill_name": "Legal analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal issues and apply legal principles to specific cases."
+    },
+    {
+      "skill_name": "Legal research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent legal research and accumulate professional knowledge."
+    },
+    {
+      "skill_name": "Legal reasoning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop logical arguments and present them effectively."
+    },
+    {
+      "skill_name": "Civil litigation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply the procedures for civil litigation at various stages."
+    },
+    {
+      "skill_name": "Civil dispute resolution",
+      "category": "Hard Skill",
+      "outcome_description": "Resolve civil disputes through appropriate legal procedures."
+    },
+    {
+      "skill_name": "Court procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply court procedures at different levels of jurisdiction."
+    },
+    {
+      "skill_name": "Legal documentation",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare and manage legal documents for civil cases."
+    },
+    {
+      "skill_name": "Legal ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to legal and ethical standards in professional practice."
+    },
+    {
+      "skill_name": "Legal communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in legal settings, including oral and written communication."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

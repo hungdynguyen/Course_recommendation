@@ -1,0 +1,95 @@
+{
+  "course_id": "QTTH1129",
+  "title": "Business Management 1 (E)",
+  "difficulty_level": "Beginner",
+  "duration": "45 lecture hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp fundamental business and management concepts."
+    },
+    {
+      "skill_name": "Analyzing Business Factors",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate internal and external factors impacting business operations."
+    },
+    {
+      "skill_name": "Applying Management Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize management principles to optimize business operations."
+    },
+    {
+      "skill_name": "Developing Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance skills in decision-making, team leadership, and communication."
+    },
+    {
+      "skill_name": "Analytical Problem-Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply analytical methods to generate accurate reports for stakeholders."
+    },
+    {
+      "skill_name": "Autonomy and Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independence and accountability in managing work and adhering to laws and ethics."
+    },
+    {
+      "skill_name": "Environmental Awareness",
+      "category": "Hard Skill",
+      "outcome_description": "Understand environmental considerations in business decision-making."
+    },
+    {
+      "skill_name": "Independent Working Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently with discipline."
+    },
+    {
+      "skill_name": "Dynamic Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in diverse teams."
+    },
+    {
+      "skill_name": "Data Processing and Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Process and analyze data to solve business problems."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through group exercises and presentations."
+    },
+    {
+      "skill_name": "Writing Essays and Reports",
+      "category": "Soft Skill",
+      "outcome_description": "Write basic essays and reports on business and management topics."
+    },
+    {
+      "skill_name": "Preparing Insights from Business Data",
+      "category": "Hard Skill",
+      "outcome_description": "Generate insights from business data and report to stakeholders."
+    },
+    {
+      "skill_name": "Analyzing Findings for Stakeholders",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze findings to support stakeholder decision-making."
+    },
+    {
+      "skill_name": "Understanding Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize social responsibility and business ethics issues."
+    },
+    {
+      "skill_name": "Adapting to Changing Environments",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to the ever-changing work environment, globalization, and Industry 4.0."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

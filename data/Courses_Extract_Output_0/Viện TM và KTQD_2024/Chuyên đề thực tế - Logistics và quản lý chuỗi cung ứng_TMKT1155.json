@@ -1,0 +1,35 @@
+{
+  "course_id": "TMKT1155",
+  "title": "Project",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply fundamental theories of logistics and supply chain management to real-world problems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and solve practical problems within the context of logistics and supply chain management."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct independent research and present findings effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate complex issues related to logistics and supply chain management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

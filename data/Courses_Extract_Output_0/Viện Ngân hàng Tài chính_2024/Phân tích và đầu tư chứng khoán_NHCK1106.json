@@ -1,0 +1,42 @@
+{
+  "course_id": "Phân tích và Đầu tư chứng khoán",
+  "title": "Phân tích và Đầu tư chứng khoán",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze financial statements and market trends."
+    },
+    {
+      "skill_name": "Risk management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage investment risks."
+    },
+    {
+      "skill_name": "Portfolio management",
+      "category": "Soft Skill",
+      "outcome_description": "Construct and manage diversified investment portfolios."
+    },
+    {
+      "skill_name": "Market efficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply concepts of market efficiency."
+    },
+    {
+      "skill_name": "Investment strategies",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement effective investment strategies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Finance"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

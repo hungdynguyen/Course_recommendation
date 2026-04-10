@@ -1,0 +1,61 @@
+{
+  "course_id": "TKKT1130",
+  "title": "Demography and Labor Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Demographic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze demographic trends and patterns, including birth, death, marriage, and migration rates."
+    },
+    {
+      "skill_name": "Labor Statistics",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding of labor market statistics, including employment, unemployment, and wage data."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Proficiency in statistical methods for analyzing demographic and labor data."
+    },
+    {
+      "skill_name": "Economic Forecasting",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to forecast demographic and labor trends using statistical models."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Soft Skill",
+      "outcome_description": "Skills in collecting and selecting data for demographic and labor analysis."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using statistical software for data analysis and modeling."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to critically evaluate statistical models and economic policies."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Skills in solving problems related to demographic and labor issues."
+    },
+    {
+      "skill_name": "Economic Impact Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding of the economic impact of demographic and labor trends."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to evaluate policies based on demographic and labor data."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

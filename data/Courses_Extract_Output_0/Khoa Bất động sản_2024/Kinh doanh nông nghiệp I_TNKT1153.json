@@ -1,0 +1,67 @@
+{
+  "course_id": "TNKT1153",
+  "title": "Agribusiness I",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental business management principles in agriculture."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic plans for agricultural businesses."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply financial management techniques in agricultural contexts."
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Implement marketing strategies for agricultural products."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks in agricultural operations."
+    },
+    {
+      "skill_name": "Environmental Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze environmental factors affecting agricultural businesses."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Optimize supply chain processes in agricultural industries."
+    },
+    {
+      "skill_name": "Brand Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and develop brands in agricultural sectors."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to real-world agricultural challenges."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance communication skills through group discussions and presentations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics I"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

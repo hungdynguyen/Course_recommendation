@@ -1,0 +1,42 @@
+{
+  "course_id": "LUCS1140",
+  "title": "Legal doctrine of anti-corruption",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Corruption Prevention",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the fundamental concepts, causes, and consequences of corruption."
+    },
+    {
+      "skill_name": "Anti-Corruption Law",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the legal framework and international mechanisms for anti-corruption."
+    },
+    {
+      "skill_name": "International Anti-Corruption Standards",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze global anti-corruption practices and conventions such as UNCAC."
+    },
+    {
+      "skill_name": "Vietnamese Anti-Corruption Legislation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Vietnamese laws on corruption prevention and enforcement."
+    },
+    {
+      "skill_name": "Responsibility in Anti-Corruption Efforts",
+      "category": "Soft Skill",
+      "outcome_description": "Identify roles and responsibilities of various stakeholders in anti-corruption efforts."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Administrative Law"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

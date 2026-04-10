@@ -1,0 +1,47 @@
+{
+  "course_id": "Integrated Marketing Communication",
+  "title": "Integrated Marketing Communication",
+  "difficulty_level": "Intermediate",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze market conditions and set strategic goals."
+    },
+    {
+      "skill_name": "Budget Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage budgets for marketing communication activities."
+    },
+    {
+      "skill_name": "Communication Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement creative communication strategies."
+    },
+    {
+      "skill_name": "Media Selection",
+      "category": "Soft Skill",
+      "outcome_description": "Select appropriate media channels for marketing communication."
+    },
+    {
+      "skill_name": "Performance Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the effectiveness of integrated marketing communication activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Marketing"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Marketing Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

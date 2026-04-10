@@ -1,0 +1,47 @@
+{
+  "course_id": "TNKT 1110",
+  "title": "Natural Resources Taxes and Fees",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tax Policy Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze the role of natural resource taxes and fees within the national tax system."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the necessity and role of taxation tools in managing natural resources."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various tax and fee policies in natural resource management."
+    },
+    {
+      "skill_name": "Impact Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the impact and effectiveness of natural resource taxes and fees."
+    },
+    {
+      "skill_name": "Industrial Application",
+      "category": "Hard Skill",
+      "outcome_description": "Implement natural resource taxes and fees in industrial activities."
+    },
+    {
+      "skill_name": "Environmental Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and utilize environmental resources through taxation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Resource Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

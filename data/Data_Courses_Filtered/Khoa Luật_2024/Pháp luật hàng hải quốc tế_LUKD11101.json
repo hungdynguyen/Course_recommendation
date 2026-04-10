@@ -1,0 +1,56 @@
+{
+  "course_id": "LUKD11101",
+  "title": "Maritime Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic characteristics of International Maritime Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the fundamental concepts, features, and sources of International Maritime Law."
+    },
+    {
+      "skill_name": "Identifying legal issues related to international maritime transport contracts",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize legal issues associated with international maritime transport contracts."
+    },
+    {
+      "skill_name": "Analyzing legal implications and common risks in marine cargo insurance activities",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the legal implications and common risks involved in marine cargo insurance activities."
+    },
+    {
+      "skill_name": "Evaluating methods for resolving disputes in international maritime transport",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate methods for resolving disputes in international maritime transport."
+    },
+    {
+      "skill_name": "Applying knowledge through reading real cases, textbooks, and other relevant materials",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge through reading real cases, textbooks, and other relevant materials."
+    },
+    {
+      "skill_name": "Developing analytical and critical thinking skills through problem-solving exercises",
+      "category": "Soft Skill",
+      "outcome_description": "Develop analytical and critical thinking skills through problem-solving exercises."
+    },
+    {
+      "skill_name": "Working independently and conducting self-study to prepare presentations",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and conduct self-study to prepare presentations."
+    },
+    {
+      "skill_name": "Selecting and synthesizing appropriate resources for solving practical problems",
+      "category": "Soft Skill",
+      "outcome_description": "Select and synthesize appropriate resources for solving practical problems."
+    },
+    {
+      "skill_name": "Actively applying knowledge to identify and resolve legal disputes in maritime transport contracts",
+      "category": "Soft Skill",
+      "outcome_description": "Actively apply knowledge to identify and resolve legal disputes in maritime transport contracts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

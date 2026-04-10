@@ -1,0 +1,41 @@
+{
+  "course_id": "LUKD 1186",
+  "title": "Law on Environment",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Law Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts and principles of environmental law."
+    },
+    {
+      "skill_name": "Legal Framework Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the legal framework governing environmental protection."
+    },
+    {
+      "skill_name": "Regulatory Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Apply regulatory compliance standards for environmental protection."
+    },
+    {
+      "skill_name": "Dispute Resolution Mechanisms",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and apply appropriate mechanisms for resolving environmental disputes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS1128",
+      "LUCS 1127",
+      "LUCS 1114",
+      "LUCS 1112",
+      "LUCS 1138"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

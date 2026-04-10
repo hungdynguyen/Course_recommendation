@@ -1,0 +1,87 @@
+{
+  "course_id": "CNTT1145",
+  "title": "Virtualization Technologies",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Virtualization Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the basic concepts of virtualization, hypervisor, and virtual machines."
+    },
+    {
+      "skill_name": "Hypervisor Mechanisms",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the mechanisms by which hypervisors manage CPU, RAM, storage, and networking resources."
+    },
+    {
+      "skill_name": "Data Center Virtualization Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the operational mechanisms of data center virtualization architecture."
+    },
+    {
+      "skill_name": "Problem Solving Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to address specific issues within the field of virtualization technologies."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively with peers to solve specialized problems within a given timeframe."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently seek out, gather, and utilize relevant materials for learning."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and solve problems related to virtualization technologies."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and participate in class discussions."
+    },
+    {
+      "skill_name": "CPU Scheduling Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply CPU scheduling algorithms such as Round Robin and Credit."
+    },
+    {
+      "skill_name": "Memory Management Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Explain memory management techniques including TSP, ballooning, swap, and page compression."
+    },
+    {
+      "skill_name": "Network Virtualization Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the principles of network virtualization including internal and external networks."
+    },
+    {
+      "skill_name": "Storage Virtualization Mechanisms",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the mechanisms of storage virtualization including various types of storage solutions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "CNTT1110",
+      "CNTT1112"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Science Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Understanding of Operating Systems",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

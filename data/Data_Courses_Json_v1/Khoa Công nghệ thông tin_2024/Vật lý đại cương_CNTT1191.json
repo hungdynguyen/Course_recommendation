@@ -1,0 +1,45 @@
+{
+  "course_id": "CNTT1191",
+  "title": "General Physics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Physics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply concepts of electrostatics, magnetostatics, electromagnetic induction, and Maxwell's equations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems related to electric and magnetic fields, and their interactions with materials."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the impact of electric and magnetic fields on materials and their practical applications."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to solve problems and present findings."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate complex scientific concepts and problem solutions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently seek, gather, and analyze information."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

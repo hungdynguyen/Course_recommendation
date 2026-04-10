@@ -1,0 +1,46 @@
+{
+  "course_id": "QLXH1119",
+  "title": "Leadership",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Leadership Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the essence of leadership, differentiate between leadership and management, grasp the prerequisites for successful leadership, comprehend major approaches and theories of leadership."
+    },
+    {
+      "skill_name": "Ethical Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ethical and moral leadership qualities, understand the importance of integrity and accountability in leadership roles."
+    },
+    {
+      "skill_name": "Motivation Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Learn various methods to motivate team members, understand the principles of empowerment and delegation."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Master effective communication techniques, learn how to build feedback systems within teams."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Acquire skills to resolve conflicts, negotiate effectively, and provide constructive feedback."
+    },
+    {
+      "skill_name": "Team Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Gain experience in leading teams, understand the dynamics of group behavior and decision-making processes."
+    },
+    {
+      "skill_name": "Strategic Visioning",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to develop a strategic vision, lead organizational change and innovation, and foster a learning culture."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

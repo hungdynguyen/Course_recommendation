@@ -1,0 +1,63 @@
+{
+  "course_id": "KHMA1132",
+  "title": "Monetary Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Money Theory Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Students can explain money theories and their practical applications."
+    },
+    {
+      "skill_name": "Monetary Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze the impact of monetary policies on macroeconomic variables."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate monetary policy effectiveness."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct independent research and work in teams."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effective presentation and communication of research findings."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity for self-directed learning and continuous improvement."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborative work and responsibility in group activities."
+    },
+    {
+      "skill_name": "Argumentation",
+      "category": "Soft Skill",
+      "outcome_description": "Constructive argumentation and debate on monetary policy issues."
+    },
+    {
+      "skill_name": "Independent Study",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to independently study and research monetary economics topics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2",
+      "Macroeconomics 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

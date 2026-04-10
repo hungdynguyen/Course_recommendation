@@ -1,0 +1,123 @@
+{
+  "course_id": "MKTT1160",
+  "title": "Chuyên đề thực tế Quan hệ công chúng",
+  "difficulty_level": "Advanced",
+  "duration": "10 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of public relations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand fundamental concepts of public relations and decisions in businesses/organizations."
+    },
+    {
+      "skill_name": "Identifying environmental influences",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the impact of environment, research context, and management questions on the issue of interest."
+    },
+    {
+      "skill_name": "Analyzing the current state of research issues",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the current state of research issues from a public relations perspective."
+    },
+    {
+      "skill_name": "Proposing solutions to practical problems",
+      "category": "Hard Skill",
+      "outcome_description": "Propose solutions to practical problems from a public relations perspective."
+    },
+    {
+      "skill_name": "Applying critical thinking to real-world problems",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking at a simple level to real-world problems."
+    },
+    {
+      "skill_name": "Defining research questions",
+      "category": "Hard Skill",
+      "outcome_description": "Define research questions."
+    },
+    {
+      "skill_name": "Selecting appropriate research methods",
+      "category": "Hard Skill",
+      "outcome_description": "Select appropriate research methods."
+    },
+    {
+      "skill_name": "Developing a research plan",
+      "category": "Hard Skill",
+      "outcome_description": "Develop a research plan."
+    },
+    {
+      "skill_name": "Collecting secondary and primary data",
+      "category": "Hard Skill",
+      "outcome_description": "Collect secondary and primary data for research."
+    },
+    {
+      "skill_name": "Coding, entering, and analyzing data",
+      "category": "Hard Skill",
+      "outcome_description": "Code, enter, and analyze data."
+    },
+    {
+      "skill_name": "Writing a research report",
+      "category": "Hard Skill",
+      "outcome_description": "Write a research report."
+    },
+    {
+      "skill_name": "Structuring a clear layout",
+      "category": "Soft Skill",
+      "outcome_description": "Structure a clear layout with logical and tight organization."
+    },
+    {
+      "skill_name": "Developing critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking, have opinions, and develop ideas to form personal views."
+    },
+    {
+      "skill_name": "Formatting according to standards",
+      "category": "Soft Skill",
+      "outcome_description": "Format according to standards."
+    },
+    {
+      "skill_name": "Proper citation of references",
+      "category": "Soft Skill",
+      "outcome_description": "Properly cite references."
+    },
+    {
+      "skill_name": "Turnitin score below 20%",
+      "category": "Soft Skill",
+      "outcome_description": "Turnitin score below 20%."
+    },
+    {
+      "skill_name": "Correct spelling and grammar",
+      "category": "Soft Skill",
+      "outcome_description": "Correct spelling and grammar, clear meaning."
+    },
+    {
+      "skill_name": "Identifying problems",
+      "category": "Soft Skill",
+      "outcome_description": "Identify problems."
+    },
+    {
+      "skill_name": "Recognizing causes of research problems",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize causes of research problems."
+    },
+    {
+      "skill_name": "Applying knowledge and reasonable methods to solve problems",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge and reasonable methods to solve problems."
+    },
+    {
+      "skill_name": "Proposing reasonable solutions",
+      "category": "Soft Skill",
+      "outcome_description": "Propose reasonable solutions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Public Relations",
+      "Marketing Research"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

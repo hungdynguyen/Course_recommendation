@@ -1,0 +1,54 @@
+{
+  "course_id": "TNTN1133",
+  "title": "Natural Resources Valuation",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Natural Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the economic value and components of natural resources, the necessity of valuing natural resources, and the role of the valuer."
+    },
+    {
+      "skill_name": "Economic Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain, construct, and select valuation processes and methods for natural resources."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply valuation methods to specific natural resources and products/services."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and comply with legal regulations and ethical responsibilities in resource valuation."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve problems and present findings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze real-world valuation issues and propose solutions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

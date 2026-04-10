@@ -1,0 +1,42 @@
+{
+  "course_id": "MKBH1110",
+  "title": "Selling Skills",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Sales Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Understand sales qualities, thinking, methods, and necessary knowledge to create optimal value for customers."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop basic communication skills such as listening, questioning, presenting, handling situations, and closing sales."
+    },
+    {
+      "skill_name": "Customer Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze customer needs, psychology, and behavior to optimize sales outcomes."
+    },
+    {
+      "skill_name": "Sales Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the sales process, its goals, and tasks involved."
+    },
+    {
+      "skill_name": "Self-Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage personal activities and responsibilities effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

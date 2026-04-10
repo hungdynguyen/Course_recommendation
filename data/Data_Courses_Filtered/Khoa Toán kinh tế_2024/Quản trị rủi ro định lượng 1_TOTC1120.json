@@ -1,0 +1,54 @@
+{
+  "course_id": "TOTC1120",
+  "title": "Quantitative risk management 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Management Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze basic concepts of risk management according to the FRM approach."
+    },
+    {
+      "skill_name": "Risk Factor Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate risk factors and apply quantitative analysis in risk management."
+    },
+    {
+      "skill_name": "Valuation and Risk Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Use valuation and risk models in risk management."
+    },
+    {
+      "skill_name": "Quantitative Risk Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in quantitative risk analysis and application in risk management."
+    },
+    {
+      "skill_name": "Risk Modeling and Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in modeling and calculating risks."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning, organizational, and group work management skills."
+    },
+    {
+      "skill_name": "Personal Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal responsibility and accountability for the team."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Econometrics",
+      "Financial Economics",
+      "Financial Asset Pricing Model 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

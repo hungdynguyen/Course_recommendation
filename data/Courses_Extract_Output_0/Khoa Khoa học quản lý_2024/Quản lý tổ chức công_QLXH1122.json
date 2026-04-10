@@ -1,0 +1,46 @@
+{
+  "course_id": "Quan ly to chuc cong",
+  "title": "Quản lý tổ chức công",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizational Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of managing public organizations."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and make informed decisions in public organizational settings."
+    },
+    {
+      "skill_name": "Environmental Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct environmental analysis for public organizations."
+    },
+    {
+      "skill_name": "Public Sector Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply management theories and practices to public sector organizations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Public Administration"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Management Principles",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Public Administration Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

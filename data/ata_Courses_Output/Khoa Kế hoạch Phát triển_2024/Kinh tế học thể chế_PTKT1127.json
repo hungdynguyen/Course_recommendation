@@ -1,0 +1,69 @@
+{
+  "course_id": "PTKT1127",
+  "title": "Institutional Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Institutional Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the ideas and research content of Institutional Economics."
+    },
+    {
+      "skill_name": "Characteristics and Components of Institutional Environment",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the characteristics and components of the institutional environment."
+    },
+    {
+      "skill_name": "Theories of Institutions",
+      "category": "Hard Skill",
+      "outcome_description": "Students can present various theories of institutions."
+    },
+    {
+      "skill_name": "Transaction Costs, Property Rights, Social Capital, Corruption",
+      "category": "Hard Skill",
+      "outcome_description": "Students can explain concepts related to transaction costs, property rights, social capital, and corruption."
+    },
+    {
+      "skill_name": "Summarizing Institutional Theories",
+      "category": "Hard Skill",
+      "outcome_description": "Students can summarize institutional theories and their relevance to developing countries."
+    },
+    {
+      "skill_name": "Integrating Transaction Costs and Property Rights into Business Context",
+      "category": "Hard Skill",
+      "outcome_description": "Students can integrate transaction costs and property rights into the business context."
+    },
+    {
+      "skill_name": "Analyzing Transaction Costs and Social Capital",
+      "category": "Hard Skill",
+      "outcome_description": "Students can conduct detailed analysis on transaction costs and social capital."
+    },
+    {
+      "skill_name": "Applying Institutional Research in Vietnam and Other Developing Countries",
+      "category": "Hard Skill",
+      "outcome_description": "Students can apply institutional research in the context of Vietnam and other developing countries."
+    },
+    {
+      "skill_name": "Self-Learning and Reliable Data Selection",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop self-learning habits and select reliable data sources for research."
+    },
+    {
+      "skill_name": "Ethical Responsibility and Professional Conduct",
+      "category": "Soft Skill",
+      "outcome_description": "Students demonstrate ethical responsibility and professional conduct in presentations and research."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Economic Development"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

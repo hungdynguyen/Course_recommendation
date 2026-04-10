@@ -1,0 +1,50 @@
+{
+  "course_id": "LUCS1129",
+  "title": "Fundamentals of Law",
+  "difficulty_level": "Intermediate",
+  "duration": "45 hours of lectures, 105 hours of self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the origin and nature of the state",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the origin and nature of the state, including the socialist republic of Vietnam."
+    },
+    {
+      "skill_name": "Understanding the organizational principles and operations of the Vietnamese government apparatus",
+      "category": "Hard Skill",
+      "outcome_description": "Students will comprehend the organizational principles and operations of the Vietnamese government apparatus, including its structure and functions."
+    },
+    {
+      "skill_name": "Basic knowledge about laws and legal systems",
+      "category": "Hard Skill",
+      "outcome_description": "Students will gain basic knowledge about laws and legal systems, including legal norms and legal relationships."
+    },
+    {
+      "skill_name": "Identifying violations of law and their consequences",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to identify violations of law and understand the possible legal consequences for offenders."
+    },
+    {
+      "skill_name": "Applying knowledge to determine the authority of government agencies",
+      "category": "Hard Skill",
+      "outcome_description": "Students will apply their knowledge to determine the authority of government agencies in various activities such as drafting and enforcing laws."
+    },
+    {
+      "skill_name": "Group work skills to solve simple legal issues",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop group work skills to address simple legal issues in administrative, criminal, and civil fields."
+    },
+    {
+      "skill_name": "Compliance with rules and regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn to comply with rules and regulations of organizations and authorities and recognize their responsibilities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

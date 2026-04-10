@@ -1,0 +1,61 @@
+{
+  "course_id": "MKBH1108",
+  "title": "Quản trị kênh phân phối",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Channel Distribution Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basics of distribution channels, their activities, and the nature of channel management."
+    },
+    {
+      "skill_name": "Member Channel Activities Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the activities of channel members and control principles."
+    },
+    {
+      "skill_name": "Franchise Trade Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the characteristics of franchise trade and apply them in building and managing distribution channels."
+    },
+    {
+      "skill_name": "Distribution Channel Strategy Building",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content and process of building distribution channel strategies."
+    },
+    {
+      "skill_name": "Channel Relationships Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the relationships within the channel, its operation, and issues arising in the channel."
+    },
+    {
+      "skill_name": "Channel Management Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content, principles, and operation of channel management."
+    },
+    {
+      "skill_name": "Applying Marketing Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Apply marketing and distribution channel knowledge to illustrate or solve specific problems related to distribution channels."
+    },
+    {
+      "skill_name": "Proposing Strategies and Solutions",
+      "category": "Hard Skill",
+      "outcome_description": "Propose strategies, solutions, and plans for channel management."
+    },
+    {
+      "skill_name": "Communication Skills Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply general communication skills and marketing-specific skills in understanding and making decisions in channel management."
+    },
+    {
+      "skill_name": "Independent and Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply independent and group work skills in building and implementing decisions in channel management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

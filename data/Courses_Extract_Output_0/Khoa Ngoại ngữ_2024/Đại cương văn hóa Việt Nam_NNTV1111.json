@@ -1,0 +1,35 @@
+{
+  "course_id": "NNTV1111",
+  "title": "Vietnamese Culture Foundation",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cultural Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Gain fundamental knowledge about Vietnamese culture including its concepts, characteristics, functions, origins, and development stages."
+    },
+    {
+      "skill_name": "Interdisciplinary Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the relationship between culture and various aspects such as natural environment, social environment, and human cognition."
+    },
+    {
+      "skill_name": "Cross-cultural Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Learn about cultural exchanges and interactions between Vietnamese culture and other global cultures."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills by analyzing the components and regions of Vietnamese culture."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

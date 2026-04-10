@@ -1,0 +1,58 @@
+{
+  "course_id": "TNDC1145",
+  "title": "Land Finance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land Finance",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the concept of land finance, the basic differences between land taxes and other financial revenues from land, and various types of land prices in implementing land finance."
+    },
+    {
+      "skill_name": "Land Taxation",
+      "category": "Tool/Software",
+      "outcome_description": "Recognize the concepts, principles, and characteristics of land finance and land prices in implementing land finance."
+    },
+    {
+      "skill_name": "Financial Decision Making",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze and make decisions in tasks related to land finance and resolve issues arising in specific situations of the land finance implementation process."
+    },
+    {
+      "skill_name": "Financial Calculations",
+      "category": "Tool/Software",
+      "outcome_description": "Apply knowledge to collect and determine various types of land prices in the process of fulfilling land finance obligations; calculate financial obligations on land when implementing land transactions."
+    },
+    {
+      "skill_name": "Situation Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze real-world situations related to land finance."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Tool/Software",
+      "outcome_description": "Summarize and integrate research content and materials on land finance."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Tool/Software",
+      "outcome_description": "Actively participate in group work, choose issues, methods, tools, and research materials for land finance."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Tool/Software",
+      "outcome_description": "Actively present research topics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management 1",
+      "Economic and Social Research Methods"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "course_id": "LUKD 1165",
+  "title": "Law on Social Security",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand general theories about social security laws including concepts, characteristics, objects regulated, methods of regulation, sources of law, and principles."
+    },
+    {
+      "skill_name": "Historical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the historical development of Vietnamese social security laws."
+    },
+    {
+      "skill_name": "Regulatory Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend the current regulatory system of social security laws in Vietnam including social insurance, unemployment insurance, health insurance, social benefits, and social assistance."
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge to resolve disputes related to social security."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

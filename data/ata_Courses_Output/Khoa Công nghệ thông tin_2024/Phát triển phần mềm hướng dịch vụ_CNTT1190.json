@@ -1,0 +1,73 @@
+{
+  "course_id": "CNTT1190",
+  "title": "Service Oriented Software Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Service-Oriented Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply service-oriented architecture concepts."
+    },
+    {
+      "skill_name": "Web Services Technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various web services technologies including SOAP and RESTful."
+    },
+    {
+      "skill_name": "CORBA Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize CORBA techniques for service-oriented software development."
+    },
+    {
+      "skill_name": "DCOM Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize DCOM techniques for service-oriented software development."
+    },
+    {
+      "skill_name": "EJB Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize EJB techniques for service-oriented software development."
+    },
+    {
+      "skill_name": "SOAP Service Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop SOAP-based web services."
+    },
+    {
+      "skill_name": "RESTful Service Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop RESTful web services."
+    },
+    {
+      "skill_name": "System Architecture Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design system architectures using service-oriented principles."
+    },
+    {
+      "skill_name": "Service-Oriented System Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop service-oriented systems following best practices."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently and work collaboratively."
+    },
+    {
+      "skill_name": "Classroom Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to classroom rules and exhibit teamwork and personal responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Programming Fundamentals (CNTT1128)",
+      "Database Fundamentals (TIKT1130)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

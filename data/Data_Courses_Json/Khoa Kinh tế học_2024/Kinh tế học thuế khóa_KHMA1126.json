@@ -1,0 +1,68 @@
+{
+  "course_id": "KHMA1126",
+  "title": "Economics of Taxation",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Taxation Economics",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the role of taxation in government budget formation, macroeconomic regulation, and income redistribution."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze the impact and effectiveness of tax policies on economic activities and income distribution."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Tool/Software",
+      "outcome_description": "Evaluate the efficiency and equity of tax systems and specific tax types."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Apply economic theories and models to analyze and assess the impact of tax policies."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Tool/Software",
+      "outcome_description": "Conduct independent research and group work on tax policies and reforms."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Tool/Software",
+      "outcome_description": "Develop critical thinking skills to evaluate real-world tax policies and reforms."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Tool/Software",
+      "outcome_description": "Present and defend research findings on tax policies and reforms."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Tool/Software",
+      "outcome_description": "Work collaboratively in groups to analyze and present on tax policies and reforms."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Tool/Software",
+      "outcome_description": "Enhance self-learning and research skills to accumulate knowledge on tax policies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2",
+      "Macroeconomics 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

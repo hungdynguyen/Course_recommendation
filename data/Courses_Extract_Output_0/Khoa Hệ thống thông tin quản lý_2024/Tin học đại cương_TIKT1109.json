@@ -1,0 +1,50 @@
+{
+  "course_id": "Tin học đại cương",
+  "title": "General Information on Computer Science Basics",
+  "difficulty_level": "Beginner",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Computer Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of computer science."
+    },
+    {
+      "skill_name": "Information Technology Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Gain a general understanding of information technology."
+    },
+    {
+      "skill_name": "Operating Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Learn about electronic operating systems."
+    },
+    {
+      "skill_name": "Database Basics",
+      "category": "Hard Skill",
+      "outcome_description": "Acquire fundamental knowledge of databases."
+    },
+    {
+      "skill_name": "Networking",
+      "category": "Hard Skill",
+      "outcome_description": "Understand computer networks and the internet."
+    },
+    {
+      "skill_name": "IT Security",
+      "category": "Hard Skill",
+      "outcome_description": "Learn about IT security and computer maintenance."
+    },
+    {
+      "skill_name": "Microsoft Office",
+      "category": "Hard Skill",
+      "outcome_description": "Master basic usage of Microsoft Office suite including Word, Excel, and PowerPoint."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

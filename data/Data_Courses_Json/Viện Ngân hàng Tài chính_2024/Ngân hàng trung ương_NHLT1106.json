@@ -1,0 +1,67 @@
+{
+  "course_id": "NHLT1106",
+  "title": "Central Bank",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Monetary Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the functions and operations of central banks in monetary policy."
+    },
+    {
+      "skill_name": "Banking Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the operations of central banks in issuing currency and credit."
+    },
+    {
+      "skill_name": "Financial Markets",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the open market operations and foreign exchange management of central banks."
+    },
+    {
+      "skill_name": "Bank Supervision",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the supervision and inspection activities of central banks."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the economic functions and roles of central banks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent thinking and critical analysis skills in studying central banks."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to complete assignments and projects."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to present before an audience."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and comply with legal and regulatory requirements of central banks."
+    },
+    {
+      "skill_name": "Continuous Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Maintain a commitment to continuous learning and professional development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Theory 2"
+    ],
+    "minimum_entry_skills": []
+  }
+}

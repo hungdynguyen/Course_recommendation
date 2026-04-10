@@ -1,0 +1,37 @@
+{
+  "course_id": "KTKE1108",
+  "title": "International Accounting",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Accounting Standards",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply international accounting standards such as IAS/IFRS and US GAAP."
+    },
+    {
+      "skill_name": "Global Financial Reporting",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare and analyze global financial reports including foreign currency accounting and exchange rate risks."
+    },
+    {
+      "skill_name": "Taxation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply international tax regulations and transfer pricing principles."
+    },
+    {
+      "skill_name": "Comparative Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Compare and contrast different accounting systems and practices across countries."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

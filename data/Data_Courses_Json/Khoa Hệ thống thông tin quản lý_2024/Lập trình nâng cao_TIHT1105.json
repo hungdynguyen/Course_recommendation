@@ -1,0 +1,62 @@
+{
+  "course_id": "TIHT1105",
+  "title": "Advanced Programming",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Advanced Programming Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply advanced programming techniques to develop management information systems in economic, management, and business administration fields."
+    },
+    {
+      "skill_name": "Object-Oriented Programming",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply object-oriented programming principles and techniques."
+    },
+    {
+      "skill_name": "C++ Programming",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply C++ programming language and its advanced features."
+    },
+    {
+      "skill_name": "Class and Object Creation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply techniques for creating classes and objects in C++."
+    },
+    {
+      "skill_name": "Inheritance and Polymorphism",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply inheritance and polymorphism in object-oriented programming."
+    },
+    {
+      "skill_name": "System Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in system development and deployment of intelligent systems."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or actively and effectively in group activities."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of management information systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Programming"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

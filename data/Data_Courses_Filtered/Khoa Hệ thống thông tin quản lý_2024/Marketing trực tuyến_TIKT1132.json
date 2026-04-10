@@ -1,0 +1,61 @@
+{
+  "course_id": "TIKT1132",
+  "title": "Online Marketing",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Marketing Terminology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand key terms related to Marketing, Online Marketing, Digital Marketing; Website Marketing, Virtual Stores...; have a general overview of the Online Marketing system."
+    },
+    {
+      "skill_name": "Explain Types of Online Marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Explain different types of online marketing and apply them practically."
+    },
+    {
+      "skill_name": "Deploy and Operate Online Marketing Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Deploy, operate, and develop a website marketing, virtual store, online marketing system for businesses."
+    },
+    {
+      "skill_name": "SEO Tools Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiently use SEO tools and website analysis tools to optimize search engines, improve website rankings, and enhance digital content rankings on internet search engines."
+    },
+    {
+      "skill_name": "Analyze Real-world Marketing Problems",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze real-world marketing problems in various fields such as healthcare, education, business, banking, finance, accounting, insurance, statistics, tourism... to decide on using IT tools to assist in online marketing activities at businesses."
+    },
+    {
+      "skill_name": "Website Design Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in analyzing, designing, and building SEO-compliant websites and virtual stores."
+    },
+    {
+      "skill_name": "Manage and Exploit Websites",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and exploit websites to serve marketing strategies of businesses."
+    },
+    {
+      "skill_name": "Self-study and Analyze Marketing Issues",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-study, read materials, think about online marketing, approach and solve digital marketing issues in businesses."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Be able to work independently or actively, positively, and effectively participate in group activities. Have the ability to organize group activities."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Have social responsibility and professional ethics in the field of Information Systems Management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

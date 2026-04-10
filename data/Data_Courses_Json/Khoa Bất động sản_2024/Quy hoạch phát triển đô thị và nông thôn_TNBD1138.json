@@ -1,0 +1,65 @@
+{
+  "course_id": "TNBD1138",
+  "title": "Urban and Rural Development Planning",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban and Rural Development Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the scientific basis of urban and rural development planning, including objectives, requirements, and content. Be able to analyze and forecast scenarios in urban and rural development planning."
+    },
+    {
+      "skill_name": "Urban and Rural Development Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in communication, teamwork, decision-making, and problem-solving in urban and rural development planning."
+    },
+    {
+      "skill_name": "Urban and Rural Development Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the social responsibility and importance of urban and rural development planning, and be able to work independently and adapt to different contexts."
+    },
+    {
+      "skill_name": "Urban and Rural Development Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate urban and rural development plans, and propose solutions for common issues."
+    },
+    {
+      "skill_name": "Urban and Rural Development Strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Propose and implement urban and rural development strategies, and manage resources effectively."
+    },
+    {
+      "skill_name": "Urban and Rural Development Sustainability",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of sustainable urban and rural development."
+    },
+    {
+      "skill_name": "Urban and Rural Development Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively about urban and rural development plans and strategies."
+    },
+    {
+      "skill_name": "Urban and Rural Development Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams to develop and implement urban and rural development plans."
+    },
+    {
+      "skill_name": "Urban and Rural Development Problem Solving",
+      "category": "Hard Skill",
+      "outcome_description": "Solve problems related to urban and rural development planning and implementation."
+    },
+    {
+      "skill_name": "Urban and Rural Development Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the effectiveness of urban and rural development plans and strategies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

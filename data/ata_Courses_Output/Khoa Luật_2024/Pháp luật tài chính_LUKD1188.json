@@ -1,0 +1,55 @@
+{
+  "course_id": "LUKD1188",
+  "title": "Law on Finance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Law Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic issues of financial law, distinguish between public and private financial laws, understand sources of financial law, and grasp fundamental legal provisions of financial law."
+    },
+    {
+      "skill_name": "Budgetary Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand key provisions of budgetary law and basic contents of tax law."
+    },
+    {
+      "skill_name": "Information Retrieval",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to search for information and legal regulations."
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze, synthesize information and resolve legal situations."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work in teams."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to communicate, present and deliver presentations."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to independently research, accumulate knowledge and experience to enhance professional expertise."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law (LUCS 1128)",
+      "Administrative Law (LUCS 1114)",
+      "Civil Law (LUCS 1112)",
+      "Commercial Law (LUCS 1107)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

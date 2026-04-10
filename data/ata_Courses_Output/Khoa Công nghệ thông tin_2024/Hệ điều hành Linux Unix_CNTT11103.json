@@ -1,0 +1,50 @@
+{
+  "course_id": "CNTT11103",
+  "title": "UNIX Operation System",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Unix/Linux system structure",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the structure and operation of a Unix/Linux system"
+    },
+    {
+      "skill_name": "File system organization in Unix/Linux",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how files are organized in Unix/Linux and use scripts"
+    },
+    {
+      "skill_name": "Shell scripting in Unix/Linux",
+      "category": "Hard Skill",
+      "outcome_description": "Know how to write shell scripts in Unix/Linux"
+    },
+    {
+      "skill_name": "System administration in Unix/Linux",
+      "category": "Hard Skill",
+      "outcome_description": "Know how to manage systems and services in Unix/Linux"
+    },
+    {
+      "skill_name": "Proficient use of Unix/Linux commands",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to use Unix/Linux commands effectively"
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work ability and responsibility"
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and fulfill social responsibilities and professional ethics"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

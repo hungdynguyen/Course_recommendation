@@ -1,0 +1,51 @@
+{
+  "course_id": "CNTT1131",
+  "title": "Object Oriented Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Object-Oriented Design",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply object-oriented design principles."
+    },
+    {
+      "skill_name": "Class and Object Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Create classes and objects in programming languages such as C++, C#, or Java."
+    },
+    {
+      "skill_name": "Inheritance",
+      "category": "Hard Skill",
+      "outcome_description": "Implement inheritance in object-oriented programs."
+    },
+    {
+      "skill_name": "Polymorphism",
+      "category": "Hard Skill",
+      "outcome_description": "Apply polymorphism concepts in programming."
+    },
+    {
+      "skill_name": "Exception Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Handle exceptions effectively in code."
+    },
+    {
+      "skill_name": "File I/O Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Perform file input/output operations using streams."
+    },
+    {
+      "skill_name": "Independent and Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent and collaborative problem-solving skills."
+    },
+    {
+      "skill_name": "Application Development",
+      "category": "Hard Skill",
+      "outcome_description": "Build practical applications using object-oriented programming techniques."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "course_id": "TOkt1128",
+  "title": "Econometrics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Dynamic Regression Models",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to apply dynamic regression models in economic analysis."
+    },
+    {
+      "skill_name": "Simultaneous Equations Models",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and application of simultaneous equations models in econometric analysis."
+    },
+    {
+      "skill_name": "Limited Dependent Variables",
+      "category": "Soft Skill",
+      "outcome_description": "Proficiency in handling limited dependent variable models."
+    },
+    {
+      "skill_name": "Mixed Data Models",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work with mixed data types in econometric modeling."
+    },
+    {
+      "skill_name": "Logistic Regression Models",
+      "category": "Soft Skill",
+      "outcome_description": "Proficiency in applying various logistic regression models."
+    },
+    {
+      "skill_name": "Econometric Software Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using econometric software such as EViews and R."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

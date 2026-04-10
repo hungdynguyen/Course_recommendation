@@ -1,0 +1,35 @@
+{
+  "course_id": "LUCS1122",
+  "title": "Logic",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logical Reasoning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature of logical thinking and its methods."
+    },
+    {
+      "skill_name": "Conceptual Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the basic characteristics and structure of logical concepts such as definitions, judgments, and reasoning."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and demonstrate logical operations and rules."
+    },
+    {
+      "skill_name": "Legal Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply logical knowledge to legal activities and daily life."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

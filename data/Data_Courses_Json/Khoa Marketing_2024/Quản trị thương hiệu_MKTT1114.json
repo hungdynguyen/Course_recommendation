@@ -1,0 +1,75 @@
+{
+  "course_id": "MKMA1104",
+  "title": "Quản trị Thương hiệu",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Brand Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and role of brands, develop brand strategies, and manage brand activities over time."
+    },
+    {
+      "skill_name": "Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate marketing activities to implement brand strategies."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze market factors and their impact on brand management."
+    },
+    {
+      "skill_name": "Strategic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply strategic thinking to brand management and decision-making."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in brand management contexts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate brand strength and value."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions for brand management issues."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and manage brand portfolios."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal aspects of brand management."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze data for brand management."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and solutions effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

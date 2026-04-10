@@ -1,0 +1,58 @@
+{
+  "course_id": "KHMA1123",
+  "title": "Economics of Social Issues",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Issues Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to explain social issues using economic theories."
+    },
+    {
+      "skill_name": "Data Collection Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Students will develop skills in collecting and analyzing secondary data."
+    },
+    {
+      "skill_name": "Quantitative Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Students will apply quantitative models to assess the impact of social policies."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will enhance their ability to conduct independent research."
+    },
+    {
+      "skill_name": "Collaborative Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will improve their teamwork and presentation skills."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop self-learning habits and critical thinking skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory II",
+      "Macroeconomic Theory II",
+      "Quantitative Methods I"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economic Theories",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Statistical Analysis",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

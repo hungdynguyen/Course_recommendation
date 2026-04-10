@@ -1,0 +1,50 @@
+{
+  "course_id": "LUCS1137",
+  "title": "Law on civil procedures",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Civil Procedure Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding basic and advanced concepts of civil procedure law."
+    },
+    {
+      "skill_name": "Legal Principles",
+      "category": "Soft Skill",
+      "outcome_description": "Identifying and applying legal principles of Vietnamese civil procedure law."
+    },
+    {
+      "skill_name": "Case Differentiation",
+      "category": "Soft Skill",
+      "outcome_description": "Distinguishing between civil cases and matters."
+    },
+    {
+      "skill_name": "Litigation Parties",
+      "category": "Soft Skill",
+      "outcome_description": "Identifying parties involved in litigation processes."
+    },
+    {
+      "skill_name": "Evidence and Proof",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding evidence and proof in civil litigation."
+    },
+    {
+      "skill_name": "Court Procedures",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding court procedures at various levels including summary proceedings."
+    },
+    {
+      "skill_name": "Legal Judgments",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding legal judgments and their implications."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

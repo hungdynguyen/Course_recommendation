@@ -1,0 +1,45 @@
+{
+  "course_id": "DLKS1131",
+  "title": "E-Tourism Business",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Technology Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply IT and communication technologies in tourism and hospitality."
+    },
+    {
+      "skill_name": "Business Strategy Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop business strategies using IT trends."
+    },
+    {
+      "skill_name": "Service Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Operate service functions in hotels and tourism businesses."
+    },
+    {
+      "skill_name": "Marketing Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage marketing activities in hospitality settings."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver effective presentations as part of group assignments."
+    },
+    {
+      "skill_name": "Academic Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate responsibility in academic performance."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "course_id": "KHMA1134",
+  "title": "Chuyên đề thực tế",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Theory Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic theories and models to identify issues accurately in real-world economic organizations."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and enhance analytical, argumentative, and evaluative skills for economic policies and decisions."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Master the skills of summarizing literature and analyzing related data in research."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop independent research skills, teamwork abilities, and presentation skills."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-study and research capabilities on specialized economic topics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Improve critical thinking and professional judgment skills."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate organizational discipline, legal compliance, cooperative spirit, and responsibility in group activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundational Economic Knowledge",
+      "Core Economic Knowledge",
+      "Specialized Economic Knowledge"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economic Theories",
+        "minimum_proficiency_level": 4
+      },
+      {
+        "skill_name": "Research Methods",
+        "minimum_proficiency_level": 4
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

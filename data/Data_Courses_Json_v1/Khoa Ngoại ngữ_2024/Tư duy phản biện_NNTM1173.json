@@ -1,0 +1,63 @@
+{
+  "course_id": "NNTM1173",
+  "title": "Critical Thinking",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to construct and evaluate arguments, identify and avoid logical fallacies, and enhance the persuasiveness of arguments."
+    },
+    {
+      "skill_name": "Argumentation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the structure of arguments, differentiate between deductive and inductive reasoning, and apply rhetorical devices to strengthen arguments."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups, including task delegation, communication, and conflict resolution."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal viewpoints in a logical and objective manner."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve real-world problems."
+    },
+    {
+      "skill_name": "Ethical Reasoning",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and avoid ethical biases in arguments."
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write persuasive and argumentative essays."
+    },
+    {
+      "skill_name": "Debate",
+      "category": "Soft Skill",
+      "outcome_description": "Participate in debates and defend viewpoints."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "English - Listening and Speaking 3",
+      "English - Reading and Writing 3"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "English Language Proficiency",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

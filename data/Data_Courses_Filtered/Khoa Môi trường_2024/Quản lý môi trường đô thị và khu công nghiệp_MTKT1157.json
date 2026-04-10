@@ -1,0 +1,100 @@
+{
+  "course_id": "MTKT1157",
+  "title": "Environmental Management for Cities and Industrial Estates",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban and Industrial Estate Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Remember and understand basic concepts about urban and industrial estate management."
+    },
+    {
+      "skill_name": "Environmental Issues in Urban Areas",
+      "category": "Hard Skill",
+      "outcome_description": "Understand environmental issues specific to urban areas."
+    },
+    {
+      "skill_name": "Environmental Issues in Industrial Estates",
+      "category": "Hard Skill",
+      "outcome_description": "Understand environmental issues specific to industrial estates."
+    },
+    {
+      "skill_name": "Solid Waste Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage solid waste in urban environments."
+    },
+    {
+      "skill_name": "Wastewater Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage wastewater in urban environments."
+    },
+    {
+      "skill_name": "Urban Air Pollution Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage air pollution in urban environments."
+    },
+    {
+      "skill_name": "Greenhouse Gas Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage greenhouse gases in urban environments."
+    },
+    {
+      "skill_name": "Persistent Organic Pollutants Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage persistent organic pollutants in urban environments."
+    },
+    {
+      "skill_name": "Environmental Incident Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage environmental incidents in urban environments."
+    },
+    {
+      "skill_name": "Industrial Estate Management Entities",
+      "category": "Hard Skill",
+      "outcome_description": "Identify key entities involved in managing industrial estates."
+    },
+    {
+      "skill_name": "Energy Efficiency and Cleaner Production",
+      "category": "Hard Skill",
+      "outcome_description": "Implement energy efficiency and cleaner production practices in industrial estates."
+    },
+    {
+      "skill_name": "Eco-industrial Park Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design eco-industrial parks."
+    },
+    {
+      "skill_name": "Environmental Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research skills related to environmental management."
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop analytical skills related to environmental management."
+    },
+    {
+      "skill_name": "Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent study skills."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork skills."
+    },
+    {
+      "skill_name": "Self-management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-management skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

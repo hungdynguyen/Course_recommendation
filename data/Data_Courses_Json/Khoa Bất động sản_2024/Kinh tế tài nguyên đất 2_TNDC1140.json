@@ -1,0 +1,76 @@
+{
+  "course_id": "TNDC1140",
+  "title": "Land Resource Economics 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the characteristics of land resources and their environmental impacts."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the development and factors in land markets."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and analyze data related to land resources and market factors."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate land use options and make decisions based on market mechanisms."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to analyze and present land use options."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and engage in discussions."
+    },
+    {
+      "skill_name": "Urban Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze urban land economics."
+    },
+    {
+      "skill_name": "Agricultural Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the economics of agricultural land use."
+    },
+    {
+      "skill_name": "Land Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand land policies and their impacts on land use."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning and research skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Land Resource Economics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Environmental Science",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

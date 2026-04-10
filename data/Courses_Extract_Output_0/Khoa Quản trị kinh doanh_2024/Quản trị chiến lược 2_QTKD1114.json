@@ -1,0 +1,37 @@
+{
+  "course_id": "Quản trị chiến lược 2",
+  "title": "Strategic Management 2",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct strategic analysis using various techniques."
+    },
+    {
+      "skill_name": "Global Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and applying strategies in a global context."
+    },
+    {
+      "skill_name": "Implementation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Skills to implement and evaluate business strategies effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản trị chiến lược 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Strategic Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "course_id": "LUCS1132",
+  "title": "Law on Human Rights",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Human Rights Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand general theoretical issues about human rights in modern legal science development."
+    },
+    {
+      "skill_name": "International Law on Human Rights",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic legal knowledge about human rights in international law."
+    },
+    {
+      "skill_name": "Vietnamese Law on Human Rights",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply basic legal knowledge about human rights in Vietnamese law."
+    },
+    {
+      "skill_name": "Mechanisms for Protecting Human Rights",
+      "category": "Hard Skill",
+      "outcome_description": "Understand mechanisms for protecting human rights and apply them to solve practical issues in Vietnam."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills effectively."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication, presentation, and public speaking skills effectively."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently research, accumulate, and enhance knowledge."
+    },
+    {
+      "skill_name": "Active Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in presenting research results."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

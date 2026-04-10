@@ -1,0 +1,74 @@
+{
+  "course_id": "CNTT11100",
+  "title": "Blockchain and Application",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Blockchain Technology",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and apply blockchain technology, including consensus algorithms and smart contracts."
+    },
+    {
+      "skill_name": "Smart Contracts",
+      "category": "Tool/Software",
+      "outcome_description": "Develop and deploy smart contracts using Solidity and other programming languages."
+    },
+    {
+      "skill_name": "Blockchain Platforms",
+      "category": "Tool/Software",
+      "outcome_description": "Work with popular blockchain platforms like Ethereum, Hyperledger Fabric, and Corda."
+    },
+    {
+      "skill_name": "Cybersecurity",
+      "category": "Tool/Software",
+      "outcome_description": "Implement and secure blockchain applications and smart contracts."
+    },
+    {
+      "skill_name": "Programming",
+      "category": "Tool/Software",
+      "outcome_description": "Use programming languages and libraries to develop blockchain applications."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and complete group projects and assignments independently."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings and contribute to team projects."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex problems related to blockchain technology."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to ethical and legal standards in blockchain applications."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Self-study and understand complex concepts independently."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Computer Science Fundamentals",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Programming",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

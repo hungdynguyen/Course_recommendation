@@ -1,31 +1,26 @@
 import json
-import os
 from pathlib import Path
-from typing import List, Dict, Optional, Set
+from typing import List, Dict
 import pandas as pd
-import asyncio
 from sentence_transformers import SentenceTransformer, util
 import torch
 from tqdm import tqdm
-import requests
-import time
 
 # Configure paths
 BASE_DIR = Path(__file__).parent.parent.parent
 JD_CV_PAIRS_PATH = BASE_DIR / "data" / "processed" / "jd_cv_pairs" / "jd_cv_pairs.json"
-COURSES_DIR = BASE_DIR / "data" / "Data_Courses_Json"
+COURSES_DIR = BASE_DIR / "data" / "Data_Courses_Filtered"
 OUTPUT_DIR = BASE_DIR / "data" / "processed" / "course_recommendations"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Configuration
-API_BASE_URL = "http://localhost:8000/api/v1"
 EMBEDDING_MODEL = "Qwen/Qwen3-Embedding-0.6B"
-TOP_K_PER_METHOD = 30  
+TOP_K = 30
 BATCH_SIZE = 2
 
 
 class CourseRecommender:
-    """Generate course recommendations using 2 methods: API + Vector Search"""
+    """Generate course recommendations using direct skill embedding vector search."""
     
     def __init__(self):
         self.courses = []
@@ -89,7 +84,8 @@ class CourseRecommender:
             course_texts,
             convert_to_tensor=True,
             show_progress_bar=True,
-            batch_size=BATCH_SIZE
+            batch_size=BATCH_SIZE,
+            prompt_name="document",
         )
         
         print(f"✓ Course embeddings shape: {self.course_embeddings.shape}")
@@ -111,49 +107,8 @@ class CourseRecommender:
         print(f"✓ Loaded {len(successful_pairs)} successful JD-CV pairs")
         return successful_pairs
     
-    def recommend_via_api(self, skill_gaps: Dict) -> List[Dict]:
-        """Method 1: Recommend courses via API"""
-        missing_technical = skill_gaps.get('missing_technical_skills', [])
-        missing_soft = skill_gaps.get('missing_soft_skills', [])
-        
-        all_missing_skills = missing_technical + missing_soft
-        
-        if not all_missing_skills:
-            return []
-        
-        try:
-            # Call API
-            response = requests.post(
-                f"{API_BASE_URL}/recommendations/courses",
-                json={"skill_names": all_missing_skills},
-                params={"max_courses": TOP_K_PER_METHOD},
-                timeout=30
-            )
-            
-            if response.status_code == 200:
-                data = response.json()
-                courses = data.get('recommended_courses', [])
-                
-                # Extract course info
-                result = []
-                for course in courses[:TOP_K_PER_METHOD]:
-                    result.append({
-                        'course_id': course.get('course_id', ''),
-                        'title': course.get('course_title', ''),  
-                        'method': 'api',
-                        'score': course.get('similarity_score', 0.0)  
-                    })
-                return result
-            else:
-                print(f"  ⚠️ API error: {response.status_code}")
-                return []
-                
-        except Exception as e:
-            print(f"  ⚠️ API call failed: {e}")
-            return []
-    
     def recommend_via_vector_search(self, skill_gaps: Dict) -> List[Dict]:
-        """Method 2: Recommend courses via vector search on skill gaps"""
+        """Recommend courses by embedding raw skill gaps directly and cosine-searching course embeddings."""
         missing_technical = skill_gaps.get('missing_technical_skills', [])
         missing_soft = skill_gaps.get('missing_soft_skills', [])
         experience_gap = skill_gaps.get('experience_gap', '')
@@ -175,14 +130,15 @@ class CourseRecommender:
         # Embed query
         query_embedding = self.embedding_model.encode(
             query_text,
-            convert_to_tensor=True
+            convert_to_tensor=True,
+            prompt_name="query",
         )
         
         # Compute similarity
         similarities = util.cos_sim(query_embedding, self.course_embeddings)[0]
         
         # Get top K
-        top_k = torch.topk(similarities, k=min(TOP_K_PER_METHOD, len(self.courses)))
+        top_k = torch.topk(similarities, k=min(TOP_K, len(self.courses)))
         
         result = []
         for idx, score in zip(top_k.indices, top_k.values):
@@ -196,47 +152,10 @@ class CourseRecommender:
         
         return result
     
-    def merge_recommendations(self, api_courses: List[Dict], vector_courses: List[Dict]) -> List[Dict]:
-        """Merge and deduplicate courses from both methods"""
-        # Use dict to deduplicate by course_id
-        merged = {}
-        
-        # Add API courses first (higher priority in dedup)
-        for course in api_courses:
-            course_id = course['course_id']
-            if course_id and course_id not in merged:
-                merged[course_id] = {
-                    **course,
-                    'methods': ['api'],
-                    'api_score': course.get('score', 0.0)
-                }
-        
-        # Add vector search courses
-        for course in vector_courses:
-            course_id = course['course_id']
-            if course_id:
-                if course_id in merged:
-                    # Update existing - add method
-                    merged[course_id]['methods'].append('vector_search')
-                    merged[course_id]['vector_score'] = course.get('score', 0.0)
-                else:
-                    # Add new
-                    merged[course_id] = {
-                        **course,
-                        'methods': ['vector_search'],
-                        'vector_score': course.get('score', 0.0)
-                    }
-        
-        # Convert to list and sort by priority (courses from both methods first)
-        result = list(merged.values())
-        result.sort(key=lambda x: (len(x['methods']), x.get('api_score', 0) + x.get('vector_score', 0)), reverse=True)
-        
-        return result
-    
     def generate_recommendations(self):
         """Main function to generate recommendations for all JD-CV pairs"""
         print("\n" + "="*60)
-        print("STEP 2: COURSE RECOMMENDATION")
+        print("STEP 2: COURSE RECOMMENDATION (Vector Search)")
         print("="*60)
         
         # Load data
@@ -245,27 +164,18 @@ class CourseRecommender:
         self.load_jd_cv_pairs()
         
         print(f"\n🎯 Generating recommendations for {len(self.jd_cv_pairs)} pairs...")
-        print(f"  - API recommendations: {TOP_K_PER_METHOD} courses per pair")
-        print(f"  - Vector search: {TOP_K_PER_METHOD} courses per pair")
-        print(f"  - Merging and deduplicating...")
-        
+        print(f"  - Vector search top-k: {TOP_K} courses per pair")
+
         results = []
-        
+
         for idx, pair in enumerate(tqdm(self.jd_cv_pairs, desc="Recommending courses")):
             jd_info = pair.get('jd_info', {})
             cv = pair.get('cv', {})
             skill_gaps = cv.get('skill_gaps', {})
-            
-            # Method 1: API
-            api_courses = self.recommend_via_api(skill_gaps)
-            
-            # Method 2: Vector search
-            vector_courses = self.recommend_via_vector_search(skill_gaps)
-            
-            # Merge
-            merged_courses = self.merge_recommendations(api_courses, vector_courses)
-            
-            # Store result
+
+            # Vector search from raw skill gaps (no ESCO)
+            courses = self.recommend_via_vector_search(skill_gaps)
+
             result = {
                 'pair_id': idx,
                 'jd_title': jd_info.get('title', ''),
@@ -286,19 +196,13 @@ class CourseRecommender:
                 },
                 'skill_gaps': skill_gaps,
                 'recommendations': {
-                    'api_count': len(api_courses),
-                    'vector_count': len(vector_courses),
-                    'merged_count': len(merged_courses),
-                    'courses': merged_courses
+                    'vector_count': len(courses),
+                    'courses': courses,
                 },
-                'target_matching_percent': pair.get('target_matching_percent', 0)
+                'target_matching_percent': pair.get('target_matching_percent', 0),
             }
             results.append(result)
-            
-            # Small delay to avoid overwhelming API
-            if api_courses:
-                time.sleep(0.1)
-        
+
         # Save results
         self.save_results(results)
         
@@ -326,9 +230,7 @@ class CourseRecommender:
                 'missing_technical_skills': '; '.join(result['skill_gaps'].get('missing_technical_skills', [])),
                 'missing_soft_skills': '; '.join(result['skill_gaps'].get('missing_soft_skills', [])),
                 'experience_gap': result['skill_gaps'].get('experience_gap', ''),
-                'api_courses_count': result['recommendations']['api_count'],
                 'vector_courses_count': result['recommendations']['vector_count'],
-                'total_unique_courses': result['recommendations']['merged_count'],
                 'top_5_courses': '; '.join([c['title'] for c in result['recommendations']['courses'][:5]])
             }
             simplified_data.append(base_row)
@@ -340,38 +242,31 @@ class CourseRecommender:
         
         # Save statistics
         total_pairs = len(results)
-        avg_api_courses = sum(r['recommendations']['api_count'] for r in results) / total_pairs
         avg_vector_courses = sum(r['recommendations']['vector_count'] for r in results) / total_pairs
-        avg_merged_courses = sum(r['recommendations']['merged_count'] for r in results) / total_pairs
-        
+
         stats = {
             'total_pairs': total_pairs,
             'total_courses_available': len(self.courses),
-            'average_api_courses_per_pair': round(avg_api_courses, 2),
             'average_vector_courses_per_pair': round(avg_vector_courses, 2),
-            'average_merged_courses_per_pair': round(avg_merged_courses, 2),
-            'top_k_per_method': TOP_K_PER_METHOD,
+            'top_k': TOP_K,
             'embedding_model': EMBEDDING_MODEL,
-            'api_base_url': API_BASE_URL
         }
-        
+
         stats_file = OUTPUT_DIR / "recommendation_stats.json"
         with open(stats_file, 'w', encoding='utf-8') as f:
             json.dump(stats, f, ensure_ascii=False, indent=2)
         print(f"  ✓ Statistics: {stats_file}")
-        
+
         print(f"\n📊 Statistics:")
         print(f"  - Total pairs processed: {total_pairs}")
-        print(f"  - Avg API courses per pair: {avg_api_courses:.1f}")
-        print(f"  - Avg Vector courses per pair: {avg_vector_courses:.1f}")
-        print(f"  - Avg Merged courses per pair: {avg_merged_courses:.1f}")
+        print(f"  - Avg vector courses per pair: {avg_vector_courses:.1f}")
         print(f"\n✅ STEP 2 COMPLETED!")
 
 
 def main():
     print("="*60)
     print("STEP 2: Course Recommendation Generator")
-    print("Using API + Vector Search Methods")
+    print("Using Direct Skill Embedding Vector Search")
     print("="*60)
     
     recommender = CourseRecommender()

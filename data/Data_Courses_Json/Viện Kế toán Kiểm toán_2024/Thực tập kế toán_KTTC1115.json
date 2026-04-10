@@ -1,0 +1,54 @@
+{
+  "course_id": "KTTC1115",
+  "title": "Accounting Internship",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and describe the characteristics, processes, and organizational structures of accounting in various internship units."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking skills to evaluate and propose improvements in accounting practices and systems within internship units."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate and write professional reports related to accounting in internship units."
+    },
+    {
+      "skill_name": "Information Technology",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize information technology in the process of writing reports, including organizing and managing documents, using software for drafting and calculations."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to work independently and collaboratively, showing adaptability and professionalism in work."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Show initiative and responsibility in work, both individually and as part of a team."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research and present findings in a structured and logical manner, providing evidence-based recommendations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 2",
+      "Accounting Information Systems 1",
+      "Public Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

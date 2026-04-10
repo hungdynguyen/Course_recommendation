@@ -1,0 +1,56 @@
+{
+  "course_id": "KTQT1107",
+  "title": "Business Analysis",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Analysis Concept",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, significance, and mission of business analysis."
+    },
+    {
+      "skill_name": "Business Analysis Objectives",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the objectives of business analysis."
+    },
+    {
+      "skill_name": "Classify Business Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Classify various business activities within an organization."
+    },
+    {
+      "skill_name": "Differentiate Analysis Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between various methods of business analysis."
+    },
+    {
+      "skill_name": "Apply Suitable Analysis Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply appropriate analysis methods suitable for specific business activities."
+    },
+    {
+      "skill_name": "Organize Business Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Organize business analysis within an organization."
+    },
+    {
+      "skill_name": "Effective Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate proficiency in communication and presentation skills."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate proficiency in working independently and in teams."
+    },
+    {
+      "skill_name": "Self-management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-management and responsibility for personal learning outcomes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "course_id": "TIKT1127",
+  "title": "Information Systems Project Management",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Terminology Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and master project management terminology related to information systems projects."
+    },
+    {
+      "skill_name": "Explain Project Management Models",
+      "category": "Hard Skill",
+      "outcome_description": "Explain various forms and models of project management."
+    },
+    {
+      "skill_name": "Implement Information Systems Project Stages",
+      "category": "Hard Skill",
+      "outcome_description": "Implement stages of information systems projects including proposal, planning, execution, and closure."
+    },
+    {
+      "skill_name": "Use Project Management Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use necessary software tools to assist in managing information systems projects."
+    },
+    {
+      "skill_name": "Develop Project Proposals and Plans",
+      "category": "Hard Skill",
+      "outcome_description": "Develop proposals and plans for information systems projects effectively."
+    },
+    {
+      "skill_name": "Analyze and Plan Information Systems Projects",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in analyzing, planning, and executing information systems projects."
+    },
+    {
+      "skill_name": "Self-study Project Management Literature",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to self-study and read literature on project management."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Be able to work independently or actively participate in group activities."
+    },
+    {
+      "skill_name": "Organize Group Activities",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to organize group activities."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of information systems management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management Information Systems (TIHT1102)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

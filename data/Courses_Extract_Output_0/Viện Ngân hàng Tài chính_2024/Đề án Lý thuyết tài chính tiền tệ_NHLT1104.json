@@ -1,0 +1,47 @@
+{
+  "course_id": "NHLT1104",
+  "title": "Essay on Monetary and Financial Theories",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Monetary Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of monetary economics."
+    },
+    {
+      "skill_name": "Financial Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret financial theories and their applications."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research questions and design appropriate methodologies for financial studies."
+    },
+    {
+      "skill_name": "Economic Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate economic policies related to monetary and financial sectors."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Monetary and Financial Theories 1",
+      "Monetary and Financial Theories 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

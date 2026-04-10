@@ -1,0 +1,68 @@
+{
+  "course_id": "KHEH1105",
+  "title": "Lịch sử kinh tế",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Kinh tế học",
+      "category": "Tool/Software",
+      "outcome_description": "Hiểu biết đầy đủ về quá trình phát triển kinh tế của các nước và Việt Nam qua các thời kỳ lịch sử"
+    },
+    {
+      "skill_name": "Phân tích kinh tế",
+      "category": "Tool/Software",
+      "outcome_description": "Phân tích và đánh giá được các hiện tượng, sự kiện và các quá trình kinh tế trong lịch sử phát triển kinh tế của các nước và Việt Nam"
+    },
+    {
+      "skill_name": "Đánh giá kinh tế",
+      "category": "Tool/Software",
+      "outcome_description": "Phân tích và đánh giá được những thành tựu, hạn chế và các nguyên nhân của thành tựu, hạn chế trong quá trình phát triển kinh tế các nước và của Việt Nam"
+    },
+    {
+      "skill_name": "So sánh kinh tế",
+      "category": "Tool/Software",
+      "outcome_description": "Phân tích được những điểm tương đồng và khác biệt giữa Việt Nam và các nước trong phát triển kinh tế"
+    },
+    {
+      "skill_name": "Học tập độc lập",
+      "category": "Soft Skill",
+      "outcome_description": "Rèn luyện và phát triển kỹ năng thu thập, phân tích các dữ liệu phục vụ việc luận giải các sự kiện, hiện tượng, các quá trình kinh tế trong lịch sử"
+    },
+    {
+      "skill_name": "Thảo luận nhóm",
+      "category": "Soft Skill",
+      "outcome_description": "Phát triển kỹ năng nghiên cứu độc lập, làm việc nhóm và kỹ năng thuyết trình thông qua viết, thảo luận, thuyết trình các chủ đề về lịch sử kinh tế các nước và Việt Nam"
+    },
+    {
+      "skill_name": "Tự học",
+      "category": "Soft Skill",
+      "outcome_description": "Rèn luyện khả năng tự học, tự nghiên cứu để nâng cao kiến thức về lịch sử kinh tế các nước và Việt Nam"
+    },
+    {
+      "skill_name": "Phản biện",
+      "category": "Soft Skill",
+      "outcome_description": "Nâng cao năng lực phản biện các vấn đề kinh tế trên cơ sở những kiến thức, những bài học kinh nghiệm từ nghiên cứu thực tiễn phát triển kinh tế của các nước"
+    },
+    {
+      "skill_name": "Đạo đức nghề nghiệp",
+      "category": "Soft Skill",
+      "outcome_description": "Nâng cao ý thức, trách nhiệm và đạo đức nghề nghiệp trong việc đưa ra những nhận định, đánh giá cá nhân về các vấn đề chuyên môn"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế vi mô 1 (KHMI1101)",
+      "Kinh tế vĩ mô 1 (KHMA1101)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Kinh tế học",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

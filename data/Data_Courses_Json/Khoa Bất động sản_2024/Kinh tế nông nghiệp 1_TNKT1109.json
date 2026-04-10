@@ -1,0 +1,52 @@
+{
+  "course_id": "TNKT1109",
+  "title": "Agricultural Economics 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Agricultural Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role and characteristics of agricultural economics, basic theories, markets, international trade, and sustainable development in agriculture."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge and skills in analyzing agricultural markets and resource development."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and solve specific problems related to agricultural economics, rural areas, and farmers through information gathering and planning."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate agricultural market theories and resource management issues."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to develop and present projects related to agricultural economics."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently learn and accumulate experience to enhance professional expertise."
+    },
+    {
+      "skill_name": "Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Show discipline and responsibility in class and group activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

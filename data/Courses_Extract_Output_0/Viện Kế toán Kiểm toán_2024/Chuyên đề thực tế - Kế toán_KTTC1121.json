@@ -1,0 +1,44 @@
+{
+  "course_id": "KTTC1121",
+  "title": "Internship in Accounting",
+  "difficulty_level": "Advanced",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting Practices",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply various accounting practices in real-world settings."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial statements and reports effectively."
+    },
+    {
+      "skill_name": "Tax Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Ensure compliance with tax regulations and standards."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on practical topics within the field of accounting."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills based on theoretical foundations derived from practical experience."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 2",
+      "Financial Statement Analysis",
+      "Governmental Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

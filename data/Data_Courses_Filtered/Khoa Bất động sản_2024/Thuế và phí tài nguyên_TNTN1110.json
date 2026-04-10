@@ -1,0 +1,66 @@
+{
+  "course_id": "TNKT 1110",
+  "title": "Natural Resources Taxes and Fees",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tax and Fee Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, necessity, and roles of tax and fee tools in natural resource management."
+    },
+    {
+      "skill_name": "Position of Tax and Fee in National System",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the position of taxes and fees within the national tax and fee system."
+    },
+    {
+      "skill_name": "Foundation for Determining Taxes and Fees",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basis for determining taxes and fees on natural resources."
+    },
+    {
+      "skill_name": "Impact and Effectiveness of Taxes and Fees",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the impact and effectiveness of taxes and fees in natural resource policy."
+    },
+    {
+      "skill_name": "Application of Tax and Fee Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to determine tax and fee tools, their impacts, and effectiveness in natural resource policy."
+    },
+    {
+      "skill_name": "Analysis of Taxes and Fees in Transportation Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and determine taxes and fees in transportation activities."
+    },
+    {
+      "skill_name": "Analysis of Taxes and Fees in Industrial Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and determine taxes and fees in industrial activities."
+    },
+    {
+      "skill_name": "Analysis of Taxes and Fees in Environmental Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and determine taxes and fees in environmental resource management."
+    },
+    {
+      "skill_name": "Individual and Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work individually and in groups to choose topics and solve problems in economics, finance, and business using tax and fee determination methods."
+    },
+    {
+      "skill_name": "Tax and Fee Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate tax and fee levels in transportation, industrial, and environmental resource management activities."
+    },
+    {
+      "skill_name": "Research Synthesis",
+      "category": "Soft Skill",
+      "outcome_description": "Synthesize research results and findings from other studies on taxes and fees."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

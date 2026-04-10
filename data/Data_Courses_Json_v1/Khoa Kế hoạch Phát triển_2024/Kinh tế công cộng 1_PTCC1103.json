@@ -1,0 +1,72 @@
+{
+  "course_id": "PTCC1103",
+  "title": "Kinh tế Công cộng 1",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role and scope of government intervention in a market economy."
+    },
+    {
+      "skill_name": "Public Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the four basic roles of government in a market economy: resource allocation, income redistribution, macroeconomic stability, and national representation."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the effectiveness of government policies in addressing market failures and social equity issues."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the research object, content, and methods of public economics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze real-world scenarios related to government roles in different economic and social contexts."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Foster self-learning and research skills to continuously accumulate knowledge and adapt to changing work environments."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand professional ethics and social responsibility in policy-making, monitoring, and evaluation."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Participate actively in class discussions and seminars."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to public economics and government intervention."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and prepare for exams."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế vi mô 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

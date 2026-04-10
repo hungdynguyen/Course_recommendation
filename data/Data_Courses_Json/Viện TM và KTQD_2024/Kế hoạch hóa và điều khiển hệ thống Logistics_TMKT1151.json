@@ -1,0 +1,46 @@
+{
+  "course_id": "TMKT1151",
+  "title": "Logistics Planning and Control Systems",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply logistics planning and control systems in business operations"
+    },
+    {
+      "skill_name": "Demand Forecasting",
+      "category": "Soft Skill",
+      "outcome_description": "Forecast demand and develop sales and operations plans"
+    },
+    {
+      "skill_name": "Production Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop comprehensive production plans and material requirements plans"
+    },
+    {
+      "skill_name": "Distribution Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Create distribution plans and manage inventory"
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate and communicate effectively in group projects"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve logistics planning and control problems"
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and fulfill the responsibilities of logistics planning and control in business"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

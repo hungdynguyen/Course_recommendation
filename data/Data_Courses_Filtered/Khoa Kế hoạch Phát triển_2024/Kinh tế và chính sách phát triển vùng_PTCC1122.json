@@ -1,0 +1,71 @@
+{
+  "course_id": "PTCC1122",
+  "title": "Regional Development Economics and Policy",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding regional concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to explain the concept of regions and regional development."
+    },
+    {
+      "skill_name": "Analyzing regional development factors",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to identify and analyze the factors influencing regional development."
+    },
+    {
+      "skill_name": "Classifying and explaining regional policies",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to classify and explain various regional development policies."
+    },
+    {
+      "skill_name": "Explaining regional advantages",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to explain the advantages of regions and their impact on development."
+    },
+    {
+      "skill_name": "Measuring regional development outcomes",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to measure and analyze the outcomes of regional development processes."
+    },
+    {
+      "skill_name": "Comparing growth models",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to compare different growth models used in regional development."
+    },
+    {
+      "skill_name": "Strategic planning for regional development",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to develop strategic plans for regional development."
+    },
+    {
+      "skill_name": "Evaluating regional development strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to evaluate the effectiveness of regional development strategies."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Students will practice working effectively in teams."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop critical thinking skills to analyze regional development issues."
+    },
+    {
+      "skill_name": "Self-study",
+      "category": "Soft Skill",
+      "outcome_description": "Students will cultivate a habit of self-study and continuous learning."
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will improve their ability to present information clearly and effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

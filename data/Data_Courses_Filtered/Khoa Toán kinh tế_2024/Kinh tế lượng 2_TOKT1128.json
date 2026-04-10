@@ -1,0 +1,92 @@
+{
+  "course_id": "TOkt1128",
+  "title": "Econometrics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Dynamic Regression Models",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and understand the classification of common dynamic models: Autoregressive (AR) models, Distributed Lag models"
+    },
+    {
+      "skill_name": "Short-term and Long-term Impact Coefficients",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the meaning of short-term and long-term impact coefficients in dynamic models"
+    },
+    {
+      "skill_name": "Multiple Equation Models",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how to format multiple equation models and estimation methods"
+    },
+    {
+      "skill_name": "Logit-Probit Models",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate the mathematical-statistical nature of Logit-Probit, Ordered Logit (ologit), Multinomial Logit (mlogit) models from linear regression models"
+    },
+    {
+      "skill_name": "Array Data Regression Models",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the mathematical-statistical nature of regression models with array data"
+    },
+    {
+      "skill_name": "Applying Econometric Methods to Economic Issues",
+      "category": "Soft Skill",
+      "outcome_description": "Link research issues in economics, finance, business with econometric methods"
+    },
+    {
+      "skill_name": "Model Selection Based on Relationships Between Variables",
+      "category": "Soft Skill",
+      "outcome_description": "Identify appropriate model types based on the nature of relationships between variables and classify dependent variables"
+    },
+    {
+      "skill_name": "Estimating Model Parameters Using Specialized Software",
+      "category": "Soft Skill",
+      "outcome_description": "Use specialized software to estimate parameters in specific datasets"
+    },
+    {
+      "skill_name": "Short-term and Long-term Impact Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the short-term and long-term impacts of independent variables on continuous dependent variables"
+    },
+    {
+      "skill_name": "Impact Analysis in Simultaneous Equations",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the impact of independent variables on dependent variables within simultaneous equations"
+    },
+    {
+      "skill_name": "Marginal Effect Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the marginal effects of independent variables on discrete dependent variables"
+    },
+    {
+      "skill_name": "Fixed and Random Effects Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the impact of independent variables on dependent variables considering both fixed and random unobserved factors"
+    },
+    {
+      "skill_name": "Active Learning and Research",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning, research, and group work"
+    },
+    {
+      "skill_name": "Proactive Problem Selection",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in selecting topics, data, models, and using software for computation and analysis"
+    },
+    {
+      "skill_name": "Proactive Presentation of Research Results",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in presenting research results"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Econometrics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

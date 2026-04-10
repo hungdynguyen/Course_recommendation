@@ -1,0 +1,63 @@
+{
+  "course_id": "KTHT1101",
+  "title": "Accounting Information Systems 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Overview of Accounting Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of accounting information systems, roles of accountants, development cycle, characteristics in digital economy."
+    },
+    {
+      "skill_name": "Organizing Accounting Documentation Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Apply procedures for organizing accounting documentation, accounts, ledgers, and reports."
+    },
+    {
+      "skill_name": "Database Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand database principles and organization in businesses."
+    },
+    {
+      "skill_name": "Describing Accounting Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the significance of describing accounting information systems using various tools and differentiate between these tools."
+    },
+    {
+      "skill_name": "Systematizing Accounting Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Sketch accounting information systems using various tools to describe data flow, information, and document circulation for analysis and evaluation."
+    },
+    {
+      "skill_name": "Basic Computer Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop basic computer skills using Microsoft Office products for organizing and designing accounting information systems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to refine processes when applying accounting methods and policies in organizations."
+    },
+    {
+      "skill_name": "Systems Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop systems thinking skills to identify, classify, measure, record accounting transactions, and prepare financial statements in organizations."
+    },
+    {
+      "skill_name": "Planning and Management",
+      "category": "Soft Skill",
+      "outcome_description": "Organize planning, coordination, management of resources, assessment, and improvement of activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 1",
+      "Managerial Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

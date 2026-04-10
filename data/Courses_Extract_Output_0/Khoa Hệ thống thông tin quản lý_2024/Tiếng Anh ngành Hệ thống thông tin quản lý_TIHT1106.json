@@ -1,0 +1,55 @@
+{
+  "course_id": "TIHT1106",
+  "title": "English for Management Information System",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop comprehensive English communication skills in a specialized Management Information System context."
+    },
+    {
+      "skill_name": "Technical Vocabulary",
+      "category": "Hard Skill",
+      "outcome_description": "Expand vocabulary related to Management Information Systems."
+    },
+    {
+      "skill_name": "Information Systems Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand global business information systems."
+    },
+    {
+      "skill_name": "Global E-commerce",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze global e-commerce operations."
+    },
+    {
+      "skill_name": "IT Infrastructure",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend IT infrastructure concepts."
+    },
+    {
+      "skill_name": "Database Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage databases effectively."
+    },
+    {
+      "skill_name": "Telecommunications",
+      "category": "Hard Skill",
+      "outcome_description": "Understand telecommunication and internet networking principles."
+    },
+    {
+      "skill_name": "Information Security",
+      "category": "Hard Skill",
+      "outcome_description": "Implement security measures for information systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

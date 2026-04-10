@@ -1,0 +1,43 @@
+{
+  "course_id": "QTTH1133",
+  "title": "New Venture Creation",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Entrepreneurship",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the process of starting a new business venture."
+    },
+    {
+      "skill_name": "Business Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop a comprehensive business plan for a startup."
+    },
+    {
+      "skill_name": "Finance Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage financial resources effectively for a startup."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership qualities necessary for managing a startup."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively with team members in a startup environment."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics",
+      "Business Administration 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

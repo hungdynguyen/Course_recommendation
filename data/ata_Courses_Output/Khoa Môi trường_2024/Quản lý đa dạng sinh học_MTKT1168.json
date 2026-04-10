@@ -1,0 +1,71 @@
+{
+  "course_id": "MTKT1168",
+  "title": "Quản lý đa dạng sinh học",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Biodiversity Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts related to biodiversity management."
+    },
+    {
+      "skill_name": "Importance and Value of Biodiversity",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize the importance and value of biodiversity, current status, and threats to biodiversity globally and in Vietnam."
+    },
+    {
+      "skill_name": "Conservation Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand principles of conservation and management of biodiversity at genetic, species, and ecosystem levels."
+    },
+    {
+      "skill_name": "Legal Instruments for Biodiversity Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal instruments used for managing and sustainably exploiting natural resources."
+    },
+    {
+      "skill_name": "Economic Tools for Biodiversity Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand economic tools used for managing and sustainably exploiting natural resources."
+    },
+    {
+      "skill_name": "Technical Tools for Biodiversity Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand technical tools used for managing and sustainably exploiting natural resources."
+    },
+    {
+      "skill_name": "Educational and Traditional Tools for Biodiversity Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand educational and traditional tools used for managing and sustainably exploiting natural resources."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research skills to solve practical problems related to biodiversity management at national and local levels."
+    },
+    {
+      "skill_name": "Discussion and Explanation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop discussion and explanation skills for research and biodiversity management in practice."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning skills."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork skills."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop presentation skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

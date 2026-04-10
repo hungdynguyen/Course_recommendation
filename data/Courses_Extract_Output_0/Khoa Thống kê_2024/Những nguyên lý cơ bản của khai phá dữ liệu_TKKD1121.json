@@ -1,0 +1,40 @@
+{
+  "course_id": "TKKD1121",
+  "title": "Principles of Data Mining",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Mining Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply various data mining techniques including clustering, association rule learning, classification."
+    },
+    {
+      "skill_name": "Data Preprocessing",
+      "category": "Hard Skill",
+      "outcome_description": "Perform necessary preprocessing steps on raw data before applying data mining algorithms."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct descriptive statistical analysis to understand data characteristics."
+    },
+    {
+      "skill_name": "Outlier Detection",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and handle outliers in datasets effectively."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Apply appropriate research methodologies to solve data mining problems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

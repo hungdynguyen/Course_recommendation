@@ -1,0 +1,87 @@
+{
+  "course_id": "LUKD 1112",
+  "title": "International Trade Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Trade Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the general theories of international trade law, including subjects, sources, principles, and institutions involved in international trade activities."
+    },
+    {
+      "skill_name": "International Trade Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the laws governing international trade in goods, services, and intellectual property."
+    },
+    {
+      "skill_name": "International Trade Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the legal framework governing international trade contracts, including international sales contracts, international transport contracts, and international marine cargo insurance contracts."
+    },
+    {
+      "skill_name": "International Trade Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the legal framework governing international payments."
+    },
+    {
+      "skill_name": "International Trade Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the legal framework governing the resolution of international trade disputes."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Apply legal research skills to analyze and solve legal issues in international trade."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective teamwork skills."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective communication skills, including presentation and negotiation skills."
+    },
+    {
+      "skill_name": "Information Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and synthesize information from legal scenarios in international trade."
+    },
+    {
+      "skill_name": "Legal Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply legal provisions to solve specific legal issues in international trade scenarios."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-directed learning skills to accumulate and enhance knowledge."
+    },
+    {
+      "skill_name": "Planning and Implementation",
+      "category": "Soft Skill",
+      "outcome_description": "Develop planning and implementation skills to propose innovative solutions."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional ethics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS 1112",
+      "LUCS 1138",
+      "LUKD1110",
+      "LUKD1111",
+      "LUKD 1101",
+      "LUKD 1123"
+    ],
+    "minimum_entry_skills": []
+  }
+}

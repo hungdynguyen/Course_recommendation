@@ -1,0 +1,40 @@
+{
+  "course_id": "TNBD1116",
+  "title": "Real estate Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Property Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop fundamental knowledge and skills in property management, including planning, relationship management, risk management, and marketing."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of risk management in real estate contexts."
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Create and implement marketing strategies for real estate properties."
+    },
+    {
+      "skill_name": "Contract Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate and draft contracts for property leasing."
+    },
+    {
+      "skill_name": "Energy Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage energy usage and conservation in real estate properties."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

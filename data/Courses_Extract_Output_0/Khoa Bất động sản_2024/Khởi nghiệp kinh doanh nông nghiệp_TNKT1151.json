@@ -1,0 +1,42 @@
+{
+  "course_id": "TNKT1151",
+  "title": "Startup in Agribusiness",
+  "difficulty_level": "Intermediate",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Entrepreneurship",
+      "category": "Soft Skill",
+      "outcome_description": "Develop basic knowledge and skills for starting a business in agriculture."
+    },
+    {
+      "skill_name": "Business Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Create a comprehensive business plan for agricultural startups."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct market research relevant to agricultural businesses."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage potential risks in agricultural ventures."
+    },
+    {
+      "skill_name": "Business Development",
+      "category": "Hard Skill",
+      "outcome_description": "Implement strategies for launching and operating agricultural businesses."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Business I"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

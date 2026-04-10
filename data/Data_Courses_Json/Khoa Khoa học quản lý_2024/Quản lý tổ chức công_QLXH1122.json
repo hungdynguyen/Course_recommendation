@@ -1,0 +1,77 @@
+{
+  "course_id": "QLXH1122",
+  "title": "Quản lý tổ chức công",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (40 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Organization Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge of public organizations and management in practical scenarios."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve practical problems in public organization management."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects in public organizations, including planning, organizing, leading, and controlling."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and communicate ideas."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, manage group dynamics, and evaluate group performance."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time and resources efficiently."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and take responsibility for professional tasks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate practical issues in public management."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in various contexts."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical responsibility and social commitment."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously improve and adapt to new challenges."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Management Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

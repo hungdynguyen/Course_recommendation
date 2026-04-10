@@ -1,0 +1,43 @@
+{
+  "course_id": "Hệ thống thông tin kế toán 2",
+  "title": "Information Systems in Accounting 2",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Internal Controls",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply internal controls in accounting information systems."
+    },
+    {
+      "skill_name": "Accounting Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and design accounting information systems for various business processes."
+    },
+    {
+      "skill_name": "Data Flow Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and document data flow in accounting information systems."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize risks and implement control measures in accounting information systems."
+    },
+    {
+      "skill_name": "System Documentation",
+      "category": "Hard Skill",
+      "outcome_description": "Create comprehensive documentation for accounting information systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Accounting",
+      "Basic Accounting Information Systems"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "MKMA1158",
+  "title": "Agricultural Marketing",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic principles of marketing."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze agricultural markets and consumer behavior."
+    },
+    {
+      "skill_name": "Product Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage agricultural products effectively."
+    },
+    {
+      "skill_name": "Sales Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop sales strategies for agricultural products."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Optimize supply chain processes for agriculture."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "course_id": "TKKT1133",
+  "title": "Data Analysis 1",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Visualization Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Systematize foundational knowledge about data visualization techniques for qualitative and quantitative data."
+    },
+    {
+      "skill_name": "Dimensionality Reduction Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and explain models and results from dimensionality reduction techniques."
+    },
+    {
+      "skill_name": "Principal Component Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Implement Principal Component Analysis using statistical software."
+    },
+    {
+      "skill_name": "Correspondence Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Correspondence Analysis to real-world datasets."
+    },
+    {
+      "skill_name": "Multiple Correspondence Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct Multiple Correspondence Analysis on complex datasets."
+    },
+    {
+      "skill_name": "Canonical Correlation Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform Canonical Correlation Analysis on multivariate data."
+    },
+    {
+      "skill_name": "Statistical Software Proficiency",
+      "category": "Tool/Software",
+      "outcome_description": "Demonstrate proficiency in using statistical software such as R."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate statistical models and results."
+    },
+    {
+      "skill_name": "Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively to solve problems related to data analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

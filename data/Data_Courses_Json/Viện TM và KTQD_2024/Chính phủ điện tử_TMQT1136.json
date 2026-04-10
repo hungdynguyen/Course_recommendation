@@ -1,0 +1,72 @@
+{
+  "course_id": "TMQT1136",
+  "title": "Chính phủ điện tử",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-Government",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept, benefits, and stages of e-government development. Be able to analyze and solve practical issues related to e-government."
+    },
+    {
+      "skill_name": "Public Administration",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of e-government in public administration and its application in various government activities."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate data and information related to e-government services."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan and implement e-government projects, including policy formulation and technology application."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both individual and group settings, presenting and discussing e-government topics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to identify and solve problems related to e-government services."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, contributing to group projects and presentations."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills and the ability to research and understand e-government topics."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand ethical and social responsibilities in e-government and business contexts."
+    },
+    {
+      "skill_name": "Digital Literacy",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize digital tools and platforms for e-government transactions and services."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thương mại điện tử căn bản"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of E-commerce",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

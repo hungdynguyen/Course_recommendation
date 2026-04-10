@@ -1,0 +1,55 @@
+{
+  "course_id": "DLKS1139",
+  "title": "Career development in hospitality industry",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Hotel Industry Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the history and structure of the hotel industry."
+    },
+    {
+      "skill_name": "Job Opportunities in Hospitality",
+      "category": "Hard Skill",
+      "outcome_description": "Identify job opportunities and requirements in the hospitality industry."
+    },
+    {
+      "skill_name": "Personal Career Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal career plans and strategies for advancement."
+    },
+    {
+      "skill_name": "Industry Trends and Prospects",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze current trends and future prospects in the hospitality industry."
+    },
+    {
+      "skill_name": "Hotel Industry Standards",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply Vietnam Tourism Occupational Skills Standards (VTOS)."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze job requirements and career paths."
+    },
+    {
+      "skill_name": "Professional Attitude",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate a professional attitude towards the hospitality industry."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in group settings to solve problems and present findings."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

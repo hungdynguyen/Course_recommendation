@@ -1,0 +1,60 @@
+{
+  "course_id": "NNTV1107",
+  "title": "Vietnamese in Use",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Recall new vocabulary and phrases",
+      "category": "Hard Skill",
+      "outcome_description": "Recall new vocabulary and phrases in various topics."
+    },
+    {
+      "skill_name": "Understand and illustrate grammatical structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and illustrate grammatical structures introduced in various topics."
+    },
+    {
+      "skill_name": "Answer and complete reading, listening, and practical exercises",
+      "category": "Hard Skill",
+      "outcome_description": "Answer and complete reading, listening, and practical exercises for each topic."
+    },
+    {
+      "skill_name": "Listen, understand, record, and follow lectures on similar topics",
+      "category": "Hard Skill",
+      "outcome_description": "Listen, understand, record, and follow lectures on similar topics with standard pronunciation."
+    },
+    {
+      "skill_name": "Fluently express personal opinions on similar topics",
+      "category": "Hard Skill",
+      "outcome_description": "Fluently express personal opinions on similar topics in a coherent manner."
+    },
+    {
+      "skill_name": "Read and summarize texts on similar topics",
+      "category": "Hard Skill",
+      "outcome_description": "Read and summarize texts on similar topics."
+    },
+    {
+      "skill_name": "Write detailed and clear descriptions on similar topics",
+      "category": "Hard Skill",
+      "outcome_description": "Write detailed and clear descriptions on similar topics."
+    },
+    {
+      "skill_name": "Actively engage in language communication activities",
+      "category": "Soft Skill",
+      "outcome_description": "Actively engage in language communication activities in a native environment."
+    },
+    {
+      "skill_name": "Proactively seek information from media to expand knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Proactively seek information from media to expand knowledge."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

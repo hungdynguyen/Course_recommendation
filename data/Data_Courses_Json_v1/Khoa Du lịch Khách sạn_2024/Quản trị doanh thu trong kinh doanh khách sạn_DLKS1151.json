@@ -1,0 +1,65 @@
+{
+  "course_id": "DLKS1151",
+  "title": "Revenue Management in Hospitality Business",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours (30 hours of lectures and 15 hours of seminars/practicals)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Revenue Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of revenue management, strategic pricing, and the role of revenue management."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze market segments, demand forecasting, and revenue optimization."
+    },
+    {
+      "skill_name": "Pricing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Apply pricing strategies in different scenarios."
+    },
+    {
+      "skill_name": "Inventory Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage inventory to optimize revenue."
+    },
+    {
+      "skill_name": "Dynamic Pricing",
+      "category": "Soft Skill",
+      "outcome_description": "Implement dynamic pricing based on fluctuating value."
+    },
+    {
+      "skill_name": "Distribution Channels",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and manage distribution channels."
+    },
+    {
+      "skill_name": "Revenue Optimization",
+      "category": "Soft Skill",
+      "outcome_description": "Optimize revenue through strategic pricing and inventory management."
+    },
+    {
+      "skill_name": "RevPAR Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage revenue per available room effectively."
+    },
+    {
+      "skill_name": "Legal and Ethical Issues",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal and ethical issues related to pricing and revenue management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the effectiveness of revenue management strategies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

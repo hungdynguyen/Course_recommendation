@@ -1,0 +1,60 @@
+{
+  "course_id": "MKTT1140",
+  "title": "Crisis Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature and role of crisis management",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the fundamental concepts, nature, and role of crisis management, including its lifecycle and steps."
+    },
+    {
+      "skill_name": "Analyzing external environments affecting crises",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how legal, economic, social, and technological environments impact crises."
+    },
+    {
+      "skill_name": "Strategic approach in crisis management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand strategic approaches through environmental analysis and risk identification using SWOT analysis."
+    },
+    {
+      "skill_name": "Ethical considerations in crisis management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand ethical, legal, and compliance requirements in crisis management, adapting to globalization and Industry 4.0 trends."
+    },
+    {
+      "skill_name": "Developing crisis response strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Practically develop crisis response strategies for specific brands, products, or issues."
+    },
+    {
+      "skill_name": "Proposing crisis communication strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Propose crisis communication strategies for specific brands or products."
+    },
+    {
+      "skill_name": "Active learning and research",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate initiative in learning, research, and group work."
+    },
+    {
+      "skill_name": "Choosing and analyzing crisis management topics",
+      "category": "Soft Skill",
+      "outcome_description": "Initiate topic selection and analysis in crisis management."
+    },
+    {
+      "skill_name": "Presenting research results effectively",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

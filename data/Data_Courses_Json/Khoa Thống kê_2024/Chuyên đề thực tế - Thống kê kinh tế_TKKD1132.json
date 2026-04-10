@@ -1,0 +1,89 @@
+{
+  "course_id": "TKKD1132",
+  "title": "Chuyên đề thực tế - Thống kê kinh tế",
+  "difficulty_level": "Beginner",
+  "duration": "15 hours of theory, 45 hours of practice",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply statistical methods to analyze real-world data and solve practical problems."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and gather data to understand and evaluate statistical activities in various organizations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and address issues in statistical practices within organizations."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Produce comprehensive reports detailing statistical applications and recommendations for improvement."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in groups to complete projects and tasks."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time efficiently to meet project deadlines and requirements."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and recommendations to stakeholders."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and analyze data from various sources to support statistical analysis."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical software to process and analyze data."
+    },
+    {
+      "skill_name": "Economic Statistics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply statistical techniques to economic data and scenarios."
+    },
+    {
+      "skill_name": "Business Statistics",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize statistical methods in business contexts to inform decision-making."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct market research using statistical tools and techniques."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate statistical information critically to make informed decisions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Economic Principles",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

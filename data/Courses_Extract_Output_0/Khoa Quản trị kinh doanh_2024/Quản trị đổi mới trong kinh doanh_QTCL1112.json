@@ -1,0 +1,48 @@
+{
+  "course_id": "Management Innovation",
+  "title": "Quản trị Đổi mới trong Kinh doanh",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Innovation Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of innovation management in business."
+    },
+    {
+      "skill_name": "Creative Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop creative thinking skills to generate innovative ideas."
+    },
+    {
+      "skill_name": "Business Model Innovation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and propose new business models."
+    },
+    {
+      "skill_name": "Product Development",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research and development for new products."
+    },
+    {
+      "skill_name": "Process Improvement",
+      "category": "Hard Skill",
+      "outcome_description": "Implement process improvements to enhance organizational efficiency."
+    },
+    {
+      "skill_name": "Intellectual Property Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage intellectual property effectively within an organization."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Business Administration",
+      "Management Principles"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

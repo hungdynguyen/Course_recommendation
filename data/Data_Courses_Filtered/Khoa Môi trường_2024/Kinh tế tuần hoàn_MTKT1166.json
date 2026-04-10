@@ -1,0 +1,56 @@
+{
+  "course_id": "MTKT1166",
+  "title": "Circular Economy",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of circular economy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the general concepts of circular economy, LCA approach, and value chain"
+    },
+    {
+      "skill_name": "Understanding fundamental principles of circular economy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic principles of circular economy, material flows, reuse, share, repair, remanufacture, recycle, and closed-loop processes"
+    },
+    {
+      "skill_name": "Understanding circular economy models in agriculture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the impact of agriculture on the environment, water management, crop production, livestock, and circular economy models in agriculture"
+    },
+    {
+      "skill_name": "Understanding circular economy models in industry",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the impact of industry on the environment, water management, energy efficiency, textile, plastic, food processing, and circular economy models in industry"
+    },
+    {
+      "skill_name": "Understanding circular economy models in construction and urban development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the impact of construction and urban development on the environment, waste management, recycling, energy efficiency, and circular economy models in construction and urban development"
+    },
+    {
+      "skill_name": "Understanding circular economy models in transportation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the impact of transportation on the environment, waste management, recycling, energy conversion, and circular economy models in transportation"
+    },
+    {
+      "skill_name": "Analyzing and evaluating issues related to circular economy",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate issues related to circular economy, draft circular economy models for specific industries, cities, or industrial zones"
+    },
+    {
+      "skill_name": "Developing teamwork skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork skills in practical situations; develop writing and presentation skills"
+    },
+    {
+      "skill_name": "Developing personal responsibility and social responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal responsibility, group responsibility, and social responsibility"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

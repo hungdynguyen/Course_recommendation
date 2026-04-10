@@ -1,0 +1,75 @@
+{
+  "course_id": "PTKT1131",
+  "title": "Chuyên đề thực tế (thực tập giữa khóa)",
+  "difficulty_level": "Advanced",
+  "duration": "4 Credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic activities and development processes of localities and enterprises."
+    },
+    {
+      "skill_name": "Environmental Impact Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Assess the impact of economic environment on development processes."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, collect information, analyze and solve problems systematically."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement policies, strategies, plans, and projects."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate with stakeholders, present issues in writing and orally."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in reflective and critical thinking, listen and provide feedback."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to ethical responsibilities in professional work."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and research skills for continuous professional development."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects and tasks effectively."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Collect, process, and analyze data for research and decision-making."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear, logical, and well-formatted reports."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economic Knowledge",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

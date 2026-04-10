@@ -1,0 +1,36 @@
+{
+  "course_id": "PTCC 1132",
+  "title": "Anticipatory Governance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic thinking and long-term planning capabilities."
+    },
+    {
+      "skill_name": "Scenario Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret complex scenarios to predict future trends."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize advanced tools and methods for data analysis to inform decision-making."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to evaluate and solve complex problems."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and recommendations through presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

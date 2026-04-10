@@ -1,0 +1,37 @@
+{
+  "course_id": "KTQT1103",
+  "title": "Managerial Accounting 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cost Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply cost analysis techniques to support managerial decision-making."
+    },
+    {
+      "skill_name": "Budgeting",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and analyze production and business budgets, including variance analysis between actual and budgeted figures."
+    },
+    {
+      "skill_name": "Accounting Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Apply fundamental accounting principles to managerial accounting contexts."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize accounting information to make informed management decisions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

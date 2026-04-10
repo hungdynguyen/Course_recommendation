@@ -1,0 +1,52 @@
+{
+  "course_id": "CNTT1190",
+  "title": "Service Oriented Software Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Service Oriented Architecture",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply Service Oriented Architecture principles."
+    },
+    {
+      "skill_name": "Web Services",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and implement web services using SOAP and RESTful protocols."
+    },
+    {
+      "skill_name": "Software Development",
+      "category": "Hard Skill",
+      "outcome_description": "Design and build service-oriented software systems."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to independently learn and apply new concepts."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to develop practical applications."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundations of Programming",
+      "Database Foundations"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming Fundamentals",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Database Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

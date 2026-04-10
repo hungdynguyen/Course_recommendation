@@ -1,0 +1,61 @@
+{
+  "course_id": "NNTM1180",
+  "title": "English – Reading & Writing Skills 2",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Vocabulary Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop advanced vocabulary through various topics covered in class and additional reading materials."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Read to identify themes, main ideas, and read with purpose to find specific details."
+    },
+    {
+      "skill_name": "Critical Reading",
+      "category": "Hard Skill",
+      "outcome_description": "Identify sequences of events, arguments for and against, levels of certainty, cause-effect relationships, problems-solutions, references, and how ideas connect."
+    },
+    {
+      "skill_name": "Summarization",
+      "category": "Hard Skill",
+      "outcome_description": "Summarize, infer, or judge the contents of reading materials, understand the author's purpose, attitude, figurative language, analysis, and evaluation of evidence."
+    },
+    {
+      "skill_name": "Writing Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Write various types of essays in an academic style, including introduction paragraphs, body paragraphs with main ideas and supporting details, conclusion paragraphs, and logical organization of ideas."
+    },
+    {
+      "skill_name": "Error Identification and Correction",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and correct errors in writing."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups, pairs, and discussions when solving reading and writing exercises as required by instructors."
+    },
+    {
+      "skill_name": "Self-study",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-study, practice, and self-assessment skills to develop autonomy in the learning process."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and responsibly to complete tasks related to improving reading and writing skills as required by instructors."
+    },
+    {
+      "skill_name": "Argumentation",
+      "category": "Hard Skill",
+      "outcome_description": "Express and defend personal opinions when writing essays in an academic style."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

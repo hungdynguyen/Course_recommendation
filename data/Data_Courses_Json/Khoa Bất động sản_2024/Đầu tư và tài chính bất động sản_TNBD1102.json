@@ -1,0 +1,52 @@
+{
+  "course_id": "TNBD1102",
+  "title": "Real estate Finance and Investment",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real Estate Investment",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic theories and concepts in real estate investment and finance."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and choose appropriate investment opportunities and financial channels."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and manage risks in real estate investment."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and present viewpoints in financial and investment contexts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve real estate investment problems."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional ethics and social responsibility in real estate investment."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Market Real Estate"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Real Estate",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

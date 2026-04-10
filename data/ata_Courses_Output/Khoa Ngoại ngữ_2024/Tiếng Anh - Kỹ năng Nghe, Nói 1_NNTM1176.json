@@ -1,0 +1,49 @@
+{
+  "course_id": "NNTM1176",
+  "title": "English – Listening and Speaking skills 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply vocabulary, sentence patterns, background knowledge, strategies, and listening skills to comprehend daily familiar topics as well as unfamiliar topics."
+    },
+    {
+      "skill_name": "Speaking Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Use English relatively fluently in social interactions about familiar topics."
+    },
+    {
+      "skill_name": "Vocabulary Acquisition",
+      "category": "Hard Skill",
+      "outcome_description": "Acquire vocabulary, grammar structures, and dialogue models related to various topics at the B1 level."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking, technology-based information search, synthesis, and analysis skills to solve problems related to different topics."
+    },
+    {
+      "skill_name": "Independent Work and Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to work independently, conduct self-study, show personal responsibility, and work in teams; express and defend personal opinions based on objective scientific approaches; demonstrate social responsibility when making judgments and evaluations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English Communication",
+        "minimum_proficiency_level": 0
+      },
+      {
+        "skill_name": "Basic Listening Comprehension",
+        "minimum_proficiency_level": 0
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

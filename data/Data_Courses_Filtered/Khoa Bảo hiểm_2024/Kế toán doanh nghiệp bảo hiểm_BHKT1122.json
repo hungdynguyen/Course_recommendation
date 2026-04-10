@@ -1,0 +1,76 @@
+{
+  "course_id": "BHKT1122",
+  "title": "Accounting for Insurance Enterprise",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding principles of accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply the principles of accounting, characteristics of business operations, and accounting practices in insurance enterprises."
+    },
+    {
+      "skill_name": "Characteristics of accounting in insurance enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply the characteristics of accounting in insurance enterprises."
+    },
+    {
+      "skill_name": "Organization of accounting work in insurance enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the organizational structure, accounting methods, and accounting account system in insurance enterprises."
+    },
+    {
+      "skill_name": "Theoretical foundations of financial management in insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply theoretical foundations of financial management in insurance, including revenue and cost accounting in insurance enterprises."
+    },
+    {
+      "skill_name": "Revenue and cost accounting in insurance enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to revenue and cost accounting in insurance enterprises."
+    },
+    {
+      "skill_name": "Asset accounting in insurance enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to asset accounting in insurance enterprises."
+    },
+    {
+      "skill_name": "Source capital accounting in insurance enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to source capital accounting in insurance enterprises."
+    },
+    {
+      "skill_name": "Determining business results in insurance enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to determine business results in insurance enterprises."
+    },
+    {
+      "skill_name": "Independent work ability",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work ability and teamwork skills, research capabilities, logical and critical thinking."
+    },
+    {
+      "skill_name": "Teamwork skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork skills."
+    },
+    {
+      "skill_name": "Research capabilities",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate research capabilities."
+    },
+    {
+      "skill_name": "Logical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate logical thinking."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate critical thinking."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,36 @@
+environment: dev
+
+paths:
+  course_catalog_dir: data/Data_Courses_Filtered
+  cache_dir: .cache
+
+elasticsearch:
+  hosts:
+    - http://elasticsearch:9200
+  username: ${ELASTICSEARCH_USERNAME}
+  password: ${ELASTICSEARCH_PASSWORD}
+  index: course_skills      # index lưu canonical skills (embedding + metadata)
+  vector_dim: 1024
+  batch_size: 128
+  recreate_index: true
+
+embedding:
+  model_name: Qwen/Qwen3-Embedding-0.6B
+  model_path: null          # ghi đường dẫn local model để override (e.g. models/qwen_finetuned)
+  batch_size: 16
+  device: cuda              # cuda | cpu
+  normalize: true
+
+# Deduplication config: fuzzy string matching + embedding similarity
+deduplication:
+  fuzzy_threshold: 0.95     
+  embedding_threshold: 0.92 
+  batch_size: 512           
+  canonical_strategy: first 
+
+neo4j:
+  uri: ${NEO4J_URI}
+  username: ${NEO4J_USERNAME}
+  password: ${NEO4J_PASSWORD}
+  database: neo4j
+  batch_size: 5000

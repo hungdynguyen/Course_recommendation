@@ -1,0 +1,48 @@
+{
+  "course_id": "TMKQ1107",
+  "title": "International Economic Integration",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the theoretical foundations of international economic integration including concepts, characteristics, nature, and inherent necessity."
+    },
+    {
+      "skill_name": "Global Impact Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze both positive and negative impacts of international economic integration on a country's socio-economic development within a globalized context."
+    },
+    {
+      "skill_name": "World Trade Organization",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend fundamental issues related to the World Trade Organization, including its goals, functions, operational principles, organizational structure, and role in member countries' economic development."
+    },
+    {
+      "skill_name": "Regional Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Examine the content and situation of regional integration in EU and ASEAN, as well as Vietnam's cooperation and participation."
+    },
+    {
+      "skill_name": "Free Trade Agreements",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of free trade agreements on Vietnam."
+    },
+    {
+      "skill_name": "Vietnam's Integration Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand Vietnam's process of international economic integration and the Party's views on this topic."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1",
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "course_id": "LUCS1104",
+  "title": "Constitutional Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Constitutional Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental theories of constitutional law and the legal framework of Vietnam."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and accumulate knowledge on constitutional law and related legal frameworks."
+    },
+    {
+      "skill_name": "Public Policy",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and understand the foundational structures of Vietnamese society, including political, economic, cultural, and social systems."
+    },
+    {
+      "skill_name": "Human Rights",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge on human rights and the rights and obligations of Vietnamese citizens."
+    },
+    {
+      "skill_name": "Government Structure",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge on the organizational structure of the Vietnamese government."
+    },
+    {
+      "skill_name": "Election Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge on election laws and regulations."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings and contribute to group projects."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and communicate research findings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and critically evaluate legal and political issues."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

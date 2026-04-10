@@ -1,0 +1,57 @@
+{
+  "course_id": "TNTN1138",
+  "title": "Environmental Impact Assessment of Natural Resource Projects",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Impact Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, objectives, and importance of environmental impact assessment for natural resource projects."
+    },
+    {
+      "skill_name": "Policy and Legal Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Understand Vietnam's policies and legal framework for environmental impact assessment of natural resource projects."
+    },
+    {
+      "skill_name": "Evaluation Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various methods used for evaluating environmental impacts of natural resource projects."
+    },
+    {
+      "skill_name": "Community Involvement",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of community involvement in environmental impact assessments of natural resource projects."
+    },
+    {
+      "skill_name": "Impact Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and determine environmental impacts of natural resource projects using various evaluation methods."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply project management principles to conduct environmental impact assessments of natural resource projects."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to assess and evaluate environmental impacts of natural resource projects."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in teams to solve problems related to environmental impact assessments of natural resource projects."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Resource Management 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

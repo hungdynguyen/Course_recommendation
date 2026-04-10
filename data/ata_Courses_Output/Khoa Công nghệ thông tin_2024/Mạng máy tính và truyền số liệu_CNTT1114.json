@@ -1,0 +1,67 @@
+{
+  "course_id": "CNTT1114",
+  "title": "Computer Network and Data Communication",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Network Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply basic knowledge about network architecture, communication protocols, network classification criteria, layered architecture, OSI model, TCP/IP model."
+    },
+    {
+      "skill_name": "Transmission Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Explain and apply principles of transmission techniques, calculate channel characteristics, understand and apply coding and modulation, error detection and correction, data transmission control."
+    },
+    {
+      "skill_name": "Local Area Networks (LAN)",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain basic elements of LAN: Ethernet standards, network devices, virtual LANs, wireless LANs."
+    },
+    {
+      "skill_name": "Wide Area Networks (WAN)",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain WAN techniques: PSTN voice network, leased line connections, ISDN, DSL technologies."
+    },
+    {
+      "skill_name": "TCP/IP Protocols",
+      "category": "Hard Skill",
+      "outcome_description": "Explain operation of TCP, UDP, IP protocols, routing protocols, common internet services. Apply subnetting techniques, configure IP addresses for computers and routers, use common internet services."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply learned knowledge to solve problems related to computer networks and data communication in real-world scenarios."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present course content and solve related exercises."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate with team members to complete group assignments on time."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to independently learn and understand relevant network system knowledge."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop awareness of social context, ethical responsibility, and social responsibility in the field of information technology."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

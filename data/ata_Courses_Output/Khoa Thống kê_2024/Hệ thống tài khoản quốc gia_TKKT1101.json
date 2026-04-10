@@ -1,0 +1,55 @@
+{
+  "course_id": "TKkt1101",
+  "title": "System of National Accounts",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "National Accounts Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of SNA and how to calculate macroeconomic indicators."
+    },
+    {
+      "skill_name": "Structure Comparison",
+      "category": "Hard Skill",
+      "outcome_description": "Compare structures of accounts and input-output tables."
+    },
+    {
+      "skill_name": "Analysis Application",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate and apply various analytical approaches for accounts and input-output tables."
+    },
+    {
+      "skill_name": "Account Creation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge to create national accounts and input-output tables."
+    },
+    {
+      "skill_name": "Analytical Tools Mastery",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiently use tools to analyze relationships between production, final consumption, and added value."
+    },
+    {
+      "skill_name": "Interpretation Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Explain analysis results, compare with economic theories, and assess policies for decision-making support."
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have a clear understanding of social context."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Use critical thinking to solve problems within the scope of macroeconomics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

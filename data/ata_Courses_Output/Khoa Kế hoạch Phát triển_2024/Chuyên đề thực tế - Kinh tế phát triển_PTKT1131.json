@@ -1,0 +1,60 @@
+{
+  "course_id": "PTKT1131",
+  "title": "Chuyên đề thực tế (thực tập giữa khóa)",
+  "difficulty_level": "Advanced",
+  "duration": "60 hours of practical training, 105 hours of self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Environment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the economic environment's impact on the development process of organizations at both macro and micro levels."
+    },
+    {
+      "skill_name": "Overall Analysis Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Master the overall analysis framework and synthesize issues that govern development processes."
+    },
+    {
+      "skill_name": "Model Selection for Development Management",
+      "category": "Hard Skill",
+      "outcome_description": "Select and use models, analytical tools, and planning methods to manage development issues effectively."
+    },
+    {
+      "skill_name": "Effective Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively with stakeholders, present problems through written reports and presentations."
+    },
+    {
+      "skill_name": "Systematic Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, gather information, analyze, and solve problems systematically."
+    },
+    {
+      "skill_name": "Policy Implementation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop, implement, monitor, and evaluate policies, strategies, plans, and projects."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize ethical responsibilities in work, group responsibility, social responsibility, and professional ethics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think critically, listen actively, and engage in reflective thinking."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to learn independently, accumulate knowledge and experience to advance further."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "QLKT1120",
+  "title": "Planning",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a comprehensive understanding of strategic planning processes."
+    },
+    {
+      "skill_name": "Operational Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply operational planning techniques."
+    },
+    {
+      "skill_name": "Environmental Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze external environments to inform planning decisions."
+    },
+    {
+      "skill_name": "Economic Development Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Apply principles of economic development planning."
+    },
+    {
+      "skill_name": "Target Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance skills in target management and analysis."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management Studies 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

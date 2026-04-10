@@ -1,0 +1,51 @@
+{
+  "course_id": "LUKD1183",
+  "title": "Law on Marriage and Family",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Principles of Vietnamese Marriage and Family Law",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the basic principles of Vietnamese marriage and family law, including legal conditions for marriage, registration procedures, legal consequences of violating these conditions, family relationships, maintenance obligations, dissolution of marriage, and laws concerning foreign elements in marriage and family."
+    },
+    {
+      "skill_name": "Analyzing Legal Provisions of Marriage and Family Law",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze and distinguish between different cases of invalid marriages and their legal consequences, differentiate between statutory and agreed-upon marital property regimes, and understand the legal consequences of divorce due to death versus mutual agreement."
+    },
+    {
+      "skill_name": "Applying Legal Provisions to Solve Practical Issues",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply legal provisions to solve specific marriage and family issues in real life, such as invalid marriages, divorces, disputes over marital property, child custody, and maintenance obligations."
+    },
+    {
+      "skill_name": "Legal Consultation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students provide effective legal consultation to clients to protect their rights and legitimate interests under marriage and family laws."
+    },
+    {
+      "skill_name": "Research and Analysis Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop research and analysis skills to study and evaluate legal issues related to marriage and family."
+    },
+    {
+      "skill_name": "Group Work and Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students enhance their ability to work in groups and present findings effectively."
+    },
+    {
+      "skill_name": "Self-directed Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop the ability to independently study, accumulate, and improve specialized knowledge and professional skills."
+    },
+    {
+      "skill_name": "Critical Thinking and Evaluation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop critical thinking and evaluation skills to assess and defend their professional opinions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

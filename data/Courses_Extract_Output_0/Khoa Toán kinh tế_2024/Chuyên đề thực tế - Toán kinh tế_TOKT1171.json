@@ -1,0 +1,31 @@
+{
+  "course_id": "TOKT1171",
+  "title": "Project",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze quantitative data in real-world applications."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using statistical software such as Eviews, STATA, SPSS, R, Python, and SAS."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to solve practical problems using mathematical economics knowledge."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to write comprehensive reports detailing project findings and recommendations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

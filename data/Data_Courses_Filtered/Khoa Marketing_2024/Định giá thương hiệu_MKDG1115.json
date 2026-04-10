@@ -1,0 +1,92 @@
+{
+  "course_id": "MKDG1115",
+  "title": "Brand Valuation",
+  "difficulty_level": "Intermediate",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding principles and procedures of brand valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles and procedures of brand valuation."
+    },
+    {
+      "skill_name": "Understanding relevant legal documents for brand valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand relevant legal documents related to brand valuation."
+    },
+    {
+      "skill_name": "Understanding reporting methods and certificates for brand valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand reporting methods and certificates related to brand valuation."
+    },
+    {
+      "skill_name": "Applying theories on brands and brand valuation in practical brand valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theories on brands and brand valuation in practical brand valuation."
+    },
+    {
+      "skill_name": "Analyzing qualitative and quantitative techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand analytical techniques for qualitative and quantitative analysis."
+    },
+    {
+      "skill_name": "Using basic mathematical models to analyze and interpret data on brand valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Use basic mathematical models to analyze and interpret data on brand valuation."
+    },
+    {
+      "skill_name": "Understanding brand valuation techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various techniques used in brand valuation."
+    },
+    {
+      "skill_name": "Combining specialized knowledge with brand valuation techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Combine specialized knowledge with brand valuation techniques."
+    },
+    {
+      "skill_name": "Understanding brand valuation methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand different methods used in brand valuation."
+    },
+    {
+      "skill_name": "Selecting appropriate brand valuation methods based on real-world conditions",
+      "category": "Hard Skill",
+      "outcome_description": "Select appropriate brand valuation methods based on real-world conditions."
+    },
+    {
+      "skill_name": "Collecting necessary materials for practical brand valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Collect necessary materials for practical brand valuation."
+    },
+    {
+      "skill_name": "Writing and reporting research results",
+      "category": "Hard Skill",
+      "outcome_description": "Write and report research results."
+    },
+    {
+      "skill_name": "Attending and contributing to group meetings",
+      "category": "Soft Skill",
+      "outcome_description": "Attend and contribute to group meetings."
+    },
+    {
+      "skill_name": "Creating a dynamic, flexible, friendly working environment",
+      "category": "Soft Skill",
+      "outcome_description": "Create a dynamic, flexible, friendly working environment."
+    },
+    {
+      "skill_name": "Supporting team members and resolving conflicts",
+      "category": "Soft Skill",
+      "outcome_description": "Support team members and resolve conflicts."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management of Value"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

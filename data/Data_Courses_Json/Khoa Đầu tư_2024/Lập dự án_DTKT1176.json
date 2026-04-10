@@ -1,0 +1,49 @@
+{
+  "course_id": "DTKT 1176",
+  "title": "Project Design",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts of development investment and investment projects; grasp the research procedures and organization of project design."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Master the methods and criteria for evaluating the financial and socio-economic effectiveness of investment projects."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in analyzing and drafting specific investment projects, and in selecting optimal investment options."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the social context and adapt to globalization, have social responsibility and abide by regulations and laws."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to work independently and collaboratively, with a spirit of cooperation and responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Investment Economics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

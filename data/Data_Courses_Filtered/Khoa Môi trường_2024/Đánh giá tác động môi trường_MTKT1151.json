@@ -1,0 +1,57 @@
+{
+  "course_id": "MTKT1151",
+  "title": "Environmental Impact Assessment",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of EIA",
+      "category": "Hard Skill",
+      "outcome_description": "Remember and understand the concepts of EIA, SEA, identification, analysis, and evaluation of physical impacts of policies, programs, projects, and development activities on the environment."
+    },
+    {
+      "skill_name": "Understanding nature and methodology of EIA and SEA",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence and methodology of EIA and SEA and integrate the results of EIA and SEA into the decision-making process."
+    },
+    {
+      "skill_name": "Mastering the implementation process of EIA and SEA",
+      "category": "Hard Skill",
+      "outcome_description": "Master the implementation process of EIA and SEA from impact assessment, data collection, data analysis and processing, presentation, and reporting of evaluation results."
+    },
+    {
+      "skill_name": "Approach and methods for environmental impact assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the approach and methods for environmental impact assessment and ways to reduce and manage negative impacts."
+    },
+    {
+      "skill_name": "Applying theoretical principles to prepare simple EIA reports",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical principles, basic models to prepare simple EIA and SEA reports."
+    },
+    {
+      "skill_name": "Developing discussion, explanation, analysis, and evaluation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills for discussion, explanation, analysis, and evaluation of EIA and SEA contents."
+    },
+    {
+      "skill_name": "Developing independent learning ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently."
+    },
+    {
+      "skill_name": "Developing teamwork and responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to work in teams with personal responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundations of Environmental Science (MTKT1149)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

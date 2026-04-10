@@ -1,0 +1,65 @@
+{
+  "course_id": "TIKT1109",
+  "title": "Basic Informatics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of informatics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand fundamental terms related to informatics, electronic computers, management information systems, computer networks, and information security."
+    },
+    {
+      "skill_name": "Understanding functions of computer parts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the function of each part of an electronic computer and the role of different types of computer networks."
+    },
+    {
+      "skill_name": "Understanding operating system functions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of an operating system for an electronic computer and use basic Windows 10 operating system."
+    },
+    {
+      "skill_name": "Resource management principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles of managing resources in a computer to manage programs and data scientifically, ensuring quick and accurate access."
+    },
+    {
+      "skill_name": "Basic skills with Microsoft Office",
+      "category": "Hard Skill",
+      "outcome_description": "Possess basic practical skills with core modules in Microsoft Office (Word, Excel, PowerPoint, Outlook, Teams)."
+    },
+    {
+      "skill_name": "Self-study and documentation reading",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to self-study, read documents, and use computer software."
+    },
+    {
+      "skill_name": "Independent work and responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to work independently or actively, positively, and effectively in group activities."
+    },
+    {
+      "skill_name": "Group activity organization",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to organize group activities."
+    },
+    {
+      "skill_name": "Social responsibility and class discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Possess social responsibility and class discipline awareness, follow classroom rules, and have a sense of cooperation and personal responsibility for assigned activities by instructors."
+    },
+    {
+      "skill_name": "Information security",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of information security and perform basic maintenance on computers."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

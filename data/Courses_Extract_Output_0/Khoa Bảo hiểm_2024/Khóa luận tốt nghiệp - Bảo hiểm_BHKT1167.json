@@ -1,0 +1,59 @@
+{
+  "course_id": "BHKT1167",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research capabilities, including problem identification, literature review, and data analysis."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to evaluate existing policies and propose solutions based on empirical evidence."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings through written reports and presentations."
+    },
+    {
+      "skill_name": "Industry Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Gain in-depth knowledge of insurance industry practices, regulations, and market trends."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage project timelines, resources, and deliverables effectively."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret complex data sets related to insurance operations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "BHTM2",
+      "BHXH2",
+      "QTKDBH2",
+      "QLBHXH2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance Fundamentals",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Statistical Methods",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

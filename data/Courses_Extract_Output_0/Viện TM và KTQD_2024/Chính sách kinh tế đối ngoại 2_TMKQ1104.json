@@ -1,0 +1,32 @@
+{
+  "course_id": "TMKQ1104",
+  "title": "Foreign Economic Policy 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze foreign economic policies of major trading partners including China, Japan, South Korea, EU, and USA."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate historical development and reforms of Vietnam's foreign economic policy across different periods."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies for international economic integration and propose adjustments to Vietnam's foreign economic policy."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foreign Economic Policy 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "course_id": "QLKT1128",
+  "title": "Managing Change",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Change Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand organizational change, resistance to change, theories of change management, processes of organizational change management, learning organizations, and organizational development."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective communication, presentation, negotiation, and time management skills."
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply analytical skills to assess change drivers and resistors within organizations."
+    },
+    {
+      "skill_name": "Process Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply change management processes within organizations."
+    },
+    {
+      "skill_name": "Organizational Learning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply concepts of organizational learning and development."
+    },
+    {
+      "skill_name": "Professional Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional skills including planning, coordination, evaluation, and improvement of work."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and ethical behavior in professional practice."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and adaptability skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

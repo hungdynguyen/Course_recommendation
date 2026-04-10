@@ -1,0 +1,42 @@
+{
+  "course_id": "MTDT1127",
+  "title": "Urban Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Economics Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze urban economic issues such as land use, urban transportation, income distribution, and crime."
+    },
+    {
+      "skill_name": "Economic Growth Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze factors contributing to urban economic growth."
+    },
+    {
+      "skill_name": "Infrastructure Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and plan urban infrastructure based on economic principles."
+    },
+    {
+      "skill_name": "Crime Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic models to understand and analyze urban crime patterns."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make optimal decisions regarding location choices for households and businesses."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Principles"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

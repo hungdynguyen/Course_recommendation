@@ -1,0 +1,46 @@
+{
+  "course_id": "QLKT1101",
+  "title": "Essentials of Management 1",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social System Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and classify social systems, organizations, management, managers."
+    },
+    {
+      "skill_name": "Management Environment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze management environment, ethics, social responsibility, globalization characteristics and impact on organizational management."
+    },
+    {
+      "skill_name": "Decision Making Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand decision making process, planning, organizing, leading, controlling functions."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice effective communication, presentation, negotiation, teamwork, group management, time management."
+    },
+    {
+      "skill_name": "Problem Solving Decision Making",
+      "category": "Hard Skill",
+      "outcome_description": "Practice problem-solving decision-making skills for real-life issues."
+    },
+    {
+      "skill_name": "Planning and Organizing Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Practice planning, organizing, leading, and controlling skills for specific systems/organizations/groups."
+    },
+    {
+      "skill_name": "Independent Work Capability",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work capability, professional responsibility, service spirit, social responsibility, ethical conduct, self-study ability, and adaptability to changes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

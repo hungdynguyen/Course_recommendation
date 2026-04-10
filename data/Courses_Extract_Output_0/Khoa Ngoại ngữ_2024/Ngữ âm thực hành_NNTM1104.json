@@ -1,0 +1,35 @@
+{
+  "course_id": "NNTM1104",
+  "title": "Pronunciation course",
+  "difficulty_level": "Beginner",
+  "duration": "2 credits (100 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Pronunciation",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to pronounce English sounds accurately, identify and correct their own pronunciation errors, and improve their communication skills."
+    },
+    {
+      "skill_name": "Vocal Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn techniques for proper vocal production, including stress and intonation patterns."
+    },
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop listening skills necessary for understanding spoken English."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will enhance their ability to communicate effectively in English, with appropriate stress and intonation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

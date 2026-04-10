@@ -1,0 +1,37 @@
+{
+  "course_id": "NNTM1111",
+  "title": "Interpretation 1",
+  "difficulty_level": "Advanced",
+  "duration": "100 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Simultaneous Interpreting",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to interpret simultaneously in real-time settings."
+    },
+    {
+      "skill_name": "Note-taking Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Efficient note-taking techniques for interpreting."
+    },
+    {
+      "skill_name": "Economic Terminology",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using economic terminology in various contexts."
+    },
+    {
+      "skill_name": "Continuous Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Awareness of lifelong learning to continuously improve translation skills in diverse professional fields."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Practical Translation 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

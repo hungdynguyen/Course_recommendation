@@ -1,0 +1,42 @@
+{
+  "course_id": "KTTC1122",
+  "title": "Internship in Auditing",
+  "difficulty_level": "Advanced",
+  "duration": "200 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Auditing",
+      "category": "Soft Skill",
+      "outcome_description": "Apply auditing principles in real-world scenarios."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on internal control and auditing topics."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve practical issues based on theoretical knowledge."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and solutions in professional settings."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply legal regulations related to economics and finance."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Auditing 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

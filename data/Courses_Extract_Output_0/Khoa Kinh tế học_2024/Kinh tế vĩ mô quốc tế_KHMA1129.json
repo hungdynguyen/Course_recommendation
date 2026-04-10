@@ -1,0 +1,43 @@
+{
+  "course_id": "KHMA1129",
+  "title": "International Macroeconomics",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Macroeconomics Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the impact of events on open economies."
+    },
+    {
+      "skill_name": "Globalization Impact",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the benefits and costs of globalization on economies."
+    },
+    {
+      "skill_name": "Policy Decision Making",
+      "category": "Hard Skill",
+      "outcome_description": "Formulate government policies to address economic shocks."
+    },
+    {
+      "skill_name": "Exchange Rate Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply exchange rate theories and policies."
+    },
+    {
+      "skill_name": "Economic Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and interpret modern economic models."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2",
+      "Macroeconomics 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

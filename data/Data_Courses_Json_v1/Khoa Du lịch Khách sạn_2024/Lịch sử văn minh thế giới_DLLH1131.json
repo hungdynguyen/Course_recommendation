@@ -1,0 +1,45 @@
+{
+  "course_id": "DLLH1131",
+  "title": "World Civilization History",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "History",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the conditions for the formation of civilizations, the history of their formation and development, and the significant contributions of these civilizations to the continuous development and prosperity of human society."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and interpret historical events and their impacts on modern society."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on various civilizations and their contributions to human development."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings and historical insights through presentations and discussions."
+    },
+    {
+      "skill_name": "Cultural Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Gain cultural awareness and appreciation for the values and traditions of different civilizations."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical principles in the study and discussion of historical events and cultural practices."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

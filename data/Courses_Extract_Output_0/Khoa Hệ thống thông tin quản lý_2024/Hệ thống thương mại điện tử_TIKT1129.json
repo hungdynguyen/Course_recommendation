@@ -1,0 +1,37 @@
+{
+  "course_id": "Hệ thống thương mại điện tử",
+  "title": "System of Electronic Commerce",
+  "difficulty_level": "Intermediate",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Electronic Commerce Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of electronic commerce including benefits, platforms, models, applications, infrastructure, payment systems, transaction security, legal frameworks, and solutions for businesses."
+    },
+    {
+      "skill_name": "Legal Frameworks",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend relevant legal frameworks related to electronic commerce in Vietnam."
+    },
+    {
+      "skill_name": "Technology Support",
+      "category": "Soft Skill",
+      "outcome_description": "Gain knowledge on technologies supporting electronic commerce models."
+    },
+    {
+      "skill_name": "WordPress",
+      "category": "Hard Skill",
+      "outcome_description": "Learn to use WordPress as a platform for electronic commerce systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Systems"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

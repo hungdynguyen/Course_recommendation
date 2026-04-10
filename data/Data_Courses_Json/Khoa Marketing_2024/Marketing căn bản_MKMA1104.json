@@ -1,0 +1,67 @@
+{
+  "course_id": "MKMA1104",
+  "title": "Principles of Marketing",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts, philosophies, and principles of marketing."
+    },
+    {
+      "skill_name": "Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role and position of marketing within an organization and its relationship with other functional areas."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the importance of information in decision-making and the process of collecting and analyzing market information."
+    },
+    {
+      "skill_name": "Market Environment",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the macro and micro factors that influence marketing decisions."
+    },
+    {
+      "skill_name": "Market Segmentation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the process of market segmentation, target market selection, and positioning."
+    },
+    {
+      "skill_name": "Marketing Mix",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the four Ps (Product, Price, Place, Promotion) and their application in marketing strategy."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to work in groups and analyze marketing activities in a specific business context."
+    },
+    {
+      "skill_name": "Ethical and Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the social context and ethical responsibilities in marketing."
+    },
+    {
+      "skill_name": "Marketing Decisions",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the process of making strategic marketing decisions."
+    },
+    {
+      "skill_name": "Marketing Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze marketing activities and make recommendations for improvement."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "course_id": "PTCC 1121",
+  "title": "Public Economics 2",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours of class time, 105 hours of self-study)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the concept and role of public finance",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the concept and role of public finance."
+    },
+    {
+      "skill_name": "Analyzing public finance policies based on four criteria (4E: Economy, Efficiency, Effectiveness, Equity)",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand and explain the analytical framework for public finance policies based on four criteria (4E)."
+    },
+    {
+      "skill_name": "Measuring the scale of public finance",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the measurement criteria and factors affecting the scale of public finance."
+    },
+    {
+      "skill_name": "Analyzing models of public finance scale",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the nature of models used to analyze the scale of public finance."
+    },
+    {
+      "skill_name": "Understanding common issues in public expenditure, taxation, borrowing, and budget decentralization",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand common issues related to public expenditure, taxation, borrowing, and budget decentralization."
+    },
+    {
+      "skill_name": "Modern standards of public expenditure management",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand modern standards of public expenditure management and principles for evaluating public expenditures based on two types: capital and recurrent expenditures."
+    },
+    {
+      "skill_name": "Analyzing the impact of taxation",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze the impact of taxation from two perspectives: fairness and efficiency; basic principles of taxation and optimal tax theory."
+    },
+    {
+      "skill_name": "Principles of borrowing and managing public debt",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand basic principles of borrowing and managing public debt, as well as the advantages and disadvantages of fiscal decentralization."
+    },
+    {
+      "skill_name": "Analyzing and evaluating current public expenditure, taxation, borrowing, and budget management policies in Vietnam",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze and evaluate current public expenditure, taxation, borrowing, and budget management policies in Vietnam."
+    },
+    {
+      "skill_name": "Analyzing and evaluating major trends in public financial management reform globally and in Vietnam",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze and evaluate major trends in public financial management reform globally and in Vietnam."
+    },
+    {
+      "skill_name": "Reading, writing, presenting, and debating on topics related to public finance policy",
+      "category": "Soft Skill",
+      "outcome_description": "Students have the ability to read, write, present, and debate on topics related to public finance policy."
+    },
+    {
+      "skill_name": "Analyzing and synthesizing complex information related to public finance policy",
+      "category": "Soft Skill",
+      "outcome_description": "Students have the ability to analyze and synthesize complex information related to public finance policy."
+    },
+    {
+      "skill_name": "Ethical awareness and professional responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Students have ethical awareness and professional responsibility."
+    },
+    {
+      "skill_name": "Creative thinking and having a stance",
+      "category": "Soft Skill",
+      "outcome_description": "Students have creative thinking and a stance; they know how to listen and think critically."
+    },
+    {
+      "skill_name": "Active participation in group activities",
+      "category": "Soft Skill",
+      "outcome_description": "Students have the ability to actively participate in group activities."
+    },
+    {
+      "skill_name": "Organizing, supervising, and inspiring members in performing assigned tasks and social activities",
+      "category": "Soft Skill",
+      "outcome_description": "Students have the ability to organize, supervise, and inspire members in performing assigned tasks and social activities."
+    },
+    {
+      "skill_name": "Personal responsibility towards the group, community, and society",
+      "category": "Soft Skill",
+      "outcome_description": "Students have personal responsibility towards the group, community, and society."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

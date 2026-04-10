@@ -1,0 +1,65 @@
+{
+  "course_id": "QLXH1103",
+  "title": "Introduction to Public Sector and Public Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Administration",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts and principles of public sector and public management, and apply them to explain public issues."
+    },
+    {
+      "skill_name": "Public Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze public issues and propose appropriate management solutions in the public sector."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in presenting and communicating ideas effectively in group settings."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time and resources effectively."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze public issues and make decisions in public management."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or in groups, evaluate and improve the effectiveness of activities."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Guide and supervise others in completing tasks, take personal and group responsibility."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve practical public management issues, defend personal viewpoints."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Act with a spirit of service, social responsibility, and professional ethics."
+    },
+    {
+      "skill_name": "Continuous Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in continuous learning to meet job requirements and adapt to changes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

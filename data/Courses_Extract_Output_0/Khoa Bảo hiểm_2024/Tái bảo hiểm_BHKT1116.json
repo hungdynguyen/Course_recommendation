@@ -1,0 +1,52 @@
+{
+  "course_id": "BHKT1116",
+  "title": "Reinsurance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Contract Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze insurance contracts and their implications in reinsurance."
+    },
+    {
+      "skill_name": "Reinsurance Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply various reinsurance techniques including treaty and facultative reinsurance."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage risks associated with reinsurance operations."
+    },
+    {
+      "skill_name": "Legal Framework",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend legal frameworks governing reinsurance activities."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze reinsurance markets and trends."
+    },
+    {
+      "skill_name": "Contract Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate terms and conditions of reinsurance contracts."
+    },
+    {
+      "skill_name": "Reinsurance Program Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design comprehensive reinsurance programs for insurance companies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "course_id": "KTKE1108",
+  "title": "International Accounting",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature and role of international accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the formation and development of the international accounting system."
+    },
+    {
+      "skill_name": "Understanding the diversity of the international accounting system",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the factors influencing the diversity of international accounting."
+    },
+    {
+      "skill_name": "Understanding the differences between principle-based and rule-based accounting standards",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the differences between IAS/IFRS and US GAAP."
+    },
+    {
+      "skill_name": "Analyzing financial reports in multinational companies",
+      "category": "Hard Skill",
+      "outcome_description": "Apply methods for converting international financial reports and consolidating financial statements."
+    },
+    {
+      "skill_name": "Determining tax methods for multinational companies",
+      "category": "Hard Skill",
+      "outcome_description": "Identify tax methods for multinational companies according to various types of taxes."
+    },
+    {
+      "skill_name": "Using communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Use communication skills, write reports, and present specialized work."
+    },
+    {
+      "skill_name": "Working independently and effectively in teams",
+      "category": "Soft Skill",
+      "outcome_description": "Apply independent working skills, work effectively in teams, and adapt to integrated working environments."
+    },
+    {
+      "skill_name": "Demonstrating personal responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Show personal initiative when working independently and demonstrate responsibility towards the team."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

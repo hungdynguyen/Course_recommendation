@@ -1,0 +1,40 @@
+{
+  "course_id": "MTKT1169",
+  "title": "Environmental Planning",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of environmental planning."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies for sustainable resource management."
+    },
+    {
+      "skill_name": "Policy Development",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate policies based on environmental planning principles."
+    },
+    {
+      "skill_name": "Strategic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct strategic analysis to ensure alignment with sustainable development goals."
+    },
+    {
+      "skill_name": "GIS Mapping",
+      "category": "Hard Skill",
+      "outcome_description": "Create environmental planning maps using Geographic Information Systems (GIS)."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "course_id": "NHTM 1114",
+  "title": "Risk Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze financial risks and their interrelationships, and apply risk management strategies in financial institutions."
+    },
+    {
+      "skill_name": "Financial Institutions Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the risk management processes and regulations in financial institutions."
+    },
+    {
+      "skill_name": "Risk Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Select and apply appropriate risk measurement models for financial institutions."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group work, present research findings, and engage in class discussions."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Process and analyze data to support risk management decisions."
+    },
+    {
+      "skill_name": "Financial Regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply current financial regulations in risk management."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Assess and mitigate various types of financial risks."
+    },
+    {
+      "skill_name": "Risk Mitigation Strategies",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement risk mitigation strategies."
+    },
+    {
+      "skill_name": "Risk Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate risk assessment and management strategies effectively."
+    },
+    {
+      "skill_name": "Financial Markets",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the dynamics of financial markets and their impact on risk management."
+    },
+    {
+      "skill_name": "Financial Instruments",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize financial instruments to manage risk."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and interpret financial reports in the context of risk management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theoretical Finance and Money 1",
+      "Commercial Banking 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Financial Markets",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Financial Instruments",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "Government Electronics",
+  "title": "Government Electronics",
+  "difficulty_level": "Intermediate",
+  "duration": "Full Semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-Government Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of e-government."
+    },
+    {
+      "skill_name": "Technology Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply technology solutions in government operations."
+    },
+    {
+      "skill_name": "Public Sector Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage public sector operations using e-government tools."
+    },
+    {
+      "skill_name": "Service Delivery",
+      "category": "Hard Skill",
+      "outcome_description": "Deliver public services through e-government platforms."
+    },
+    {
+      "skill_name": "Procurement Processes",
+      "category": "Hard Skill",
+      "outcome_description": "Implement procurement processes in e-government systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Public Administration"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

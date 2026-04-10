@@ -1,0 +1,51 @@
+{
+  "course_id": "Capstone Project",
+  "title": "Capstone Project in Management Science",
+  "difficulty_level": "Advanced",
+  "duration": "12 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and apply theoretical knowledge to practical management problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze complex issues and propose solutions based on empirical evidence."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage a capstone project from planning to execution, including time management and resource allocation."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, process, and interpret data to inform decision-making processes."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Produce clear, concise, and well-structured reports summarizing research findings."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Core Management Courses"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Research Methods",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Management Principles",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

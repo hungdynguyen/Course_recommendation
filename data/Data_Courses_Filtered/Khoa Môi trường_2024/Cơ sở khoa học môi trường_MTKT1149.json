@@ -1,0 +1,59 @@
+{
+  "course_id": "MTKT1149",
+  "title": "Fundamentals of Environmental Science",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the nature of environmental concepts, structure, function of the environment, and human impacts on the environment."
+    },
+    {
+      "skill_name": "Historical Development of Environmental Components",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the historical development of natural environmental components, their characteristics, and current issues related to these components."
+    },
+    {
+      "skill_name": "Ecological Organization Levels",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the levels of ecological organization, relationships between ecosystem components, and productivity of ecosystems."
+    },
+    {
+      "skill_name": "Natural Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the management of renewable and non-renewable resources, their exploitation levels, and depletion risks."
+    },
+    {
+      "skill_name": "Independent and Group Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of environmental science to explain natural phenomena and analyze human impacts on the environment."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to learn independently, find information to complete assignments and solve practical problems."
+    },
+    {
+      "skill_name": "Organizational Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Be aware of organizational discipline, follow classroom rules, have teamwork spirit and personal responsibility for assigned activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Environmental Science Knowledge",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Ecological Principles",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

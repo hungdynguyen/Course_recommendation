@@ -1,0 +1,73 @@
+{
+  "course_id": "KTTC1120",
+  "title": "Graduation Thesis in Auditing",
+  "difficulty_level": "Beginner",
+  "duration": "100 hours in-class, 400 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Auditing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply auditing principles and practices in various organizational settings."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate financial statements and reports."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and write comprehensive reports."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critically assess and provide recommendations on auditing and internal control practices."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and recommendations through written and oral presentations."
+    },
+    {
+      "skill_name": "Legal and Regulatory Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply relevant laws and regulations in auditing and internal control."
+    },
+    {
+      "skill_name": "IT Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Use basic IT skills for data analysis and report preparation."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make ethical decisions in professional auditing and internal control contexts."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively in a team setting."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Auditing 2",
+      "Accounting Internship",
+      "Practical Specialization in Auditing"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Accounting",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Auditing",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

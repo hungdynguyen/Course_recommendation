@@ -1,0 +1,44 @@
+{
+  "course_id": "TOkt1151",
+  "title": "Game Theory and Applications in Economics - Business",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Game Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply game theory concepts in economics and business."
+    },
+    {
+      "skill_name": "Strategic Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Model economic agent behavior using game theory models."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic theories and apply them to decision-making processes."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on game theory principles."
+    },
+    {
+      "skill_name": "Nash Equilibrium",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and solve for Nash equilibrium in various scenarios."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Probability Theory",
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

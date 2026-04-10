@@ -1,0 +1,141 @@
+{
+  "course_id": "KTKI 1118",
+  "title": "Advanced Auditing and Other Assurance Services",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Environment Impact Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the influence of legal environment and regulations on auditing and assurance services."
+    },
+    {
+      "skill_name": "Ethical Standards Application",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze ethical standards applicable during the audit process."
+    },
+    {
+      "skill_name": "Auditor Professional Responsibilities",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the professional responsibilities of auditors during the audit process."
+    },
+    {
+      "skill_name": "Quality Management Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the requirements and principles of quality management in auditing and assurance services."
+    },
+    {
+      "skill_name": "Client Acceptance Decision Making",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze issues in deciding to accept a client for auditing or assurance services."
+    },
+    {
+      "skill_name": "Past Financial Report Audit Issues Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Handle special problems arising during the audit of past financial reports."
+    },
+    {
+      "skill_name": "Audit Techniques Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify audit techniques applied at each stage of the audit process."
+    },
+    {
+      "skill_name": "Future Financial Report Audit Process Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the steps in the audit process for future financial reports."
+    },
+    {
+      "skill_name": "Fraud Audit Techniques Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify audit techniques applied in fraud audits."
+    },
+    {
+      "skill_name": "Social Responsibility Audit Process Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the purpose of social responsibility audits and the steps in their audit process."
+    },
+    {
+      "skill_name": "Integrated Knowledge Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply integrated knowledge of auditing to solve problems in the audit process."
+    },
+    {
+      "skill_name": "Management Improvement Through Audits",
+      "category": "Hard Skill",
+      "outcome_description": "Apply integrated knowledge about management, risk management, and control to improve audit findings and processes."
+    },
+    {
+      "skill_name": "Audit Standard Application Issues Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify advantages and disadvantages when applying audit standards in the audit process."
+    },
+    {
+      "skill_name": "Audit Method Conditions Determination",
+      "category": "Hard Skill",
+      "outcome_description": "Determine conditions for applying each audit method in designing and implementing audit procedures."
+    },
+    {
+      "skill_name": "Globalized Audit Environment Consideration",
+      "category": "Hard Skill",
+      "outcome_description": "Consider audit issues in a globalized environment and make decisions based on ethical standards."
+    },
+    {
+      "skill_name": "Audit Quality Control",
+      "category": "Hard Skill",
+      "outcome_description": "Control audit quality under conditions of providing auditing and assurance services."
+    },
+    {
+      "skill_name": "Client Acceptance Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Combine information to evaluate acceptance of a client."
+    },
+    {
+      "skill_name": "Special Cases in Past Financial Report Audits",
+      "category": "Hard Skill",
+      "outcome_description": "Make decisions in special cases during the audit of past financial reports."
+    },
+    {
+      "skill_name": "Audit Service Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement the audit service process related to auditing and assurance services."
+    },
+    {
+      "skill_name": "Future Financial Report Audit Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement the audit service process for future financial reports."
+    },
+    {
+      "skill_name": "Fraud Audit Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement the audit service process for fraud audits."
+    },
+    {
+      "skill_name": "Social Responsibility, Environmental, and Public Sector Audit Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement the audit service process for social responsibility, environmental, and public sector audits."
+    },
+    {
+      "skill_name": "Report Writing Process Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement the report writing process according to each type of audit or assurance service."
+    },
+    {
+      "skill_name": "Information Combination for Report Content Determination",
+      "category": "Hard Skill",
+      "outcome_description": "Combine appropriate information to determine the content and conclusions presented in the report format, including combined reports."
+    },
+    {
+      "skill_name": "Effective Information Transmission Methods Combination",
+      "category": "Hard Skill",
+      "outcome_description": "Combine effective methods to transmit information through financial statement audit reports and combined reports, ensuring compliance and effectiveness."
+    },
+    {
+      "skill_name": "Compliance with Legal Requirements and Ethical Standards",
+      "category": "Soft Skill",
+      "outcome_description": "Comply with laws, regulations, and professional ethical standards throughout the audit process."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "course_id": "BHKT1133",
+  "title": "Social Insurance Management 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Insurance Fund Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply basic concepts of social insurance fund management including financial management, audit, and inspection."
+    },
+    {
+      "skill_name": "Financial Management of Social Insurance Funds",
+      "category": "Hard Skill",
+      "outcome_description": "Apply basic concepts of financial management of social insurance funds to analyze and monitor related processes."
+    },
+    {
+      "skill_name": "Audit of Social Insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Apply basic concepts of audit of social insurance to analyze and monitor related processes."
+    },
+    {
+      "skill_name": "Inspection of Social Insurance Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Apply basic concepts of inspection of social insurance activities to analyze and monitor related processes."
+    },
+    {
+      "skill_name": "Policy and Strategy Development for Social Insurance Agencies",
+      "category": "Hard Skill",
+      "outcome_description": "Apply principles of social insurance management to develop policies and strategies for organizational development of social insurance agencies."
+    },
+    {
+      "skill_name": "Research and Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research and independent work skills, with the ability to organize and manage resources for specialized professional management activities in social insurance."
+    },
+    {
+      "skill_name": "Planning and Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance when working independently, show personal responsibility and inspire team members in assigned tasks and social activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "course_id": "TNDC1152",
+  "title": "Internship Programme",
+  "difficulty_level": "Beginner",
+  "duration": "04 Credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical and practical knowledge in land management to analyze and evaluate real-world issues."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems related to land management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and evaluate land policies to address specific management issues."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and present findings effectively."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings and ideas in both written and oral formats."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate with peers and instructors in group settings."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and propose solutions to land management issues."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and complete individual and group projects within deadlines."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply relevant laws and regulations related to land management."
+    },
+    {
+      "skill_name": "Field Observation",
+      "category": "Soft Skill",
+      "outcome_description": "Observe and analyze real-world land management scenarios."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundation Courses in Land Management"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Land Management Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

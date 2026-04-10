@@ -1,0 +1,73 @@
+{
+  "course_id": "KHMA1131",
+  "title": "Quantitative Analysis in Macroeconomics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Macroeconomics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply advanced macroeconomic theories to evaluate the impact of events and policy changes on key macroeconomic variables."
+    },
+    {
+      "skill_name": "Econometrics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply quantitative techniques to analyze macroeconomic relationships and evaluate the impact of policies or shocks on the economy."
+    },
+    {
+      "skill_name": "Time Series Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Handle and analyze time series data, including issues of correlation over time and stability."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical software (Eviews) to analyze and model macroeconomic data."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills, work in groups, and present knowledge through writing and discussion on macroeconomic issues."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critically analyze macroeconomic issues in Vietnam and other countries."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning and research skills on macroeconomic issues in practice."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups and present findings effectively."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and engage in discussions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1 (KHMI1102)",
+      "Macroeconomics 1 (KHMA1102)",
+      "Econometrics 1 (TOKT1101)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

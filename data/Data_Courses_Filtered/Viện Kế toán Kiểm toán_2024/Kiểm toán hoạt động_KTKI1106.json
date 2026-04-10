@@ -1,0 +1,131 @@
+{
+  "course_id": "KTKI 1106",
+  "title": "Operational Auditing",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Operational Auditing Basics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basics of operational auditing."
+    },
+    {
+      "skill_name": "Risk-Based Approach",
+      "category": "Hard Skill",
+      "outcome_description": "Apply risk-based approach in operational auditing."
+    },
+    {
+      "skill_name": "Audit Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop audit planning for operational auditing."
+    },
+    {
+      "skill_name": "Audit Execution",
+      "category": "Hard Skill",
+      "outcome_description": "Execute audit procedures in operational auditing."
+    },
+    {
+      "skill_name": "Audit Reporting",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare audit reports in operational auditing."
+    },
+    {
+      "skill_name": "Internal Control Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate internal controls in operational auditing."
+    },
+    {
+      "skill_name": "Human Resource Management Audits",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct audits on human resource management processes."
+    },
+    {
+      "skill_name": "Procurement Process Audits",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct audits on procurement processes."
+    },
+    {
+      "skill_name": "Production Process Audits",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct audits on production processes."
+    },
+    {
+      "skill_name": "Sales and Marketing Audits",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct audits on sales and marketing processes."
+    },
+    {
+      "skill_name": "Financial Processes Audits",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct audits on financial processes."
+    },
+    {
+      "skill_name": "Standard Audit Procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Develop standard audit procedures for specific activities."
+    },
+    {
+      "skill_name": "Risk Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify risks in operational auditing."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Assess risks in operational auditing."
+    },
+    {
+      "skill_name": "Risk Mitigation Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies to mitigate risks in operational auditing."
+    },
+    {
+      "skill_name": "Audit Evidence Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect audit evidence in operational auditing."
+    },
+    {
+      "skill_name": "Audit Report Presentation",
+      "category": "Hard Skill",
+      "outcome_description": "Present audit report findings effectively."
+    },
+    {
+      "skill_name": "Audit Follow-up",
+      "category": "Hard Skill",
+      "outcome_description": "Follow up on audit recommendations effectively."
+    },
+    {
+      "skill_name": "Compliance with Internal Audit Standards",
+      "category": "Hard Skill",
+      "outcome_description": "Ensure compliance with internal audit standards in operational auditing."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking in analyzing audit findings."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to operational auditing."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate audit findings effectively."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in team settings during audits."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously improve knowledge and skills in operational auditing."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

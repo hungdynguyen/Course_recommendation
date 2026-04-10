@@ -1,0 +1,38 @@
+{
+  "course_id": "NHTM 1114",
+  "title": "Risk Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to assess various types of financial risks including market, credit, liquidity, and operational risks."
+    },
+    {
+      "skill_name": "Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to build models for measuring and managing financial risks within legal frameworks."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to process and analyze data related to financial risk management."
+    },
+    {
+      "skill_name": "Regulatory Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding of regulatory requirements for financial risk management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Theory and Money Markets 1",
+      "Commercial Banking 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

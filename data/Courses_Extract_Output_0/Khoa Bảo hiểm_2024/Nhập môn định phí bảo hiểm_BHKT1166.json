@@ -1,0 +1,37 @@
+{
+  "course_id": "BHKT1166",
+  "title": "Introduction to Actuarial",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Actuarial Science",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the technical basis of actuarial pricing and necessary assumptions."
+    },
+    {
+      "skill_name": "Insurance Pricing",
+      "category": "Hard Skill",
+      "outcome_description": "Apply formulas and assumptions to calculate premiums for various insurance types."
+    },
+    {
+      "skill_name": "Reserve Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate reserves for life and non-life insurance."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role and significance of business reserves and contract values in insurance."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

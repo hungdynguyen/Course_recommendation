@@ -1,0 +1,67 @@
+{
+  "course_id": "LLNL1107",
+  "title": "Scientific Socialism",
+  "difficulty_level": "Beginner",
+  "duration": "30 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Political Science",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the fundamental views of Marxism-Leninism on the working class and its historical mission, the content, manifestations, and significance of this mission in the current context."
+    },
+    {
+      "skill_name": "Socialism Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the basic views of Marxism-Leninism on socialism, the transitional period to socialism, and the creative application of the Party's policies in Vietnam."
+    },
+    {
+      "skill_name": "Social Democracy",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize the essence of socialist democracy and the socialist state, and understand the social structure, class alliances, and ethnic and religious issues in the transitional period to socialism."
+    },
+    {
+      "skill_name": "Family Studies",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the views of Marxism-Leninism, Ho Chi Minh, and the Communist Party of Vietnam on family issues in the transitional period to socialism."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical knowledge to analyze historical missions, socialist issues, and practical problems related to democracy, state, class alliances, ethnic and religious issues."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in groups to solve problems."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to self-study and find materials to complete assignments."
+    },
+    {
+      "skill_name": "Commitment",
+      "category": "Soft Skill",
+      "outcome_description": "Build confidence in socialism, support the policies of the Communist Party of Vietnam, and actively participate in political theory studies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LLNL1105 - Marxist-Leninist Philosophy",
+      "LLNL1106 - Marxist-Leninist Political Economy"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Political Science",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

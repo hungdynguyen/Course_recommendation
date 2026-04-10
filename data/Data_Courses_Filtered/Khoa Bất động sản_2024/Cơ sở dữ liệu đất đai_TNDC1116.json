@@ -1,0 +1,48 @@
+{
+  "course_id": "TNDC1116",
+  "title": "Land Data Base",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding land database systems",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the basics of land databases and land information systems."
+    },
+    {
+      "skill_name": "Analyzing land data",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze land data for various purposes such as valuation, statistics, tax assessment, etc."
+    },
+    {
+      "skill_name": "Designing land databases",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn how to design land databases that meet specific requirements."
+    },
+    {
+      "skill_name": "Using Mapinfo software",
+      "category": "Tool/Software",
+      "outcome_description": "Students will become proficient in using Mapinfo software for land database management."
+    },
+    {
+      "skill_name": "Managing land data",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to manage and utilize land data effectively."
+    },
+    {
+      "skill_name": "Self-learning",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to independently study and apply new concepts and tools."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Land Administration",
+      "Land Surveying"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

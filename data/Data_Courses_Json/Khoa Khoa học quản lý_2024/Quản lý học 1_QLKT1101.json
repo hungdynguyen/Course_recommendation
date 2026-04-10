@@ -1,0 +1,85 @@
+{
+  "course_id": "QLKT1101",
+  "title": "Quản lý học 1",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and classify social systems, organizations, management, and managers"
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply decision-making processes and management decisions"
+    },
+    {
+      "skill_name": "Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply planning processes and strategic planning"
+    },
+    {
+      "skill_name": "Organizing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply organizing processes and organizational structures"
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply leadership approaches and motivational techniques"
+    },
+    {
+      "skill_name": "Controlling",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply controlling processes and systems"
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Practice effective communication, presentation, and negotiation skills"
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Practice effective teamwork and group management skills"
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Practice effective time management skills"
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical and social responsibility in management"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Practice decision-making skills to solve problems"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate management theories and practices"
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent learning and adaptability to change"
+    },
+    {
+      "skill_name": "Professional Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional responsibility and service spirit"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

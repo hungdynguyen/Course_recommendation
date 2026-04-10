@@ -1,0 +1,43 @@
+{
+  "course_id": "NHQT1118",
+  "title": "Payment and Credit in International Trade",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Finance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of international payment and credit systems."
+    },
+    {
+      "skill_name": "Foreign Exchange",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of foreign exchange rates in international trade transactions."
+    },
+    {
+      "skill_name": "International Banking",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize international banking procedures and principles effectively."
+    },
+    {
+      "skill_name": "Trade Documentation",
+      "category": "Hard Skill",
+      "outcome_description": "Produce and interpret various trade documents used in international transactions."
+    },
+    {
+      "skill_name": "Credit Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage credit facilities in international trade operations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Courses",
+      "Major Foundation Courses"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

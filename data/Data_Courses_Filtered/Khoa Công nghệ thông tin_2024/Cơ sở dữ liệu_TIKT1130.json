@@ -1,0 +1,60 @@
+{
+  "course_id": "TIKT1130",
+  "title": "Database",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Database Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of databases, data models, and database management systems."
+    },
+    {
+      "skill_name": "Data Relationships",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain relationships within databases, normalize data up to 3NF."
+    },
+    {
+      "skill_name": "Query Optimization",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theories, models, relational algebra expressions, and SQL syntax to analyze, evaluate, and explain query optimization and data integrity issues."
+    },
+    {
+      "skill_name": "SQL Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use MS SQL Server database management system."
+    },
+    {
+      "skill_name": "Database Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design databases according to normalization standards and apply basic principles of database design processes for operational activities."
+    },
+    {
+      "skill_name": "Model Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Approach different database models and have analytical, advisory, and supportive skills for digital transformation processes."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or actively, positively, and effectively in group activities."
+    },
+    {
+      "skill_name": "Group Organization",
+      "category": "Soft Skill",
+      "outcome_description": "Have organizational skills for group activities."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Have social responsibility and professional ethics in the field of information systems management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

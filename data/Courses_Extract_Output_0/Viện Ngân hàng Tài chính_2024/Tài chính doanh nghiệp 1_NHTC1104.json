@@ -1,0 +1,48 @@
+{
+  "course_id": "NHTC1104",
+  "title": "Corporate Finance 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 60 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of corporate finance and financial management principles."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret financial reports."
+    },
+    {
+      "skill_name": "Valuation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply valuation techniques to bonds and stocks."
+    },
+    {
+      "skill_name": "Time Value of Money",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate the time value of money and its applications."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform regression analysis using various models."
+    },
+    {
+      "skill_name": "Capital Raising Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and apply different methods of raising capital."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Money and Banking Theory",
+      "Financial Accounting"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

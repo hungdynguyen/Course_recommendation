@@ -1,0 +1,66 @@
+{
+  "course_id": "KHEH1104",
+  "title": "Vietnamese Economy",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic History Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze various stages of Vietnam's economic development throughout history and assess its economic potential."
+    },
+    {
+      "skill_name": "Market Economy Foundation Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the process of forming the foundations of the market economy in Vietnam."
+    },
+    {
+      "skill_name": "Resource Development Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the current state of resource development in Vietnam."
+    },
+    {
+      "skill_name": "Economic Operation Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the operation of the Vietnamese economy and the development status of certain industries and sectors."
+    },
+    {
+      "skill_name": "Potential and Position Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the position and economic potential of Vietnam."
+    },
+    {
+      "skill_name": "Data Collection Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills for collecting, analyzing, and reporting economic data."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills and teamwork abilities."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop presentation skills to convey knowledge through writing, discussion, and presentations on Vietnamese economic issues."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning and research abilities related to Vietnamese economic issues."
+    },
+    {
+      "skill_name": "Critical Thinking Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking skills to deeply analyze issues in the Vietnamese economy."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance awareness, responsibility, and professional ethics when making personal judgments and evaluations about Vietnamese economic issues."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

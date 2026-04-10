@@ -1,0 +1,35 @@
+{
+  "course_id": "TKKT1131",
+  "title": "Trade and Tourism Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply statistical methods to analyze trade and tourism activities."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and organize data related to trade and tourism."
+    },
+    {
+      "skill_name": "Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical techniques to forecast key indicators in trade and tourism."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize statistical analysis to support decision-making processes in trade and tourism management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

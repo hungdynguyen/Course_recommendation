@@ -1,0 +1,65 @@
+{
+  "course_id": "TKKD1129",
+  "title": "Statistics in Economics and Business",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Collection Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand principles and procedures of data collection, aggregation, and analysis."
+    },
+    {
+      "skill_name": "Descriptive Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply descriptive statistical methods in real-world scenarios."
+    },
+    {
+      "skill_name": "Statistical Estimation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply estimation techniques in practical situations."
+    },
+    {
+      "skill_name": "Hypothesis Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Apply hypothesis testing methods in practical situations."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply regression analysis methods in practical situations."
+    },
+    {
+      "skill_name": "Time Series Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply time series analysis methods in practical situations."
+    },
+    {
+      "skill_name": "Index Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply index methodology in practical situations."
+    },
+    {
+      "skill_name": "Statistical Software Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Proficient in using statistical software such as SPSS and R."
+    },
+    {
+      "skill_name": "Group Collaboration Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effective group collaboration and communication skills."
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Awareness of social context and ethical responsibilities in professional practice."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

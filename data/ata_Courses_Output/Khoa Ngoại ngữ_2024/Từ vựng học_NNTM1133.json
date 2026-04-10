@@ -1,0 +1,56 @@
+{
+  "course_id": "NNTM1133",
+  "title": "Lexicology",
+  "difficulty_level": "Advanced",
+  "duration": "10 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Morphemes",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of morphemes, types of morphemes, roots, and dependent morphemes."
+    },
+    {
+      "skill_name": "Word Formation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Learn various techniques for word formation such as affixation, compounding, clipping, conversion, onomatopoeia, and derivation from proper nouns."
+    },
+    {
+      "skill_name": "Types of Meaning",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between lexical meaning and grammatical meaning, direct and indirect meanings, explicit and implicit meanings, polysemy, homophones with different meanings, synonyms, antonyms, metaphor, and metonymy."
+    },
+    {
+      "skill_name": "Classification of Vocabulary by Style",
+      "category": "Hard Skill",
+      "outcome_description": "Classify vocabulary based on style including common and uncommon vocabulary, formal and informal vocabulary."
+    },
+    {
+      "skill_name": "Fixed Phrase Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and classify fixed phrases, idioms, proverbs, and quotations."
+    },
+    {
+      "skill_name": "History of English Vocabulary Development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the history of English vocabulary development, loanwords, reasons for borrowing, and assimilation phenomena."
+    },
+    {
+      "skill_name": "Comparative Analysis of English Variants",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze differences in vocabulary among different variants of English."
+    },
+    {
+      "skill_name": "Collaborative Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate active participation in group work, research, and presentations."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on a specific aspect of lexicology used in real-world contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

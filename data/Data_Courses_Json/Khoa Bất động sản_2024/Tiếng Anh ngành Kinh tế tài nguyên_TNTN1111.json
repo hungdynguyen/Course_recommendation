@@ -1,0 +1,71 @@
+{
+  "course_id": "TNTN1111",
+  "title": "English for Natural Resources Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Language",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and use basic English grammar and vocabulary related to natural resources economics."
+    },
+    {
+      "skill_name": "Natural Resources Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and explain economic relationships in natural resource management and use."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and analyze information related to natural resources economics."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to solve problems in natural resources economics."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research and present findings in English on natural resources economics topics."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in English, both written and spoken, on natural resources economics topics."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to natural resources economics."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and participate in class activities."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Take initiative in learning and researching natural resources economics topics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economics of Natural Resources"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English Grammar",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Knowledge of Natural Resources Economics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

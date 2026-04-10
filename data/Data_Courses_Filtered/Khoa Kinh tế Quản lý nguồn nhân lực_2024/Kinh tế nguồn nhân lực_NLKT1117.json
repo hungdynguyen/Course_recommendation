@@ -1,0 +1,61 @@
+{
+  "course_id": "NLKT1117",
+  "title": "Human Resource Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Context Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impacts of economic, social, demographic, and labor factors on human resource decisions."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively with group members, demonstrating communication, presentation, analysis, synthesis, and problem-solving skills."
+    },
+    {
+      "skill_name": "Quantitative and Qualitative Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Use quantitative and qualitative techniques proficiently for analyzing human resource economics data."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Show initiative in learning, research, and teamwork."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate appropriate professional ethics and responsibility."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate government policies related to social security and unemployment issues."
+    },
+    {
+      "skill_name": "Labor Market Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the structure and distribution of human resources and their relationship with population."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of micro and macro factors on the labor market."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving skills to address issues in human resource economics."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Select and apply appropriate research methods and present research results effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

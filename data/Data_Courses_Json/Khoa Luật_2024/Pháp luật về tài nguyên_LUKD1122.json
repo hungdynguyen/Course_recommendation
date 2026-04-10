@@ -1,0 +1,57 @@
+{
+  "course_id": "LUKD1122",
+  "title": "Law on Natural Resources",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Natural Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept and classification of natural resources, the role of natural resources in social life and economic development, and the necessity of legal regulation in natural resource management."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic content of laws related to natural resources such as land, water, forests, and minerals."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and comply with laws related to natural resources and apply them to real-life situations and work."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication skills."
+    },
+    {
+      "skill_name": "Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Apply presentation skills."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems related to natural resource management and legal compliance."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Law"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

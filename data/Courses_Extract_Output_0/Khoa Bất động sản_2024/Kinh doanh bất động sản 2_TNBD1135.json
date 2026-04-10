@@ -1,0 +1,42 @@
+{
+  "course_id": "TNBD1135",
+  "title": "REAL ESTATE BUSINESS 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real Estate Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and applying basic business management principles to real estate."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Managing financial aspects of real estate businesses."
+    },
+    {
+      "skill_name": "Contract Drafting",
+      "category": "Hard Skill",
+      "outcome_description": "Creating contracts relevant to real estate transactions."
+    },
+    {
+      "skill_name": "Consulting Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Providing effective consulting services in real estate."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiating effectively in real estate transactions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "REAL ESTATE BUSINESS 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

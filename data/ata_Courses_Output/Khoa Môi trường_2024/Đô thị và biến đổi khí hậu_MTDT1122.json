@@ -1,0 +1,51 @@
+{
+  "course_id": "MTDT1122",
+  "title": "Cities and Climate Change",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Climate Change Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand approaches to climate change, economic mitigation and adaptation."
+    },
+    {
+      "skill_name": "Urban Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze urban policies and planning related to climate change."
+    },
+    {
+      "skill_name": "Urban Adaptation Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theories and principles of urban adaptation strategies to specific scenarios."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups, present and discuss findings."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Independently seek, read and synthesize scientific information from various sources."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills through analysis and discussion."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently and accumulate experience for further studies."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ethical awareness and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

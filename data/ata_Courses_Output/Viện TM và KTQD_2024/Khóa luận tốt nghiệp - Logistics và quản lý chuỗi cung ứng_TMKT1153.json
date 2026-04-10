@@ -1,0 +1,55 @@
+{
+  "course_id": "TMKT1153",
+  "title": "Graduation Thesis (Logistics and Supply Chain Management)",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Theoretical Framework Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop a theoretical framework based on deep knowledge of logistics and supply chain management for the graduation thesis."
+    },
+    {
+      "skill_name": "Supplementing Theoretical Framework with Knowledge from Other Courses",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize knowledge from other courses to enhance the theoretical framework for the graduation thesis."
+    },
+    {
+      "skill_name": "Drafting, Reviewing, and Presenting Graduation Thesis Content",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare, present, and deliver the content of the graduation thesis."
+    },
+    {
+      "skill_name": "Describing Current Research Issues",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the current research issues and assess them according to the theoretical framework."
+    },
+    {
+      "skill_name": "Evaluating Business Environment Impact",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the impact of the business environment on research issues and identify directions for addressing these issues."
+    },
+    {
+      "skill_name": "Independent Completion of Graduation Thesis",
+      "category": "Soft Skill",
+      "outcome_description": "Be able to independently complete the graduation thesis."
+    },
+    {
+      "skill_name": "Logical Structure and Consistency of Thesis Content",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure the graduation thesis has a logical structure and consistent content."
+    },
+    {
+      "skill_name": "Objective Evaluation Based on Clear Evidence",
+      "category": "Soft Skill",
+      "outcome_description": "Provide objective evaluations based on clear evidence."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "course_id": "CNTT1188",
+  "title": "Web Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Web Architecture",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain web architecture and technologies."
+    },
+    {
+      "skill_name": "Web Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop web applications using popular programming languages such as C#, Java, JavaScript, Python, and PHP."
+    },
+    {
+      "skill_name": "RESTful API Development",
+      "category": "Hard Skill",
+      "outcome_description": "Create and consume RESTful APIs."
+    },
+    {
+      "skill_name": "Web Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Perform testing and quality assurance on web applications."
+    },
+    {
+      "skill_name": "Object-Oriented Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Apply object-oriented programming principles in web development."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams to develop web applications."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to web development using critical thinking and analytical skills."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and complete web development projects independently and in groups."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently and seek out new knowledge and technologies."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present solutions and project outcomes effectively to an audience."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "CNTT1128",
+      "CNTT1165"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming Basics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Web Design",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

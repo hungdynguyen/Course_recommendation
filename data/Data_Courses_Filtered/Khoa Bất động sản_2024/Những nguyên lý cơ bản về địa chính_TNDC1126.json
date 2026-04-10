@@ -1,0 +1,70 @@
+{
+  "course_id": "TNDC1126",
+  "title": "Principles of Land Administration",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land Management Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the roles, significance, and methodologies in land administration science."
+    },
+    {
+      "skill_name": "System Components Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the components of the land administration system."
+    },
+    {
+      "skill_name": "Basic Functions Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic functions of land administration."
+    },
+    {
+      "skill_name": "Model Management Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content of land management models (land administration models)."
+    },
+    {
+      "skill_name": "Vietnamese System Connection",
+      "category": "Hard Skill",
+      "outcome_description": "Relate issues within the Vietnamese land administration system."
+    },
+    {
+      "skill_name": "Component Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify components within the Vietnamese land administration system (management models)."
+    },
+    {
+      "skill_name": "System Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the basic contents of the Vietnamese land administration system."
+    },
+    {
+      "skill_name": "Function Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the basic functions of the Vietnamese land administration system."
+    },
+    {
+      "skill_name": "Proactive Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning, research, and group work."
+    },
+    {
+      "skill_name": "Proactive Research",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in seeking and selecting topics and reference materials during the learning process."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in presenting research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

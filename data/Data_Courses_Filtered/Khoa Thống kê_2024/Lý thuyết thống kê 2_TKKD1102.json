@@ -1,0 +1,50 @@
+{
+  "course_id": "TKKD1102",
+  "title": "Theory of Statistics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Regression Model Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand regression models applied to cross-sectional and panel data."
+    },
+    {
+      "skill_name": "Model Defect Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize model defects and corrective measures."
+    },
+    {
+      "skill_name": "Scientific Evidence Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate scientific evidence derived from analysis models."
+    },
+    {
+      "skill_name": "Data Analysis Presentation",
+      "category": "Hard Skill",
+      "outcome_description": "Present results from data analysis models."
+    },
+    {
+      "skill_name": "Practical Regression Model Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and implement practical regression analysis models."
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have awareness of social context and professional ethics."
+    },
+    {
+      "skill_name": "Effective Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct group activities and have effective communication skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "course_id": "TIKT1124",
+  "title": "Database Application",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Database Querying",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic to advanced concepts of database querying."
+    },
+    {
+      "skill_name": "Database Management System Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand fundamental concepts of database management systems including indexing, views, triggers, stored procedures, user management, and data security."
+    },
+    {
+      "skill_name": "SQL Syntax Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical models, relational algebra expressions, and SQL syntax to analyze, evaluate, and explain issues related to query optimization and data integrity."
+    },
+    {
+      "skill_name": "Database Management System Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiently use one of the following database management systems: MS SQL Server, Access, MySQL."
+    },
+    {
+      "skill_name": "Normalized Database Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design databases up to 5NF normalization level and apply basic principles of database design processes for operational activities."
+    },
+    {
+      "skill_name": "Data Analysis and Information Support",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and synthesize data to provide information support for decision-making processes."
+    },
+    {
+      "skill_name": "Database Model Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand different database models and have analytical, advisory, and supportive skills for digital transformation processes."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or actively, positively, and effectively in group activities."
+    },
+    {
+      "skill_name": "Group Activity Organization",
+      "category": "Soft Skill",
+      "outcome_description": "Have organizational skills for group activities."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of Information Systems Management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Computer Science Basics",
+      "Database Fundamentals"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "course_id": "LUKD1101",
+  "title": "Public International Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the principles and sources of international law, including treaties and customary international law."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Use internet resources to find legal sources, including treaties, customary international law, and court decisions."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal issues and cases within the context of international law."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and present legal arguments and cases in a structured format."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work in groups to solve legal problems and present findings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and select appropriate legal materials for research and presentations."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan and manage time effectively to prepare for exams and presentations."
+    },
+    {
+      "skill_name": "Public Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver clear and engaging presentations on legal topics."
+    },
+    {
+      "skill_name": "Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply negotiation techniques in resolving international disputes."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and apply methods for resolving international disputes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 1",
+      "Theory of State and Law 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Legal Knowledge",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "course_id": "DTKT1170",
+  "title": "Project Appraisal",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic theoretical knowledge about investment projects and project appraisal",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, necessity, and roles of project appraisal for different entities in the economy."
+    },
+    {
+      "skill_name": "Applying theoretical knowledge in practical project appraisal",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge in organizing project appraisal, assessing necessary contents, and using appropriate methods for real-world project appraisal."
+    },
+    {
+      "skill_name": "Analyzing contents within an investment project proposal",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze various aspects of an investment project proposal."
+    },
+    {
+      "skill_name": "Evaluating the rationality of proposed contents in a project",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the logical consistency between different contents presented in an investment project proposal."
+    },
+    {
+      "skill_name": "Self-study and independent learning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to independently study materials and complete assigned practical tasks."
+    },
+    {
+      "skill_name": "Classroom discipline and teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Awareness of classroom discipline, adherence to class rules, cooperative spirit, and personal responsibility in completing group assignments."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

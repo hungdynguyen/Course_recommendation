@@ -1,0 +1,72 @@
+{
+  "course_id": "MKTT1130",
+  "title": "Public relations planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public relations planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, nature, and role of public relations planning."
+    },
+    {
+      "skill_name": "Research formation in public relations planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand research formation in public relations planning."
+    },
+    {
+      "skill_name": "Strategic development in public relations planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand strategic development in public relations planning."
+    },
+    {
+      "skill_name": "Tactical development in public relations planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand tactical development in public relations planning."
+    },
+    {
+      "skill_name": "Analysis of situations, organizations, and publics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of public relations planning to analyze situations, organizations, and publics."
+    },
+    {
+      "skill_name": "Setting objectives and goals",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of public relations planning to set objectives and goals."
+    },
+    {
+      "skill_name": "Developing action plans and responses",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of public relations planning to develop action plans and responses."
+    },
+    {
+      "skill_name": "Selecting communication strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of public relations planning to select communication strategies."
+    },
+    {
+      "skill_name": "Active learning and research",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate active learning and research."
+    },
+    {
+      "skill_name": "Problem selection and analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate problem selection and analysis."
+    },
+    {
+      "skill_name": "Presentation of research results",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate presentation of research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Public Relations"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

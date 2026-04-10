@@ -1,0 +1,59 @@
+{
+  "course_id": "NNTM1103",
+  "title": "Phonetics and Phonology",
+  "difficulty_level": "Beginner",
+  "duration": "30 hours in class, 70 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Phonetics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts of phonetics and phonology, including phonemes, allophones, and phonological rules."
+    },
+    {
+      "skill_name": "Phonology",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and describe the structure and rules of phonology in English."
+    },
+    {
+      "skill_name": "Language Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and analyze phonetic and phonological phenomena in English, such as stress, intonation, and sound changes."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and interpret phonetic and phonological data."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and individually to complete research and learning tasks."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and self-study on phonetic and phonological topics."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in English, applying phonetic and phonological knowledge."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Listening 3",
+      "Speaking 3",
+      "Writing 3"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "English Language",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

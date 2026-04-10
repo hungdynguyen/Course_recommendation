@@ -1,0 +1,45 @@
+{
+  "course_id": "DLKS1158",
+  "title": "Operation of Hospitality Services 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours (30 hours of theory and 15 hours of discussion/practice)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Customer Service",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a service mindset and orientation towards customer service in the hospitality industry."
+    },
+    {
+      "skill_name": "Hotel Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the operational processes and services in hotels, including front desk, housekeeping, and food and beverage services."
+    },
+    {
+      "skill_name": "Service Management",
+      "category": "Hard Skill",
+      "outcome_description": "Learn the management of service operations, including staffing, standards, and overall service processes."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the organization and management of human resources in hotel services, including recruitment, training, and performance evaluation."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop adaptability, integration, and continuous learning in service operations management."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the importance of health, professional ethics, environmental responsibility, and cultural values in service operations management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

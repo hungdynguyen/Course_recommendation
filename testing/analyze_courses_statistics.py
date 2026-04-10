@@ -9,7 +9,7 @@ import numpy as np
 from collections import defaultdict
 
 # Cấu hình
-DATA_DIR = Path("./data/Data_Courses_Json")
+DATA_DIR = Path("./data/Courses_Extract_Output")
 
 print("=" * 80)
 print("📚 THỐNG KÊ KHÓA HỌC")

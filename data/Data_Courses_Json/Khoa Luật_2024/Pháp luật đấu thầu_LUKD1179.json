@@ -1,0 +1,67 @@
+{
+  "course_id": "LUKD 1179",
+  "title": "Law on Procurement",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the theoretical issues of public procurement law, including concepts, characteristics, and principles."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Apply legal research skills to specific procurement scenarios."
+    },
+    {
+      "skill_name": "Public Procurement Law",
+      "category": "Hard Skill",
+      "outcome_description": "Master the specific regulations and procedures of public procurement law."
+    },
+    {
+      "skill_name": "Contract Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply contract law principles in procurement contexts."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and communicate legal concepts and findings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve procurement-related problems."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently research and accumulate knowledge."
+    },
+    {
+      "skill_name": "Ethical Conduct",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to professional ethics and responsibilities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Law of Commerce 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

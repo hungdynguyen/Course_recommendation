@@ -1,0 +1,127 @@
+{
+  "course_id": "QTCL1111",
+  "title": "Business Process Management",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizational Structure Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the organizational structure and operational system of an organization."
+    },
+    {
+      "skill_name": "Value Chain Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the value chain of an organization."
+    },
+    {
+      "skill_name": "Process Role Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the position and role of processes within an organization and its value chain."
+    },
+    {
+      "skill_name": "Business Process Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the general concept of business processes."
+    },
+    {
+      "skill_name": "Business Process Classification",
+      "category": "Hard Skill",
+      "outcome_description": "Classify various business processes within an organization."
+    },
+    {
+      "skill_name": "Business Process Modeling Reason",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the reasons for modeling business processes."
+    },
+    {
+      "skill_name": "Business Process Modeling Method",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the methods of modeling business processes."
+    },
+    {
+      "skill_name": "Business Process Model Construction",
+      "category": "Hard Skill",
+      "outcome_description": "Construct models of business processes."
+    },
+    {
+      "skill_name": "Qualitative Process Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze business processes qualitatively."
+    },
+    {
+      "skill_name": "Quantitative Process Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze business processes quantitatively."
+    },
+    {
+      "skill_name": "Process Improvement Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the theory of process improvement."
+    },
+    {
+      "skill_name": "Process Improvement Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply methods and tools for process improvement."
+    },
+    {
+      "skill_name": "Information System Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design information systems to support business process management."
+    },
+    {
+      "skill_name": "Team Participation",
+      "category": "Soft Skill",
+      "outcome_description": "Participate actively in group meetings."
+    },
+    {
+      "skill_name": "Group Support",
+      "category": "Soft Skill",
+      "outcome_description": "Support other members of the group."
+    },
+    {
+      "skill_name": "Individual Task Completion",
+      "category": "Soft Skill",
+      "outcome_description": "Perform individual tasks effectively within a group."
+    },
+    {
+      "skill_name": "Dynamic Group Environment Creation",
+      "category": "Soft Skill",
+      "outcome_description": "Create a dynamic, flexible, and friendly group working environment."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve conflicts within a group."
+    },
+    {
+      "skill_name": "Self-study Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study abilities."
+    },
+    {
+      "skill_name": "Situation Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze situations and identify problems."
+    },
+    {
+      "skill_name": "Problem-solving Research",
+      "category": "Soft Skill",
+      "outcome_description": "Research and develop solutions to problems."
+    },
+    {
+      "skill_name": "Microsoft Power Automate Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Use Microsoft Power Automate to design and build workflows."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

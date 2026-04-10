@@ -1,0 +1,36 @@
+{
+  "course_id": "CNTT1180",
+  "title": "Python Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Python Programming",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to write and understand Python code"
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Python for data analysis"
+    },
+    {
+      "skill_name": "Object-Oriented Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and application of object-oriented programming concepts in Python"
+    },
+    {
+      "skill_name": "Library Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Effective use of Python libraries such as Pandas, NumPy, and Matplotlib"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Developing problem-solving skills through Python programming"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

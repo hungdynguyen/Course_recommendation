@@ -1,0 +1,69 @@
+{
+  "course_id": "QLXH1124",
+  "title": "Quản lý y tế",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Health Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of health management to analyze, evaluate, and propose solutions for practical situations in health management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of health management to analyze, evaluate, and propose solutions for health policy situations."
+    },
+    {
+      "skill_name": "System Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate the impact of socialization on health management and quality assurance."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective communication and presentation skills."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective negotiation, teamwork, and time management skills."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Use economic and social research methods to analyze health management issues and make decisions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve practical problems in health management independently."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate a spirit of service, social responsibility, and professional ethics."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently and adapt to changes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Knowledge of Health and Healthcare",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Understanding of Health Systems",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "course_id": "TOkt1151",
+  "title": "Game Theory and Applications in Economics - Business",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Game Classification",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate types of games, understand game structures, relate to economic and business situations."
+    },
+    {
+      "skill_name": "Nash Equilibrium Static Games Full Information",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and find Nash equilibrium in static games with full information."
+    },
+    {
+      "skill_name": "Nash Equilibrium Dynamic Games Full Information",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and find Nash equilibrium in dynamic games with full information."
+    },
+    {
+      "skill_name": "Comparing Nash Equilibrium with Other Optimal Solutions",
+      "category": "Hard Skill",
+      "outcome_description": "Compare Nash equilibrium with other optimal solutions, integrate with other methods in analysis, evaluation, critique, and decision-making."
+    },
+    {
+      "skill_name": "Modeling Game Problems",
+      "category": "Hard Skill",
+      "outcome_description": "Identify standard game problems in economics and business, describe situations using game theory."
+    },
+    {
+      "skill_name": "Determining Strategies and Nash Equilibrium in Games",
+      "category": "Hard Skill",
+      "outcome_description": "Identify strategies and Nash equilibrium in games."
+    },
+    {
+      "skill_name": "Analyzing Impact of Factors on Existence of Equilibrium",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate the impact of factors on the existence of equilibrium and game solutions."
+    },
+    {
+      "skill_name": "Critiquing Theoretical and Practical Issues",
+      "category": "Hard Skill",
+      "outcome_description": "Critique theoretical and practical issues in economics and business, make decisions and recommend strategies."
+    },
+    {
+      "skill_name": "Describing Real Situations Using Game Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Describe real situations in economics and business using game theory methods, find strategies and outcomes."
+    },
+    {
+      "skill_name": "Solving Practical Problems",
+      "category": "Hard Skill",
+      "outcome_description": "Solve practical problems with available information and data, determine Nash equilibrium and analyze."
+    },
+    {
+      "skill_name": "Evaluating Policies and Proposing Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate policies and propose strategies with specific and realistic situations."
+    },
+    {
+      "skill_name": "Presenting and Negotiating Real Situations",
+      "category": "Hard Skill",
+      "outcome_description": "Present and negotiate real situations with knowledge from game theory, individually or in groups."
+    },
+    {
+      "skill_name": "Self-Study and Active Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Self-study and actively engage in understanding, learning, researching situations and solving exercises, addressing practical issues."
+    },
+    {
+      "skill_name": "Teamwork Awareness and Capability",
+      "category": "Soft Skill",
+      "outcome_description": "Awareness and capability for active teamwork in researching, learning, and solving practical issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Probability Theory",
+      "Microeconomic Theory 1",
+      "Macroeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "course_id": "BHKT1164",
+  "title": "Insurance Adjusting and Claims",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Claims Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of insurance claims analysis."
+    },
+    {
+      "skill_name": "Insurance Contract Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze insurance contracts and their implications."
+    },
+    {
+      "skill_name": "Insurance Claims Processing",
+      "category": "Hard Skill",
+      "outcome_description": "Process insurance claims efficiently."
+    },
+    {
+      "skill_name": "Insurance Fraud Detection",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and prevent insurance fraud."
+    },
+    {
+      "skill_name": "Legal Issues in Insurance Claims",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal issues related to insurance claims."
+    },
+    {
+      "skill_name": "Adjustment of Losses",
+      "category": "Hard Skill",
+      "outcome_description": "Adjust losses accurately in insurance claims."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve complex problems."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Show leadership qualities in group settings."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

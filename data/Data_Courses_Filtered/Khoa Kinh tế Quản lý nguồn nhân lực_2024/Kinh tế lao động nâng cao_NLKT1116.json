@@ -1,0 +1,47 @@
+{
+  "course_id": "NLKT1116",
+  "title": "Advanced Labor Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Market Labor Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand advanced theoretical and practical issues on the labor market."
+    },
+    {
+      "skill_name": "Labor Market Theories Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply models and theories to explain results, phenomena, and trends on the labor market."
+    },
+    {
+      "skill_name": "Comparative Analysis of Labor Markets",
+      "category": "Hard Skill",
+      "outcome_description": "Compare and contrast characteristics of labor markets across geographic regions, industries, and ownership forms."
+    },
+    {
+      "skill_name": "Behavioral Analysis of Labor Market Actors",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of economic, social, demographic, environmental, investment, international economic factors, and government policies on key variables in the labor market."
+    },
+    {
+      "skill_name": "Model Building for Economic Impact Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Build and propose models to analyze and forecast the impact of microeconomic and macroeconomic factors on the behavior of actors and outcomes on the labor market."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate initiative in learning, research, and teamwork in building and proposing economic models to explain and analyze issues and trends on the labor market."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Labor Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

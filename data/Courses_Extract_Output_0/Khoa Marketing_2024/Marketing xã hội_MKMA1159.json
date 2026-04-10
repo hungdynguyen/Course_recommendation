@@ -1,0 +1,42 @@
+{
+  "course_id": "MKMA1159",
+  "title": "Social Marketing",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategies for social marketing campaigns."
+    },
+    {
+      "skill_name": "Behavioral Change Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and predict behavioral changes in target audiences."
+    },
+    {
+      "skill_name": "Community Engagement",
+      "category": "Soft Skill",
+      "outcome_description": "Engage communities effectively through marketing activities."
+    },
+    {
+      "skill_name": "Program Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and execute social marketing programs."
+    },
+    {
+      "skill_name": "Evaluation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the effectiveness of social marketing programs."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Marketing"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

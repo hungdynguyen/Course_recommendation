@@ -1,0 +1,65 @@
+{
+  "course_id": "QLKT1130",
+  "title": "Chuyên đề thực tế",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Management Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of economic management to analyze organizational decisions and clarify management situations in a market economy."
+    },
+    {
+      "skill_name": "Organizational Management Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of organizational management to solve problems within the organization."
+    },
+    {
+      "skill_name": "Government Economic Management Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of government economic management to analyze and summarize issues in organizational and governmental management."
+    },
+    {
+      "skill_name": "Problem Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective problem-solving skills."
+    },
+    {
+      "skill_name": "Systematic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop systematic thinking and communication skills."
+    },
+    {
+      "skill_name": "Organizational Analysis Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in analyzing organizations and managing them effectively."
+    },
+    {
+      "skill_name": "Government Economic Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in managing the economy from a governmental perspective."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work skills and manage resources and performance effectively."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Proactively fulfill social responsibility and professional ethics."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-learning abilities and adaptability to change."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

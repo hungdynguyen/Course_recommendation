@@ -1,0 +1,41 @@
+{
+  "course_id": "LUKD1184",
+  "title": "Law on Insurance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal framework for insurance business"
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Handle disputes in insurance contracts"
+    },
+    {
+      "skill_name": "Legal Environment",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend legal environment for business operations"
+    },
+    {
+      "skill_name": "Insurance Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage insurance business activities legally"
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings"
+    },
+    {
+      "skill_name": "Case Study Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze real-world scenarios in insurance law"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

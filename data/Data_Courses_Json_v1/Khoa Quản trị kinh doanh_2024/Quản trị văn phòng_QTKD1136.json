@@ -1,0 +1,45 @@
+{
+  "course_id": "QTKD1136",
+  "title": "Quản trị văn phòng",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Office Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept, role, and functions of an office and office management in a business environment."
+    },
+    {
+      "skill_name": "Organizational Structure",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the organizational structure of an office, including modernization trends."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the classification, roles, and standards of office staff, and develop recruitment and training strategies."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Master basic office tasks such as organizing meetings, managing time, and handling guest reception."
+    },
+    {
+      "skill_name": "Document Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand document classification, management processes, and security measures."
+    },
+    {
+      "skill_name": "Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Master the techniques of drafting administrative documents."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

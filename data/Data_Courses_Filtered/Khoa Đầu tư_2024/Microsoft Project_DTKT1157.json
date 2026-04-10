@@ -1,0 +1,52 @@
+{
+  "course_id": "DTKT1157",
+  "title": "Microsoft Project",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Microsoft Project commands",
+      "category": "Hard Skill",
+      "outcome_description": "Know and understand the functions, commands, views, and tables of Microsoft Project. Use commands to set schedules for projects, create work plans."
+    },
+    {
+      "skill_name": "Managing project resources",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply software to manage project resources such as allocation and balancing resources."
+    },
+    {
+      "skill_name": "Cost management in Microsoft Project",
+      "category": "Hard Skill",
+      "outcome_description": "Know, understand, and apply Microsoft Project software to manage costs and monitor projects."
+    },
+    {
+      "skill_name": "Project execution management",
+      "category": "Hard Skill",
+      "outcome_description": "Use software to manage the project implementation process, able to apply and analyze differences between project plans and actual project implementation, manage and analyze project information."
+    },
+    {
+      "skill_name": "Using software to manage projects",
+      "category": "Hard Skill",
+      "outcome_description": "Have the ability to use IT software to manage projects."
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Form the ability to be proactive in learning, work independently, identify problems, analyze and solve problems."
+    },
+    {
+      "skill_name": "Teamwork and group activities",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate and participate in group activities to complete group tasks effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Project Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

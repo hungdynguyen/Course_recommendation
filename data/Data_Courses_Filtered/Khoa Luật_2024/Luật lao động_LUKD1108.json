@@ -1,0 +1,42 @@
+{
+  "course_id": "LUKD1108",
+  "title": "Labor Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Labor Law Theoretical Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Students have deep knowledge about basic legal regulations of labor law such as labor contracts, labor discipline, dispute resolution, and strikes."
+    },
+    {
+      "skill_name": "Legal Analysis Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze and synthesize information on specific legal situations, use computers with internet connections to search for legal information, check the validity of legal regulations, and communicate effectively."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students can apply group work skills and present and deliver presentations on specialized topics."
+    },
+    {
+      "skill_name": "Self-study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop the ability to independently research, accumulate, and enhance their professional knowledge."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students can prepare and deliver presentations on specialized topics and answer questions related to the presentation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

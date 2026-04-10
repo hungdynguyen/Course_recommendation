@@ -1,0 +1,48 @@
+{
+  "course_id": "BHKT1163",
+  "title": "Risk Management in Insurance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and master the framework, standards, and stages of the risk management process in insurance businesses; Proficient in risk management tools."
+    },
+    {
+      "skill_name": "Risk Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Master techniques for identifying, analyzing, and evaluating risks in insurance business operations; Apply risk analysis techniques in insurance business operations."
+    },
+    {
+      "skill_name": "Insurance Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Apply risk management knowledge to advise on risk management in insurance business operations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in synthesis, analysis, and systematic thinking; Ability to manage resources for professional activities in insurance risk management."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance when working independently, show personal responsibility and responsibility towards the group."
+    },
+    {
+      "skill_name": "Objective Argumentation",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal views based on an objective and scientific approach to risk management activities in insurance businesses."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Insurance Business 1",
+      "Insurance Business 2"
+    ],
+    "minimum_entry_skills": []
+  }
+}

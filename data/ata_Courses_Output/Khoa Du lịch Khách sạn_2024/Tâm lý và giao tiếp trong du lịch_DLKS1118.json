@@ -1,0 +1,51 @@
+{
+  "course_id": "DLKS1118",
+  "title": "Psychology and Communication in Tourism",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Concepts in Psychology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts in psychology and their role in business operations."
+    },
+    {
+      "skill_name": "Recognizing Tourist Psychology",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the psychological characteristics of tourists and other participants in tourism activities."
+    },
+    {
+      "skill_name": "Effective Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize effective communication skills in serving tourists and other business activities."
+    },
+    {
+      "skill_name": "Building Positive Relationships with Customers",
+      "category": "Soft Skill",
+      "outcome_description": "Develop positive relationships with customers and colleagues in tourism activities."
+    },
+    {
+      "skill_name": "Listening Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply listening skills effectively in tourism business operations."
+    },
+    {
+      "skill_name": "Writing Effective Texts",
+      "category": "Soft Skill",
+      "outcome_description": "Produce well-written texts commonly used in tourism and hospitality businesses."
+    },
+    {
+      "skill_name": "Persuasive Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver persuasive presentations in tourism business settings."
+    },
+    {
+      "skill_name": "Analyzing Psychological Characteristics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the psychological characteristics of different tourist groups based on nationality, age, gender, profession, and travel purpose."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

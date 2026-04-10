@@ -1,0 +1,68 @@
+{
+  "course_id": "TKKT1132",
+  "title": "Social and Environmental Statistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Index Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate statistical indices for social and environmental research."
+    },
+    {
+      "skill_name": "Systematization of Statistical Analysis Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Systematize appropriate statistical analysis methods for social and environmental research."
+    },
+    {
+      "skill_name": "Identification of Statistical Indices",
+      "category": "Hard Skill",
+      "outcome_description": "Identify statistical indices for socio-economic analysis and management."
+    },
+    {
+      "skill_name": "Evaluation of Statistical Models",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and explain statistical analysis and forecasting models in social and environmental contexts."
+    },
+    {
+      "skill_name": "Data Collection and Selection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and select data for statistical analysis and forecasting in social and environmental fields."
+    },
+    {
+      "skill_name": "Construction and Calculation of Statistical Indices",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and calculate statistical indices for social and environmental contexts."
+    },
+    {
+      "skill_name": "Use of Statistical Tools and Software",
+      "category": "Tool/Software",
+      "outcome_description": "Utilize statistical tools and software in constructing and evaluating statistical analysis and forecasting models."
+    },
+    {
+      "skill_name": "Interpretation of Analysis Results",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret analysis results, compare with economic theories, and assess policy implications to support decision-making."
+    },
+    {
+      "skill_name": "Contextual Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have a perspective and understanding of the social context."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking in problem-solving."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theoretical Statistics 1",
+      "Theoretical Statistics 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "course_id": "TOkt1138",
+  "title": "Introduction to Data Science in Economics and Business 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "R Programming Language",
+      "category": "Tool/Software",
+      "outcome_description": "Apply R as a programming language and software for data analysis. Understand how to store, manage, process, and analyze data using R."
+    },
+    {
+      "skill_name": "Supervised Learning Models",
+      "category": "Hard Skill",
+      "outcome_description": "Apply supervised learning models to build data models for analyzing the impact of one variable on another or predicting a target variable."
+    },
+    {
+      "skill_name": "Unsupervised Learning Models",
+      "category": "Hard Skill",
+      "outcome_description": "Apply unsupervised learning models to build data models for classification, clustering, and data mining."
+    },
+    {
+      "skill_name": "Data Preprocessing",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in searching, processing, analyzing, transforming, and visualizing data using packages such as readr, readxl, dplyr, ggplot2, stringr."
+    },
+    {
+      "skill_name": "Model Building with Supervised Learning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in building supervised learning models using R to understand and summarize data, analyze relationships between variables, or build predictive models."
+    },
+    {
+      "skill_name": "Model Building with Unsupervised Learning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in building unsupervised learning models using R to explore, understand data, cluster data, find values within data, or detect outliers."
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently, organize, and manage work in groups, synthesize issues, and persuade others."
+    },
+    {
+      "skill_name": "Personal Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal responsibility, responsibility towards the group, and build discipline in study."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

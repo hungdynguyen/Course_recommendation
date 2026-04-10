@@ -1,0 +1,67 @@
+{
+  "course_id": "LUKD1196",
+  "title": "Law on Commerce",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic legal regulations for businesses",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the general legal framework for business registration and management."
+    },
+    {
+      "skill_name": "Understanding legal regulations for private enterprises and companies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the legal framework for private enterprises and various types of companies."
+    },
+    {
+      "skill_name": "Understanding legal regulations for other business entities",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the legal framework for other business entities such as cooperatives and individual traders."
+    },
+    {
+      "skill_name": "Understanding laws related to commercial contracts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand laws related to commercial contracts and dispute resolution."
+    },
+    {
+      "skill_name": "Understanding laws related to bankruptcy and dissolution",
+      "category": "Hard Skill",
+      "outcome_description": "Understand laws related to the dissolution and bankruptcy of businesses and cooperatives."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork skills through group presentations and discussions."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective communication skills in presentations and discussions."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to present information clearly and effectively."
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently research and accumulate knowledge."
+    },
+    {
+      "skill_name": "Active presentation of research results",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to actively present research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Civil Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

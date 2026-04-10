@@ -1,0 +1,81 @@
+{
+  "course_id": "MTDT1127",
+  "title": "Urban Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply urban economic theories to real-world problems."
+    },
+    {
+      "skill_name": "Urban Land Use Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze land use patterns in urban areas."
+    },
+    {
+      "skill_name": "Urban Infrastructure Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and assess infrastructure needs in urban settings."
+    },
+    {
+      "skill_name": "Urban Crime Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic principles to understand crime patterns in urban areas."
+    },
+    {
+      "skill_name": "Urban Growth Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Model urban growth using economic theories."
+    },
+    {
+      "skill_name": "Urban Transportation Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate transportation issues in urban environments."
+    },
+    {
+      "skill_name": "Urban Education Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Plan educational facilities and services in urban contexts."
+    },
+    {
+      "skill_name": "Urban Housing Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze housing markets in urban areas."
+    },
+    {
+      "skill_name": "Urban Economic Policies",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and evaluate policies for urban economic development."
+    },
+    {
+      "skill_name": "Urban Economic Research Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research on urban economic topics using appropriate methods."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze complex urban economic issues."
+    },
+    {
+      "skill_name": "Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively to solve urban economic problems."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in independent study to deepen understanding of urban economics."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively about urban economic concepts and findings."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

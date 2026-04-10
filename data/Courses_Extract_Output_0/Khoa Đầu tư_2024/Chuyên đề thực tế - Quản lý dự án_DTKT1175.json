@@ -1,0 +1,35 @@
+{
+  "course_id": "DTKT 1175",
+  "title": "Project",
+  "difficulty_level": "Beginner",
+  "duration": "60 class hours + 140 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical knowledge to solve real-world project management problems."
+    },
+    {
+      "skill_name": "Field Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct field research at real-world organizations to gather data and insights."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve practical problems related to project management through research and analysis."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in a team setting to complete group assignments and projects."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

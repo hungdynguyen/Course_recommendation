@@ -1,0 +1,65 @@
+{
+  "course_id": "NLQT1105",
+  "title": "Human Resources Management in the Hospitality Industry",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Human Resources Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept, role, and importance of human resources management in the hospitality industry."
+    },
+    {
+      "skill_name": "Strategic HR Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Explain the strategic role of HR departments and the division of HR responsibilities among different levels of management."
+    },
+    {
+      "skill_name": "Environmental Impact Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the impact of internal and external factors on HR management in the hospitality industry."
+    },
+    {
+      "skill_name": "HR Activities",
+      "category": "Soft Skill",
+      "outcome_description": "Describe and explain the various HR activities and practices in the hospitality industry."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to HR activities in the hospitality industry."
+    },
+    {
+      "skill_name": "Evaluation and Application",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate HR activities and apply knowledge to propose solutions for HR issues."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively about HR activities and related issues."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Build and organize teams to complete group assignments and discuss HR issues."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate and develop critical thinking skills in evaluating HR issues."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Express and develop problem-solving and critical thinking skills in evaluating HR issues."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

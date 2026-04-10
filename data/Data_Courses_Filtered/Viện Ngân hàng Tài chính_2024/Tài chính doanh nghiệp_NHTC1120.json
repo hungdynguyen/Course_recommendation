@@ -1,0 +1,61 @@
+{
+  "course_id": "NHTC1120",
+  "title": "Corporate Finance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding financial concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of finance and distinguish between finance and money"
+    },
+    {
+      "skill_name": "Analyzing financial statements",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial statements and understand their role in business operations"
+    },
+    {
+      "skill_name": "Valuation of securities",
+      "category": "Hard Skill",
+      "outcome_description": "Apply principles of time value of money to value bonds and stocks"
+    },
+    {
+      "skill_name": "Capital structure analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the capital structure of a company and its impact on financial decisions"
+    },
+    {
+      "skill_name": "Long-term investment decision making",
+      "category": "Hard Skill",
+      "outcome_description": "Make long-term investment decisions using financial metrics such as NPV, IRR, PI, and PP"
+    },
+    {
+      "skill_name": "Short-term asset management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage short-term assets including cash, receivables, and inventory"
+    },
+    {
+      "skill_name": "Financial planning and control",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and control financial activities within a business"
+    },
+    {
+      "skill_name": "Independent work ethic",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance when working independently and take responsibility for group work"
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve complex financial problems"
+    },
+    {
+      "skill_name": "Effective communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in professional settings"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

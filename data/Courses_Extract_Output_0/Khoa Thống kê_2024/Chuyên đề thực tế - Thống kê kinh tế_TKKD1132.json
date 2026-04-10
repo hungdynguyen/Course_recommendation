@@ -1,0 +1,37 @@
+{
+  "course_id": "TKKD1132",
+  "title": "Project - Applied Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to apply statistical tools in real-world scenarios."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding the structure of data collection systems and their implementation."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Developing critical thinking to solve practical problems using statistical methods."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Writing comprehensive reports detailing the application of statistical tools in real-world settings."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Not specified"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

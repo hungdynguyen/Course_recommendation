@@ -1,0 +1,92 @@
+{
+  "course_id": "BHKT1133",
+  "title": "Social Insurance Management 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Insurance Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of social insurance management, including financial management, supervision, and inspection."
+    },
+    {
+      "skill_name": "Policy and Strategy Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop policies and strategies for social insurance management, including organizational structure."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate social insurance management processes and policies."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and inspire team members in social insurance management tasks."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage resources effectively and evaluate the performance of social insurance management activities."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with Vietnamese laws and regulations in social insurance management."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and analyze data related to social insurance management."
+    },
+    {
+      "skill_name": "Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and analysis in social insurance management."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage financial aspects of social insurance, including budgeting and payment processes."
+    },
+    {
+      "skill_name": "Investment Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage investment activities of social insurance funds."
+    },
+    {
+      "skill_name": "Supervision",
+      "category": "Hard Skill",
+      "outcome_description": "Supervise and inspect social insurance activities."
+    },
+    {
+      "skill_name": "Legal Inspection",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct legal inspections and resolve complaints in social insurance management."
+    },
+    {
+      "skill_name": "Health Insurance Supervision",
+      "category": "Hard Skill",
+      "outcome_description": "Supervise health insurance activities, including medical supervision."
+    },
+    {
+      "skill_name": "Public Administration",
+      "category": "Hard Skill",
+      "outcome_description": "Manage public administration aspects of social insurance, including policy formulation and enforcement."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance Management 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Social Insurance Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

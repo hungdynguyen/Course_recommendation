@@ -1,0 +1,68 @@
+{
+  "course_id": "TKKT1130",
+  "title": "Demography and Labor Statistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Population Statistics Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate population and labor statistics indicators"
+    },
+    {
+      "skill_name": "Statistical Analysis Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Systematize appropriate statistical analysis methods for demographic studies"
+    },
+    {
+      "skill_name": "Statistical Indicator Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify statistical indicators for economic and social analysis and management"
+    },
+    {
+      "skill_name": "Statistical Model Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and explain statistical analysis and forecasting models in demography and labor"
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and select data for statistical analysis and forecasting in demography and labor"
+    },
+    {
+      "skill_name": "Statistical Indicator Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and calculate population and labor statistics indicators"
+    },
+    {
+      "skill_name": "Statistical Software Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Use statistical tools and software in constructing and evaluating statistical analysis and forecasting models"
+    },
+    {
+      "skill_name": "Economic and Social Analysis Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret results of analysis, compare with economic and social theories; analyze economic and social significance and evaluate policies to support decision-making"
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have opinions and awareness about social context"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Have critical thinking in solving problems"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Statistics Theory 1",
+      "Statistics Theory 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

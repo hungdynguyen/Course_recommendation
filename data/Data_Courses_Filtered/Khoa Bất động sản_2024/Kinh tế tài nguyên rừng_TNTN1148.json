@@ -1,0 +1,61 @@
+{
+  "course_id": "TNTN1148",
+  "title": "Forest Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding concepts about forests",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts of forests, the role of forests, and the classification of forests."
+    },
+    {
+      "skill_name": "Explaining characteristics of forests",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the characteristics of forests."
+    },
+    {
+      "skill_name": "Analyzing trends in forest resource development in Vietnam and globally",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze trends in forest resource development in Vietnam and globally."
+    },
+    {
+      "skill_name": "Classifying types of forest products and services",
+      "category": "Hard Skill",
+      "outcome_description": "Classify types of forest products and services."
+    },
+    {
+      "skill_name": "Distinguishing public goods and private goods in forest products/services",
+      "category": "Hard Skill",
+      "outcome_description": "Distinguish public goods and private goods in forest products/services."
+    },
+    {
+      "skill_name": "Understanding the Vietnamese forest product market and supply-demand laws",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the Vietnamese forest product market and supply-demand laws."
+    },
+    {
+      "skill_name": "Calculating total forest value using the Faustmann model",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate the total forest value using the Faustmann model."
+    },
+    {
+      "skill_name": "Analyzing the impact of economic tools on optimal harvest timing and profit",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of economic tools such as prices and interest rates on optimal harvest timing and profit."
+    },
+    {
+      "skill_name": "Interpreting, synthesizing when considering cause-effect relationships of economic policies on forest exploitation and use",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret and synthesize when considering cause-effect relationships of economic policies on forest exploitation and use."
+    },
+    {
+      "skill_name": "Recognizing and adhering to legal regulations regarding forest management, protection, and construction",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and adhere to legal regulations regarding forest management, protection, and construction."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "course_id": "TMQT1141",
+  "title": "Bonded Warehouse",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding bonded warehouse characteristics",
+      "category": "Hard Skill",
+      "outcome_description": "Students grasp the basic knowledge about bonded warehouses in a market economy: nature, role, major functions and tasks of bonded warehouses, technical facilities of bonded warehouses, as well as the formation and regulations for organizing bonded warehouse activities."
+    },
+    {
+      "skill_name": "Compliance with bonded warehouse regulations",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand and grasp the procedures for designing, operating, and evaluating the effectiveness of bonded warehouses."
+    },
+    {
+      "skill_name": "Designing bonded warehouses",
+      "category": "Hard Skill",
+      "outcome_description": "Students have the ability to design, construct, and operate various types of bonded warehouses."
+    },
+    {
+      "skill_name": "Managing bonded warehouse operations",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand and grasp the methods for building import/export procedures for goods traded through bonded warehouses."
+    },
+    {
+      "skill_name": "Government management of bonded warehouses",
+      "category": "Hard Skill",
+      "outcome_description": "Students have knowledge in the field of government management of bonded warehouses, import/export procedures at bonded warehouses, and evaluation of the effectiveness of bonded warehouse operations."
+    },
+    {
+      "skill_name": "Independent work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students have the ability to work independently, teamwork skills; through individual assignments, group assignments, students have the ability to write reports, present, and present contents related to customs in general and bonded warehouses for imported/exported goods in particular in a scientific manner."
+    },
+    {
+      "skill_name": "Self-study and research skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students have the ability to self-study and research, find materials to complete assigned lessons and assignments (group assignments and scenario assignments) on their own initiative, have a sense of discipline in class organization, follow classroom rules, have a cooperative spirit, and a personal sense of responsibility for activities assigned by the instructor."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

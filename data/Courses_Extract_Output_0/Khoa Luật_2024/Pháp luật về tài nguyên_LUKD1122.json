@@ -1,0 +1,37 @@
+{
+  "course_id": "LUKD1122",
+  "title": "Law on Natural Resources",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Framework",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the legal framework governing natural resources."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the role of natural resources in social life and economic development."
+    },
+    {
+      "skill_name": "Environmental Law",
+      "category": "Hard Skill",
+      "outcome_description": "Apply environmental law principles to manage natural resources."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate policies related to natural resource management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Law"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

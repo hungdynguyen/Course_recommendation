@@ -1,0 +1,57 @@
+{
+  "course_id": "TIHT1124",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop, operate, and maintain management information systems for economic, management, and business administration fields."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Deploy projects related to digital transformation, business restructuring, and intelligent management systems."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effective communication, time management, and adaptability to changes."
+    },
+    {
+      "skill_name": "Technical Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write reports and deliver professional presentations."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or collaboratively in a group."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of management information systems."
+    },
+    {
+      "skill_name": "Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Develop, operate, and manage information systems in organizations and businesses."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Self-study and read specialized literature."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Accumulate 75% of the credits in the curriculum"
+    ],
+    "minimum_entry_skills": []
+  }
+}

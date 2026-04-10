@@ -1,0 +1,58 @@
+{
+  "course_id": "Information Management System Development",
+  "title": "Development of Information Management Systems",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "System Design",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a comprehensive understanding of system design principles and methodologies."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply project management techniques to oversee the development of information systems."
+    },
+    {
+      "skill_name": "Requirements Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze user requirements to design effective information management systems."
+    },
+    {
+      "skill_name": "IT Governance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply IT governance principles in managing information systems."
+    },
+    {
+      "skill_name": "Systems Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct thorough analysis of existing systems to identify areas for improvement."
+    },
+    {
+      "skill_name": "Software Engineering",
+      "category": "Hard Skill",
+      "outcome_description": "Implement software engineering practices in developing information management systems."
+    },
+    {
+      "skill_name": "Data Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Create accurate data models for information management systems."
+    },
+    {
+      "skill_name": "Project Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Plan and organize projects related to information management systems development."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Systems",
+      "Fundamentals of Computer Science"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

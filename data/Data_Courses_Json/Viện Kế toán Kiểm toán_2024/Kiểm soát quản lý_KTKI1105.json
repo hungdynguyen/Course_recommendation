@@ -1,0 +1,72 @@
+{
+  "course_id": "KTKI 1105",
+  "title": "Kiểm soát quản lý",
+  "difficulty_level": "Advanced",
+  "duration": "3TC",
+  "skill_outcomes": [
+    {
+      "skill_name": "Management Control Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply concepts and techniques of management control systems to ensure organizational effectiveness and strategy implementation."
+    },
+    {
+      "skill_name": "Financial Control",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial control systems and their impact on organizational performance."
+    },
+    {
+      "skill_name": "Performance Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and apply performance measurement criteria for management control systems."
+    },
+    {
+      "skill_name": "Incentive Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Design and evaluate incentive systems to improve organizational performance."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and resolve issues in management control systems within organizational contexts."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and solutions to management stakeholders."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critically evaluate management control systems and propose improvements."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and manage teams in implementing management control systems."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on management control system data and analysis."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Assess and mitigate risks in management control systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kế toán quản trị 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Accounting",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

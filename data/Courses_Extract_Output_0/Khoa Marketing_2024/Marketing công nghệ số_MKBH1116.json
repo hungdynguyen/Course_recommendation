@@ -1,0 +1,41 @@
+{
+  "course_id": "MKBH1116",
+  "title": "Digital Marketing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Digital Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a comprehensive understanding of digital marketing strategies including online advertising, social media marketing, email marketing, and content marketing."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize data analysis tools and techniques to evaluate the effectiveness of digital marketing campaigns."
+    },
+    {
+      "skill_name": "SEO/SEM",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply SEO and SEM techniques to improve website visibility and ranking on search engines."
+    },
+    {
+      "skill_name": "Content Creation",
+      "category": "Soft Skill",
+      "outcome_description": "Create engaging and effective content for various digital platforms."
+    },
+    {
+      "skill_name": "Social Media Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage social media accounts effectively to engage audiences and build brand awareness."
+    },
+    {
+      "skill_name": "Analytics Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Use analytics tools to track and measure the performance of digital marketing campaigns."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

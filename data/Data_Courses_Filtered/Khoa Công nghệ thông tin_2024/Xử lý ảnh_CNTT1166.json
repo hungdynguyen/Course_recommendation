@@ -1,0 +1,67 @@
+{
+  "course_id": "CNTT1166",
+  "title": "Digital Image Processing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Image Acquisition and Digitization",
+      "category": "Hard Skill",
+      "outcome_description": "Apply image acquisition techniques and digitization methods."
+    },
+    {
+      "skill_name": "Basic Image Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Perform basic operations on digital images."
+    },
+    {
+      "skill_name": "Image Enhancement Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Implement image enhancement techniques."
+    },
+    {
+      "skill_name": "Edge Detection Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Use edge detection algorithms effectively."
+    },
+    {
+      "skill_name": "Region Segmentation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply region segmentation methods."
+    },
+    {
+      "skill_name": "Feature-Based Image Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize feature-based approaches for image recognition."
+    },
+    {
+      "skill_name": "Machine Learning for Image Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Apply machine learning techniques for image recognition tasks."
+    },
+    {
+      "skill_name": "AI Techniques for Image Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Use AI techniques for advanced image recognition."
+    },
+    {
+      "skill_name": "Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work independently and collaboratively."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to ethical responsibilities in professional practice."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

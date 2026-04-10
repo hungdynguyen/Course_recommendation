@@ -1,0 +1,107 @@
+{
+  "course_id": "LUKD 11103",
+  "title": "Law on Tourism and Hospitality",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism Activities Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply legal knowledge about tourism activities."
+    },
+    {
+      "skill_name": "Tourism Business Activities Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply legal knowledge about tourism business activities."
+    },
+    {
+      "skill_name": "Hotel Management Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply legal knowledge about hotel management."
+    },
+    {
+      "skill_name": "Legal System Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the legal system regulating tourism and hospitality activities."
+    },
+    {
+      "skill_name": "Government Management Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze government management over tourism activities."
+    },
+    {
+      "skill_name": "Legal Framework Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the legal framework regulating tourism and hospitality activities."
+    },
+    {
+      "skill_name": "Legal Principles Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply legal principles in choosing the appropriate legal regulations for tourism and hospitality activities."
+    },
+    {
+      "skill_name": "Business Entity Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand different types of business entities in the tourism sector."
+    },
+    {
+      "skill_name": "Tourism Business Establishment Procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Apply legal procedures for establishing tourism businesses."
+    },
+    {
+      "skill_name": "Civil Contracts Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand civil contracts and their application in tourism and hospitality."
+    },
+    {
+      "skill_name": "Tourism Business Contracts Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand tourism business contracts and their application."
+    },
+    {
+      "skill_name": "Dispute Resolution Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand methods for resolving disputes in tourism and hospitality."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills effectively."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication skills effectively."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply presentation skills effectively."
+    },
+    {
+      "skill_name": "Legal Problem Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving skills to resolve legal issues in tourism and hospitality."
+    },
+    {
+      "skill_name": "Self-directed Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-directed learning skills to independently research and accumulate knowledge."
+    },
+    {
+      "skill_name": "Active Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present research results actively and clearly."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS1129"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

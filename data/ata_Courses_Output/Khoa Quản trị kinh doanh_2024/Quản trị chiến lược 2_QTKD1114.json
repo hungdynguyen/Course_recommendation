@@ -1,0 +1,73 @@
+{
+  "course_id": "QTKD 1114",
+  "title": "Strategic Management 2",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and applying strategic analysis models",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply strategic analysis models for business orientation"
+    },
+    {
+      "skill_name": "Understanding and applying strategic selection models",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply strategic selection models for businesses"
+    },
+    {
+      "skill_name": "Understanding and applying corporate-level strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply corporate-level strategy"
+    },
+    {
+      "skill_name": "Understanding and applying business unit-level strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply business unit-level strategy"
+    },
+    {
+      "skill_name": "Understanding and applying functional-level strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply functional-level strategy"
+    },
+    {
+      "skill_name": "Understanding international market strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand international market strategies"
+    },
+    {
+      "skill_name": "Understanding international market development methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand international market development methods"
+    },
+    {
+      "skill_name": "Understanding the essence and significance of implementing strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence and significance of implementing strategy"
+    },
+    {
+      "skill_name": "Understanding and applying the implementation of strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply the implementation of strategy"
+    },
+    {
+      "skill_name": "Understanding the essence of evaluating strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence of evaluating strategy"
+    },
+    {
+      "skill_name": "Understanding and applying strategy adjustment",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply strategy adjustment"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Strategic Management",
+      "Strategic Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

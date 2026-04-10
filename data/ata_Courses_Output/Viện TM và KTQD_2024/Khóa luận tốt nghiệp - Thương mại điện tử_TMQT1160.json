@@ -1,0 +1,65 @@
+{
+  "course_id": "TMQT1160",
+  "title": "Graduation Thesis – E-Commerce",
+  "difficulty_level": "Advanced",
+  "duration": "10 credits, 150 hours total",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-commerce Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of e-commerce to analyze and evaluate business operations, propose improvements and solutions."
+    },
+    {
+      "skill_name": "Market Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, analyze, and interpret market data for business decision-making."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems arising in e-commerce business operations."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Select and apply appropriate research methods and techniques."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and concise reports based on research findings."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and defend them in front of a panel."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and manage the research process effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and critique existing research and theories in e-commerce."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously improve knowledge and skills through self-directed learning."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers and mentors during the research process."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

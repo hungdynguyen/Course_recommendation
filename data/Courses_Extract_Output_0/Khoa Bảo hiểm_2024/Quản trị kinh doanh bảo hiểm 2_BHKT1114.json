@@ -1,0 +1,42 @@
+{
+  "course_id": "BHKT1114",
+  "title": "Insurance Business Administration 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Customer Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand customer segmentation, relationship management, and service delivery in insurance."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend the role, functions, and practices of human resource management in insurance companies."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial statements and manage financial operations in insurance firms."
+    },
+    {
+      "skill_name": "Investment Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate investment strategies and their impact on insurance business performance."
+    },
+    {
+      "skill_name": "Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Design and manage information systems within insurance organizations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Insurance Business Administration 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

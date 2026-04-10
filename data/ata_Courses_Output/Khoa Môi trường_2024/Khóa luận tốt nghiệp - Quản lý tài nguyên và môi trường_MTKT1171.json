@@ -1,0 +1,66 @@
+{
+  "course_id": "MTKT1171",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Advanced",
+  "duration": "15 hours lecture + 135 hours practical",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Activity Description",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the current state of economic activities and resource management in organizations/regions."
+    },
+    {
+      "skill_name": "Strengths and Weaknesses Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate strengths and weaknesses, identify issues in economic activities and resource management."
+    },
+    {
+      "skill_name": "Activity Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge to analyze and explain issues in economic activities and resource management."
+    },
+    {
+      "skill_name": "Information Gathering",
+      "category": "Soft Skill",
+      "outcome_description": "Collect relevant information reflecting the results of economic activities and resource management."
+    },
+    {
+      "skill_name": "Plan and Policy Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate planning, policies, programs, and projects for economic and social development in resource management."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to problems in economic activities and resource management."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and effectively in teams to solve assigned tasks."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze, synthesize, and evaluate data to propose solutions to real-world management issues."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously improve professional expertise through self-study and experience accumulation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Draw conclusions and propose solutions to emerging issues in economic activities and resource management."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to changes in organizational management and environmental management during practical engagement."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

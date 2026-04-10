@@ -1,0 +1,79 @@
+{
+  "course_id": "CNTT11105",
+  "title": "Mật mã và bảo mật thông tin",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cryptography",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply cryptographic principles and techniques, including symmetric and asymmetric encryption, key exchange, and digital signatures."
+    },
+    {
+      "skill_name": "Information Security",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and manage security threats, risks, and vulnerabilities in information systems."
+    },
+    {
+      "skill_name": "Security Protocols",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement security protocols for secure communication and data protection."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, assess, and mitigate risks in information security contexts."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve complex problems related to cryptography and information security."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and analyze cryptographic systems and security measures."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and develop solutions for cryptographic and security challenges."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve security-related problems."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and execute security-related projects, including software development and implementation."
+    },
+    {
+      "skill_name": "Ethical Considerations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to ethical standards in cryptography and information security."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundations of Programming",
+      "Data Structures and Algorithms",
+      "Database Systems",
+      "Computer Networks and Data Transmission"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Mathematics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

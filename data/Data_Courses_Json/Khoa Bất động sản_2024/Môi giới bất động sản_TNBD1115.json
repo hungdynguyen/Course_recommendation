@@ -1,0 +1,76 @@
+{
+  "course_id": "TNBD1115",
+  "title": "Môi giới Bất động sản",
+  "difficulty_level": "Advanced",
+  "duration": "30 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real Estate Brokerage",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the basic concepts and activities of real estate brokerage, including the characteristics, roles, and professional requirements of the profession."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in negotiation, persuasion, and presentation to effectively manage real estate transactions."
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Apply marketing principles to real estate brokerage, including market analysis and customer relationship management."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and comply with legal regulations related to real estate transactions and brokerage activities."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to achieve common goals and objectives."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and organize real estate brokerage projects, including planning, execution, and evaluation."
+    },
+    {
+      "skill_name": "Customer Service",
+      "category": "Soft Skill",
+      "outcome_description": "Provide excellent customer service to clients in real estate transactions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems in real estate transactions and brokerage activities."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously improve professional knowledge and skills through self-study and practical experience."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership qualities in managing real estate brokerage activities and teams."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Thị trường bất động sản"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Real Estate Market Analysis",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Property Law",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

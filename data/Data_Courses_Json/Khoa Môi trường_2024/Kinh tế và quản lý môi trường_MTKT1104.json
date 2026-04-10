@@ -1,0 +1,55 @@
+{
+  "course_id": "MTKT1104",
+  "title": "Environmental Economics and Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the economic aspects of pollution, measure economic damages caused by pollution, and evaluate the economic value of resources and environment."
+    },
+    {
+      "skill_name": "Environmental Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain new approaches and trends in addressing environmental issues during economic and social development such as green growth, circular economy, low-carbon economy, and climate change economy."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply economic and management tools to propose and implement solutions for sustainable development in the field of environmental and resource management."
+    },
+    {
+      "skill_name": "Sustainable Development",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate, analyze, and make decisions aligned with sustainable development goals, environmental protection, and natural capital preservation."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-study and research skills to complete assignments and solve practical problems."
+    },
+    {
+      "skill_name": "Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Show awareness of class rules, cooperation, and personal responsibility in assigned activities."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver group presentations on river basin management topics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in discussions, answer questions, and participate in class activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

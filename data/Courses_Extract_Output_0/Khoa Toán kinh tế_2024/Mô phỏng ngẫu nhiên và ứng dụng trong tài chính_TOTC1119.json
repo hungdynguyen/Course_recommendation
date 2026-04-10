@@ -1,0 +1,64 @@
+{
+  "course_id": "TOTC1119",
+  "title": "Stochastic simulation and applications in finance",
+  "difficulty_level": "Advanced",
+  "duration": "135 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Monte Carlo Simulation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply Monte Carlo methods in financial modeling."
+    },
+    {
+      "skill_name": "Random Number Generation",
+      "category": "Hard Skill",
+      "outcome_description": "Generate random numbers using various techniques."
+    },
+    {
+      "skill_name": "Stochastic Processes",
+      "category": "Hard Skill",
+      "outcome_description": "Simulate stochastic processes and their applications."
+    },
+    {
+      "skill_name": "Variance Reduction Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply variance reduction techniques in simulations."
+    },
+    {
+      "skill_name": "Multivariate Distributions",
+      "category": "Hard Skill",
+      "outcome_description": "Simulate multivariate distributions using Cholesky decomposition."
+    },
+    {
+      "skill_name": "Financial Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Model financial scenarios using stochastic simulation techniques."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Algebra",
+      "Calculus 1",
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Financial Mathematics Basics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Calculus",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Basic Probability",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "course_id": "TNKT1154",
+  "title": "Agribusiness II",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of supply chain management in agricultural businesses."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial statements and manage financial risks in agricultural businesses."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and mitigate various types of risks in agricultural operations."
+    },
+    {
+      "skill_name": "Fixed Asset Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage fixed assets effectively to optimize performance and profitability."
+    },
+    {
+      "skill_name": "Leadership Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop leadership skills necessary for effective management in agricultural businesses."
+    },
+    {
+      "skill_name": "Internal Control and Quality Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement internal control systems and quality management practices in agricultural businesses."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct comprehensive business analysis using various analytical tools and techniques."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to real-world business scenarios in agriculture."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate and make informed decisions in agricultural contexts."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills through group discussions and presentations."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers in group projects and presentations."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently and apply new knowledge to practical situations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

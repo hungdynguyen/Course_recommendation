@@ -1,0 +1,65 @@
+{
+  "course_id": "DLKS1152",
+  "title": "Cruise Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and characteristics of cruise tourism and hotel operations."
+    },
+    {
+      "skill_name": "Service Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze service management practices on cruise ships, including human resources, food and beverage, facilities, customer service, and safety."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Apply strategic planning principles to cruise operations, including itinerary design and logistics."
+    },
+    {
+      "skill_name": "Legal and Regulatory Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand maritime laws and regulations, and their impact on cruise operations."
+    },
+    {
+      "skill_name": "Geography and Itinerary Design",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze geographical and logistical factors in cruise itinerary planning."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve real-world cruise management problems."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and deliver effective presentations on cruise management topics."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to develop and present cruise management solutions."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both written and oral formats."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to cruise management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

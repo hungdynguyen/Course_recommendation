@@ -1,0 +1,74 @@
+{
+  "course_id": "DTKT1147",
+  "title": "Project Financing",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role and position of project financing in the curriculum. Understand basic issues related to project financing such as the concept, characteristics, and requirements of project financing."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Identify different forms of project financing and sources of funding. Understand the techniques and contract forms of project financing for different types of projects."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and allocate risks in project financing. Develop plans for project financing."
+    },
+    {
+      "skill_name": "Negotiation and Contracting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the financing methods and sources of various organizations and know how to exploit financing resources from these organizations."
+    },
+    {
+      "skill_name": "Research and Independent Study",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently research, work in groups, and accumulate experience to continue higher education and adapt to globalization and the 4th Industrial Revolution."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand laws and comply with all school and class regulations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the advantages and disadvantages of different forms of financing and traditional financing methods."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and present reports and slides, and engage in group discussions."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and present research findings."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Choose appropriate financing methods and organizations for real-world projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Investment Economics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

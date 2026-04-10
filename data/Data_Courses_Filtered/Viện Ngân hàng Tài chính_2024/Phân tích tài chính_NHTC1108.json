@@ -1,0 +1,108 @@
+{
+  "course_id": "NHTC1108",
+  "title": "Financial Analysis",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Analysis Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the objectives of financial analysis from the perspectives of company managers, lenders, and stock analysts."
+    },
+    {
+      "skill_name": "Importance and Relationship of Financial Reports",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the importance and relationship between financial reports in financial analysis."
+    },
+    {
+      "skill_name": "Limitations of Financial Reports",
+      "category": "Hard Skill",
+      "outcome_description": "Identify limitations of financial reports and other sources of information that analysts can use in financial analysis."
+    },
+    {
+      "skill_name": "Steps in Financial Analysis Process",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the basic content of each step in the financial analysis process."
+    },
+    {
+      "skill_name": "Definitions and Limitations of Financial Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the definitions, uses, and limitations of tools and techniques used in financial analysis."
+    },
+    {
+      "skill_name": "Calculate and Explain Financial Ratios",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate and explain financial ratios of a company."
+    },
+    {
+      "skill_name": "Evaluate Company's Financial Situation",
+      "category": "Hard Skill",
+      "outcome_description": "Use financial ratios and other tools to evaluate the financial situation of a company in reality and forecast future financial conditions."
+    },
+    {
+      "skill_name": "Identify Financial Issues",
+      "category": "Hard Skill",
+      "outcome_description": "Identify financial issues of a company through financial analysis and propose solutions and recommendations for the company."
+    },
+    {
+      "skill_name": "Horizontal and Vertical Analysis Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various methods of financial analysis such as horizontal, vertical, group index analysis, and DuPont analysis."
+    },
+    {
+      "skill_name": "Interpret Financial Indicators",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how to determine and interpret financial indicators in different groups of financial analysis indicators."
+    },
+    {
+      "skill_name": "Identify Strengths and Weaknesses",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to identify strengths and weaknesses in business operations of a company."
+    },
+    {
+      "skill_name": "Propose Solutions",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to propose solutions to enhance strengths and address weaknesses in business operations."
+    },
+    {
+      "skill_name": "Detect Fraudulent Reporting",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to detect basic forms of fraudulent financial reporting in reality."
+    },
+    {
+      "skill_name": "Develop Personal Views",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to develop and defend personal views on financial analysis issues in reality."
+    },
+    {
+      "skill_name": "Collaborative Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop good teamwork skills to complete group assignments and discussions."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to manage time effectively to complete all assignments with high efficiency."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and fulfill social responsibility and professional ethics when making judgments and evaluations on financial analysis issues."
+    },
+    {
+      "skill_name": "Organize and Supervise",
+      "category": "Soft Skill",
+      "outcome_description": "Organize, evaluate, supervise, and inspire members in completing assigned tasks and social activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of Financial Markets",
+      "Corporate Finance 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

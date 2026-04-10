@@ -1,0 +1,55 @@
+{
+  "course_id": "NLXH1106",
+  "title": "Sociology",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Sociology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain basic concepts and theories of sociology, including social structures, social institutions, and social change."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Apply research methods and techniques to collect and analyze social data, and understand the importance of these methods in decision-making processes."
+    },
+    {
+      "skill_name": "Social Interaction",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze social interactions and understand the impact of socialization on individual behavior and societal roles."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze social phenomena and trends, and understand the dynamics of social processes."
+    },
+    {
+      "skill_name": "Group Dynamics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand group dynamics and apply skills in group work and team management."
+    },
+    {
+      "skill_name": "Cultural Studies",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze cultural components and their influence on daily life and social behavior."
+    },
+    {
+      "skill_name": "Social Inequality",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze social inequalities and stratification, and their implications for social development."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop adaptability skills to respond to changes in social and cultural environments, and manage interactions effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

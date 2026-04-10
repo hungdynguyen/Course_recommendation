@@ -1,0 +1,42 @@
+{
+  "course_id": "Real Estate Brokerage",
+  "title": "Real Estate Brokerage Course",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real Estate Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to apply marketing principles to real estate transactions."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop effective negotiation techniques for real estate deals."
+    },
+    {
+      "skill_name": "Consulting Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn to provide professional consulting services in real estate."
+    },
+    {
+      "skill_name": "Office Management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will gain knowledge on managing a brokerage office effectively."
+    },
+    {
+      "skill_name": "Property Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand how to value properties accurately."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Real Estate"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

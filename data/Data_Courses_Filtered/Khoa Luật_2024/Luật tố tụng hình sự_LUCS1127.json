@@ -1,0 +1,55 @@
+{
+  "course_id": "LUCS1127",
+  "title": "Law on Criminal procedures",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding steps in criminal case resolution process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the procedural steps in resolving criminal cases, including authority, procedure, and process."
+    },
+    {
+      "skill_name": "Analyzing stages of criminal proceedings",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the stages of criminal proceedings, including authority, procedures, and processes for specific criminal cases."
+    },
+    {
+      "skill_name": "Working in teams",
+      "category": "Soft Skill",
+      "outcome_description": "Apply teamwork skills."
+    },
+    {
+      "skill_name": "Communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication, presentation, and public speaking skills."
+    },
+    {
+      "skill_name": "Legal problem-solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving skills to legal issues during criminal case resolution."
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-directed learning abilities, accumulating and enhancing knowledge."
+    },
+    {
+      "skill_name": "Active presentation of research results",
+      "category": "Soft Skill",
+      "outcome_description": "Actively present research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS1104",
+      "LUCS1105",
+      "LUCS1114",
+      "LUCS1115"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "course_id": "MKTT1132",
+  "title": "Writing skills for public relations",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding controlled vs uncontrolled information",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of controlled and uncontrolled information in PR activities."
+    },
+    {
+      "skill_name": "PR writing skills",
+      "category": "Hard Skill",
+      "outcome_description": "Master writing skills for various media types in PR, especially for journalism."
+    },
+    {
+      "skill_name": "PR writing process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the PR writing process and have written communication skills."
+    },
+    {
+      "skill_name": "Writing for different media types",
+      "category": "Hard Skill",
+      "outcome_description": "Develop writing skills for various media types used in PR activities."
+    },
+    {
+      "skill_name": "Writing for specific audiences",
+      "category": "Hard Skill",
+      "outcome_description": "Learn to write for specific public relations audiences."
+    },
+    {
+      "skill_name": "Email writing",
+      "category": "Hard Skill",
+      "outcome_description": "Master the art of writing emails for public relations purposes."
+    },
+    {
+      "skill_name": "Memo writing",
+      "category": "Hard Skill",
+      "outcome_description": "Learn to write effective memos for public relations."
+    },
+    {
+      "skill_name": "Report and proposal writing",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills to write reports and proposals for public relations."
+    },
+    {
+      "skill_name": "Website writing",
+      "category": "Hard Skill",
+      "outcome_description": "Learn to write for websites in the context of public relations."
+    },
+    {
+      "skill_name": "Social media writing",
+      "category": "Hard Skill",
+      "outcome_description": "Master writing for social media platforms in public relations."
+    },
+    {
+      "skill_name": "Press release writing",
+      "category": "Hard Skill",
+      "outcome_description": "Learn to write press releases for print and broadcast media."
+    },
+    {
+      "skill_name": "Speech writing",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills to write speeches for public relations events."
+    },
+    {
+      "skill_name": "Event management",
+      "category": "Hard Skill",
+      "outcome_description": "Learn event management techniques for public relations."
+    },
+    {
+      "skill_name": "Crisis management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand crisis management principles in public relations."
+    },
+    {
+      "skill_name": "Fundraising management",
+      "category": "Hard Skill",
+      "outcome_description": "Learn fundraising management techniques for public relations."
+    },
+    {
+      "skill_name": "Textbook selection",
+      "category": "Soft Skill",
+      "outcome_description": "Select appropriate textbooks and materials for public relations studies."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze public relations issues."
+    },
+    {
+      "skill_name": "Collaborative learning",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers on public relations projects."
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-directed learning skills for continuous improvement in public relations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

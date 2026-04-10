@@ -1,0 +1,51 @@
+{
+  "course_id": "LLTT1101",
+  "title": "Ho Chi Minh Ideology",
+  "difficulty_level": "Intermediate",
+  "duration": "30 hours in-class + 60 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the Objectives and Research Methods of Ho Chi Minh Thought Studies",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the research objectives, methods, and significance of studying Ho Chi Minh thought."
+    },
+    {
+      "skill_name": "Analyzing the Formation and Development Process of Ho Chi Minh Thought",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze the formation and development process of Ho Chi Minh thought."
+    },
+    {
+      "skill_name": "Recognizing the Scientific and Revolutionary Nature of Ho Chi Minh Thought",
+      "category": "Hard Skill",
+      "outcome_description": "Students will recognize the scientific and revolutionary nature of Ho Chi Minh thought."
+    },
+    {
+      "skill_name": "Applying Ho Chi Minh Thought on Independence and Socialism",
+      "category": "Hard Skill",
+      "outcome_description": "Students will apply Ho Chi Minh thought on independence and socialism in current reform practices."
+    },
+    {
+      "skill_name": "Analyzing Ho Chi Minh Thought on Party and State",
+      "category": "Hard Skill",
+      "outcome_description": "Students will analyze Ho Chi Minh thought on party and state in the context of socialist construction."
+    },
+    {
+      "skill_name": "Enhancing Logical Reasoning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will enhance their logical reasoning skills and strengthen their political resolve."
+    },
+    {
+      "skill_name": "Developing Professional Responsibility and Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop professional responsibility and communication skills to meet modern requirements."
+    },
+    {
+      "skill_name": "Understanding the Core Concepts of Ho Chi Minh Thought",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the core concepts of Ho Chi Minh thought."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

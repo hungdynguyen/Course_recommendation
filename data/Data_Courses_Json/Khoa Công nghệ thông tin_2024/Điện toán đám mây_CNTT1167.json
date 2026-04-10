@@ -1,0 +1,81 @@
+{
+  "course_id": "CNTT1167",
+  "title": "Cloud Computing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cloud Computing",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and explain the fundamental concepts of cloud computing, including cloud services, infrastructure, and security."
+    },
+    {
+      "skill_name": "Parallel Programming",
+      "category": "Tool/Software",
+      "outcome_description": "Apply parallel programming techniques for cloud computing and large-scale distributed systems."
+    },
+    {
+      "skill_name": "Hadoop",
+      "category": "Tool/Software",
+      "outcome_description": "Explain and utilize the Hadoop framework for distributed data processing."
+    },
+    {
+      "skill_name": "NoSQL Databases",
+      "category": "Tool/Software",
+      "outcome_description": "Design and implement NoSQL databases for cloud storage and retrieval."
+    },
+    {
+      "skill_name": "Web Servers",
+      "category": "Tool/Software",
+      "outcome_description": "Configure and manage high-performance web servers."
+    },
+    {
+      "skill_name": "Cloud Security",
+      "category": "Tool/Software",
+      "outcome_description": "Implement security measures for cloud services and infrastructure."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent problem-solving skills and apply them to cloud computing scenarios."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve cloud computing problems within deadlines."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate cloud computing issues critically."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently seek out and utilize cloud computing resources."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical principles in cloud computing."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT116)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic IT Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

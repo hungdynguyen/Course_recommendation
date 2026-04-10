@@ -1,0 +1,38 @@
+{
+  "course_id": "NLQT1115",
+  "title": "Labour Organization and Standardization 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizational Design",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the principles and importance of organizational design in labor organization."
+    },
+    {
+      "skill_name": "Labor Standards",
+      "category": "Hard Skill",
+      "outcome_description": "Develop a comprehensive understanding of labor standards and their application in organizations."
+    },
+    {
+      "skill_name": "Workplace Organization",
+      "category": "Hard Skill",
+      "outcome_description": "Apply effective methods for organizing work processes and improving working conditions."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Select appropriate time management techniques suitable for specific business environments."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management Studies",
+      "Industrial Psychology"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

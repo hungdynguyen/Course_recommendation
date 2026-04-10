@@ -1,0 +1,67 @@
+{
+  "course_id": "LUCS1140",
+  "title": "Legal doctrine of anti-corruption",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts and legal frameworks related to anti-corruption, including international and Vietnamese laws, and the responsibilities of entities involved in anti-corruption efforts."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication skills in group work, presentations, and discussions."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills to accumulate and enhance knowledge."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems related to anti-corruption and legal compliance."
+    },
+    {
+      "skill_name": "Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and engage in discussions."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings."
+    },
+    {
+      "skill_name": "International law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply international legal frameworks related to anti-corruption."
+    },
+    {
+      "skill_name": "Legal compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply legal compliance measures in anti-corruption efforts."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand ethical considerations in anti-corruption and legal compliance."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Administrative Law"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic legal knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

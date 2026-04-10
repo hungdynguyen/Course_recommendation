@@ -1,0 +1,38 @@
+{
+  "course_id": "MTKT1168",
+  "title": "Biodiversity Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Conservation Biology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental concepts of biodiversity conservation."
+    },
+    {
+      "skill_name": "Policy Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop policies that integrate biodiversity conservation with socio-economic development."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage natural resources effectively by applying various management tools and techniques."
+    },
+    {
+      "skill_name": "Planning and Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and evaluate biodiversity management strategies using appropriate methodologies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Environmental Science Fundamentals",
+      "Natural Resource and Environmental Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

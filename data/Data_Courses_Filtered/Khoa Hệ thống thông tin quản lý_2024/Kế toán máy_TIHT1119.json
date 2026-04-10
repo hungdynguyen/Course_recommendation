@@ -1,0 +1,65 @@
+{
+  "course_id": "TIHT1119",
+  "title": "Computer-based Accounting",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "System Information Accounting Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of system information accounting and its role in organizations."
+    },
+    {
+      "skill_name": "Accounting Machine Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the process of implementing accounting machines in organizations."
+    },
+    {
+      "skill_name": "1C Enterprise 8 Technology",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the technology of 1C Enterprise 8 and develop accounting applications quickly."
+    },
+    {
+      "skill_name": "Microsoft Excel for Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Use Microsoft Excel for accounting tasks."
+    },
+    {
+      "skill_name": "Specialized Accounting Software for Business",
+      "category": "Hard Skill",
+      "outcome_description": "Apply specialized accounting software for business accounting."
+    },
+    {
+      "skill_name": "Specialized Accounting Software for Administrative Services",
+      "category": "Hard Skill",
+      "outcome_description": "Apply specialized accounting software for administrative services accounting."
+    },
+    {
+      "skill_name": "Project Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects related to accounting systems."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning skills for accounting machine technologies."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or actively participate in group activities."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in management information systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

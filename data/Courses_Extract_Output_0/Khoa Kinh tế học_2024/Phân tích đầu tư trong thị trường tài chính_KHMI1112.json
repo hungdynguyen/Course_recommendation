@@ -1,0 +1,43 @@
+{
+  "course_id": "KHMI1112",
+  "title": "Investment analysis in Financial Markets",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply theories and principles of investment analysis in financial markets."
+    },
+    {
+      "skill_name": "Investment Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and utilize various investment tools available in financial markets."
+    },
+    {
+      "skill_name": "Basic vs Technical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between basic and technical analysis methods and apply them effectively."
+    },
+    {
+      "skill_name": "Portfolio Management",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and manage efficient financial portfolios based on modern theories."
+    },
+    {
+      "skill_name": "Valuation Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply valuation methods to stocks and bonds."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2",
+      "Macroeconomics 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

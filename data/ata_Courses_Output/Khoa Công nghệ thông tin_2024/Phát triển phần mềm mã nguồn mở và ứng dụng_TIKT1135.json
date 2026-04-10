@@ -1,0 +1,106 @@
+{
+  "course_id": "TIKT1135",
+  "title": "Development of Open Source Software and Applications",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding open source software concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and master the process of developing open source software"
+    },
+    {
+      "skill_name": "Explaining open source licenses",
+      "category": "Hard Skill",
+      "outcome_description": "Explain various open source licenses"
+    },
+    {
+      "skill_name": "Operating and maintaining open source software",
+      "category": "Hard Skill",
+      "outcome_description": "Operate and maintain open source software used in management applications"
+    },
+    {
+      "skill_name": "Developing open source software",
+      "category": "Hard Skill",
+      "outcome_description": "Apply the process of developing and deploying open source software"
+    },
+    {
+      "skill_name": "Mastering open source software development",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiently develop and deploy open source software for organizations"
+    },
+    {
+      "skill_name": "Analyzing, designing, and developing open source software",
+      "category": "Hard Skill",
+      "outcome_description": "Enhance skills in analyzing, designing, and developing open source software"
+    },
+    {
+      "skill_name": "Self-study and reading materials on open source software",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-study and reading skills on open source software"
+    },
+    {
+      "skill_name": "Working independently",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or actively participate in group activities"
+    },
+    {
+      "skill_name": "Organizing group activities",
+      "category": "Soft Skill",
+      "outcome_description": "Organize group activities effectively"
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of information management systems"
+    },
+    {
+      "skill_name": "Linux distributions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use basic Ubuntu"
+    },
+    {
+      "skill_name": "Open source programming languages",
+      "category": "Hard Skill",
+      "outcome_description": "Use basic Python"
+    },
+    {
+      "skill_name": "Open source database management systems",
+      "category": "Hard Skill",
+      "outcome_description": "Use basic MySQL"
+    },
+    {
+      "skill_name": "Open source office application suites",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use open source office applications"
+    },
+    {
+      "skill_name": "Content management systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use open source content management systems"
+    },
+    {
+      "skill_name": "Enterprise resource planning systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use open source ERP systems"
+    },
+    {
+      "skill_name": "Eclipse IDE",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and use Eclipse IDE"
+    },
+    {
+      "skill_name": "NetBeans IDE",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and use NetBeans IDE"
+    },
+    {
+      "skill_name": "Git version control system",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and use Git version control system"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

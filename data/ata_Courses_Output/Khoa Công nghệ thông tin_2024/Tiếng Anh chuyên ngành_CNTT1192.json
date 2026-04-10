@@ -1,0 +1,55 @@
+{
+  "course_id": "CNTT1192",
+  "title": "English for IT",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Vocabulary Acquisition",
+      "category": "Hard Skill",
+      "outcome_description": "Acquire vocabulary commonly used in IT fields."
+    },
+    {
+      "skill_name": "Grammar Structure Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand common grammar structures used in IT fields."
+    },
+    {
+      "skill_name": "Application of Grammar Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Apply grammar structures in various contexts such as writing essays, technical exchanges, and translations."
+    },
+    {
+      "skill_name": "Information Retrieval",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to search for information and references in English for specialized knowledge."
+    },
+    {
+      "skill_name": "Basic Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop basic communication skills in English for IT."
+    },
+    {
+      "skill_name": "Independent Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent writing skills and group communication skills for discussing professional issues."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-directed learning abilities and responsibility towards social context and professional ethics in IT."
+    },
+    {
+      "skill_name": "Collaborative Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop collaborative group work skills and responsibility towards class discipline and activities assigned by instructors."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

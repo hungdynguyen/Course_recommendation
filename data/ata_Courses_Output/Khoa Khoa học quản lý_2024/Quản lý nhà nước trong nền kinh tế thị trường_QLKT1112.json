@@ -1,0 +1,80 @@
+{
+  "course_id": "QLKT1112",
+  "title": "Quản lý nhà nước trong nền kinh tế thị trường",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours in class, 105 hours self-study)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the market economy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the market economy, state, and basic characteristics of the state."
+    },
+    {
+      "skill_name": "Understanding the necessity of state intervention in the market economy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the necessity of state intervention in the market economy and affirm the role and functions of state management in the economy."
+    },
+    {
+      "skill_name": "Understanding economic management laws and principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand economic management laws and principles."
+    },
+    {
+      "skill_name": "Understanding types of management tools and methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand types of management tools and methods."
+    },
+    {
+      "skill_name": "Understanding information classification and decision-making processes",
+      "category": "Hard Skill",
+      "outcome_description": "Understand information classification and decision-making processes in state economic management."
+    },
+    {
+      "skill_name": "Understanding the structure and personnel of state economic management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the structure and personnel of state economic management."
+    },
+    {
+      "skill_name": "Communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop communication, presentation, negotiation, and time management skills."
+    },
+    {
+      "skill_name": "Teamwork and group management skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork and group management skills."
+    },
+    {
+      "skill_name": "Planning, organizing, leading, and controlling skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop planning, organizing, leading, and controlling skills in state economic management."
+    },
+    {
+      "skill_name": "Policy analysis and implementation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop policy analysis and implementation skills."
+    },
+    {
+      "skill_name": "Independent work and responsibility skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work and responsibility skills."
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics."
+    },
+    {
+      "skill_name": "Self-learning and adaptability skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and adaptability skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

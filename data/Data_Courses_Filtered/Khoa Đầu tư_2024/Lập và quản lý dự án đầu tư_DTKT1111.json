@@ -1,0 +1,61 @@
+{
+  "course_id": "DTKT 1111",
+  "title": "Investment Project Design and Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Investment Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts about investment projects and the process of creating and managing them."
+    },
+    {
+      "skill_name": "Project Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze various aspects of an investment project including macroeconomic environment, market research, technical analysis, and organizational management."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct financial analysis of investment projects using tools like Net Present Value (NPV), Internal Rate of Return (IRR), and other financial metrics."
+    },
+    {
+      "skill_name": "Economic and Social Impact Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the economic and social impacts of investment projects, including environmental impact assessments."
+    },
+    {
+      "skill_name": "Project Management Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply project management techniques such as scheduling, cost control, and risk management."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to complete project tasks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and solve problems related to investment projects."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning abilities to independently study and apply new concepts in investment project management."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal requirements and adhere to institutional rules and regulations."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver effective presentations on investment project analysis and management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "course_id": "TMKT1137",
+  "title": "Trade Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the economic nature of trade",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand and apply foundational knowledge about the field of trade within the national economy."
+    },
+    {
+      "skill_name": "Analyzing the development of trade in Vietnam",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze the current state of trade development in Vietnam across different periods and in the context of international trade integration."
+    },
+    {
+      "skill_name": "Organizing trade activities",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand and apply foundational knowledge about organizing trade activities in the national economy."
+    },
+    {
+      "skill_name": "Proposing solutions for macro trade issues",
+      "category": "Hard Skill",
+      "outcome_description": "Students will use specialized knowledge about trade to propose directions and solutions for macro trade issues in Vietnam."
+    },
+    {
+      "skill_name": "Effective organization and management of trade business",
+      "category": "Hard Skill",
+      "outcome_description": "Students will use specialized knowledge about trading goods and services to effectively organize and manage trade business at enterprises."
+    },
+    {
+      "skill_name": "Teamwork skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop teamwork, management, and leadership skills to effectively implement trade activities in an international environment."
+    },
+    {
+      "skill_name": "Independent work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will demonstrate independence when working alone and take responsibility for their individual and group work."
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Students will fulfill social responsibilities and professional ethics when making judgments and decisions on professional issues and trade business operations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

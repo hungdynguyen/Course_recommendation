@@ -1,0 +1,42 @@
+{
+  "course_id": "BHKT1168",
+  "title": "Chuyên đề thực tế",
+  "difficulty_level": "Advanced",
+  "duration": "15 hours theory + 45 hours practice",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Process Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze insurance processes and policies in real-world scenarios."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to solve complex problems in insurance."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage projects effectively, including planning, coordination, and resource management."
+    },
+    {
+      "skill_name": "Professionalism",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professionalism, confidence, and teamwork in solving practical problems."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical responsibilities and social responsibility in insurance work."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

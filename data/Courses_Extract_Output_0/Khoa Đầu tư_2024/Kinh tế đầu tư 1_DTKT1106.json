@@ -1,0 +1,43 @@
+{
+  "course_id": "DTKT1106",
+  "title": "Investment Economics 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Investment Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and theories related to investment."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic factors affecting investment decisions."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage investment activities effectively."
+    },
+    {
+      "skill_name": "Policy Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend government policies on investment management."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on investment topics and present findings."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1",
+      "Macroeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

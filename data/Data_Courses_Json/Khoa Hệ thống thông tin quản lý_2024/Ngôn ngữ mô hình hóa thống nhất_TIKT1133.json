@@ -1,0 +1,66 @@
+{
+  "course_id": "TIKT1133",
+  "title": "Unified Modeling Language",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Object-Oriented Analysis and Design",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and master the process of object-oriented analysis and design using UML."
+    },
+    {
+      "skill_name": "UML Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in UML modeling techniques and tools."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Effective teamwork and group organization skills."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage and execute project tasks using UML."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effective communication and presentation skills related to UML."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to independently learn and apply UML principles."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply UML to solve complex problems."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Professional ethics and social responsibility in the field of information systems management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "TIHT1102"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Information Systems",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

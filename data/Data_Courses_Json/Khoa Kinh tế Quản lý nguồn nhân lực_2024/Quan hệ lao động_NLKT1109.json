@@ -1,0 +1,67 @@
+{
+  "course_id": "NLKT1109",
+  "title": "Labor Relations",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Labor Relations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature, models, and principles of labor relations, including the roles and behaviors of stakeholders."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply labor laws and regulations in organizational settings."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and resolve labor disputes effectively."
+    },
+    {
+      "skill_name": "Social Dialogue",
+      "category": "Soft Skill",
+      "outcome_description": "Facilitate and participate in social dialogue processes within organizations."
+    },
+    {
+      "skill_name": "Collective Bargaining",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate and draft collective agreements."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and analyze data related to labor relations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and compare labor relations in different organizational and national contexts."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate and present findings on labor relations issues."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups to solve labor relations problems."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional ethics and responsibility in labor relations contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

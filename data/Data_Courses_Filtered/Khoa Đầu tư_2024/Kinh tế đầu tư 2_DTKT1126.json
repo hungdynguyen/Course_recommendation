@@ -1,0 +1,81 @@
+{
+  "course_id": "DTKT1126",
+  "title": "Investment Economics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and analyzing public investment activities",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp key concepts and objectives of public investment. Analyze principles and requirements for conducting public investment activities."
+    },
+    {
+      "skill_name": "Analyzing management of public investment activities",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the management of public investment activities and coordination among government agencies during implementation."
+    },
+    {
+      "skill_name": "Analyzing relationship between public investment and public debt",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the relationship between public investment and public debt."
+    },
+    {
+      "skill_name": "Understanding factors influencing investment decisions in enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze factors affecting investment decisions in enterprises."
+    },
+    {
+      "skill_name": "Understanding content of development investment in enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content of development investment in enterprises and apply knowledge to analyze current investment activities in Vietnamese enterprises."
+    },
+    {
+      "skill_name": "Understanding management of investment activities in enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the management of investment activities and project management in enterprises."
+    },
+    {
+      "skill_name": "Applying procedures for investment when implementing projects",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to implement investment procedures for projects."
+    },
+    {
+      "skill_name": "Analyzing investment environment",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to analyze the investment environment at national and local levels and propose solutions to improve it."
+    },
+    {
+      "skill_name": "Analyzing promotion of investment",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to analyze the promotion of investment nationwide and in localities."
+    },
+    {
+      "skill_name": "Adapting to changes",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to adapt to changes, analyze and solve problems related to public investment and enterprise investment."
+    },
+    {
+      "skill_name": "Systematic thinking skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop systematic thinking skills such as strategic planning, investment decision-making, and selecting investment opportunities."
+    },
+    {
+      "skill_name": "Self-study abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-study, understand materials to complete assigned tasks and assignments."
+    },
+    {
+      "skill_name": "Ethical awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize professional ethics, be responsible to society and comply with laws."
+    },
+    {
+      "skill_name": "Collaborative spirit",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate a cooperative spirit and personal responsibility when participating in group work."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

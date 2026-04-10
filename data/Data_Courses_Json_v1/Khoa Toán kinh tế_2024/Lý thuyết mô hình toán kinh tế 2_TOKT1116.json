@@ -1,0 +1,71 @@
+{
+  "course_id": "TOkt1116",
+  "title": "Mathematical Economic Modeling",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply economic modeling techniques to analyze and solve economic problems."
+    },
+    {
+      "skill_name": "Microeconomics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and solve microeconomic problems using mathematical models."
+    },
+    {
+      "skill_name": "Macroeconomics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and solve macroeconomic problems using mathematical models."
+    },
+    {
+      "skill_name": "Mathematical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical analysis to economic models."
+    },
+    {
+      "skill_name": "Econometrics",
+      "category": "Hard Skill",
+      "outcome_description": "Estimate and test economic models using econometric techniques."
+    },
+    {
+      "skill_name": "Market Equilibrium",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze market equilibrium in various economic contexts."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of economic policies on market equilibrium."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to solve economic problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate economic models and policies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Mathematical Economic Modeling 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

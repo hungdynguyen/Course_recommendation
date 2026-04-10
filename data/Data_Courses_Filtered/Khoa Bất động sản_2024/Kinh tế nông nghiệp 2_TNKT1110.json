@@ -1,0 +1,57 @@
+{
+  "course_id": "TNKT1110",
+  "title": "Agricultural Economics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Specialization in Agricultural Production",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on specialization and intensification in agricultural production."
+    },
+    {
+      "skill_name": "Intensification in Agricultural Production",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on intensification in agricultural production."
+    },
+    {
+      "skill_name": "Economic Services in Agriculture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on economic services in agriculture."
+    },
+    {
+      "skill_name": "Economic Management of Agricultural Production",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on economic management of agricultural production."
+    },
+    {
+      "skill_name": "Government Macro Management in Agriculture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on government macro management in agriculture."
+    },
+    {
+      "skill_name": "Problem Solving in Agricultural Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to solve specific problems in agricultural economics through information gathering and planning."
+    },
+    {
+      "skill_name": "Self-discipline and Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-discipline, responsibility, and teamwork skills."
+    },
+    {
+      "skill_name": "Self-learning and Continuous Improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently and continuously improve professional skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

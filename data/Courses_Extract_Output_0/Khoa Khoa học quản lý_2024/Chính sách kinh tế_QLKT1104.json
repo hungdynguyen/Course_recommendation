@@ -1,0 +1,53 @@
+{
+  "course_id": "Economic Policy",
+  "title": "Chính sách kinh tế",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic policies systematically."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the implementation process of economic policies."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the effectiveness of economic policies."
+    },
+    {
+      "skill_name": "Tax Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze tax policies."
+    },
+    {
+      "skill_name": "Monetary Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze monetary policies."
+    },
+    {
+      "skill_name": "Fiscal Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze fiscal policies."
+    },
+    {
+      "skill_name": "Structural Economic Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze structural economic policies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics",
+      "Microeconomics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

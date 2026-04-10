@@ -1,0 +1,70 @@
+{
+  "course_id": "NHCO1107",
+  "title": "Public Finance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding public finance concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the basic concepts of public finance, including the public sector, government role in the economy, and major tools of public financial policy."
+    },
+    {
+      "skill_name": "Government role in public finance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of government in public finance and its impact on the economy."
+    },
+    {
+      "skill_name": "Taxation basics",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend fundamental tax concepts such as tax bases, tax rates, and tax structures."
+    },
+    {
+      "skill_name": "National budget basics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature and role of national budgets, including revenue and expenditure components."
+    },
+    {
+      "skill_name": "Budget system and management",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the structure of the national budget system and decentralized budget management."
+    },
+    {
+      "skill_name": "Budget balance and deficit",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of budget balance, deficits, and their measurement, causes, impacts, and solutions."
+    },
+    {
+      "skill_name": "Public debt management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts of public debt, national debt, and government debt, and learn about debt management principles and practices."
+    },
+    {
+      "skill_name": "Analyzing public finance issues",
+      "category": "Hard Skill",
+      "outcome_description": "Develop research, analysis, and synthesis skills to address fundamental public finance issues."
+    },
+    {
+      "skill_name": "Critical thinking in public finance",
+      "category": "Soft Skill",
+      "outcome_description": "Establish critical thinking skills to assess public finance issues."
+    },
+    {
+      "skill_name": "Problem-solving in public finance",
+      "category": "Soft Skill",
+      "outcome_description": "Apply specialized knowledge of public finance and general economic principles to analyze current situations and propose solutions for public finance management issues."
+    },
+    {
+      "skill_name": "Active learning",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning, answering questions, choosing topics, gathering data, analyzing data, and presenting results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "course_id": "TMKT1125",
+  "title": "Principles of Logistics Management",
+  "difficulty_level": "Beginner",
+  "duration": "16 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the nature of logistics and logistics management in business."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and explain the characteristics and activities of logistics and logistics management in businesses."
+    },
+    {
+      "skill_name": "Customer Service Management",
+      "category": "Soft Skill",
+      "outcome_description": "Classify logistics activities in businesses and recognize, solve decisions in customer service management."
+    },
+    {
+      "skill_name": "Inventory Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage inventory and recognize, solve decisions in inventory management."
+    },
+    {
+      "skill_name": "Transportation Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage transportation and recognize, solve decisions in transportation management."
+    },
+    {
+      "skill_name": "Warehousing Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage warehousing and recognize, solve decisions in warehousing management."
+    },
+    {
+      "skill_name": "Packaging Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage packaging and recognize, solve decisions in packaging management."
+    },
+    {
+      "skill_name": "Reverse Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage reverse logistics and recognize, solve decisions in reverse logistics management."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance when working independently and show personal responsibility and responsibility towards group work."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve logistics and supply chain problems."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and demonstrate collaborative skills."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver effective presentations on logistics and supply chain topics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

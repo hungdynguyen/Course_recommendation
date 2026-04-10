@@ -1,0 +1,56 @@
+{
+  "course_id": "BUSINESS_MANAGEMENT_PRACTICE",
+  "title": "Chuyên đề Thực tế Quản trị Kinh doanh",
+  "difficulty_level": "Advanced",
+  "duration": "Full Semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply strategic management principles to real-world business scenarios."
+    },
+    {
+      "skill_name": "Operational Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement operational strategies to enhance production efficiency and quality control."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and execute human resource policies and practices."
+    },
+    {
+      "skill_name": "Marketing Management",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement marketing strategies and campaigns."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage financial resources effectively within a business context."
+    },
+    {
+      "skill_name": "Corporate Culture",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and promote corporate culture and values."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Business Administration Fundamentals"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

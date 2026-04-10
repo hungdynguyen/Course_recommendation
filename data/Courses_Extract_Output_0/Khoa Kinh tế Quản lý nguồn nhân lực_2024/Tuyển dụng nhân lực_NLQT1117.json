@@ -1,0 +1,37 @@
+{
+  "course_id": "NLQT 1117",
+  "title": "Human Resource Acquisition",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Recruitment Strategy",
+      "category": "Tool/Software",
+      "outcome_description": "Develop effective recruitment strategies."
+    },
+    {
+      "skill_name": "Candidate Selection",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and select suitable candidates."
+    },
+    {
+      "skill_name": "HR Theory Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply HR theories to practical scenarios."
+    },
+    {
+      "skill_name": "Employee Integration",
+      "category": "Soft Skill",
+      "outcome_description": "Facilitate new employee integration."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Human Resource Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

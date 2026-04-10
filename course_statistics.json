@@ -1,37 +1,779 @@
 {
   "summary": {
-    "total_courses": 192,
-    "total_faculties": 6,
+    "total_courses": 730,
+    "total_faculties": 21,
     "skills_taught": {
-      "mean": 9.875,
-      "median": 10.0,
-      "min": 5,
-      "max": 83,
-      "std": 6.020364745317901
+      "mean": 5.301369863013699,
+      "median": 5.0,
+      "min": 3,
+      "max": 12,
+      "std": 1.4710440939057705
     },
     "skills_required_all": {
-      "mean": 1.3697916666666667,
-      "median": 1.0,
+      "mean": 0.2465753424657534,
+      "median": 0.0,
       "min": 0,
-      "max": 23
+      "max": 3
     },
     "skills_required_filtered": {
-      "mean": 2.0387596899224807,
-      "median": 1.0,
+      "mean": 1.8181818181818181,
+      "median": 2.0,
       "min": 1,
-      "max": 23,
-      "count": 129
+      "max": 3,
+      "count": 99
     },
-    "courses_with_no_requirements": 63,
-    "courses_with_requirements": 129
+    "courses_with_no_requirements": 631,
+    "courses_with_requirements": 99
   },
   "details": [
+    {
+      "name": "Social Security",
+      "code": "BHKT1117",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Health Insurance",
+      "code": "BHKT1137",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Business Insurance 1",
+      "code": "BHKT1102",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Business Insurance 2",
+      "code": "BHKT1105",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Unemployment Insurance",
+      "code": "BHKT1160",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 3,
+      "skills_required": 1
+    },
+    {
+      "name": "Social Insurance 1",
+      "code": "BHKT1119",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Social Insurance 2",
+      "code": "BHKT1132",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "BHKT1168",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Insurance Adjusting and Claims",
+      "code": "BHKT1164",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "BHKT1167",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "Insurance Economics",
+      "code": "BHKT1156",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Accounting for Insurance Enterprise",
+      "code": "BHKT1122",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Insurance Principles",
+      "code": "BHKT1118",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Introduction to Actuarial",
+      "code": "BHKT1166",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Insurance Business Analysis",
+      "code": "BHKT1124",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Social Insurance Management 1",
+      "code": "BHKT1120",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Social Insurance Management 2",
+      "code": "BHKT1133",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Insurance Business Administration 1",
+      "code": "BHKT1113",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Insurance Business Administration 2",
+      "code": "BHKT1114",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Risk Management in Insurance",
+      "code": "BHKT1163",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Insurance",
+      "code": "BHKT1121",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Reinsurance",
+      "code": "BHKT1116",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Insurance Risk Analysis",
+      "code": "BHKT1162",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment in insurance companies",
+      "code": "BHKT1155",
+      "faculty": "Khoa Bảo hiểm_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Mapping",
+      "code": "TNTN1136",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Internship Programme",
+      "code": "TNBD1140",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Internship Programme - Agribusiness",
+      "code": "TNKT 1162",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Internship Programme",
+      "code": "TNKT 1163",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "General Information",
+      "code": "General Information",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Internship Programme",
+      "code": "TNDC1152",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resources Policy",
+      "code": "TNTN1132",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural Technology II",
+      "code": "TNKT1146",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural Technology I",
+      "code": "TNKT1145",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Land Database",
+      "code": "TNDC1116",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Dự án đầu tư kinh doanh nông nghiệp",
+      "code": "Dự án đầu tư kinh doanh nông nghiệp",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Monitoring and Evaluation on Agricultural and Rural Development Projects",
+      "code": "TNKT1126",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "TNBD1139",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "TNKT 1144",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "TNKT 1161",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "TNTN1151",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "TNDC1151",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Startup in Agribusiness",
+      "code": "TNKT1151",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Real Estate Business 1",
+      "code": "TNBD1113",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "REAL ESTATE BUSINESS 2",
+      "code": "TNBD1135",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Agribusiness II",
+      "code": "TNKT1154",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Agribusiness I",
+      "code": "TNKT1153",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 10,
+      "skills_required": 0
+    },
+    {
+      "name": "Real estate Economics",
+      "code": "TNBD1131",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Forestry Economics",
+      "code": "TNKT1155",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural Economics 1",
+      "code": "TNKT1109",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Agricultural Economics 2",
+      "code": "TNKT1110",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural Economics",
+      "code": "TNKT1138",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Economics for Rural Development",
+      "code": "TNKT1111",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Energy Economics",
+      "code": "TNTN1144",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Aquacultural Economics",
+      "code": "TNKT1139",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resource Economics I",
+      "code": "Kinh tế Tài nguyên 1",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Natural Resource Economics 2",
+      "code": "Kinh tế tài nguyên 2",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Kinh tế tài nguyên khoáng sản",
+      "code": "Mining and Minerals Economics",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Kinh tế và Quản lý Sử dụng Tài Nguyên Nước",
+      "code": "General Information",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Kinh tế Lâm nghiệp",
+      "code": "Forest Economics",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Land Resource Economics 1",
+      "code": "TNDC1124",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Land Resource Economics 2",
+      "code": "TNDC1140",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Land Resource Economics",
+      "code": "TNDC1139",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resource Economics",
+      "code": "TNTN1145",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Economics and Management of Community Development",
+      "code": "TNKT1140",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Architecture",
+      "code": "TNBD1136",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Real Estate Brokerage Course",
+      "code": "Real Estate Brokerage",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Principles of Land Administration",
+      "code": "TNDC1126",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Real estate Development",
+      "code": "TNBD1137",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Rural and Agricultural Policy Analysis",
+      "code": "TNKT1116",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Land Policy Analysis",
+      "code": "TNDC1141",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Rural Development Planning",
+      "code": "TNKT 1127",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Urban and Rural Development Planning",
+      "code": "TNBD1138",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resources Use Planning",
+      "code": "TNTN1127",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Land use planning",
+      "code": "TNDC1132",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Real estate Management",
+      "code": "TNBD1116",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Land Administration 1",
+      "code": "TNDC1130",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Land administration 2",
+      "code": "TNDC1143",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Land Administration",
+      "code": "TNDC1142",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resources Management 1",
+      "code": "TNTN1108",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resources Management 2",
+      "code": "TNTN1126",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Agribusiness supply chain management",
+      "code": "TNKT1157",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural Business Management 1",
+      "code": "TNKT1117",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural Business Management 2",
+      "code": "TNKT1141",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural Business Management",
+      "code": "TNKT1158",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Household Economics and Farm Management",
+      "code": "TNKT1159",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resources Taxes and Fees",
+      "code": "TNKT 1110",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Land using investment project assessment",
+      "code": "TNDC1150",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Real Estate Market",
+      "code": "TNBD1109",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Thị trường nông sản thế giới",
+      "code": "THONG_TIN_CHUNG",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Market of Natural Resources",
+      "code": "TNTN1129",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Real Estate",
+      "code": "TNBD1133",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Natural Resources Economics",
+      "code": "TNTN1111",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Land finance",
+      "code": "TNDC1145",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Construction Organization and Planning",
+      "code": "TNBD1134",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural supply chain organization and analysis",
+      "code": "TNKT1143",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Cadastral Survey",
+      "code": "TNDC1122",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Impact Assessment of Natural Resource Projects",
+      "code": "TNTN1138",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Land & Real Estate Registration and Statistics",
+      "code": "TNDC1103",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Ethics and Responsibility in Agricultural Business",
+      "code": "TNKT1147",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment Development in Agriculture and Rural Areas",
+      "code": "Investment Development in Agriculture and Rural Areas",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Real estate Finance and Investment",
+      "code": "TNBD1102",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Real estate valuation 1",
+      "code": "TNBD1104",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Real estate valuation 2",
+      "code": "TNBD1128",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Real estate Valuation",
+      "code": "TNBD1127",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resources Valuation",
+      "code": "TNTN1133",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Land Valuation",
+      "code": "TNDC1138",
+      "faculty": "Khoa Bất động sản_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
     {
       "name": "Cybersecurity",
       "code": "CNTT1197",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 9,
-      "skills_required": 2
+      "skills_taught": 8,
+      "skills_required": 0
     },
     {
       "name": "Cryptography and Information Security",
@@ -41,183 +783,470 @@
       "skills_required": 2
     },
     {
-      "name": "Cloud Service Security",
-      "code": "CNTT1198",
+      "name": "Blockchain and Application",
+      "code": "CNTT11100",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 15,
+      "skills_taught": 6,
       "skills_required": 0
     },
     {
-      "name": "Practical Training in Information Security",
-      "code": "CNTT11101",
+      "name": "Cloud Service Security",
+      "code": "CNTT1198",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Software and Database Security",
+      "code": "CNTT1199",
       "faculty": "Khoa Công nghệ thông tin_2024",
       "skills_taught": 8,
       "skills_required": 0
     },
     {
       "name": "Practical Training",
+      "code": "CNTT11101",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Practical Training",
       "code": "CNTT1196",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 10,
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Practical Training",
+      "code": "CNTT1195",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 3,
       "skills_required": 0
     },
     {
       "name": "Scientific Socialism",
       "code": "LLNL1107",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 11,
-      "skills_required": 1
+      "skills_taught": 9,
+      "skills_required": 0
     },
     {
       "name": "Advanced Technologies in Information and Communication Technology",
       "code": "CNTT1186",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 8,
+      "skills_taught": 6,
       "skills_required": 0
     },
     {
-      "name": "Database",
-      "code": "TIKT1130",
+      "name": "Virtualization Technologies",
+      "code": "CNTT1145",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Multimedia Technologies",
+      "code": "CNTT1149",
       "faculty": "Khoa Công nghệ thông tin_2024",
       "skills_taught": 10,
-      "skills_required": 1
+      "skills_required": 0
+    },
+    {
+      "name": "Học phần cơ sở dữ liệu",
+      "code": "Database Management",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 2
     },
     {
       "name": "Cơ sở lập trình",
-      "code": "CNTT1128",
+      "code": "628 QĐ-ĐHKTQD",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 14,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "code": "TIHT1101",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Unstructured Database",
+      "code": "CNTT1175",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Decision Support System",
+      "code": "CNTT1176",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Database Management Systems",
+      "code": "CNTT1152",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "E-commerce Systems",
+      "code": "SYSTEMS AND MANAGEMENT INFORMATION DEPARTMENT",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "UNIX Operation System",
+      "code": "CNTT11103",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Operating Systems",
       "code": "CNTT1107",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 8,
+      "skills_required": 0
     },
     {
       "name": "Machine Learning",
       "code": "CNTT1177",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 9,
+      "skills_taught": 11,
+      "skills_required": 0
+    },
+    {
+      "name": "Khóa luận tốt nghiệp",
+      "code": "QĐ/ĐHKTQD",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 4,
       "skills_required": 2
     },
     {
       "name": "Graduation Thesis",
       "code": "CNTT1193",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 9,
-      "skills_required": 8
+      "skills_taught": 10,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "CNTT1194",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 10,
+      "skills_required": 0
     },
     {
       "name": "Political Economics of Marxism and Leninism",
       "code": "LLNL1106",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Microeconomics 1",
+      "code": "KHMI1101",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 7,
+      "skills_required": 0
     },
     {
       "name": "Principles of Macroeconomics",
       "code": "KHMA1101",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 12,
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Kiến trúc doanh nghiệp",
+      "code": "Not specified",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 3,
       "skills_required": 0
     },
     {
       "name": "Computer Architecture",
       "code": "CNTT1112",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 7,
-      "skills_required": 2
+      "skills_taught": 9,
+      "skills_required": 0
     },
     {
       "name": "Software Testing and Quality Assurance",
       "code": "CNTT1178",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 18,
+      "skills_taught": 6,
       "skills_required": 2
+    },
+    {
+      "name": "Probability and Mathematical Statistics",
+      "code": "TOkt1145",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Course Description",
+      "code": "QĐ/ĐHKTQD",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Java Programming",
+      "code": "CNTT1153",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Python Programming",
+      "code": "CNTT1180",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Web Programming",
       "code": "CNTT1188",
       "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Object Oriented Programming",
+      "code": "CNTT1131",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Data Analysis Programming",
+      "code": "CNTT1187",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 11,
+      "skills_required": 0
+    },
+    {
+      "name": "Application Programming",
+      "code": "CNTT1133",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "History of Economic Theories",
+      "code": "LLNL1101",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "History of the Communist Party of Vietnam",
+      "code": "Lịch sử Đảng Cộng Sản Việt Nam",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Internet of Things",
+      "code": "CNTT1154",
+      "faculty": "Khoa Công nghệ thông tin_2024",
       "skills_taught": 10,
+      "skills_required": 0
+    },
+    {
+      "name": "Computer Network and Data Communication",
+      "code": "CNTT1114",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Cryptography and Information Security",
+      "code": "CNTT11105",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 9,
       "skills_required": 2
+    },
+    {
+      "name": "Introduction to Information Technology",
+      "code": "CNTT1116",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Introduction to State and Law",
+      "code": "Law Department Course",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Knowledge Discovery in Database",
       "code": "CNTT1181",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 13,
-      "skills_required": 1
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Service Oriented Software Development",
+      "code": "CNTT1190",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 2
     },
     {
       "name": "Phát triển phần mềm mã nguồn mở và ứng dụng",
-      "code": "TIKT1135",
+      "code": "Open Source Software Development",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 2
     },
     {
       "name": "Mobile Applications Development",
       "code": "CNTT1157",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Business Analysis",
+      "code": "CNTT1137",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "System Analysis and Design",
       "code": "CNTT1117",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 12,
-      "skills_required": 3
-    },
-    {
-      "name": "Phương pháp tính",
-      "code": "CNTT1182",
-      "faculty": "Khoa Công nghệ thông tin_2024",
       "skills_taught": 7,
       "skills_required": 0
+    },
+    {
+      "name": "Algorithm Analysis and Design",
+      "code": "CNTT1118",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Phương Pháp Tính và Matlab",
+      "code": "628 QĐ/ĐHKTQD",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 7,
+      "skills_required": 2
     },
     {
       "name": "Information Technology Project Management",
       "code": "CNTT1159",
       "faculty": "Khoa Công nghệ thông tin_2024",
       "skills_taught": 8,
-      "skills_required": 2
+      "skills_required": 0
+    },
+    {
+      "name": "Network Management",
+      "code": "CNTT1121",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 7,
+      "skills_required": 0
     },
     {
       "name": "Web Design",
       "code": "CNTT1165",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
-      "name": "Website Design and Programming",
+      "name": "Website design and programming",
       "code": "CNTT1119",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 13,
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "English for IT",
+      "code": "CNTT1192",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Discrete Mathematics",
+      "code": "TOCB1107",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 10,
+      "skills_required": 0
+    },
+    {
+      "name": "Philosophy of Marxism and Leninism",
+      "code": "LLNL1105",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "CNTT1140",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Thoughts of Ho Chi Minh",
+      "code": "Political Theory Course",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
       "name": "General Physics",
       "code": "CNTT1191",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 6,
+      "skills_taught": 8,
       "skills_required": 0
     },
     {
       "name": "Digital Image Processing",
       "code": "CNTT1166",
       "faculty": "Khoa Công nghệ thông tin_2024",
-      "skills_taught": 7,
+      "skills_taught": 10,
+      "skills_required": 0
+    },
+    {
+      "name": "Cloud Computing",
+      "code": "CNTT1167",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Phân tích đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+      "code": "628/QĐ/ĐHKTQD",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 6,
       "skills_required": 2
     },
     {
-      "name": "Đại số",
+      "name": "Algebra",
       "code": "TOCB1101",
+      "faculty": "Khoa Công nghệ thông tin_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Computer Graphics",
+      "code": "CNTT1174",
       "faculty": "Khoa Công nghệ thông tin_2024",
       "skills_taught": 5,
       "skills_required": 0
@@ -226,1030 +1255,2857 @@
       "name": "Project on Tourism and Travel Management",
       "code": "DLLH1151",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 11,
+      "skills_taught": 10,
       "skills_required": 0
     },
     {
       "name": "SEMINAR ON HOSPITALITY INDUSTRY",
       "code": "DLKS1157",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 11,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
-      "name": "Du lịch có trách nhiệm",
+      "name": "Responsible Tourism",
       "code": "DLKS1148",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 7,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Ecotourism",
       "code": "DLLH1130",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
+      "skills_taught": 7,
       "skills_required": 0
     },
     {
       "name": "Cultural Tourism",
       "code": "DLKS1128",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Supervision in the Hospitality Industry",
       "code": "DLKS1132",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 9,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Consumer Behavior in Tourism",
       "code": "DLKS1149",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 9,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
-      "name": "Khóa luận tốt nghiệp - Quản trị dịch vụ Du lịch và Lữ hành",
+      "name": "Graduation Thesis",
       "code": "DLLH1149",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
-      "skills_required": 3
+      "skills_taught": 4,
+      "skills_required": 2
     },
     {
-      "name": "Graduation thesis",
+      "name": "Graduation Thesis",
       "code": "DLKS1155",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
-      "name": "E-TOURISM BUSINESS",
+      "name": "E-Tourism Business",
       "code": "DLKS1131",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 8,
-      "skills_required": 2
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
-      "name": "TOURISM ECONOMICS",
+      "name": "Tourism Economics",
       "code": "DLKS1108",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 18,
-      "skills_required": 2
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "History of Vietnamese Culture",
       "code": "DLKS1150",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 7,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "World Civilization History",
       "code": "DLLH1131",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 6,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
       "name": "Career development in Tourism and Travel industry",
       "code": "DLLH1141",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 8,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
-      "name": "Career development in hospitality industry",
+      "name": "Career Development in Hospitality Industry",
       "code": "DLKS1139",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "TOURISM POLICY AND PLANNING",
       "code": "DLLH1115",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 9,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "MICE Management",
       "code": "DLKS1110",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
-      "name": "Quản trị Marketing trong Du lịch và Khách sạn",
+      "name": "Marketing Management for Hospitality and Tourism",
       "code": "DLLH1147",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 19,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
-      "name": "SECURITY AND SAFETY MANAGEMENT IN HOSPITALITY",
+      "name": "Security and Safety Management in Hospitality",
       "code": "DLKS1145",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 21,
-      "skills_required": 2
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Strategic Management in Hospitality and Tourism",
       "code": "DLLH1108",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Revenue Management in Hospitality Business",
       "code": "DLKS1151",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
+      "skills_taught": 8,
       "skills_required": 0
     },
     {
       "name": "Cruise Management",
       "code": "DLKS1152",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
+      "skills_taught": 7,
       "skills_required": 0
     },
     {
       "name": "Transportation service management in tourism",
       "code": "DLLH1129",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 9,
+      "skills_taught": 6,
       "skills_required": 0
     },
     {
       "name": "Hospitality Business Management",
       "code": "DLKS1143",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
+      "skills_taught": 7,
       "skills_required": 0
     },
     {
       "name": "Travel Business Management",
       "code": "DLLH1146",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 7,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
-      "name": "QUẢN TRỊ KINH DOANH NHÀ HÀNG",
+      "name": "Restaurant Business Management",
       "code": "DLKS1113",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 7,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Tourism Destination Management",
       "code": "DLLH1120",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Operation of Travel Services 1",
       "code": "DLLH1152",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 8,
+      "skills_taught": 3,
       "skills_required": 0
     },
     {
-      "name": "Operation of Travel service 2",
+      "name": "Operation of Travel Service 2",
       "code": "DLLH1153",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 9,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
       "name": "Operation of Travel Service 3",
       "code": "DLLH1154",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 10,
-      "skills_required": 10
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
-      "name": "Operation of Hospitality Services 1",
+      "name": "Operation of hospitality services 1",
       "code": "DLKS1158",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 6,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Operation of hospitality services 2",
       "code": "DLKS1159",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 6,
+      "skills_taught": 9,
       "skills_required": 0
     },
     {
       "name": "Operation of hospitality services 3",
       "code": "DLKS1160",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 6,
-      "skills_required": 1
+      "skills_taught": 9,
+      "skills_required": 0
     },
     {
       "name": "Psychology and Communication in Tourism",
       "code": "DLKS1118",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 9,
+      "skills_taught": 3,
       "skills_required": 0
     },
     {
       "name": "Culinary Culture",
       "code": "DLKS1154",
       "faculty": "Khoa Du lịch Khách sạn_2024",
-      "skills_taught": 8,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Geography of Tourism",
       "code": "DLLH1105",
       "faculty": "Khoa Du lịch Khách sạn_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Internship",
+      "code": "TIHT1126",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Học phần cơ sở dữ liệu",
+      "code": "Database Management",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "code": "TIHT1101",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Decision Support Systems",
+      "code": "TIHT1110",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Management Information Systems",
+      "code": "TIHT1102",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "System of Electronic Commerce",
+      "code": "Hệ thống thương mại điện tử",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "TIHT1124",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Computer-based Accounting",
+      "code": "TIHT1119",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Software Engineering",
+      "code": "TIHT1104",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
       "skills_taught": 7,
       "skills_required": 0
     },
     {
-      "name": "Chiến lược phát triển",
-      "code": "PTCC1104",
+      "name": "Advanced Programming Course",
+      "code": "Advanced Programming",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 3,
+      "skills_required": 1
+    },
+    {
+      "name": "Marketing trực tuyến",
+      "code": "Marketing trực tuyến",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Ngôn ngữ mô hình hóa thống nhất",
+      "code": "Unified Modeling Language Course",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Development of Information Management Systems",
+      "code": "Information Management System Development",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Phát triển các ứng dụng web",
+      "code": "Web Application Development",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 7,
+      "skills_required": 1
+    },
+    {
+      "name": "Development of Applications in Management",
+      "code": "Development of Applications in Management",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Phát triển phần mềm mã nguồn mở và ứng dụng",
+      "code": "Open Source Software Development",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Quản trị các nguồn lực thông tin",
+      "code": "Information Resource Management",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "Project Management for Information Systems",
+      "code": "Quản trị dự án hệ thống thông tin",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Knowledge Management",
+      "code": "TIHT1122",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Tin học Kế toán",
+      "code": "Tin học Kế toán",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "General Information on Computer Science Basics",
+      "code": "Tin học đại cương",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Management Information System",
+      "code": "TIHT1106",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Tri thức kinh doanh",
+      "code": "BI101",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Ứng dụng cơ sở dữ liệu",
+      "code": "DB Applications",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Application of Artificial Intelligence in Business and Management",
+      "code": "TIHT1123",
+      "faculty": "Khoa Hệ thống thông tin quản lý_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "QLKT1130",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 3
+    },
+    {
+      "name": "Project",
+      "code": "QLXH1128",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Public Policy",
+      "code": "QLXH1101",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Science and Technology Policy",
+      "code": "QLCN1104",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Chính sách kinh tế",
+      "code": "Economic Policy",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Introduction to Public Sector and Public Management",
+      "code": "QLXH1103",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Capstone Project in Management Science",
+      "code": "Capstone Project",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "QLXH1127",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Leadership",
+      "code": "QLXH1119",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Lý thuyết tổ chức và thiết kế tổ chức",
+      "code": "Organizational Theory and Design",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 9,
+      "skills_required": 1
+    },
+    {
+      "name": "Planning",
+      "code": "QLKT1120",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Phân tích chính sách",
+      "code": "Policy Analysis",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Program and Project Management",
+      "code": "Quản lý chương trình và dự án",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 7,
+      "skills_required": 1
+    },
+    {
+      "name": "Functional Management",
+      "code": "QLKT1123",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản lý Công nghệ",
+      "code": "Management of Technology",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Service Public Management",
+      "code": "Quản lý dịch vụ công",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản lý giáo dục",
+      "code": "QuanLyGiaoDuc",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 3,
+      "skills_required": 2
+    },
+    {
+      "name": "Management Studies 1",
+      "code": "Quản lý học 1",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản lý nhà nước trong nền kinh tế thị trường",
+      "code": "QuanLyNhaNuocTrongNenKinhTeThiTruong",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "State Management for Non-Governmental Organizations",
+      "code": "QLXH1126",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Local Economic Development Management",
+      "code": "Quản lý phát triển kinh tế địa phương",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản lý thay đổi",
+      "code": "Quản lý thay đổi",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản lý tổ chức công",
+      "code": "Quan ly to chuc cong",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Quản lý y tế",
+      "code": "QuanLyYTe",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản lý Đổi mới và Sáng tạo",
+      "code": "Management of Innovation and Creativity",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Psychology in Management",
+      "code": "QLKT1126",
+      "faculty": "Khoa Khoa học quản lý_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "NLKT1123",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "NLQt1125",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Population and Development",
+      "code": "NLDS1103",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Organizational Behavior",
+      "code": "NLQT1101",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Human Resource Information System",
+      "code": "NLQT1123",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "NLKT1122",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Khóa luận tốt nghiệp",
+      "code": "Khóa luận tốt nghiệp",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 7,
+      "skills_required": 3
+    },
+    {
+      "name": "Advanced Labor Economics",
+      "code": "NLKT1116",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Labor Economics",
+      "code": "NLKT1115",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Human Resource Economics",
+      "code": "NLKT1117",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Job Analysis and Performance Management",
+      "code": "NLQT 1110",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Labor Relations",
+      "code": "NLKT1109",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Occupational Health and Safety Management",
+      "code": "NLKT1118",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Human Resource Management in public sector organisations",
+      "code": "NLKT1121",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Strategic Human Resource Management",
+      "code": "NLQT1111",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "International Human Resource Management",
+      "code": "NLQT1112",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Human Resources Management in the Hospitality Industry",
+      "code": "NLQT1105",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Human Resource Management",
+      "code": "NLQT1103",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Compensation Management",
+      "code": "NLQT1119",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Human Resource Management",
+      "code": "NLQT1106",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Human Resource Acquisition",
+      "code": "NLQT 1117",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Labour Psychology",
+      "code": "NLXH1101",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Labour Organization and Standardization 1",
+      "code": "NLQT1115",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Labour Organization and Standardization 2",
+      "code": "NLQT1116",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Sociology",
+      "code": "NLXH1106",
+      "faculty": "Khoa Kinh tế Quản lý nguồn nhân lực_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "KHMA1134",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "KHMA1133",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Vietnamese Economy",
+      "code": "KHEH1104",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Behavioral Economics",
+      "code": "KHMI1115",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Economics of Taxation",
+      "code": "KHMA1126",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Monetary Economics",
+      "code": "KHMA1132",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Financial Economics",
+      "code": "KHMA1125",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Economics of Growth",
+      "code": "KHMA1122",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Economics of Social Issues",
+      "code": "KHMA1123",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Microeconomics 1",
+      "code": "KHMI1101",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Microeconomics 2",
+      "code": "KHMI1102",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Advanced Microeconomics",
+      "code": "KHMI1116",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Principles of Macroeconomics",
+      "code": "KHMA1101",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Intermediate Macroeconomics",
+      "code": "KHMA1102",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Macroeconomics for Developing Countries",
+      "code": "KHMA1127",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Advanced Macroeconomics",
+      "code": "KHMA1128",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "International Macroeconomics",
+      "code": "KHMA1129",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Macroeconomic Programming",
+      "code": "KHMA1130",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Lịch sử kinh tế",
+      "code": "Economic History",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "Investment analysis in Financial Markets",
+      "code": "KHMI1112",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Quantitative Analysis in Microeconomics",
+      "code": "KHMI1117",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Quantitative Analysis in Macroeconomics",
+      "code": "KHMA1131",
+      "faculty": "Khoa Kinh tế học_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Chiến lược Phát triển",
+      "code": "Strategic Development",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Chuyên đề thực tế",
+      "code": "THÔNG TIN CHUNG",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Chính sách Phát triển",
+      "code": "Development Policy",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Chương trình và Dự án Phát triển",
+      "code": "CTDAPT",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Social-Economic Forecasting 1",
+      "code": "PTCC1126",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Socio-Economic Development Forecasting 2",
+      "code": "PTCC 1127",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 5,
+      "skills_required": 3
+    },
+    {
+      "name": "Thesis Project",
+      "code": "Thesis Project",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 6,
+      "skills_required": 1
+    },
+    {
+      "name": "Public Economics (1)",
+      "code": "Public Economics (1)",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Public Economics II",
+      "code": "Kinh tế công cộng (II)",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 6,
+      "skills_required": 1
+    },
+    {
+      "name": "Kinh tế Công cộng",
+      "code": "Public Economics",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Kinh tế học so sánh",
+      "code": "Comparative Economic Systems",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "Economic Institutions",
+      "code": "Economic Institutions",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 7,
+      "skills_required": 2
+    },
+    {
+      "name": "Kinh tế Phát triển 1",
+      "code": "Economic Development 1",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
       "skills_taught": 5,
       "skills_required": 0
     },
     {
-      "name": "Chuyên đề thực tế (thực tập giữa khóa)",
-      "code": "PTKT1131",
+      "name": "Kế hoạch và Phát triển",
+      "code": "KTPT2",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 11,
-      "skills_required": 1
-    },
-    {
-      "name": "Chính sách phát triển",
-      "code": "PTKT1117",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 6,
-      "skills_required": 1
-    },
-    {
-      "name": "Chương trình và dự án Phát triển",
-      "code": "PTCC1105",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 10,
-      "skills_required": 0
-    },
-    {
-      "name": "Social - Economic Forecasting 1",
-      "code": "PTCC1126",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 8,
-      "skills_required": 3
-    },
-    {
-      "name": "Socio – Economic Development Forecasting 2",
-      "code": "PTCC 1127",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 8,
-      "skills_required": 1
-    },
-    {
-      "name": "Khóa luận tốt nghiệp",
-      "code": "PTKT 1130",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 12,
-      "skills_required": 0
-    },
-    {
-      "name": "Kinh tế Công cộng 1",
-      "code": "PTCC1103",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 10,
-      "skills_required": 1
-    },
-    {
-      "name": "Kinh tế công cộng 2 (Public Economics 2)",
-      "code": "PTCC 1121",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 10,
+      "skills_taught": 5,
       "skills_required": 2
     },
     {
-      "name": "Kinh tế Công cộng",
-      "code": "PTCC1130",
+      "name": "Kinh tế phát triển",
+      "code": "KTPT",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 8,
-      "skills_required": 1
-    },
-    {
-      "name": "Comparative Economics",
-      "code": "PTKT1126",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 8,
-      "skills_required": 1
-    },
-    {
-      "name": "Institutional Economics",
-      "code": "PTKT1127",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 10,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
-      "name": "Development Economics 1",
-      "code": "PTKT1102",
+      "name": "Kinh tế và chính sách phát triển vùng",
+      "code": "Economic Development Regional Policy",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 8,
-      "skills_required": 1
-    },
-    {
-      "name": "Development Economics 2",
-      "code": "PTKT1111",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 8,
-      "skills_required": 1
-    },
-    {
-      "name": "Kinh tế Phát triển",
-      "code": "PTKT1128",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 6,
-      "skills_required": 1
-    },
-    {
-      "name": "Regional Development Economics and Policy",
-      "code": "PTCC1122",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 9,
-      "skills_required": 2
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Development Planning 1",
       "code": "PTKT 1119",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 10,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Development Planning 2",
       "code": "PTKT1108",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 9,
-      "skills_required": 2
-    },
-    {
-      "name": "Business Planning",
-      "code": "PTKT1109",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 10,
-      "skills_required": 10
-    },
-    {
-      "name": "Phát triển bền vững",
-      "code": "PTKT1129",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 8,
+      "skills_taught": 4,
       "skills_required": 1
     },
     {
-      "name": "Phương pháp nghiên cứu Kinh tế xã hội",
-      "code": "PTCC1128",
+      "name": "Business Planning Course",
+      "code": "Business Planning",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 8,
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Phát triển bền vững",
+      "code": "Sustainable Development",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Research Methods for Economics and Society",
+      "code": "Phương pháp nghiên cứu kinh tế-xã hội",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 4,
       "skills_required": 2
     },
     {
       "name": "Quy hoạch phát triển",
-      "code": "PTCC1116",
+      "code": "Quy hoạch phát triển",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
-      "name": "Quản lý phát triển",
-      "code": "PTKT1121",
+      "name": "Quản lý Phát triển",
+      "code": "QLPT",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 7,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Anticipatory Governance",
       "code": "PTCC 1132",
       "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Theo dõi và Đánh giá Phát triển",
+      "code": "TD&ĐG Phát triển",
+      "faculty": "Khoa Kế hoạch Phát triển_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "LUKD11107",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "LUCS1145",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 1
+    },
+    {
+      "name": "Public International Law",
+      "code": "LUKD1101",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Thesis Project",
+      "code": "General Thesis Project",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "LUCS1143",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Legal Consulting Skills",
+      "code": "LUKD1193",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Skills on Formulation and Execution of Commercial Contracts",
+      "code": "LUKD1133",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Logic",
+      "code": "LUCS1122",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Contract Law",
+      "code": "LUCS1125",
+      "faculty": "Khoa Luật_2024",
       "skills_taught": 6,
       "skills_required": 0
     },
     {
-      "name": "Development Monitoring and Evaluation",
-      "code": "PTCC 1129",
-      "faculty": "Khoa Kế hoạch Phát triển_2024",
-      "skills_taught": 10,
-      "skills_required": 8
+      "name": "Roman Law",
+      "code": "LUCS1139",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
-      "name": "Business Communication - in English",
-      "code": "NNTM1159",
-      "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "name": "WTO Law",
+      "code": "LUKD1191",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
-      "name": "Chuyên đề Kinh doanh quốc tế – E",
-      "code": "NNTM 1161",
-      "faculty": "Khoa Ngoại ngữ_2024",
+      "name": "Civil Law 1",
+      "code": "LUCS1112",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Constitutional Law",
+      "code": "LUCS1104",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Administrative Law",
+      "code": "LUCS1114",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Criminal Law 1",
+      "code": "LUCS1115",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Criminal Law 2",
+      "code": "LUCS1123",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Comparative Law",
+      "code": "LUCS1124",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Labor Law",
+      "code": "LUKD1108",
+      "faculty": "Khoa Luật_2024",
       "skills_taught": 7,
-      "skills_required": 1
+      "skills_required": 0
     },
     {
-      "name": "English for Banking and Finance – in English",
-      "code": "NNTM 1150",
-      "faculty": "Khoa Ngoại ngữ_2024",
+      "name": "Law on Intellectual Property",
+      "code": "LUKD1173",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Vietnam Laws on Taxation",
+      "code": "LUKD_11105",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Law on Commerce 1",
+      "code": "LUKD1110",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Commerce 2",
+      "code": "LUKD1111",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "International Trade Law",
+      "code": "LUKD 1112",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Commerce",
+      "code": "LUKD1196",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on International Commercial Arbitration",
+      "code": "LUKD1198",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on civil procedures",
+      "code": "LUCS1137",
+      "faculty": "Khoa Luật_2024",
       "skills_taught": 7,
-      "skills_required": 1
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Administrative Procedures",
+      "code": "LUCS1126",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Criminal procedures",
+      "code": "LUCS1127",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Doctrines of State and Law 1",
+      "code": "LUCS1128",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Doctrines of State and Law 2",
+      "code": "LUCS1107",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Legal doctrine of anti-corruption",
+      "code": "LUCS1140",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "History of State and Law",
+      "code": "LUCS1121",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Social Security",
+      "code": "LUKD 1165",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Competition",
+      "code": "LUKD1176",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Maritime Law",
+      "code": "LUKD11101",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Marriage and Family",
+      "code": "LUKD1183",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Viet Nam Customs Law",
+      "code": "LUKD1182",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Insurance",
+      "code": "LUKD1184",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "International Trade Law",
+      "code": "LUKD1164",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Economic Law",
+      "code": "LUKD1185",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Environment",
+      "code": "LUKD 1186",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Banking Law",
+      "code": "LUKD1187",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Laws on Enforcement of Civil Judgements",
+      "code": "LUKD11102",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Tourism and Hospitality",
+      "code": "LUKD 11103",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Finance",
+      "code": "LUKD1188",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Human Rights",
+      "code": "LUCS1132",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Natural Resources",
+      "code": "LUKD1122",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Basics of State and Law",
+      "code": "Law Department",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Land",
+      "code": "LUKD1194",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Law on Procurement",
+      "code": "LUKD 1179",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Law",
+      "code": "LUCS1141",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Private International Law",
+      "code": "LUKD1123",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Drafting Legal Documents",
+      "code": "LUCS1136",
+      "faculty": "Khoa Luật_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Scientific Socialism",
+      "code": "LLNL1107",
+      "faculty": "Khoa Lý luận chính trị_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Political Economics of Marxism and Leninism",
+      "code": "LLNL1106",
+      "faculty": "Khoa Lý luận chính trị_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "History of Economic Theories",
+      "code": "LLNL1101",
+      "faculty": "Khoa Lý luận chính trị_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "History of the Communist Party of Vietnam",
+      "code": "Lịch sử Đảng Cộng Sản Việt Nam",
+      "faculty": "Khoa Lý luận chính trị_2024",
+      "skills_taught": 7,
+      "skills_required": 2
+    },
+    {
+      "name": "Philosophy of Marxism and Leninism",
+      "code": "LLNL1105",
+      "faculty": "Khoa Lý luận chính trị_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Thoughts of Ho Chi Minh",
+      "code": "Political Theory Course",
+      "faculty": "Khoa Lý luận chính trị_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Báo chí và Quan hệ Công chúng",
+      "code": "Marketing",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Chiến lược sáng tạo thông điệp truyền thông",
+      "code": "Marketing Strategy Communication Message",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Practical Internship Report",
+      "code": "MKMA1168",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Chuyên đề thực tế",
-      "code": "NNTM1175",
-      "faculty": "Khoa Ngoại ngữ_2024",
+      "code": "Marketing Practical Project",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 1
+    },
+    {
+      "name": "Marketing Communication Skills and Public Speaking Methods",
+      "code": "Marketing Communication",
+      "faculty": "Khoa Marketing_2024",
       "skills_taught": 7,
       "skills_required": 0
+    },
+    {
+      "name": "Consumer Behavior",
+      "code": "MKMA1101",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Hệ thống Nhận diện Thương hiệu",
+      "code": "Marketing Systems Identification",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Final Project (Marketing)",
+      "code": "MKMA1167",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Capstone Project",
+      "code": "Capstone Project",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Lập kế hoạch Quan hệ công chúng",
+      "code": "Public Relations Planning",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Lập kế hoạch phương tiện truyền thông",
+      "code": "Marketing Media Planning",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Selling Skills",
+      "code": "MKBH1110",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Kỹ năng viết trong quan hệ công chúng",
+      "code": "Public Relations Writing Skills",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Digital Marketing",
+      "code": "MKBH1116",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "MKMA1105",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Principles of Marketing",
+      "code": "MKMA1104",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Marketing Dịch vụ Công",
+      "code": "Marketing_Service_Public_Sector",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Services Marketing",
+      "code": "MKMA1107",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Business to Business Marketing (B2B)",
+      "code": "MKBH1112",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Agricultural Marketing",
+      "code": "MKMA1158",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "International Marketing",
+      "code": "MKMA1108",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Social Marketing",
+      "code": "MKMA1159",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Marketing Research",
+      "code": "MKMA1109",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Quan hệ Công chúng",
+      "code": "Public Relations",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Marketing Management",
+      "code": "MKMA1110",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản trị bán hàng",
+      "code": "MKBH1105",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Doanh nghiệp truyền thông",
+      "code": "Marketing Management Course",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Pricing Management",
+      "code": "MKDG1120",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản Trị Khủng Hoảng",
+      "code": "Marketing Crisis Management",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Marketing distribution channel Management",
+      "code": "MKBH1108",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Customer Relationship Management",
+      "code": "MKBH1109",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Quảng cáo",
+      "code": "Marketing Management",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Product Management",
+      "code": "MKMA1164",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản trị Thương hiệu",
+      "code": "Marketing",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Sponsorship Management",
+      "code": "Marketing and Public Relations",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Marketing",
+      "code": "MKMA1112",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Public Relations",
+      "code": "Marketing English for Public Relations",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 1
+    },
+    {
+      "name": "Integrated Marketing Communication",
+      "code": "Integrated Marketing Communication",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 1
+    },
+    {
+      "name": "Event Organization and Management",
+      "code": "Marketing Management",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Xúc tiến bán",
+      "code": "Marketing Promotion",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Đánh giá giá trị doanh nghiệp",
+      "code": "Marketing Evaluation Course",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Định giá thương hiệu",
+      "code": "Marketing Valuation",
+      "faculty": "Khoa Marketing_2024",
+      "skills_taught": 5,
+      "skills_required": 1
+    },
+    {
+      "name": "Project - Economic and Urban Management",
+      "code": "MTDT1129",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Project - Management of Natural Resources and Environment",
+      "code": "MTKT1172",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Technology",
+      "code": "MTKT1150",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Fundamentals of Environmental Science",
+      "code": "MTKT1149",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Chemistry",
+      "code": "MTKT 1164",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental and Natural Capital Accounting",
+      "code": "MTKT1152",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Geographic Information System (GIS)",
+      "code": "MTDt1106",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "MTDT1128",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "MTKT1171",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 3
+    },
+    {
+      "name": "Business and Environment",
+      "code": "Business and Environment",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Economics of Climate Change",
+      "code": "MTKH1103",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Economics",
+      "code": "MTKT1133",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Circular Economy",
+      "code": "MTKT1166",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Natural Resource Economics",
+      "code": "MTKT1134",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental economics and management",
+      "code": "MTKT1104",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Urban Housing Economics and Management",
+      "code": "MTDT1123",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Urban Economics",
+      "code": "MTDT1115",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Urban Economics",
+      "code": "MTDT1127",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Valuation of Natural Resource and Environment",
+      "code": "MTKT1155",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Cost-Benefit Analysis",
+      "code": "MTKT1135",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Monitoring",
+      "code": "MTKT1164",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Planning",
+      "code": "MTKT1169",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Urban and Regional Planning",
+      "code": "MTDT1114",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản lý chất thải rắn và chất thải nguy hại",
+      "code": "Waste Management",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Urban Project Management",
+      "code": "MTDT1124",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Managing Urban Administrative Affairs",
+      "code": "MTDT 1125",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Management for Cities and Industrial Estates",
+      "code": "MTKT1157",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 9,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản lý tài nguyên và môi trường",
+      "code": "ENVIRONMENTAL_MANAGEMENT",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 1
+    },
+    {
+      "name": "Integrated Management of River Basins",
+      "code": "MTKT1158",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Biodiversity Management",
+      "code": "MTKT1168",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Urban Management",
+      "code": "MTDT1120",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Ecology",
+      "code": "MTKT1161",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Communication",
+      "code": "Environmental Communication",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Municipal Finance",
+      "code": "MTDT1126",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Physics",
+      "code": "MTKT1170",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Environmental Impact Assessment",
+      "code": "MTKT1151",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Urbanization and Development",
+      "code": "MTDT1121",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Cities and Climate Change",
+      "code": "MTDT1122",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 4,
+      "skills_required": 1
+    },
+    {
+      "name": "Economic Geography",
+      "code": "MTKT1102",
+      "faculty": "Khoa Môi trường_2024",
+      "skills_taught": 12,
+      "skills_required": 0
+    },
+    {
+      "name": "Giao tiếp trong Kinh Doanh",
+      "code": "COMMUNICATION_IN_BUSINESS",
+      "faculty": "Khoa Ngoại ngữ_2024",
+      "skills_taught": 8,
+      "skills_required": 1
+    },
+    {
+      "name": "Chuyên đề Kinh doanh quốc tế",
+      "code": "International Business",
+      "faculty": "Khoa Ngoại ngữ_2024",
+      "skills_taught": 10,
+      "skills_required": 2
+    },
+    {
+      "name": "Kỹ năng ngôn ngữ chuyên ngành về Ngân hàng và Tài chính",
+      "code": "Financial Markets and Banking",
+      "faculty": "Khoa Ngoại ngữ_2024",
+      "skills_taught": 7,
+      "skills_required": 2
+    },
+    {
+      "name": "Practicum - Mid-term Internship",
+      "code": "Practicum",
+      "faculty": "Khoa Ngoại ngữ_2024",
+      "skills_taught": 5,
+      "skills_required": 2
     },
     {
       "name": "Introduction to Linguistics",
       "code": "NNTV1102",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 9,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Cross Culture",
       "code": "NNTV1112",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 7,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
-      "name": "Khóa luận tốt nghiệp",
-      "code": "NNTM1174",
+      "name": "Khóa Luận Tốt Nghiệp",
+      "code": "General Information",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 8,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Second Foreign Language (French 1)",
       "code": "NNKC1125",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 15,
+      "skills_taught": 6,
       "skills_required": 0
     },
     {
       "name": "Second Foreign Language (French 2)",
       "code": "NNKC1126",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 8,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 2
     },
     {
       "name": "Second Foreign Language (French 3)",
       "code": "NNKC",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 8,
-      "skills_required": 4
+      "skills_taught": 7,
+      "skills_required": 0
     },
     {
       "name": "Applied English Grammar",
       "code": "NNTM1134",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 8,
-      "skills_required": 4
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Phonetics and Phonology",
       "code": "NNTM1103",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 7,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 2
     },
     {
       "name": "Pronunciation course",
       "code": "NNTM1104",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 5,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
-      "name": "English Teaching Methodology",
-      "code": "NNTM1172",
+      "name": "Phương pháp giảng dạy tiếng Anh",
+      "code": "English Teaching Methodology",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 3,
+      "skills_required": 0
     },
     {
       "name": "Translation 1",
       "code": "NNTM1107",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Translation 2",
       "code": "NNTM1108",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Translation 3",
       "code": "NNTM1163",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Interpretation 1",
       "code": "NNTM1110",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Interpretation 1",
       "code": "NNTM1111",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 12,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Interpretation 3",
       "code": "NNTM1164",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 11,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Integrated skills - English for economics and business 1",
       "code": "NNTM1151",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 6,
+      "skills_required": 1
     },
     {
-      "name": "English – Listening skills 4",
+      "name": "English – Listening Skills 4",
       "code": "NNTM1167",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 9,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "English – Listening and Speaking skills 1",
       "code": "NNTM1176",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 8,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "English – Listening and Speaking skills 2",
       "code": "NNTM1177",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 5,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "English – Listening and Speaking skills 3",
       "code": "NNTM1178",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 7,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 2
     },
     {
-      "name": "Tiếng Anh – Kỹ năng Nói 4",
-      "code": "NNTM1168",
+      "name": "Advanced English Speaking Skills",
+      "code": "Tiếng Anh - Kỹ năng Nói 4",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 7,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 2
     },
     {
-      "name": "English - Writing Skills 4",
-      "code": "NNTM1169",
+      "name": "English - Advanced Writing Skills 4",
+      "code": "Tiếng Anh - Kỹ năng Viết 4",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
-    },
-    {
-      "name": "English – Reading Skills 4",
-      "code": "NNTM1166",
-      "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
-    },
-    {
-      "name": "English – Reading & Writing Skills 1",
-      "code": "NNTM1179",
-      "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 6,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
-      "name": "English – Reading & Writing Skills 2",
-      "code": "NNTM1180",
+      "name": "English - Reading Skills 4",
+      "code": "Tiếng Anh – Kỹ năng Đọc 4",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
+      "skills_taught": 5,
       "skills_required": 1
     },
     {
-      "name": "English – Reading & Writing Skills 3",
-      "code": "NNTM1181",
+      "name": "English - Reading and Writing Skills 1",
+      "code": "Tiếng Anh - Kỹ năng Đọc Viết 1",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 7,
-      "skills_required": 1
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "English - Reading and Writing Skills 2",
+      "code": "Tiếng Anh – Kỹ năng Đọc Viết 2",
+      "faculty": "Khoa Ngoại ngữ_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "English - Reading and Writing Skills 3",
+      "code": "Tiếng Anh - Kỹ năng Đọc Viết 3",
+      "faculty": "Khoa Ngoại ngữ_2024",
+      "skills_taught": 4,
+      "skills_required": 2
     },
     {
       "name": "English 1",
       "code": "NNKC 1131",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
+      "skills_taught": 6,
       "skills_required": 0
     },
     {
       "name": "English 2",
       "code": "NNKC 1132",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "English 3",
       "code": "NNKC 1133",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 6,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Vietnamese in Use",
       "code": "NNTV1107",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 12,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Tiếng Việt trong kinh tế và kinh doanh 1",
-      "code": "NNTV1108",
+      "code": "Tiếng Việt trong kinh tế và kinh doanh 1",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 7,
+      "skills_taught": 6,
       "skills_required": 0
     },
     {
       "name": "Tiếng Việt trong kinh tế và kinh doanh",
-      "code": "NNTV1109",
+      "code": "Tiếng Việt trong kinh tế và kinh doanh",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 6,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
-      "name": "Foundation of Vietnamese language",
+      "name": "Foundation of Vietnamese Language",
       "code": "NNTV1114",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
-      "name": "Critical Thinking",
-      "code": "NNTM1173",
+      "name": "Tư duy phản biện",
+      "code": "Critical Thinking",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 8,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Lexicology",
       "code": "NNTM1133",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 6,
-      "skills_required": 4
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
-      "name": "Cultures of English speaking countries",
+      "name": "Cultures of English Speaking Countries",
       "code": "NNTM1170",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Vietnamese Culture Foundation",
       "code": "NNTV1111",
       "faculty": "Khoa Ngoại ngữ_2024",
-      "skills_taught": 15,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
-      "name": "Chuyên đề thực tế",
-      "code": "QTKD1152",
+      "name": "Chuyên đề Thực tế Quản trị Kinh doanh",
+      "code": "BUSINESS_MANAGEMENT_PRACTICE",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 16,
-      "skills_required": 0
+      "skills_taught": 6,
+      "skills_required": 2
     },
     {
-      "name": "Giao tiếp Kinh doanh",
-      "code": "QTVH 1109",
+      "name": "Business Communication Course",
+      "code": "Business Communication",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 10,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
-      "name": "Khóa luận tốt nghiệp",
-      "code": "QTKD1150",
+      "name": "Thesis Project",
+      "code": "Thesis Project",
       "faculty": "Khoa Quản trị kinh doanh_2024",
       "skills_taught": 7,
-      "skills_required": 7
+      "skills_required": 0
     },
     {
       "name": "Khởi sự kinh doanh",
-      "code": "QTTH1108",
+      "code": "Khởi sự kinh doanh",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 8,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Controlling",
       "code": "QTTH1110",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 17,
-      "skills_required": 2
-    },
-    {
-      "name": "Managerial Skills",
-      "code": "QTKD1130",
-      "faculty": "Khoa Quản trị kinh doanh_2024",
       "skills_taught": 5,
       "skills_required": 0
     },
     {
+      "name": "Management Skills",
+      "code": "Kỹ năng quản trị",
+      "faculty": "Khoa Quản trị kinh doanh_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
       "name": "Quản trị chi phí kinh doanh",
-      "code": "QTTH1116",
+      "code": "Business Cost Management",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 9,
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Strategic Management 2",
+      "code": "Quản trị chiến lược 2",
+      "faculty": "Khoa Quản trị kinh doanh_2024",
+      "skills_taught": 3,
       "skills_required": 1
     },
     {
-      "name": "Quản trị chiến lược 2",
-      "code": "QTKD 1114",
+      "name": "Strategic Management",
+      "code": "Quản trị chiến lược",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
-      "name": "Quản trị chiến lược",
-      "code": "QTKD1132",
+      "name": "Supply Chain Management",
+      "code": "Quản trị chuỗi cung ứng",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 10,
-      "skills_required": 1
-    },
-    {
-      "name": "Quản trị chuỗi cung ứng",
-      "code": "QTKD1133",
-      "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 83,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Service Quality Management",
       "code": "QTCL1105",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
-      "name": "Quản trị Chất lượng",
-      "code": "QTCL1104",
+      "name": "Quality Management",
+      "code": "Quản trị chất lượng",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 9,
-      "skills_required": 1
+      "skills_taught": 7,
+      "skills_required": 0
     },
     {
-      "name": "Quản trị công ty",
-      "code": "QTKD 1134",
+      "name": "Corporate Management",
+      "code": "Management and Teaching Department",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 11,
+      "skills_taught": 5,
       "skills_required": 2
     },
     {
-      "name": "Quản trị hậu cần và chuỗi cung ứng",
-      "code": "QTKD1153",
+      "name": "Logistics and Supply Chain Management",
+      "code": "Logistics and Supply Chain Management",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 8,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Business Management 1 (E)",
       "code": "QTTH1129",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 13,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
       "name": "Business Management 1",
       "code": "QTTH1102",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 11,
+      "skills_taught": 5,
       "skills_required": 2
     },
     {
-      "name": "Quản trị kinh doanh 2",
-      "code": "QTTH1117",
+      "name": "Business Administration 2",
+      "code": "Quản trị kinh doanh 2",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 14,
+      "skills_taught": 8,
       "skills_required": 1
     },
     {
-      "name": "Quản trị năng suất và Tiêu chuẩn hóa",
-      "code": "QTCL1139",
+      "name": "Management of Productivity and Standardization",
+      "code": "Quản trị năng suất và Tiêu chuẩn hóa",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 9,
-      "skills_required": 1
+      "skills_taught": 7,
+      "skills_required": 0
     },
     {
       "name": "Quản trị Quá trình Kinh doanh",
-      "code": "QTCL1111",
+      "code": "Business Process Management",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 12,
+      "skills_taught": 6,
       "skills_required": 2
     },
     {
-      "name": "Quản trị văn phòng",
-      "code": "QTKD1136",
+      "name": "Office Management",
+      "code": "Quản trị văn phòng",
+      "faculty": "Khoa Quản trị kinh doanh_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Operations Management 2",
+      "code": "Quản trị vận hành 2",
+      "faculty": "Khoa Quản trị kinh doanh_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Quản trị vận hành",
+      "code": "Operations Management",
+      "faculty": "Khoa Quản trị kinh doanh_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "Cross-cultural management",
+      "code": "QTTH1110",
       "faculty": "Khoa Quản trị kinh doanh_2024",
       "skills_taught": 6,
       "skills_required": 0
     },
     {
-      "name": "Quản trị vận hành 2",
-      "code": "QTKD1149",
+      "name": "Quản trị Điều hành Dự án",
+      "code": "Management and Project Administration",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 10,
-      "skills_required": 2
-    },
-    {
-      "name": "Quản trị vận hành",
-      "code": "QTKD1148",
-      "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 13,
-      "skills_required": 1
-    },
-    {
-      "name": "Cross-cultural Management",
-      "code": "QTTH1110",
-      "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 8,
+      "skills_taught": 9,
       "skills_required": 0
     },
     {
-      "name": "Quản trị điều hành dự án",
-      "code": "QTKD1118",
+      "name": "Quản trị Đổi mới trong Kinh doanh",
+      "code": "Management Innovation",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 23,
-      "skills_required": 23
-    },
-    {
-      "name": "Innovation Management in Business",
-      "code": "QTCL1112",
-      "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 9,
+      "skills_taught": 6,
       "skills_required": 0
     },
     {
       "name": "Business Decisions Making",
       "code": "QTTH1132",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 15,
-      "skills_required": 2
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Enterprise development and change",
       "code": "QTTH1128",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 8,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Corporate Reengineering",
       "code": "QTTH1120",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 15,
-      "skills_required": 2
+      "skills_taught": 3,
+      "skills_required": 0
     },
     {
       "name": "New Venture Creation",
       "code": "QTTH1133",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Corporate Culture",
       "code": "QTVH1111",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 10,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Business Ethics",
       "code": "QTVH 1107",
       "faculty": "Khoa Quản trị kinh doanh_2024",
-      "skills_taught": 9,
+      "skills_taught": 5,
       "skills_required": 0
     },
     {
-      "name": "Chuyên đề thực tế - Toán kinh tế",
+      "name": "Project - Applied Statistics",
+      "code": "TKKD1132",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "System of National Accounts",
+      "code": "TKkt1101",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "TKKT1128",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Theory of Statistics 1",
+      "code": "TKKD1101",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Theory of Statistics 2",
+      "code": "TKKD1102",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Theory of Statistics 3",
+      "code": "TKKD1130",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Principles of Data Mining",
+      "code": "TKKD1121",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Phân tích dữ liệu",
+      "code": "Phân tích dữ liệu",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Phân tích dữ liệu",
+      "code": "Data Analysis",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Statistics in Enterprises",
+      "code": "TKkD1127",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Phân tích dữ liệu",
+      "code": "Data Analysis",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Statistics for Quality Management",
+      "code": "TKkD1112",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Statistics in Enterprises",
+      "code": "TKkD1116",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Demography and Labor Statistics",
+      "code": "TKKT1130",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Economic Statistics",
+      "code": "TKkt1110",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Labor Statistics",
+      "code": "TKKT1111",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Trade and Tourism Statistics",
+      "code": "TKKT1131",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Statistics in Economics and Business",
+      "code": "TKKD1129",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Finance and Insurance Statistics",
+      "code": "TKKD1131",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Social and Environmental Statistics",
+      "code": "TKKT1132",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Applied Informatics for Statistics",
+      "code": "TKKD1106",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "English for Economic Statistics",
+      "code": "TKkt1126",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Surveys in Social Research",
+      "code": "TKKT1103",
+      "faculty": "Khoa Thống kê_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
       "code": "TOKT1171",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 17,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Fundamentals of Mathematical Finance",
       "code": "TOTC1106",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 7,
+      "skills_required": 0
     },
     {
       "name": "Calculus 1",
       "code": "TOCB1111",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 6,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Calculus 2",
       "code": "TOCB1103",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 5,
-      "skills_required": 1
+      "skills_taught": 7,
+      "skills_required": 0
     },
     {
-      "name": "Introduction to Data Science in Economics and Business",
+      "name": "Introduction to Data Science in Economics and Business 1",
       "code": "TOkt1138",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 11,
-      "skills_required": 4
+      "skills_taught": 5,
+      "skills_required": 2
     },
     {
       "name": "Graduation Thesis",
       "code": "TOkt1150",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 9,
-      "skills_required": 3
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Econometrics 1",
       "code": "TOkt1101",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 4
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Econometrics 2",
       "code": "TOkt1128",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 11,
-      "skills_required": 3
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Econometrics II",
       "code": "TOTKT1103",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Econometrics I",
       "code": "TOTKT1127",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 6,
-      "skills_required": 4
+      "skills_taught": 7,
+      "skills_required": 0
     },
     {
       "name": "Mathematical Economic Modeling 1",
       "code": "TOkt1104",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 11,
-      "skills_required": 2
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
       "name": "Mathematical Economic Modeling",
       "code": "TOkt1116",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 9,
-      "skills_required": 2
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Game Theory and Applications in Economics - Business",
       "code": "TOkt1151",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 11,
-      "skills_required": 2
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Probability and Mathematical Statistics",
@@ -1262,78 +4118,78 @@
       "name": "Probability Theory",
       "code": "TOkt1105",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 9,
-      "skills_required": 1
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Input-Output Model",
       "code": "TOkt1140",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 3
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
-      "name": "The models for analyzing and evaluating the financial assets 1",
-      "code": "TOTC1108",
+      "name": "Financial Asset Analysis and Valuation 1",
+      "code": "Financial Asset Analysis and Valuation 1",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 12,
+      "skills_taught": 6,
       "skills_required": 3
     },
     {
       "name": "The models for analyzing and evaluating the financial assets 2",
       "code": "TOTC1109",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 9,
+      "skills_required": 0
     },
     {
       "name": "Models of Financial Corporate",
       "code": "TOTC1110",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 8,
+      "skills_required": 0
     },
     {
       "name": "Stochastic simulation and applications in finance",
       "code": "TOTC1119",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 6,
+      "skills_required": 3
     },
     {
       "name": "Time Series Analysis and Forecast",
       "code": "TOkt1147",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 9,
-      "skills_required": 2
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
       "name": "Multivariate Statistical Analysis",
-      "code": "TOKT1143",
+      "code": "Multivariate Statistical Analysis",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
+      "skills_taught": 5,
       "skills_required": 2
     },
     {
-      "name": "Quantitative Risk Management 1",
+      "name": "Quantitative risk management 1",
       "code": "TOTC1120",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 9,
-      "skills_required": 3
+      "skills_taught": 5,
+      "skills_required": 0
     },
     {
-      "name": "Quantitative Risk Management 2",
+      "name": "Quantitative risk management 2",
       "code": "TOTC1121",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 8,
-      "skills_required": 3
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Mathematical Statistics",
       "code": "TOkt1110",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 6,
+      "skills_required": 0
     },
     {
       "name": "Mathematics for Economics",
@@ -1346,29 +4202,939 @@
       "name": "Discrete Mathematics",
       "code": "TOCB1107",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 2
+      "skills_taught": 9,
+      "skills_required": 0
     },
     {
       "name": "Optimization",
       "code": "TOkt1144",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 10,
-      "skills_required": 1
+      "skills_taught": 4,
+      "skills_required": 0
     },
     {
-      "name": "Đại số",
+      "name": "Algebra",
       "code": "TOCB1101",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 5,
+      "skills_taught": 4,
       "skills_required": 0
     },
     {
       "name": "Data Driven Marketing",
       "code": "TOKT1149",
       "faculty": "Khoa Toán kinh tế_2024",
-      "skills_taught": 12,
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Using software to formulate and manage projects",
+      "code": "DTKT1149",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "DTKT 1174",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "DTKT 1175",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Quantity Surveying and Budget Planning",
+      "code": "DTKT1131",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "DTKT1172",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
       "skills_required": 2
+    },
+    {
+      "name": "Graduation Thesis",
+      "code": "DTKT1173",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Economics for Investment Decision Makers",
+      "code": "DTKT 1119",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment Economics 1",
+      "code": "DTKT1106",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment Economics 2",
+      "code": "DTKT1126",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment Economics",
+      "code": "DTKT1154",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment Project Design",
+      "code": "DTKT 1108",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Project Design",
+      "code": "DTKT 1176",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment project design and management",
+      "code": "DTKT 1111",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Project Management Using Microsoft Project",
+      "code": "DTKT1157",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Project Quality Management",
+      "code": "DTKT1160",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Project Management",
+      "code": "DTKT1177",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Contract Management",
+      "code": "DTKT1164",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment Project Appraisal",
+      "code": "Investment Appraisal",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Thẩm Định Dự Án Đầu Tư",
+      "code": "Investment Project Appraisal",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Capital Market",
+      "code": "DTKT11116",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Project Financing",
+      "code": "DTKT1147",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Bidding",
+      "code": "DTKT1133",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "International Investment",
+      "code": "DTKT1120",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Public-Private Partnerships",
+      "code": "DTKT1123",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Financial Investment",
+      "code": "DTKT1134",
+      "faculty": "Khoa Đầu tư_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Audit and Assurance",
+      "code": "Audit and Assurance",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "Internship in Auditing",
+      "code": "KTTC1122",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Internship in Accounting",
+      "code": "KTTC1121",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Accounting Information Systems 1",
+      "code": "KTHT1101",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Accounting Information Systems 1",
+      "code": "KTHT1101",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Information Systems in Accounting 2",
+      "code": "Hệ thống thông tin kế toán 2",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Information Systems in Accounting 2",
+      "code": "Hệ thống thông tin kế toán 2",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis in Auditing",
+      "code": "KTTC1120",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis in Accounting",
+      "code": "KTTC1120",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Internal Control",
+      "code": "KTHT1105",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Internal Control",
+      "code": "KTHT1105",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Kiểm soát quản lý",
+      "code": "Management Control Systems",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Principles of Auditing",
+      "code": "Kiểm toán căn bản",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Kiểm toán Hoạt động",
+      "code": "Audit Operations",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Kiểm toán nội bộ",
+      "code": "Internal Auditing",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Financial Audit 1",
+      "code": "Kiểm toán tài chính 1",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Financial Auditing 2",
+      "code": "KTKI1109",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Financial Auditing 3",
+      "code": "Kiểm toán tài chính 3",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Kế toán Chi Phí",
+      "code": "Accounting Costs",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Kế toán Chi Phí",
+      "code": "Accounting Costs",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 3,
+      "skills_required": 1
+    },
+    {
+      "name": "Public Accounting 1",
+      "code": "KTKE1109",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Public Accounting 1",
+      "code": "KTKE1109",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Public Accounting 2",
+      "code": "KTKE1110",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Public Accounting 2",
+      "code": "KTKE1110",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Public Accounting",
+      "code": "KTKE1103",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Investment Project Accounting",
+      "code": "KTKE1107",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Managerial Accounting 1",
+      "code": "KTQT1103",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Managerial Accounting 1",
+      "code": "KTQT1103",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Managerial Accounting 2",
+      "code": "KTQT1106",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Managerial Accounting 2",
+      "code": "KTQT1106",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "International Accounting",
+      "code": "KTKE1108",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "International Accounting",
+      "code": "KTKE1108",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Accounting Principles",
+      "code": "KTKE1101",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Accounting Principles",
+      "code": "KTKE1101",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Data Analytics for Accounting",
+      "code": "KTHT1104",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Data Analytics for Accounting",
+      "code": "KTHT1104",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Business Analysis",
+      "code": "KTQT1107",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Business Analysis",
+      "code": "KTQT1107",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Thực hành Kiểm toán Báo cáo tài chính",
+      "code": "THKTTC",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Accounting Internship",
+      "code": "KTTC1115",
+      "faculty": "Viện Kế toán Kiểm toán_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Derivatives",
+      "code": "NHCK1116",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Monetary and Financial Theories 1",
+      "code": "NHLT1101",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 7,
+      "skills_required": 1
+    },
+    {
+      "name": "Monetary and Financial Theories 2",
+      "code": "NHLT1103",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Monetary and Financial Theories",
+      "code": "NHLT1107",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Commercial Banking 1",
+      "code": "NHTM 1102",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Commercial Banking 2",
+      "code": "NHTM 1111",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Commercial Banking",
+      "code": "NHTM 1121",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Central Bank",
+      "code": "NHLT1106",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "Financial Analysis",
+      "code": "NHTC1108",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Phân tích và Đầu tư chứng khoán",
+      "code": "Phân tích và Đầu tư chứng khoán",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Public Asset Management",
+      "code": "NHCO1119",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Risk Management",
+      "code": "NHTM1129",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Risk Management",
+      "code": "NHTM 1114",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Financial Management",
+      "code": "NHTC1103",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 7,
+      "skills_required": 0
+    },
+    {
+      "name": "International Payments",
+      "code": "NHQT1112",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "International Taxation",
+      "code": "NHCO1113",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Taxation",
+      "code": "NHCO1111",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Financial Appraisal of Investment Projects",
+      "code": "NHTC1112",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "Market Securities",
+      "code": "Thị trường chứng khoán",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Quản trị Tài chính Công ty Đa Quốc Gia",
+      "code": "Financial Management for Multinational Companies",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Public Finance",
+      "code": "NHCO1107",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Corporate Finance 1",
+      "code": "NHTC1104",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Corporate Finance 2",
+      "code": "NHTC1110",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Corporate Finance",
+      "code": "NHTC1120",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Essay on Monetary and Financial Theories",
+      "code": "NHLT1104",
+      "faculty": "Viện Ngân hàng Tài chính_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Business Strategy of Commercial Enterprise",
+      "code": "TMKT1130",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Strategy for E-commerce",
+      "code": "TMQT1158",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "International Trade Topics",
+      "code": "TMQTT1138",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Practical Case Studies in International Business",
+      "code": "International Business Management",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "Projects in Commercial Business",
+      "code": "TMKT1154",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Project",
+      "code": "TMKT1155",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Project – Ecommerce",
+      "code": "TMQT1161",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Government Electronics",
+      "code": "Government Electronics",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Foreign Economic Policy 1",
+      "code": "TMKQ1103",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Foreign Economic Policy 2",
+      "code": "TMKQ1104",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "Government Policy for Multinational Corporations",
+      "code": "TMKQ1118",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 2
+    },
+    {
+      "name": "E-Logistics",
+      "code": "TMKT1136",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "E-commerce Transaction: Theory and Practice",
+      "code": "TMQT1152",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 11,
+      "skills_required": 0
+    },
+    {
+      "name": "International Economic Integration",
+      "code": "TMKQ1107",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Kho ngoại quan",
+      "code": "Kho ngoại quan",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 2
+    },
+    {
+      "name": "Graduation Thesis - International Economics",
+      "code": "TMKQ1127",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 6,
+      "skills_required": 2
+    },
+    {
+      "name": "Graduation Thesis (Logistics and Supply Chain Management)",
+      "code": "TMKT1153",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Graduation Thesis – E-Commerce",
+      "code": "TMQT1160",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 1
+    },
+    {
+      "name": "International Business I",
+      "code": "TMKD1115",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Customs Economics",
+      "code": "TMQT1127",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 3,
+      "skills_required": 0
+    },
+    {
+      "name": "International Economics",
+      "code": "TMKQ1123",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Trade Economics",
+      "code": "TMKT1137",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Logistics Planning and Control Systems",
+      "code": "TMKT1151",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Business Logistics",
+      "code": "TMKT1145",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Mạng xã hội và Thương mại Điện tử",
+      "code": "Social Media and E-commerce",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "The World Economy",
+      "code": "TMKQ1125",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Management of Logistics Enterprise",
+      "code": "TMKT1140",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Commercial Enterprise Management",
+      "code": "TMKT1141",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "Principles of Logistics Management",
+      "code": "TMKT1125",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 6,
+      "skills_required": 0
+    },
+    {
+      "name": "International Management",
+      "code": "TMKD1132",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "E-commerce operation management",
+      "code": "TMQT1145",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 8,
+      "skills_required": 0
+    },
+    {
+      "name": "Multimodal Transport Management",
+      "code": "TMKT1145",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Electronic Commerce Payments",
+      "code": "Trade and Commerce",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 1
+    },
+    {
+      "name": "Payment and Credit in International Trade",
+      "code": "NHQT1118",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "International Trade",
+      "code": "TMQTT1151",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Thương mại điện tử căn bản",
+      "code": "THÔNG TIN CHUNG",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "E-commerce",
+      "code": "TMQTT1125",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 0
+    },
+    {
+      "name": "Tiếng Anh thương mại quốc tế",
+      "code": "Tiếng Anh thương mại quốc tế",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "English for International Economics and Business",
+      "code": "TMKQ1115",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 4,
+      "skills_required": 0
+    },
+    {
+      "name": "Economic and Technical Norms",
+      "code": "TMKT1135",
+      "faculty": "Viện TM và KTQD_2024",
+      "skills_taught": 5,
+      "skills_required": 0
     }
   ]
 }

@@ -1,0 +1,77 @@
+{
+  "course_id": "DTKT1131",
+  "title": "Quantity Surveyor and Budget Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Building Construction Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the structure of buildings and construction projects."
+    },
+    {
+      "skill_name": "Construction Standards and Regulations Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand construction standards and regulations."
+    },
+    {
+      "skill_name": "Reading and Interpreting Construction Drawings",
+      "category": "Hard Skill",
+      "outcome_description": "Read and interpret architectural and structural construction drawings."
+    },
+    {
+      "skill_name": "Quantitative Takeoff Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply quantitative takeoff methods for construction projects."
+    },
+    {
+      "skill_name": "Construction Estimating Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply techniques for estimating construction costs."
+    },
+    {
+      "skill_name": "Bid Quantity Preparation",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare bid quantities for tendering processes."
+    },
+    {
+      "skill_name": "Project Cost Management Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Manage project costs effectively."
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams."
+    },
+    {
+      "skill_name": "Critical Thinking Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve problems."
+    },
+    {
+      "skill_name": "Technical Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Write technical reports and presentations."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical responsibility and social accountability."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Investment Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

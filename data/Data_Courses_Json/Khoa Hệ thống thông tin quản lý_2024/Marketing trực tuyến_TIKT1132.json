@@ -1,0 +1,92 @@
+{
+  "course_id": "TIKT1132",
+  "title": "Online Marketing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of marketing, online marketing, and digital marketing."
+    },
+    {
+      "skill_name": "Online Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and explain various forms of online marketing and their practical applications."
+    },
+    {
+      "skill_name": "Website Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and manage websites and online stores, optimizing for search engines."
+    },
+    {
+      "skill_name": "SEO",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize SEO techniques to optimize websites and improve search engine rankings."
+    },
+    {
+      "skill_name": "Digital Marketing Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze digital marketing scenarios and use IT tools to support marketing activities."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan, design, and implement online marketing systems."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or collaboratively in teams, demonstrating organizational and social responsibility."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve marketing problems using digital tools and techniques."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in marketing contexts, both individually and in groups."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to marketing scenarios and digital marketing strategies."
+    },
+    {
+      "skill_name": "Information Literacy",
+      "category": "Soft Skill",
+      "outcome_description": "Read and understand marketing literature and digital marketing concepts."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional ethics in the field of information systems management."
+    },
+    {
+      "skill_name": "Web Technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Use HTML, CSS, JavaScript, SQL Server, and PHP for web development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Computer Science",
+      "Computer Networks"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Marketing Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

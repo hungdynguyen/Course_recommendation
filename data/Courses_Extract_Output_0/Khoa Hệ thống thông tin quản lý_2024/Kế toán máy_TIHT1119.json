@@ -1,0 +1,40 @@
+{
+  "course_id": "TIHT1119",
+  "title": "Computer-based Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting Systems Overview",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of accounting information systems and typical business processes."
+    },
+    {
+      "skill_name": "Computerized Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp fundamental concepts and functions of computerized accounting systems."
+    },
+    {
+      "skill_name": "Application Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop accounting applications using 1C Enterprise 8 platform."
+    },
+    {
+      "skill_name": "Excel for Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize Microsoft Excel for accounting purposes."
+    },
+    {
+      "skill_name": "Specialized Accounting Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use specialized accounting software for business and administrative accounting."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

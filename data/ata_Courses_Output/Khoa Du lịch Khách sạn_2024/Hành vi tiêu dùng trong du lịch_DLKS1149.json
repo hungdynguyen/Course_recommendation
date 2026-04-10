@@ -1,0 +1,47 @@
+{
+  "course_id": "DLKS1149",
+  "title": "Consumer Behavior in Tourism",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours (30 hours lectures, 15 hours discussions/practicals)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Consumer Behavior Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of consumer behavior, including consumption behavior, travel consumption behavior, and travel consumption experience."
+    },
+    {
+      "skill_name": "Tourism Consumer Behavior Progression",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the progression of consumer behavior and travel consumption experience in relation to relevant factors."
+    },
+    {
+      "skill_name": "Factors Influencing Consumer Behavior and Experience",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various factors influencing consumer behavior and travel consumption experience."
+    },
+    {
+      "skill_name": "Basic Forms of Tourism Consumption Behavior",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic forms of tourism consumption behavior and future trends in tourism consumption."
+    },
+    {
+      "skill_name": "Analyzing Characteristics and Forecasting Trends",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze characteristics and forecast trends in consumer behavior and travel consumption experience."
+    },
+    {
+      "skill_name": "Building Consumer Experience Journeys",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge in building consumer experience journeys in tourism and hospitality."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

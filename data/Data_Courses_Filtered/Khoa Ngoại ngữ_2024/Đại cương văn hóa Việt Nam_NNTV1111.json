@@ -1,0 +1,60 @@
+{
+  "course_id": "NNTV1111",
+  "title": "Vietnamese Culture Foundation",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding cultural concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts related to culture such as origin, characteristics, and functions."
+    },
+    {
+      "skill_name": "Recognizing natural and human perception",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the relationship between culture and the natural environment."
+    },
+    {
+      "skill_name": "Analyzing cultural concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze cultural concepts and their interrelatedness."
+    },
+    {
+      "skill_name": "Analyzing Yin-Yang principles",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the principles of Yin-Yang philosophy and their influence on Vietnamese culture."
+    },
+    {
+      "skill_name": "Analyzing cultural interactions",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the interaction and exchange of Vietnamese culture with other cultures."
+    },
+    {
+      "skill_name": "Analyzing regional cultural characteristics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the unique characteristics of regional cultures in Vietnam."
+    },
+    {
+      "skill_name": "Active learning and research",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate initiative in learning, research, and group work."
+    },
+    {
+      "skill_name": "Respect for traditional culture",
+      "category": "Soft Skill",
+      "outcome_description": "Develop awareness and respect for traditional culture and customs."
+    },
+    {
+      "skill_name": "Maintaining and promoting traditional values",
+      "category": "Soft Skill",
+      "outcome_description": "Develop awareness and respect for maintaining and promoting traditional values."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

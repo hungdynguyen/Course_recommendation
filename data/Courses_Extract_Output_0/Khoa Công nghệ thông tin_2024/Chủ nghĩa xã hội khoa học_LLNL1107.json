@@ -1,0 +1,63 @@
+{
+  "course_id": "LLNL1107",
+  "title": "Scientific Socialism",
+  "difficulty_level": "Beginner",
+  "duration": "105 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marxist Theory Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret Marxist theories."
+    },
+    {
+      "skill_name": "Historical Materialism",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the principles of historical materialism."
+    },
+    {
+      "skill_name": "Socialism Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Gain a comprehensive understanding of scientific socialism."
+    },
+    {
+      "skill_name": "Political Philosophy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a critical perspective on political philosophy."
+    },
+    {
+      "skill_name": "Democratic Socialism",
+      "category": "Soft Skill",
+      "outcome_description": "Examine the concept of democratic socialism."
+    },
+    {
+      "skill_name": "State Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Explore theories related to socialist states."
+    },
+    {
+      "skill_name": "Class Structure",
+      "category": "Soft Skill",
+      "outcome_description": "Study the structure and dynamics of social classes."
+    },
+    {
+      "skill_name": "Ethnic and Religious Issues",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze ethnic and religious issues within the context of socialism."
+    },
+    {
+      "skill_name": "Family Dynamics",
+      "category": "Soft Skill",
+      "outcome_description": "Examine family structures and dynamics in socialist societies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LLNL1105",
+      "LLNL1106"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

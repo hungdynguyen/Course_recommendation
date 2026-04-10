@@ -1,0 +1,42 @@
+{
+  "course_id": "Quản trị văn phòng",
+  "title": "Office Management",
+  "difficulty_level": "Intermediate",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Office Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental concepts of office management"
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve verbal and written communication skills"
+    },
+    {
+      "skill_name": "Event Coordination",
+      "category": "Soft Skill",
+      "outcome_description": "Organize meetings, conferences, and business trips"
+    },
+    {
+      "skill_name": "Document Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage document storage and preparation"
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Efficiently manage time and resources in a professional setting"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Business Administration"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

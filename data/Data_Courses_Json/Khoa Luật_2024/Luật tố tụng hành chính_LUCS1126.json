@@ -1,0 +1,52 @@
+{
+  "course_id": "LUCS1126",
+  "title": "Law on Administrative Procedures",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental theoretical issues about administrative litigation, court structure, functions, and procedures."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply skills to analyze legal information and determine ways to initiate legal proceedings."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work in groups, communicate, present, and present information effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and synthesize legal information in various scenarios."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Show initiative in presenting research results and maintaining professional ethics."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate independent research, learning, and enhancing professional knowledge."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS1114 (Administrative Law)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

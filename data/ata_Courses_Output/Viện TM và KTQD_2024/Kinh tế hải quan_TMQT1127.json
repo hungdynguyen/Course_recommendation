@@ -1,0 +1,61 @@
+{
+  "course_id": "TMQT1127",
+  "title": "Customs Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Customs Administration",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic issues related to customs administration, state management of customs, and organization of customs activities."
+    },
+    {
+      "skill_name": "Customs Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Apply basic knowledge about customs operations, valuation rules, and tax regulations to specific situations."
+    },
+    {
+      "skill_name": "Customs Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze factors influencing customs decisions and apply knowledge to practical problems."
+    },
+    {
+      "skill_name": "Customs Tariff Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform customs operations such as determining origin, protecting intellectual property rights, and calculating customs duties."
+    },
+    {
+      "skill_name": "Customs Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge in state management of customs, customs procedures, and tax operations to real-world scenarios."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent work skills, teamwork abilities, and effective communication in group settings."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-directed learning, critical thinking, and problem-solving skills in practical contexts."
+    },
+    {
+      "skill_name": "Tax Procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply tax procedures, including declaration, payment, and determination of taxes."
+    },
+    {
+      "skill_name": "Intellectual Property Protection",
+      "category": "Hard Skill",
+      "outcome_description": "Protect intellectual property rights within customs agencies."
+    },
+    {
+      "skill_name": "International Customs Cooperation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand international customs cooperation and organizational structures of global customs organizations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

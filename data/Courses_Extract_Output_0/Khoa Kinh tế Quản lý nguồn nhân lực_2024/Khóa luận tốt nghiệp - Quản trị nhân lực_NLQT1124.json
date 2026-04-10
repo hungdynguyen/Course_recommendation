@@ -1,0 +1,66 @@
+{
+  "course_id": "Khóa luận tốt nghiệp",
+  "title": "Khóa luận tốt nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "At least 12 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate current issues in human resource management."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to improve organizational issues."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage a comprehensive project from planning to execution."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write detailed reports on research findings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve complex problems."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively manage time during internships and project work."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers and mentors."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Human Resource Management",
+      "Organizational Behavior"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Research Methods",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Data Analysis",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Academic Writing",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

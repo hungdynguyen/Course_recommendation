@@ -1,0 +1,79 @@
+{
+  "course_id": "TKKT1103",
+  "title": "Surveys in Social Research",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Survey Design",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and design survey research, including questionnaire design, data collection, and data processing."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Process and analyze data collected from surveys."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical software for survey design and data analysis."
+    },
+    {
+      "skill_name": "Professional Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Professionally present survey research and analysis results."
+    },
+    {
+      "skill_name": "Independent and Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in teams, leading groups and taking responsibility."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand professional ethics and social responsibility."
+    },
+    {
+      "skill_name": "Social Science Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research in social sciences including economics, sociology, management, and business."
+    },
+    {
+      "skill_name": "Questionnaire Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design questionnaires and scales for social research."
+    },
+    {
+      "skill_name": "Sampling Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply sampling techniques for social research."
+    },
+    {
+      "skill_name": "Data Cleaning",
+      "category": "Hard Skill",
+      "outcome_description": "Clean and prepare data for analysis."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write reports based on survey analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Research Methods",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

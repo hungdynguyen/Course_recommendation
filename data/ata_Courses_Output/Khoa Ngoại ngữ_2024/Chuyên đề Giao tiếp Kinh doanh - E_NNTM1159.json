@@ -1,0 +1,86 @@
+{
+  "course_id": "NNTM1159",
+  "title": "Business Communication – in English",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic characteristics of communication processes",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the fundamental characteristics of communication processes and barriers to effective communication."
+    },
+    {
+      "skill_name": "Classifying business communication forms, channels, and trends",
+      "category": "Hard Skill",
+      "outcome_description": "Classify various forms of business communication, channels, and trends in the digital era."
+    },
+    {
+      "skill_name": "Recognizing cultural differences in communication",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the differences in communication between different cultures, the complexity of international communication, and the challenges of a multinational, globalized work environment."
+    },
+    {
+      "skill_name": "Developing professional communication skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop professional communication skills necessary for internal business interactions and external interactions with stakeholders."
+    },
+    {
+      "skill_name": "Planning and conducting meetings effectively",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and conduct effective face-to-face and online meetings and conferences."
+    },
+    {
+      "skill_name": "Using etiquette in phone calls and non-verbal communication",
+      "category": "Hard Skill",
+      "outcome_description": "Use telephone etiquette, non-verbal communication methods, email exchanges, and internal information exchange appropriately."
+    },
+    {
+      "skill_name": "Actively participating in group work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate active participation in research, study, and group work."
+    },
+    {
+      "skill_name": "Managing multimedia communication for businesses",
+      "category": "Soft Skill",
+      "outcome_description": "Manage multimedia communication for businesses effectively."
+    },
+    {
+      "skill_name": "Finding, processing, and using information appropriately",
+      "category": "Soft Skill",
+      "outcome_description": "Find, process, and use information appropriately for communication and analysis of related business situations."
+    },
+    {
+      "skill_name": "Understanding the 9-step writing process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the 9-step writing process for creating business communication documents."
+    },
+    {
+      "skill_name": "Writing and improving business communication documents",
+      "category": "Hard Skill",
+      "outcome_description": "Write and improve business communication documents effectively."
+    },
+    {
+      "skill_name": "Creating clear, concise, and effective business documents",
+      "category": "Hard Skill",
+      "outcome_description": "Create clear, concise, and effective business documents suitable for various communication functions."
+    },
+    {
+      "skill_name": "Selecting appropriate strategies and formats for business communication documents",
+      "category": "Hard Skill",
+      "outcome_description": "Select appropriate strategies and formats for various types of business communication documents."
+    },
+    {
+      "skill_name": "Writing research proposals and activity reports",
+      "category": "Hard Skill",
+      "outcome_description": "Write research proposals and activity reports effectively."
+    },
+    {
+      "skill_name": "Presenting in business communication and personal presentation",
+      "category": "Hard Skill",
+      "outcome_description": "Present effectively in business communication and personal presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

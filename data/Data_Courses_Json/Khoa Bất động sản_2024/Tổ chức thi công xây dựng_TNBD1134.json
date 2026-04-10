@@ -1,0 +1,60 @@
+{
+  "course_id": "TNBD1134",
+  "title": "Construction Organization and Planning",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Construction Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of construction organization and planning, and its application in real estate development."
+    },
+    {
+      "skill_name": "Project Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of construction planning in the quality of construction projects, real estate value, and user safety."
+    },
+    {
+      "skill_name": "Construction Technology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the latest construction technologies and methods, including earthworks, foundation, concrete, and assembly construction."
+    },
+    {
+      "skill_name": "Site Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the layout and organization of construction sites, including temporary facilities, material storage, and equipment."
+    },
+    {
+      "skill_name": "Progress Scheduling",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the methods and importance of construction progress scheduling."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in communication, teamwork, decision-making, and project management."
+    },
+    {
+      "skill_name": "Professional Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the social responsibility of construction organizations, and develop a professional and cooperative attitude."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to work independently and adapt to different environments."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to analyze social context and work environment, and ensure personal responsibility and professional ethics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

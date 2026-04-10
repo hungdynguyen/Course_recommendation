@@ -1,0 +1,73 @@
+{
+  "course_id": "LUKD1198",
+  "title": "Law on International Commercial Arbitration",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the international and domestic legal framework for international commercial arbitration, including international arbitration rules, organizations, and practices."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge through reading real cases, textbooks, and other research materials related to international arbitration."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills necessary for advocacy and dispute resolution."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write arbitration decisions with clear structure, logical reasoning, and proper citation."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in written form, adhering to legal standards and international arbitration rules."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply professional ethics and social responsibility in arbitration."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and take responsibility for personal tasks."
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply alternative dispute resolution (ADR) methods and international commercial arbitration."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal issues and arbitration cases effectively."
+    },
+    {
+      "skill_name": "Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate and draft arbitration clauses for specific transactions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Law 1",
+      "Commercial Law 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

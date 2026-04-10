@@ -1,0 +1,56 @@
+{
+  "course_id": "LLNL1106",
+  "title": "Political Economics of Marxism and Leninism",
+  "difficulty_level": "Advanced",
+  "duration": "10 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Value Theory Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the theoretical value theory of Karl Marx through basic concepts such as goods, money, prices, the law of value, the dual nature of labor producing goods, labor productivity, etc."
+    },
+    {
+      "skill_name": "Surplus Value Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the surplus value production theory of Karl Marx under free market competition conditions to understand the fundamental economic interests relationships through the redistribution of newly created value among basic entities in the market economy."
+    },
+    {
+      "skill_name": "Monopoly Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the monopoly and state monopoly theories in a capitalist market economy as described by V.I Lenin."
+    },
+    {
+      "skill_name": "Socialist-Oriented Market Economy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic knowledge about the socialist-oriented market economy in Vietnam and the economic interest relationships within it."
+    },
+    {
+      "skill_name": "Self-Protection Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to protect legitimate personal interests and solve conflicts scientifically based on evidence when participating in economic and social activities."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Form critical thinking skills to apply foundational theories to solve economic issues in market relations and social benefits."
+    },
+    {
+      "skill_name": "Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to self-study and gather information to complete assigned lessons and exercises."
+    },
+    {
+      "skill_name": "Global Citizenship",
+      "category": "Soft Skill",
+      "outcome_description": "Become a global citizen willing to take active actions to demonstrate social responsibility."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Demonstrate understanding of theoretical concepts related to political economics through reading materials."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

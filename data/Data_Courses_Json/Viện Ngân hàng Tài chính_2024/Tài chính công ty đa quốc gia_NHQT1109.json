@@ -1,0 +1,89 @@
+{
+  "course_id": "NHQT1109",
+  "title": "Multinational Business Finance",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Finance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of multinational financial management, including risk management, capital structure, and international investment decisions."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze financial statements and make informed decisions regarding multinational business operations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the feasibility of financial decisions in multinational corporations and develop independent thinking skills."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve complex financial problems in a multinational context."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and synthesize information to address financial issues in multinational corporations."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage personal time and meet deadlines for assignments and projects."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership qualities and take initiative in group projects and discussions."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate financial concepts and analysis in both written and oral formats."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to real-world financial scenarios in multinational corporations."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage financial risks associated with multinational operations."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed financial decisions based on comprehensive analysis and understanding of multinational business environments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Money and Banking",
+      "Corporate Finance",
+      "International Finance",
+      "Stock Market",
+      "International Business Finance"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Financial Management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Corporate Finance",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "International Business",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

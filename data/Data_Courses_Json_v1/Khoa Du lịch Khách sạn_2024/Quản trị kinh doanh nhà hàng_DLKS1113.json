@@ -1,0 +1,52 @@
+{
+  "course_id": "DLKS1113",
+  "title": "QUẢN TRỊ KINH DOANH NHÀ HÀNG",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and characteristics of restaurant business operations to meet customer needs in hospitality and food service industries."
+    },
+    {
+      "skill_name": "Marketing Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply marketing strategies and techniques to manage restaurant operations effectively."
+    },
+    {
+      "skill_name": "Operations Management",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and manage restaurant operations, including menu planning, procurement, inventory management, food preparation, and direct service."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage human resources in restaurants, including recruitment, training, and leadership."
+    },
+    {
+      "skill_name": "Service Management",
+      "category": "Soft Skill",
+      "outcome_description": "Implement service management practices in restaurant operations."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic plans and marketing plans for restaurant businesses."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze real-world scenarios in the restaurant business market in Vietnam."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế du lịch"
+    ],
+    "minimum_entry_skills": []
+  }
+}

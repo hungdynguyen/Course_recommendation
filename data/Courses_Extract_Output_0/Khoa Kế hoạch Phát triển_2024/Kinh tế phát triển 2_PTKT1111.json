@@ -1,0 +1,51 @@
+{
+  "course_id": "KTPT2",
+  "title": "Kế hoạch và Phát triển",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic policies related to population growth, urbanization, human capital development, financial systems, agricultural development, industrialization, and international trade."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategies for implementing economic policies in developing countries."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret statistical data related to economic development and policy effectiveness."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply research methodologies to study economic development issues in developing countries."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the effectiveness of economic policies using critical thinking skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "KTPT1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

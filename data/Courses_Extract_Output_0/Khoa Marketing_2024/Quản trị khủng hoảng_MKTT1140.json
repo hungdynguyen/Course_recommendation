@@ -1,0 +1,35 @@
+{
+  "course_id": "Marketing Crisis Management",
+  "title": "Quản Trị Khủng Hoảng",
+  "difficulty_level": "Intermediate",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of risk management in organizational settings."
+    },
+    {
+      "skill_name": "Public Relations",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement effective public relations strategies."
+    },
+    {
+      "skill_name": "Crisis Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate and execute crisis communication plans."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply ethical frameworks to decision-making processes during crises."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

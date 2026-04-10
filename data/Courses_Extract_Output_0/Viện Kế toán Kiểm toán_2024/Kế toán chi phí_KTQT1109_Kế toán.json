@@ -1,0 +1,37 @@
+{
+  "course_id": "Accounting Costs",
+  "title": "Kế toán Chi Phí",
+  "difficulty_level": "Intermediate",
+  "duration": "Full Semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cost Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and classify costs incurred within an organization."
+    },
+    {
+      "skill_name": "Financial Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply cost accounting methods to calculate product/service costs."
+    },
+    {
+      "skill_name": "Managerial Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Generate cost reports and utilize them for management decision-making."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Accounting"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting Principles",
+        "minimum_proficiency_level": 5
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

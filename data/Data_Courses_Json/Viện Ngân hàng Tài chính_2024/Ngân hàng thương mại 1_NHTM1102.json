@@ -1,0 +1,76 @@
+{
+  "course_id": "NHTM 1102",
+  "title": "Commercial Banking 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Banking Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts, functions, and history of commercial banking."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and manage the sources and assets of commercial banks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze real-world cases of commercial bank asset management."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work in groups to research, present, and critique topics in banking and finance."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver presentations on banking and finance topics."
+    },
+    {
+      "skill_name": "Financial Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate and apply basic interest methods in commercial banking."
+    },
+    {
+      "skill_name": "Banking Regulations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply regulations and policies in commercial banking."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial data and reports in the context of commercial banking."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and write reports on banking and finance topics."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and prepare for exams."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theoretical Finance and Money 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Finance",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

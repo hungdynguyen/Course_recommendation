@@ -1,0 +1,37 @@
+{
+  "course_id": "LUKD 1179",
+  "title": "Law on Procurement",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Procurement Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the general theoretical knowledge about procurement law."
+    },
+    {
+      "skill_name": "Contract Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply contract management principles in procurement processes."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Ensure compliance with legal regulations in procurement activities."
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Handle disputes and resolve complaints effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

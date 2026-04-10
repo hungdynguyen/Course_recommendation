@@ -1,0 +1,140 @@
+{
+  "course_id": "MTKT1102",
+  "title": "Economic Geography",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Geography",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the geographical approaches to economic activities and their spatial distribution."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend the economic theories and concepts in the context of global economic geography."
+    },
+    {
+      "skill_name": "Globalization",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the impact of globalization on economic activities and spatial organization."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research skills to analyze and interpret economic geography data."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to evaluate economic geography theories and their practical applications."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance communication skills to present economic geography findings effectively."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in teams to solve economic geography problems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize problem-solving techniques to address economic geography challenges."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Foster self-learning and independent study habits in economic geography."
+    },
+    {
+      "skill_name": "Spatial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct spatial analysis to understand economic activities and their distribution."
+    },
+    {
+      "skill_name": "Case Study Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze case studies to understand economic geography concepts and their practical applications."
+    },
+    {
+      "skill_name": "Geographic Information Systems (GIS)",
+      "category": "Soft Skill",
+      "outcome_description": "Use GIS to analyze and visualize economic geography data."
+    },
+    {
+      "skill_name": "Sustainability",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the sustainability of economic activities from a geographical perspective."
+    },
+    {
+      "skill_name": "Urban Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand urban economic concepts and their spatial organization."
+    },
+    {
+      "skill_name": "Global Trade",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze global trade patterns and their impact on economic geography."
+    },
+    {
+      "skill_name": "Financial Markets",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of financial markets in economic geography."
+    },
+    {
+      "skill_name": "Technology",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the impact of technology on economic geography."
+    },
+    {
+      "skill_name": "Logistics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand logistics and its role in economic geography."
+    },
+    {
+      "skill_name": "Environmental Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze environmental factors in economic geography."
+    },
+    {
+      "skill_name": "Labor Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand labor economics and its impact on economic geography."
+    },
+    {
+      "skill_name": "International Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze international economic concepts and their impact on economic geography."
+    },
+    {
+      "skill_name": "Regional Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand regional economic concepts and their impact on economic geography."
+    },
+    {
+      "skill_name": "Global Value Chains",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze global value chains and their impact on economic geography."
+    },
+    {
+      "skill_name": "Multinational Corporations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand multinational corporations and their impact on economic geography."
+    },
+    {
+      "skill_name": "Sustainable Development",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate sustainable development strategies from an economic geography perspective."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

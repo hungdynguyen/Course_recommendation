@@ -1,0 +1,55 @@
+{
+  "course_id": "Kỹ năng quản trị",
+  "title": "Management Skills",
+  "difficulty_level": "Intermediate",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to enhance productivity."
+    },
+    {
+      "skill_name": "Stress Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategies to manage stress in a professional environment."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve verbal and non-verbal communication skills."
+    },
+    {
+      "skill_name": "Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Learn techniques for effective negotiation."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve complex problems."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on available information."
+    },
+    {
+      "skill_name": "Business Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Create comprehensive business plans."
+    },
+    {
+      "skill_name": "Brand Building",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies to build and maintain brand identity."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

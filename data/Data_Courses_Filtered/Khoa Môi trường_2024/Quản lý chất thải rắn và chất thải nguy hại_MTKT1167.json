@@ -1,0 +1,40 @@
+{
+  "course_id": "MTKT1167",
+  "title": "Solid Waste and Hazardous Waste Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the origin, nature, characteristics, and flow of solid waste and hazardous waste in the economy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the context, principles, and management of solid waste and hazardous waste."
+    },
+    {
+      "skill_name": "Identifying and analyzing the functions within the solid waste management system",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and analyze the roles of stakeholders, economic, social, environmental, and institutional aspects in comprehensive and sustainable solid waste management."
+    },
+    {
+      "skill_name": "Analyzing community-based solid waste management models",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the roles of participants, influencing factors, organizational structure, and operational principles of community-based solid waste management models."
+    },
+    {
+      "skill_name": "Applying knowledge to analyze practical solid waste management models",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to analyze practical solid waste management models and hazardous waste management models."
+    },
+    {
+      "skill_name": "Active learning through discussions and problem-solving exercises",
+      "category": "Soft Skill",
+      "outcome_description": "Actively participate in group work by seeking, collecting information, building content, and presenting research results through presentations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

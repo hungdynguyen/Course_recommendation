@@ -1,0 +1,66 @@
+{
+  "course_id": "TIHT1110",
+  "title": "Decision Support Systems",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "System Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the components and roles of decision support systems in organizations."
+    },
+    {
+      "skill_name": "Modeling Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Classify and apply modeling techniques in decision support systems."
+    },
+    {
+      "skill_name": "Data Analysis Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Apply data analysis tools in business environments."
+    },
+    {
+      "skill_name": "Decision Tree Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and interpret decision trees."
+    },
+    {
+      "skill_name": "Influence Diagrams",
+      "category": "Hard Skill",
+      "outcome_description": "Create and interpret influence diagrams."
+    },
+    {
+      "skill_name": "Monte Carlo Simulation",
+      "category": "Hard Skill",
+      "outcome_description": "Perform Monte Carlo simulations using MS Excel."
+    },
+    {
+      "skill_name": "Power BI Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Use MS Power BI Desktop for data analysis and visualization."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through written and online mediums."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze results of models to support decision-making and policy analysis."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or collaboratively on projects."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Proactively choose problems, data, models, and software tools for analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

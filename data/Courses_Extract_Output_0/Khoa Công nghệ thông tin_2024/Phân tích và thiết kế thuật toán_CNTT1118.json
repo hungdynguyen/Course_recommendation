@@ -1,0 +1,56 @@
+{
+  "course_id": "CNTT1118",
+  "title": "Algorithm Analysis and Design",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Algorithm Design",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to design efficient algorithms."
+    },
+    {
+      "skill_name": "Complexity Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and calculating time complexity of algorithms."
+    },
+    {
+      "skill_name": "Sorting Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Designing and analyzing sorting algorithms."
+    },
+    {
+      "skill_name": "Dynamic Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Applying dynamic programming techniques to solve problems."
+    },
+    {
+      "skill_name": "Greedy Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Implementing greedy algorithms for optimization problems."
+    },
+    {
+      "skill_name": "Graph Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Analyzing and implementing graph algorithms."
+    },
+    {
+      "skill_name": "Heuristic Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Developing heuristic solutions for complex problems."
+    },
+    {
+      "skill_name": "Probabilistic Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Using probabilistic methods in algorithm design."
+    },
+    {
+      "skill_name": "Parallel Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Designing parallel algorithms for efficient computation."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

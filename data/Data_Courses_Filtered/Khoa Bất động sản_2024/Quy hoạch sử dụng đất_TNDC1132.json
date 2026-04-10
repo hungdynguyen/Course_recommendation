@@ -1,0 +1,45 @@
+{
+  "course_id": "TNDC1132",
+  "title": "Land Use Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding land use planning concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content, meaning, scientific basis, methods, and steps for establishing and adjusting land use plans at all levels."
+    },
+    {
+      "skill_name": "Analyzing land use planning processes",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and explain knowledge to implement steps in the land use planning process."
+    },
+    {
+      "skill_name": "Evaluating land use planning outcomes",
+      "category": "Hard Skill",
+      "outcome_description": "Explain and apply knowledge to evaluate the implementation of land use planning indicators at all levels."
+    },
+    {
+      "skill_name": "Applying land use planning knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Know how to apply knowledge to establish land use plans at various levels and assess the implementation of land use planning indicators."
+    },
+    {
+      "skill_name": "Self-learning ability",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-study, find materials to complete assigned lessons and assignments."
+    },
+    {
+      "skill_name": "Leadership and influence",
+      "category": "Soft Skill",
+      "outcome_description": "Have leadership and professional influence in land management activities; have innovative ideas in completing assigned tasks; have the ability to direct and adapt to different working environments."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

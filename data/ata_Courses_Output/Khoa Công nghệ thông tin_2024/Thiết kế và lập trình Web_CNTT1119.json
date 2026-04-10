@@ -1,0 +1,101 @@
+{
+  "course_id": "CNTT1119",
+  "title": "Website Design and Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Web Architecture Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of web architecture."
+    },
+    {
+      "skill_name": "Web Service Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of web services."
+    },
+    {
+      "skill_name": "Website Design Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the steps involved in designing, building, and deploying a website."
+    },
+    {
+      "skill_name": "E-commerce Website Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop an e-commerce website using languages such as C#, Java, JavaScript, or PHP."
+    },
+    {
+      "skill_name": "Basic Syntax Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Master basic syntax programming for website development."
+    },
+    {
+      "skill_name": "Object-Oriented Programming Basics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basics of object-oriented programming."
+    },
+    {
+      "skill_name": "Database Connection",
+      "category": "Hard Skill",
+      "outcome_description": "Connect to database management systems."
+    },
+    {
+      "skill_name": "Working with Basic Controls",
+      "category": "Hard Skill",
+      "outcome_description": "Work with basic controls in website development."
+    },
+    {
+      "skill_name": "Working with Validation Controls",
+      "category": "Hard Skill",
+      "outcome_description": "Work with validation controls in website development."
+    },
+    {
+      "skill_name": "Working with Data Controls",
+      "category": "Hard Skill",
+      "outcome_description": "Work with data controls in website development."
+    },
+    {
+      "skill_name": "Model-View-Controller (MVC) Model",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and work with the MVC model in website development."
+    },
+    {
+      "skill_name": "Webservice Model",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and work with the webservice model in website development."
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently."
+    },
+    {
+      "skill_name": "Teamwork Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate responsibility towards team work."
+    },
+    {
+      "skill_name": "Planning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop planning skills for managing resources effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills."
+    },
+    {
+      "skill_name": "Technical Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective communication skills in technical contexts."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ethical responsibility in professional practice."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "course_id": "NHCK1106",
+  "title": "Phân tích và Đầu tư Chứng khoán",
+  "difficulty_level": "Beginner",
+  "duration": "30 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental and technical analysis in stock market."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks in stock investment."
+    },
+    {
+      "skill_name": "Portfolio Management",
+      "category": "Soft Skill",
+      "outcome_description": "Construct and manage diversified investment portfolios."
+    },
+    {
+      "skill_name": "Financial Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Develop financial models to value stocks and manage investments."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate investment analysis and strategies."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and discussions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously improve knowledge and skills through self-study."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems related to stock investment and risk management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

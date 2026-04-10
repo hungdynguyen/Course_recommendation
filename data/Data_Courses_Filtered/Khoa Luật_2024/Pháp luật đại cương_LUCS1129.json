@@ -1,0 +1,50 @@
+{
+  "course_id": "LUCS1129",
+  "title": "Fundamentals of Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the origin and nature of the state",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the origin and nature of the state, including the socialist republic of Vietnam."
+    },
+    {
+      "skill_name": "Understanding the organizational principles and operations of the Vietnamese state apparatus",
+      "category": "Hard Skill",
+      "outcome_description": "Students comprehend the organizational principles and operations of the Vietnamese state apparatus, including its various agencies and their respective authorities."
+    },
+    {
+      "skill_name": "Basic knowledge of law",
+      "category": "Hard Skill",
+      "outcome_description": "Students gain basic knowledge about laws, legal systems, and the application process in certain fundamental legal fields."
+    },
+    {
+      "skill_name": "Identifying violations of law and potential legal consequences",
+      "category": "Hard Skill",
+      "outcome_description": "Students can identify basic legal violations and predict possible legal consequences for offenders."
+    },
+    {
+      "skill_name": "Applying knowledge to determine the authority of state agencies",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply learned knowledge to determine the authority of state agencies in specific activities such as drafting and enforcing laws."
+    },
+    {
+      "skill_name": "Group work skills to solve simple legal issues",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop group work skills to address simple legal issues in administrative, criminal, and civil areas by identifying the legality of legal relationships, determining the authority of handling agencies, and predicting legal consequences."
+    },
+    {
+      "skill_name": "Compliance with rules and regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Students learn to comply with rules and regulations set by organizations, localities, and laws, recognizing their responsibilities correctly."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

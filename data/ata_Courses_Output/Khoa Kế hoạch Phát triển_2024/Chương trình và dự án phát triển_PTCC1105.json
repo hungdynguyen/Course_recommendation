@@ -1,0 +1,71 @@
+{
+  "course_id": "PTCC1105",
+  "title": "Development Programs and Projects",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours in class, 105 hours self-study)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the role and position of development planning system in market economy",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the role and position of the development planning system in the market economy."
+    },
+    {
+      "skill_name": "Grasping the concept, characteristics, and basic content of a development project",
+      "category": "Hard Skill",
+      "outcome_description": "Students grasp the concept, characteristics, and basic content of a development project."
+    },
+    {
+      "skill_name": "Understanding the concept, characteristics, basic content of a development program",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the concept, characteristics, and basic content of a development program."
+    },
+    {
+      "skill_name": "Analyzing financial aspects of a development project",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze the financial aspects of a development project."
+    },
+    {
+      "skill_name": "Constructing and defending a small-scale development project",
+      "category": "Hard Skill",
+      "outcome_description": "Students can construct and defend a small-scale development project."
+    },
+    {
+      "skill_name": "Economic analysis of a development project",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the nature of economic analysis and principles of economic analysis."
+    },
+    {
+      "skill_name": "Understanding the concept, content, and use of tools in project management",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the concept, content, and use of tools in project management."
+    },
+    {
+      "skill_name": "Working effectively in groups during all stages of the process of developing and managing programs and projects",
+      "category": "Soft Skill",
+      "outcome_description": "Students work effectively in groups during all stages of the process of developing and managing programs and projects."
+    },
+    {
+      "skill_name": "Presenting the content of a program or project",
+      "category": "Soft Skill",
+      "outcome_description": "Students present the content of a program or project."
+    },
+    {
+      "skill_name": "Writing reports on programs or projects",
+      "category": "Soft Skill",
+      "outcome_description": "Students write reports on programs or projects."
+    },
+    {
+      "skill_name": "Defending the feasibility of a program or project",
+      "category": "Soft Skill",
+      "outcome_description": "Students defend the feasibility of a program or project."
+    },
+    {
+      "skill_name": "Self-management and responsibility for group products",
+      "category": "Soft Skill",
+      "outcome_description": "Students demonstrate self-management and responsibility for group products."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

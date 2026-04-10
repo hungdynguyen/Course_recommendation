@@ -1,0 +1,40 @@
+{
+  "course_id": "QTTH1129",
+  "title": "Business Management 1 (E)",
+  "difficulty_level": "Beginner",
+  "duration": "45 lecture hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of business and business management."
+    },
+    {
+      "skill_name": "Management Principles",
+      "category": "Soft Skill",
+      "outcome_description": "Explore management concepts, principles, methods, and decision-making processes."
+    },
+    {
+      "skill_name": "Operational Efficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze business operations and improve efficiency."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in making informed business decisions."
+    },
+    {
+      "skill_name": "Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply various management skills and styles effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

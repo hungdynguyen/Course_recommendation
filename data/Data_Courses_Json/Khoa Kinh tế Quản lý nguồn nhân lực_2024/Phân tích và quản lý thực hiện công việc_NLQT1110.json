@@ -1,0 +1,72 @@
+{
+  "course_id": "NLQT 1110",
+  "title": "Job Analysis and Performance Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Job Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the concepts and processes of job analysis and performance management in relation to organizational strategic goals and HR activities such as compensation, training, and recruitment."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the application of job analysis in HR activities."
+    },
+    {
+      "skill_name": "Performance Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the application of performance management in employee compensation."
+    },
+    {
+      "skill_name": "Work Description",
+      "category": "Soft Skill",
+      "outcome_description": "Create job descriptions, job requirement statements, and performance standards suitable for performance management."
+    },
+    {
+      "skill_name": "Key Performance Indicators (KPIs)",
+      "category": "Soft Skill",
+      "outcome_description": "Design KPIs based on Balanced Scorecard (BSC) and select appropriate evaluation methods."
+    },
+    {
+      "skill_name": "Competency Framework",
+      "category": "Soft Skill",
+      "outcome_description": "Define competency frameworks and design competency dictionaries."
+    },
+    {
+      "skill_name": "Evaluation Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the elements of evaluation systems and the relationship between KPIs and organizational strategic goals."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and demonstrate self-learning and research skills."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present, analyze, evaluate, and solve problems effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve problems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Human Resource Management"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic HR Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

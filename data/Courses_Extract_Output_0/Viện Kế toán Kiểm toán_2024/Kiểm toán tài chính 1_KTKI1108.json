@@ -1,0 +1,48 @@
+{
+  "course_id": "Kiểm toán tài chính 1",
+  "title": "Financial Audit 1",
+  "difficulty_level": "Intermediate",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Audit Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to plan financial audit processes."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and applying risk assessment techniques in auditing."
+    },
+    {
+      "skill_name": "Internal Control Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluating internal controls within audit processes."
+    },
+    {
+      "skill_name": "Evidence Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collecting appropriate audit evidence."
+    },
+    {
+      "skill_name": "Audit Reporting",
+      "category": "Hard Skill",
+      "outcome_description": "Preparing audit reports based on gathered evidence."
+    },
+    {
+      "skill_name": "Auditing Standards",
+      "category": "Hard Skill",
+      "outcome_description": "Application of auditing standards and principles."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Accounting Fundamentals",
+      "Basic Financial Accounting"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

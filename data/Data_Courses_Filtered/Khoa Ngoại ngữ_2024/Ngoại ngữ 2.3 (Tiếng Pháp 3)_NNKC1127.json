@@ -1,0 +1,31 @@
+{
+  "course_id": "NNKC",
+  "title": "Second Foreign Language (French 3)",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the main points of longer conversations on diverse topics such as culture, society, education, travel, work, environment, past actions, future plans, opinions about people or things."
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Hard Skill",
+      "outcome_description": "Communicate relatively independently and comfortably on a wide range of everyday life topics; express and defend personal opinions on simple issues in life."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Read and understand longer texts with diverse contents in daily life; draw simple conclusions from given information."
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write a short essay around 150 words to present and defend personal opinions on common social issues, using basic linking devices, coherent structure, persuasive arguments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

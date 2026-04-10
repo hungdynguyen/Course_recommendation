@@ -1,0 +1,42 @@
+{
+  "course_id": "LUKD1176",
+  "title": "Law on Competition",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Competition Law Basics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of competition law including anticompetitive agreements, abuse of dominant positions, economic concentration control, and unfair competition."
+    },
+    {
+      "skill_name": "Competition Litigation Procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand procedures for competition litigation and handling violations of competition law."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work in groups, communicate effectively, present, and make presentations."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning abilities, accumulate and enhance knowledge and experience."
+    },
+    {
+      "skill_name": "Competition Law Theoretical Issues",
+      "category": "Hard Skill",
+      "outcome_description": "Understand theoretical issues related to competition and competition law."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Law 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

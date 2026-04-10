@@ -1,0 +1,115 @@
+{
+  "course_id": "MTKT1170",
+  "title": "Environmental Physics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Natural Forces Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various natural forces such as gravity, electromagnetism, etc."
+    },
+    {
+      "skill_name": "Energy Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp fundamental concepts of energy including potential and kinetic energy."
+    },
+    {
+      "skill_name": "Heat and Radiation Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend principles related to heat transfer and radiation."
+    },
+    {
+      "skill_name": "Physical Properties of Matter",
+      "category": "Hard Skill",
+      "outcome_description": "Learn about physical properties of solids, liquids, and gases."
+    },
+    {
+      "skill_name": "Nuclear Reactions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand nuclear reactions and their associated energies."
+    },
+    {
+      "skill_name": "Environmental Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Acquire basic environmental concepts and classifications."
+    },
+    {
+      "skill_name": "Sun Energy Origin",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the origin of solar energy and its interaction with matter."
+    },
+    {
+      "skill_name": "Wave Mechanics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of wave mechanics to understand natural disasters like earthquakes, volcanoes, and tsunamis."
+    },
+    {
+      "skill_name": "Atmospheric Structure",
+      "category": "Hard Skill",
+      "outcome_description": "Study the structure of the atmosphere, greenhouse effect, global warming, melting ice, and extreme weather events."
+    },
+    {
+      "skill_name": "Sound Waves",
+      "category": "Hard Skill",
+      "outcome_description": "Understand sound waves and noise pollution."
+    },
+    {
+      "skill_name": "Electromagnetic Waves",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of electromagnetic waves on the environment."
+    },
+    {
+      "skill_name": "Radioactivity",
+      "category": "Hard Skill",
+      "outcome_description": "Understand radioactivity, risks, and radioactive pollution."
+    },
+    {
+      "skill_name": "Renewable Energy Sources",
+      "category": "Hard Skill",
+      "outcome_description": "Learn about renewable energy sources such as solar, wind, water, biomass, and geothermal energy."
+    },
+    {
+      "skill_name": "Problem Identification",
+      "category": "Soft Skill",
+      "outcome_description": "Identify environmental problems using physical knowledge."
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze causes of environmental impacts from a physical perspective."
+    },
+    {
+      "skill_name": "Solution Proposal",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to minimize risks from natural phenomena based on physical principles."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills for searching, collecting, analyzing, presenting issues, evaluating problems, and enhancing self-study."
+    },
+    {
+      "skill_name": "Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively to solve problems."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize ethical responsibilities towards environmental protection and community awareness."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking abilities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

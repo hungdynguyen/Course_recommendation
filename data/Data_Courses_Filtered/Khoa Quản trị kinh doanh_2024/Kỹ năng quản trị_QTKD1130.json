@@ -1,0 +1,60 @@
+{
+  "course_id": "QTKD1130",
+  "title": "Managerial Skills",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the concept and role of management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of management"
+    },
+    {
+      "skill_name": "Personal time management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage personal time effectively"
+    },
+    {
+      "skill_name": "Stress management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage stress effectively"
+    },
+    {
+      "skill_name": "Communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective communication skills"
+    },
+    {
+      "skill_name": "Negotiation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop negotiation skills"
+    },
+    {
+      "skill_name": "Business planning skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop business planning skills"
+    },
+    {
+      "skill_name": "Brand building skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop brand building skills"
+    },
+    {
+      "skill_name": "Problem-solving skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills"
+    },
+    {
+      "skill_name": "Decision-making skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop decision-making skills"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

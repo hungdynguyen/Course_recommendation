@@ -1,0 +1,47 @@
+{
+  "course_id": "DTKT1123",
+  "title": "Public-Private Partnerships",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "PPP Overview",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the basic concepts and principles of Public-Private Partnerships."
+    },
+    {
+      "skill_name": "Procurement Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply procurement processes and contract management techniques in PPP projects."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks associated with PPP projects."
+    },
+    {
+      "skill_name": "Project Financing",
+      "category": "Tool/Software",
+      "outcome_description": "Understand various methods of financing PPP projects."
+    },
+    {
+      "skill_name": "Performance Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Evaluate the effectiveness of PPP projects through performance analysis."
+    },
+    {
+      "skill_name": "Government Regulation",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend government regulations related to PPP projects."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Procurement"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

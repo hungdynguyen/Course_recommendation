@@ -1,0 +1,36 @@
+{
+  "course_id": "TKKT1132",
+  "title": "Social and Environmental Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Research",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct statistical research on social and environmental issues."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in collecting and analyzing data related to social and environmental statistics."
+    },
+    {
+      "skill_name": "Index Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Capacity to calculate composite indices for measuring complex socio-economic phenomena."
+    },
+    {
+      "skill_name": "Poverty Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Skill in analyzing poverty and income inequality using statistical methods."
+    },
+    {
+      "skill_name": "Environmental Statistics",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge and ability to apply statistical methods to environmental issues."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

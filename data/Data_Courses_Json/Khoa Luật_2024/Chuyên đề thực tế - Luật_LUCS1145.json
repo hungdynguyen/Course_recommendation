@@ -1,0 +1,78 @@
+{
+  "course_id": "LUCS1145",
+  "title": "Chuyên đề thực tế (Project)",
+  "difficulty_level": "Advanced",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to conduct legal research and analyze legal issues within a specific field of law."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop critical thinking skills to analyze and solve practical problems based on their legal knowledge."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn to effectively communicate their research findings and legal analyses in a professional manner."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Students will manage their project timelines and deliverables effectively, adhering to professional standards."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students will apply their legal knowledge to analyze and solve real-world legal issues."
+    },
+    {
+      "skill_name": "Ethical Practice",
+      "category": "Soft Skill",
+      "outcome_description": "Students will understand and adhere to ethical standards and professional responsibilities in their legal practice."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Students will work collaboratively in teams to research and analyze legal issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop problem-solving skills to address practical legal challenges."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Students will produce well-structured and professional reports based on their research findings."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Students will manage their time effectively to meet project deadlines and requirements."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Civil Law 1 and 2",
+      "Administrative Law",
+      "Criminal Law",
+      "Family Law",
+      "Commercial Law",
+      "Labor Law",
+      "International Trade Law"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Legal Knowledge",
+        "minimum_proficiency_level": 75
+      }
+    ]
+  }
+}

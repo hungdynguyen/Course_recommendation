@@ -1,0 +1,64 @@
+{
+  "course_id": "MKTT1110",
+  "title": "Quản trị doanh nghiệp truyền thông",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Advertising Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the fundamental principles and functions of advertising agencies, including organizational structure, client relationship management, human resource management, creativity management, and financial management."
+    },
+    {
+      "skill_name": "Client Relationship Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the dynamics of client relationships and how to manage them effectively in the context of advertising agencies."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of human capital in advertising agencies and how to manage it effectively."
+    },
+    {
+      "skill_name": "Creativity Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature of creativity and how to manage it within the constraints of time and resources."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the financial operations and performance evaluation of advertising agencies."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to work collaboratively in groups to analyze problems and propose solutions for advertising agencies."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking skills to analyze business operations and financial performance of advertising agencies."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and solutions to problems in a structured and engaging manner."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Marketing Fundamentals",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Business Administration",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

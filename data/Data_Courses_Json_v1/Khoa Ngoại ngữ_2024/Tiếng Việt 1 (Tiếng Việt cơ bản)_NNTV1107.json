@@ -1,0 +1,80 @@
+{
+  "course_id": "NNTV1107",
+  "title": "Vietnamese in Use",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Achieve B2 level proficiency in Vietnamese language (listening, speaking, reading, writing) as per the Vietnamese language proficiency framework for foreigners."
+    },
+    {
+      "skill_name": "Cultural Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Gain understanding of Vietnamese culture, society, education, and economy."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently learn and practice Vietnamese language skills."
+    },
+    {
+      "skill_name": "Information Literacy",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to effectively search and utilize information from various sources."
+    },
+    {
+      "skill_name": "Multimedia Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance skills in multimedia communication."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking in understanding and discussing various topics in Vietnamese."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Participate in group activities and discussions to enhance language skills."
+    },
+    {
+      "skill_name": "Active Listening",
+      "category": "Soft Skill",
+      "outcome_description": "Improve active listening skills in Vietnamese."
+    },
+    {
+      "skill_name": "Oral Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop fluent and coherent oral communication skills in Vietnamese."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance reading comprehension and summarization skills in Vietnamese."
+    },
+    {
+      "skill_name": "Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve detailed and clear writing skills in Vietnamese."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and prepare for assessments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Vietnamese",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

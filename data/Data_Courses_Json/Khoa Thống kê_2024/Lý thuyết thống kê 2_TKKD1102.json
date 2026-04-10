@@ -1,0 +1,61 @@
+{
+  "course_id": "TKKD1102",
+  "title": "Theory of Statistics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply regression models for cross-sectional and panel data."
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and address model deficiencies."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate scientific evidence from data analysis."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical software for data analysis."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Present results from data analysis effectively."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and communicate effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Understand societal context and professional ethics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of Statistics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Probability Theory",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

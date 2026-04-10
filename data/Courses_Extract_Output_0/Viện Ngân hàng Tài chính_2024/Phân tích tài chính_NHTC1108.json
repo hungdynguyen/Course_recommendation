@@ -1,0 +1,43 @@
+{
+  "course_id": "NHTC1108",
+  "title": "Financial Analysis",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the purpose of financial analysis for different entities and the process of financial analysis for a business."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Tool/Software",
+      "outcome_description": "Collect and process data for financial analysis."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Tool/Software",
+      "outcome_description": "Systematically understand and apply financial reports."
+    },
+    {
+      "skill_name": "Financial Metrics Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze and evaluate financial metrics."
+    },
+    {
+      "skill_name": "Application of Financial Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Apply financial analysis to real-world scenarios."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Money and Banking Theory",
+      "Corporate Finance 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

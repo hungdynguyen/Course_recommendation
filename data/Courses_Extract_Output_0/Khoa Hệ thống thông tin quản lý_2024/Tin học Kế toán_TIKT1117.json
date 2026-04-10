@@ -1,0 +1,56 @@
+{
+  "course_id": "Tin học Kế toán",
+  "title": "Tin học Kế toán",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting Information Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply accounting information systems in business organizations."
+    },
+    {
+      "skill_name": "Database Management",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement database solutions for accounting systems."
+    },
+    {
+      "skill_name": "Software Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze existing accounting software to identify improvements and modifications."
+    },
+    {
+      "skill_name": "ERP Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Deploy and integrate enterprise resource planning systems in organizational settings."
+    },
+    {
+      "skill_name": "Accounting Software Design",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and design accounting software solutions."
+    },
+    {
+      "skill_name": "Information Technology Integration",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate information technology into accounting processes effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting Knowledge",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Fundamental Programming Skills",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

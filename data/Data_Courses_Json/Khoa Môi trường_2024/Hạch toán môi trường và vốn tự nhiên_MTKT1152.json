@@ -1,0 +1,82 @@
+{
+  "course_id": "MTKT1152",
+  "title": "Environmental and Natural Capital Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply environmental accounting frameworks at both national and corporate levels."
+    },
+    {
+      "skill_name": "Natural Capital Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and quantify natural capital and its economic impacts."
+    },
+    {
+      "skill_name": "Economic and Environmental Management",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate environmental considerations into economic management and policy-making."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform data analysis related to environmental and economic impacts."
+    },
+    {
+      "skill_name": "Financial Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply financial accounting principles to environmental management."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to solve environmental management problems."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver professional presentations on environmental management topics."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and apply findings to real-world scenarios."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and interpret environmental data to inform decision-making."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and self-researching abilities."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical responsibilities in environmental management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics (KHMI1101)",
+      "Resource and Environmental Management (MTKT1119)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

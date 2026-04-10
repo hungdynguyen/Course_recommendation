@@ -14,7 +14,7 @@ from datetime import datetime
 BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "data"
 RECOMMENDATIONS_FILE = DATA_DIR / "processed" / "course_recommendations" / "course_recommendations.json"
-COURSES_DIR = DATA_DIR / "Data_Courses_Json"
+COURSES_DIR = DATA_DIR / "Data_Courses_Filtered"
 OUTPUT_DIR = DATA_DIR / "processed" / "training_dataset"
 LABELED_FILE = OUTPUT_DIR / "human_labeled_recommendations.json"
 
@@ -125,7 +125,7 @@ def init_data():
         labeler.load_recommendations()
         labeler.load_course_details()
         labeler.load_labeled_data()
-        
+
         labeled_ids = labeler.get_labeled_pair_ids()
         
         return jsonify({
@@ -143,12 +143,12 @@ def init_data():
 def get_pairs():
     """Get all JD-CV pairs with recommendation status"""
     labeled_ids = labeler.get_labeled_pair_ids()
-    
+
     pairs_summary = []
     for rec in labeler.recommendations:
         pair_id = rec['pair_id']
         is_labeled = pair_id in labeled_ids
-        
+
         pairs_summary.append({
             'pair_id': pair_id,
             'jd_title': rec['jd_title'],
@@ -156,9 +156,7 @@ def get_pairs():
             'cv_experience': rec['cv_experience'],
             'cv_degree': rec['cv_degree'],
             'target_matching': rec.get('target_matching_percent', 0),
-            'api_count': rec['recommendations']['api_count'],
-            'vector_count': rec['recommendations']['vector_count'],
-            'total_count': rec['recommendations']['merged_count'],
+            'total_count': rec['recommendations']['vector_count'],
             'is_labeled': is_labeled
         })
     
@@ -181,34 +179,32 @@ def get_pair_detail(pair_id):
         if not pair_data:
             return jsonify({'success': False, 'error': 'Pair not found'}), 404
         
-        # Enrich courses with full details
+        # Enrich courses with full details (vector search results only)
         courses = pair_data['recommendations']['courses']
-        api_courses = []
         vector_courses = []
-        
+
         for course in courses:
             course_id = course['course_id']
             course_detail = labeler.courses_detail.get(course_id, {})
-            
-            enriched = {
+
+            skill_outcomes = [
+                {
+                    'skill_name': s.get('skill_name', ''),
+                    'outcome_description': s.get('outcome_description', ''),
+                }
+                for s in course_detail.get('skill_outcomes', [])
+            ]
+
+            vector_courses.append({
                 'course_id': course_id,
                 'title': course.get('title', course_detail.get('title', 'Unknown')),
                 'score': course.get('score', 0),
-                'methods': course.get('methods', []),
-                'api_score': course.get('api_score'),
-                'vector_score': course.get('vector_score'),
                 'category': course_detail.get('category', ''),
                 'credit': course_detail.get('credit', ''),
                 'description': course_detail.get('description', ''),
                 'faculty': course_detail.get('faculty', ''),
-                'skill_outcomes': course_detail.get('skill_outcomes', [])  # All skills
-            }
-            
-            # Split by method
-            if 'api' in course.get('methods', []):
-                api_courses.append(enriched)
-            if 'vector_search' in course.get('methods', []):
-                vector_courses.append(enriched)
+                'skill_outcomes': skill_outcomes,
+            })
         
         # Get existing label if any
         existing_label = labeler.get_label_for_pair(pair_id)
@@ -217,7 +213,14 @@ def get_pair_detail(pair_id):
         jd_id = pair_data.get('jd_id', '')
         jd_info = pair_data.get('jd_info', {})
         cv_info = pair_data.get('cv_info', {})
-        
+        skill_gaps = pair_data.get('skill_gaps', {})
+
+        # Parse JD skills (semicolon-separated strings)
+        jd_tech_str = jd_info.get('technical_skills', '')
+        jd_soft_str = jd_info.get('soft_skills', '')
+        jd_tech = [s.strip() for s in jd_tech_str.split(';') if s.strip()] if jd_tech_str else []
+        jd_soft = [s.strip() for s in jd_soft_str.split(';') if s.strip()] if jd_soft_str else []
+
         return jsonify({
             'success': True,
             'pair': {
@@ -225,8 +228,8 @@ def get_pair_detail(pair_id):
                 'jd_title': pair_data['jd_title'],
                 'jd_id': jd_id,
                 'jd_description': jd_info.get('description', ''),
-                'jd_technical_skills': [s.strip() for s in jd_info.get('technical_skills', '').split(';')] if jd_info.get('technical_skills') else [],
-                'jd_soft_skills': [s.strip() for s in jd_info.get('soft_skills', '').split(';')] if jd_info.get('soft_skills') else [],
+                'jd_technical_skills': jd_tech,
+                'jd_soft_skills': jd_soft,
                 'jd_experience': jd_info.get('experience', ''),
                 'jd_degree': jd_info.get('degree', ''),
                 'cv_experience': pair_data['cv_experience'],
@@ -234,9 +237,12 @@ def get_pair_detail(pair_id):
                 'cv_technical_skills': cv_info.get('technical_skills', []),
                 'cv_soft_skills': cv_info.get('soft_skills', []),
                 'target_matching': pair_data.get('target_matching_percent', 0),
-                'skill_gaps': pair_data['skill_gaps'],
-                'api_courses': api_courses,
-                'vector_courses': vector_courses
+                'skill_gaps': {
+                    'missing_technical_skills': skill_gaps.get('missing_technical_skills', []),
+                    'missing_soft_skills': skill_gaps.get('missing_soft_skills', []),
+                    'experience_gap': skill_gaps.get('experience_gap', '')
+                },
+                'courses': vector_courses,
             },
             'existing_label': existing_label
         })
@@ -264,6 +270,104 @@ def save_label():
         import traceback
         traceback.print_exc()
         return jsonify({'success': False, 'error': str(e)}), 500
+
+@app.route('/api/search_courses', methods=['GET'])
+def search_courses():
+    """Search all courses by name and/or skill with fuzzy matching.
+    Query params:
+        q    : search keyword
+        mode : 'title' | 'skill' | 'all'  (default 'all')
+    """
+    from difflib import SequenceMatcher
+
+    def fuzzy_score(query: str, text: str, query_words: list) -> float:
+        """Return a [0,1] similarity score between query and text."""
+        text_lower = text.lower()
+        if query in text_lower:
+            return 1.0
+        if all(w in text_lower for w in query_words):
+            return 0.85
+        ratio = SequenceMatcher(None, query, text_lower).ratio()
+        text_words = text_lower.split()
+        if text_words:
+            word_scores = [
+                max((SequenceMatcher(None, qw, tw).ratio() for tw in text_words), default=0)
+                for qw in query_words
+            ]
+            word_score = sum(word_scores) / len(word_scores)
+        else:
+            word_score = 0
+        return max(ratio, word_score * 0.9)
+
+    query = request.args.get('q', '').strip().lower()
+    mode  = request.args.get('mode', 'all')   # 'title' | 'skill' | 'all'
+    if not query:
+        return jsonify({'success': True, 'courses': []})
+
+    query_words = query.split()
+    results = []
+
+    for course_id, course in labeler.courses_detail.items():
+        title = course.get('title', '')
+        skill_outcomes_raw = course.get('skill_outcomes', [])
+
+        title_score = 0.0
+        skill_score = 0.0
+        matched_skills = []
+
+        # --- title matching ---
+        if mode in ('title', 'all'):
+            title_score = fuzzy_score(query, title, query_words)
+
+        # --- skill matching ---
+        if mode in ('skill', 'all'):
+            for s in skill_outcomes_raw:
+                sname = s.get('skill_name', '')
+                if not sname:
+                    continue
+                sc = fuzzy_score(query, sname, query_words)
+                if sc >= 0.45:
+                    matched_skills.append({
+                        'skill_name': sname,
+                        'outcome_description': s.get('outcome_description', ''),
+                        'match_score': round(sc, 3),
+                    })
+            if matched_skills:
+                matched_skills.sort(key=lambda x: x['match_score'], reverse=True)
+                skill_score = matched_skills[0]['match_score']
+
+        score = max(title_score, skill_score)
+        if score < 0.3:
+            continue
+
+        skill_outcomes = [
+            {
+                'skill_name': s.get('skill_name', ''),
+                'outcome_description': s.get('outcome_description', ''),
+            }
+            for s in skill_outcomes_raw
+        ]
+
+        matched_skill_names = {m['skill_name'] for m in matched_skills}
+
+        results.append({
+            'course_id': course_id,
+            'title': title,
+            'faculty': course.get('faculty', ''),
+            'category': course.get('category', ''),
+            'credit': course.get('credit', ''),
+            'description': course.get('description', ''),
+            'skill_outcomes': skill_outcomes,
+            'matched_skills': matched_skills,
+            'matched_skill_names': list(matched_skill_names),
+            'score': round(score, 3),
+            'title_score': round(title_score, 3),
+            'skill_score': round(skill_score, 3),
+        })
+
+    results.sort(key=lambda x: x['score'], reverse=True)
+    return jsonify({'success': True, 'courses': results[:50]})
+
 
 @app.route('/api/stats', methods=['GET'])
 def get_stats():

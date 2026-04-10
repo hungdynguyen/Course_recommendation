@@ -1,0 +1,45 @@
+{
+  "course_id": "CNTT1186",
+  "title": "Advanced Technologies in Information and Communication Technology",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cloud Computing",
+      "category": "Tool/Software",
+      "outcome_description": "Understand cloud computing concepts and applications."
+    },
+    {
+      "skill_name": "Data Processing",
+      "category": "Tool/Software",
+      "outcome_description": "Apply advanced data processing methods."
+    },
+    {
+      "skill_name": "AI Fundamentals",
+      "category": "Tool/Software",
+      "outcome_description": "Grasp basics of AI, machine learning, and deep learning."
+    },
+    {
+      "skill_name": "Tech Trends",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and analyze current and future technology trends."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and applications."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply learned knowledge to solve real-world problems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "course_id": "KTHT1101",
+  "title": "Accounting Information Systems 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Systems Overview",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the general concepts of accounting information systems."
+    },
+    {
+      "skill_name": "Manual Accounting Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Design and operate manual accounting information systems."
+    },
+    {
+      "skill_name": "Document Control Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Organize document control systems in manual conditions."
+    },
+    {
+      "skill_name": "Accounting Ledger Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage accounting ledgers in manual conditions."
+    },
+    {
+      "skill_name": "Data Flow Description",
+      "category": "Hard Skill",
+      "outcome_description": "Describe data flow in accounting information systems."
+    },
+    {
+      "skill_name": "Database Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand database fundamentals and organization in businesses."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 1",
+      "Managerial Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

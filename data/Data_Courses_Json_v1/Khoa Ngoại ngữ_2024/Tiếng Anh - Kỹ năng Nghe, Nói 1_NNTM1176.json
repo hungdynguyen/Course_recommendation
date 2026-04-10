@@ -1,0 +1,55 @@
+{
+  "course_id": "NNTM1176",
+  "title": "English – Listening and Speaking skills 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and respond to spoken English in everyday contexts."
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in English on familiar topics."
+    },
+    {
+      "skill_name": "Vocabulary",
+      "category": "Soft Skill",
+      "outcome_description": "Expand vocabulary related to common topics such as society, food, business, trends, success, pressure, environment, and health."
+    },
+    {
+      "skill_name": "Grammar",
+      "category": "Soft Skill",
+      "outcome_description": "Apply grammatical structures in spoken English."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems using critical thinking skills."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and independently."
+    },
+    {
+      "skill_name": "Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver short presentations on course topics."
+    },
+    {
+      "skill_name": "IELTS Preparation",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare for IELTS Speaking and Listening tests at the 5.0-5.5 level."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

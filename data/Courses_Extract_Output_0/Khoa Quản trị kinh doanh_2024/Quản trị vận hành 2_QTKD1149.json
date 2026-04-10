@@ -1,0 +1,37 @@
+{
+  "course_id": "Quản trị vận hành 2",
+  "title": "Operations Management 2",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Operations Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of operations management."
+    },
+    {
+      "skill_name": "Production Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage production processes effectively."
+    },
+    {
+      "skill_name": "Service Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply service management principles in various organizational settings."
+    },
+    {
+      "skill_name": "Process Improvement",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and implement process improvements in manufacturing and service industries."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản trị vận hành 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

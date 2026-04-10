@@ -1,0 +1,41 @@
+{
+  "course_id": "QLXH1101",
+  "title": "Public Policy",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the fundamental elements of public policy, the public policy system, and the role of public policy."
+    },
+    {
+      "skill_name": "Policy Process Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the process of policy formulation, implementation, monitoring, and evaluation."
+    },
+    {
+      "skill_name": "Policy Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Practice skills in group work, communication, presentation, and persuasive speaking."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent learning, teamwork, and professional responsibility; show social responsibility and ethical conduct; develop self-learning and adaptability."
+    },
+    {
+      "skill_name": "Policy Design",
+      "category": "Soft Skill",
+      "outcome_description": "Practice skills in analyzing and designing specific public policies."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Soft Skill",
+      "outcome_description": "Practice skills in organizing, implementing, monitoring, and evaluating specific public policies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

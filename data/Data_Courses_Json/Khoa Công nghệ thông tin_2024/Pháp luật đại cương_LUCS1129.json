@@ -1,0 +1,45 @@
+{
+  "course_id": "LUCS1129",
+  "title": "Fundamentals of Law",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the fundamental concepts of state and law, including the nature of the state, the structure and functions of state institutions, and the basic principles of law and legal systems."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge to identify the authority of state institutions in legislative and enforcement activities, recognize basic legal violations, and understand the legal consequences for violators."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to adhere to rules and regulations, and understand personal responsibilities within legal frameworks."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on legal topics, including the ability to identify and analyze legal sources and documents."
+    },
+    {
+      "skill_name": "Legal Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate legal concepts and findings through presentations and discussions."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze legal issues and make informed decisions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

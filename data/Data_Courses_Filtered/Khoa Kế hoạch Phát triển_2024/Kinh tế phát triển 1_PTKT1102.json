@@ -1,0 +1,67 @@
+{
+  "course_id": "PTKT1102",
+  "title": "Development Economics 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Growth Models",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and mechanisms of economic growth factors through growth models."
+    },
+    {
+      "skill_name": "Role and Impact of Factors on Economic Growth",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to present changes in the roles of growth factors through economic development models."
+    },
+    {
+      "skill_name": "Content and Role of Factors Affecting Economic Growth",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content and role of factors affecting economic growth."
+    },
+    {
+      "skill_name": "Analysis of Characteristics of Factors in Developing Countries",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the characteristics of growth factors in the context of developing countries."
+    },
+    {
+      "skill_name": "Analysis and Evaluation of Vietnam's Growth Factors",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate the characteristics and roles of growth factors in Vietnam's recent period and propose policies to enhance their contributions to economic growth in the future."
+    },
+    {
+      "skill_name": "Data Selection and Processing",
+      "category": "Hard Skill",
+      "outcome_description": "Select and process data (reports and figures) from domestic and international sources to support professional conclusions."
+    },
+    {
+      "skill_name": "Reading, Writing, and Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice reading, writing, and presentation skills."
+    },
+    {
+      "skill_name": "Self-study and Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study and research skills, learn to listen and accumulate knowledge."
+    },
+    {
+      "skill_name": "Professional Ethics and Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Have a sense of professional ethics and social responsibility."
+    },
+    {
+      "skill_name": "Collaborative Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to work independently and coordinate and lead group activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Development Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "TOCB1101",
+  "title": "Algebra",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Linear Algebra",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding basic concepts of linear algebra including systems of linear equations, matrices, determinants, vector spaces, and linear mappings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Developing critical thinking abilities through problem-solving exercises and theoretical analysis."
+    },
+    {
+      "skill_name": "Mathematical Reasoning",
+      "category": "Hard Skill",
+      "outcome_description": "Enhancing mathematical reasoning skills to solve complex problems in economics, business, science, and technology."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Improving problem-solving skills by applying mathematical concepts to real-world scenarios."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

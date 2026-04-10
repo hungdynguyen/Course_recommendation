@@ -1,0 +1,70 @@
+{
+  "course_id": "TIHT1106",
+  "title": "English for Management Information System",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop proficiency in all four English language skills (listening, speaking, reading, and writing) for academic and professional contexts related to Management Information Systems."
+    },
+    {
+      "skill_name": "Vocabulary Development",
+      "category": "Soft Skill",
+      "outcome_description": "Expand vocabulary specific to Management Information Systems."
+    },
+    {
+      "skill_name": "Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and communicate about Information Systems, their components, and their role in business strategy and organization."
+    },
+    {
+      "skill_name": "Business Intelligence",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and communicate about databases and information management in business contexts."
+    },
+    {
+      "skill_name": "Telecommunications",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and communicate about telecommunications, the Internet, and wireless technology."
+    },
+    {
+      "skill_name": "Information Security",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and communicate about information security and system vulnerabilities."
+    },
+    {
+      "skill_name": "Collaboration and E-Business",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and communicate about global e-business and collaboration technologies."
+    },
+    {
+      "skill_name": "IT Infrastructure",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and communicate about IT infrastructure and emerging technologies."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in presenting and discussing topics related to Management Information Systems in English."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and discuss topics related to Management Information Systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "course_id": "TOkt1138",
+  "title": "Introduction to Data Science in Economics and Business",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Science",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts of data science in economics and business."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret data using statistical methods and machine learning techniques."
+    },
+    {
+      "skill_name": "Python (Computer Programming)",
+      "category": "Hard Skill",
+      "outcome_description": "Use Python for data manipulation, analysis, and visualization."
+    },
+    {
+      "skill_name": "R (Computer Programming)",
+      "category": "Hard Skill",
+      "outcome_description": "Use R for data manipulation, analysis, and visualization."
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply supervised and unsupervised machine learning models to solve business problems."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform statistical analysis and modeling using R."
+    },
+    {
+      "skill_name": "Data Visualization",
+      "category": "Hard Skill",
+      "outcome_description": "Create effective visualizations using ggplot2."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to interpret data and draw meaningful conclusions."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve complex business problems using data-driven approaches."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and self-management skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Algebra",
+      "Calculus 1",
+      "Calculus 2",
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Econometrics I"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Calculus",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Probability Theory",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Econometrics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

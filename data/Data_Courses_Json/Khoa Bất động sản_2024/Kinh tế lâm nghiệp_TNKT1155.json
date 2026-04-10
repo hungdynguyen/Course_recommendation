@@ -1,0 +1,77 @@
+{
+  "course_id": "TNKT1155",
+  "title": "Forestry Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply economic principles to forestry resources and management."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and utilize forestry resources effectively."
+    },
+    {
+      "skill_name": "Labor Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and manage labor in forestry operations."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and manage investments in forestry infrastructure."
+    },
+    {
+      "skill_name": "Sustainable Management",
+      "category": "Soft Skill",
+      "outcome_description": "Implement sustainable forestry practices."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and apply forestry policies and regulations."
+    },
+    {
+      "skill_name": "Social Forestry",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and implement social forestry practices."
+    },
+    {
+      "skill_name": "Agricultural Integration",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate agriculture and forestry practices."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve forestry-related problems."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and communicate forestry-related information."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-directed learning habits and improve professional skills."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in team settings."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": []
+  }
+}

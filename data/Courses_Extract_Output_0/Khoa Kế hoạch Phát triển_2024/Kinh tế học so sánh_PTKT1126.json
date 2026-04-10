@@ -1,0 +1,56 @@
+{
+  "course_id": "Comparative Economic Systems",
+  "title": "Kinh tế học so sánh",
+  "difficulty_level": "Advanced",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze global economic systems and their characteristics."
+    },
+    {
+      "skill_name": "Comparative Methods",
+      "category": "Soft Skill",
+      "outcome_description": "Apply comparative methods to evaluate different economic systems."
+    },
+    {
+      "skill_name": "Global Issues",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and discuss major global issues such as climate change, globalization, and economic crises."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research on economic systems using various sources and methodologies."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate economic theories and models."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and arguments effectively in group settings."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Economics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "English Language Proficiency",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "course_id": "NNKC",
+  "title": "Second Foreign Language (French 3)",
+  "difficulty_level": "Advanced",
+  "duration": "45 class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to understand longer sentences and conversations."
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to express complex ideas and engage in detailed discussions."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to comprehend longer texts and passages."
+    },
+    {
+      "skill_name": "Vocabulary Acquisition",
+      "category": "Soft Skill",
+      "outcome_description": "Development of vocabulary through various themes."
+    },
+    {
+      "skill_name": "Grammar Application",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in applying French grammar rules."
+    },
+    {
+      "skill_name": "Writing Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to write short essays and summaries on various topics."
+    },
+    {
+      "skill_name": "Self-Study Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to independently study and improve language skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

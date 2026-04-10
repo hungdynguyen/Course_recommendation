@@ -1,0 +1,71 @@
+{
+  "course_id": "TMKT1151",
+  "title": "Logistics Planning and Control Systems",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to build planning and control systems for logistics operations."
+    },
+    {
+      "skill_name": "Decision Making in Logistics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to make decisions during logistics planning and control processes."
+    },
+    {
+      "skill_name": "Demand Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to forecast demand for logistics planning and control."
+    },
+    {
+      "skill_name": "Sales Operations Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to plan sales and operations activities."
+    },
+    {
+      "skill_name": "Overall Production Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to plan overall production requirements."
+    },
+    {
+      "skill_name": "Material Requirement Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to plan material requirements for production."
+    },
+    {
+      "skill_name": "Distribution Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to plan distribution activities."
+    },
+    {
+      "skill_name": "Inventory Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to manage inventory levels."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively within groups on logistics planning projects."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve conflicts that arise during group work."
+    },
+    {
+      "skill_name": "Logistics Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze basic tasks involved in logistics planning and control."
+    },
+    {
+      "skill_name": "Logistics Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the responsibilities of planners and controllers in logistics operations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

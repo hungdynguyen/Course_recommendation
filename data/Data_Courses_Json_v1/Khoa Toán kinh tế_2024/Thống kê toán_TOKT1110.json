@@ -1,0 +1,72 @@
+{
+  "course_id": "TOkt1110",
+  "title": "Mathematical Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic and advanced concepts of descriptive and inferential statistics in economics, finance, and business."
+    },
+    {
+      "skill_name": "Probability Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Apply probability theory to analyze statistical data and support decision-making."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use specialized software and programming languages to present data, perform calculations, and conduct statistical analysis."
+    },
+    {
+      "skill_name": "Bayesian Statistics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply Bayesian approaches in statistical analysis."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Independently learn and choose appropriate statistical methods for specific problems."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Soft Skill",
+      "outcome_description": "Interpret and analyze data using statistical methods."
+    },
+    {
+      "skill_name": "Hypothesis Testing",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct hypothesis testing on parameters and non-parametric data."
+    },
+    {
+      "skill_name": "Variance Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Perform variance analysis on data sets."
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Model and analyze data using statistical techniques."
+    },
+    {
+      "skill_name": "Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Use programming languages like R for statistical analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Probability Theory"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

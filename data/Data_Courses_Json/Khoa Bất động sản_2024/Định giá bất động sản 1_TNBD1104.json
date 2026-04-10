@@ -1,0 +1,52 @@
+{
+  "course_id": "TNBD1104",
+  "title": "Real estate valuation 1",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real estate valuation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of real estate valuation, the necessity of real estate valuation, the nature and factors affecting the value and price of real estate, the bases and principles of real estate valuation, the process of real estate valuation, and the role and ethical standards of a real estate appraiser."
+    },
+    {
+      "skill_name": "Mathematical analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical methods to analyze and adjust data for comparative and cost approaches in real estate valuation."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, take responsibility, and demonstrate professionalism in real estate valuation tasks."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Present and defend personal viewpoints in the field of real estate valuation."
+    },
+    {
+      "skill_name": "Ethical standards",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to ethical standards and social responsibility in professional and societal contexts."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and synthesize information to develop and present arguments in real estate valuation."
+    },
+    {
+      "skill_name": "Project management",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and manage resources effectively in real estate valuation tasks."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Real estate market"
+    ],
+    "minimum_entry_skills": []
+  }
+}

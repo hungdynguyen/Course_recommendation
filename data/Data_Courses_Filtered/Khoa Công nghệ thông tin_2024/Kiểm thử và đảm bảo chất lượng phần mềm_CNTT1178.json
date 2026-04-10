@@ -1,0 +1,66 @@
+{
+  "course_id": "CNTT1178",
+  "title": "Software Testing and Quality Assurance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Software Testing Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of software testing in SDLC, processes and planning, and techniques in design and execution."
+    },
+    {
+      "skill_name": "Black Box Testing Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply black box testing methods and distinguish between different levels of testing such as unit, integration, and system testing."
+    },
+    {
+      "skill_name": "White Box Testing Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply white box testing methods including control flow analysis and data flow analysis."
+    },
+    {
+      "skill_name": "Automated Testing Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply automated testing techniques using tools like NUnit and .NET Framework."
+    },
+    {
+      "skill_name": "Testing Process Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage the testing process from planning to completion, including reading and understanding test plans, exit criteria, and defect logs."
+    },
+    {
+      "skill_name": "Information Gathering and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Collect, synthesize, analyze, and present information effectively to solve problems related to software testing."
+    },
+    {
+      "skill_name": "Effective Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through writing reports, giving presentations, and collaborating online."
+    },
+    {
+      "skill_name": "Project Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge, methods, techniques, and tools appropriately to develop and evaluate software in specific projects."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently and conduct research to complete assigned tasks."
+    },
+    {
+      "skill_name": "Team Collaboration Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Organize group activities, execute and evaluate the quality of work done by team members."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the responsibilities and maintain professional ethics in software testing tasks."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

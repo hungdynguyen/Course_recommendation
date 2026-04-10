@@ -1,0 +1,51 @@
+{
+  "course_id": "KTQT1106",
+  "title": "Managerial Accounting 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cost Determination",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature of responsibility accounting, cost determination methods, and product pricing."
+    },
+    {
+      "skill_name": "Product Pricing",
+      "category": "Hard Skill",
+      "outcome_description": "Determine unit production costs and selling prices using various cost determination methods."
+    },
+    {
+      "skill_name": "Information Analysis for Decision Making",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze accounting information suitable for short-term business decisions and long-term investment decisions."
+    },
+    {
+      "skill_name": "Responsibility Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of responsibility accounting and its role in evaluating business performance."
+    },
+    {
+      "skill_name": "Balanced Scorecard",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of the balanced scorecard in evaluating business performance."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in writing departmental reports and business results reports using cost determination methods and balanced scorecards."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Proficiency in working independently and in teams."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Self-direct learning and take responsibility for personal study outcomes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

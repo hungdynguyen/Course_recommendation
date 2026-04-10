@@ -1,0 +1,37 @@
+{
+  "course_id": "MTDT1115",
+  "title": "Urban Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Economics Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of urban economic functions."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze urban issues such as land use, transportation, income distribution, and crime using economic tools."
+    },
+    {
+      "skill_name": "Urban Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic principles to understand why cities exist and develop, and how different activities are arranged within them."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Study decision-making behavior regarding location choices for households and businesses to optimize benefits and profits."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

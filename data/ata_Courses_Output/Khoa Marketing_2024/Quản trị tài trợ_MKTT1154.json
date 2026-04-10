@@ -1,0 +1,75 @@
+{
+  "course_id": "MKTT1154",
+  "title": "Sponsorship Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 85 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the concept, nature, and role of sponsorship management",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the basic concepts, nature, and role of sponsorship management in public relations and integrated marketing communication programs."
+    },
+    {
+      "skill_name": "Identifying the components involved, objectives, and goals of sponsors and recipients",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the components involved, objectives, and goals of sponsors and recipients."
+    },
+    {
+      "skill_name": "Developing sponsorship strategies for sponsors",
+      "category": "Hard Skill",
+      "outcome_description": "Master the development of sponsorship strategies for sponsors."
+    },
+    {
+      "skill_name": "Creating sponsorship plans for sponsors",
+      "category": "Hard Skill",
+      "outcome_description": "Learn how to create sponsorship plans for sponsors including target audience, resources, implementation, and evaluation."
+    },
+    {
+      "skill_name": "Understanding different groups of sponsorship activities",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize different groups of sponsorship activities and develop appropriate sponsorship activities."
+    },
+    {
+      "skill_name": "Developing sponsorship attraction strategies for recipients",
+      "category": "Hard Skill",
+      "outcome_description": "Learn how to develop sponsorship attraction strategies for recipients."
+    },
+    {
+      "skill_name": "Preparing and selling sponsorship rights",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the process of preparing and selling sponsorship rights and related support services."
+    },
+    {
+      "skill_name": "Understanding ethical, legal, and compliance requirements in sponsorship management",
+      "category": "Hard Skill",
+      "outcome_description": "Gain knowledge on ethical, legal, and compliance requirements in sponsorship management, adapting to globalization and Industry 4.0."
+    },
+    {
+      "skill_name": "Writing sponsorship proposals for specific organizations/businesses",
+      "category": "Hard Skill",
+      "outcome_description": "Learn to write sponsorship proposals for specific organizations/businesses."
+    },
+    {
+      "skill_name": "Actively participating in learning, research, and group work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate active participation in learning, research, and group work."
+    },
+    {
+      "skill_name": "Proactively choosing topics and analyzing issues",
+      "category": "Soft Skill",
+      "outcome_description": "Show proactive behavior in choosing topics and analyzing issues."
+    },
+    {
+      "skill_name": "Proactively presenting research results",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate proactive behavior in presenting research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

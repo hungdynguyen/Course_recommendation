@@ -1,0 +1,51 @@
+{
+  "course_id": "Management and Teaching Department",
+  "title": "Corporate Management",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Corporate Governance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the importance of corporate governance, principles, theories, and models."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply effective decision-making processes in a business context."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks associated with corporate governance."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with legal requirements in corporate management."
+    },
+    {
+      "skill_name": "Stakeholder Relations",
+      "category": "Soft Skill",
+      "outcome_description": "Manage relationships with stakeholders effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Business Administration"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

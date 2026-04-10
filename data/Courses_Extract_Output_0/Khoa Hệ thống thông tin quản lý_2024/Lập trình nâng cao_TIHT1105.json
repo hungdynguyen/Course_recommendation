@@ -1,0 +1,37 @@
+{
+  "course_id": "Advanced Programming",
+  "title": "Advanced Programming Course",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Object-Oriented Programming",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to apply object-oriented programming techniques using C++."
+    },
+    {
+      "skill_name": "C++ Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Students will gain advanced knowledge and skills in C++ programming."
+    },
+    {
+      "skill_name": "Software Development",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to develop software applications using modern programming techniques."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Programming"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

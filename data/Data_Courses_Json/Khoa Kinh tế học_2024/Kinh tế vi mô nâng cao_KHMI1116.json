@@ -1,0 +1,107 @@
+{
+  "course_id": "KHMI1116",
+  "title": "Advanced Microeconomics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Microeconomic Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply advanced microeconomic theories and models to analyze real-world economic issues."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate economic behavior of consumers, firms, and governments under resource scarcity."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent and group research, synthesizing and presenting economic information."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to assess economic theories and models."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve economic problems."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver clear and structured presentations on economic topics."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-learning and research capabilities in economic studies."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to economic scenarios."
+    },
+    {
+      "skill_name": "Mathematical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Use mathematical tools to analyze economic models and theories."
+    },
+    {
+      "skill_name": "Economic Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and interpret economic models to understand market dynamics."
+    },
+    {
+      "skill_name": "Economic Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of economic policies on market outcomes."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on economic theories and data."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze market structures and competitive behaviors."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage economic risks in decision-making processes."
+    },
+    {
+      "skill_name": "Public Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze public goods and externalities in economic contexts."
+    },
+    {
+      "skill_name": "Information Asymmetry",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and address issues of information asymmetry in economic transactions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2 (KHMI1102)",
+      "Macroeconomics 2 (KHMA1102)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Microeconomics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Macroeconomics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

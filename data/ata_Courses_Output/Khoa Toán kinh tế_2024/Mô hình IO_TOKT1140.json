@@ -1,0 +1,74 @@
+{
+  "course_id": "TOkt1140",
+  "title": "Input-Output Model",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "System of National Accounts (SNA)",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the formation and development process of SNA, differentiate between various accounts in SNA, and understand their interrelationships."
+    },
+    {
+      "skill_name": "Classification of Production Branches",
+      "category": "Hard Skill",
+      "outcome_description": "Classify production branches according to international standards and Vietnamese economic sectors."
+    },
+    {
+      "skill_name": "Basic Concepts in SNA",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts such as value added, intermediate consumption, final consumption, primary inputs, gross domestic product (GDP)."
+    },
+    {
+      "skill_name": "Physical Input-Output Table",
+      "category": "Hard Skill",
+      "outcome_description": "Construct physical input-output tables from real data, calculate input-output coefficients, and apply these tables for analysis."
+    },
+    {
+      "skill_name": "Value Input-Output Table",
+      "category": "Hard Skill",
+      "outcome_description": "Construct value input-output tables from real data, calculate input-output coefficients, and apply these tables for analysis."
+    },
+    {
+      "skill_name": "Economic Analysis from Input-Output Models",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic relationships using input-output models, including inefficiency testing, environmental economics analysis, productivity growth, and diffusion effects."
+    },
+    {
+      "skill_name": "Matrix Calculations with Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Perform matrix calculations using Excel, including matrix multiplication and inversion."
+    },
+    {
+      "skill_name": "Data Analysis and Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret results from input-output models, present findings through graphs, and explain conclusions."
+    },
+    {
+      "skill_name": "Collaborative Research Project",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research projects in groups, write reports, and make recommendations based on findings."
+    },
+    {
+      "skill_name": "Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent study habits, work effectively in teams, and take responsibility for individual and group work."
+    },
+    {
+      "skill_name": "Microsoft Excel",
+      "category": "Tool/Software",
+      "outcome_description": "Use Microsoft Excel proficiently for data analysis, modeling, and presentation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Mathematics for Economists"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

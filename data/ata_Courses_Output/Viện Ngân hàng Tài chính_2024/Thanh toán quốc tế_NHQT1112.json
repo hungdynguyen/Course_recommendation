@@ -1,0 +1,62 @@
+{
+  "course_id": "NHQT1112",
+  "title": "International Payments",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding international payment system",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the international payment system, identify and explain the basic contents of an export contract, including terms related to goods, prices, delivery, documents, and payment methods."
+    },
+    {
+      "skill_name": "Analyzing and explaining issues related to international trade finance regulations",
+      "category": "Hard Skill",
+      "outcome_description": "Students have the ability to exploit information, analyze and explain the nature of problems related to regulations in international trade finance activities."
+    },
+    {
+      "skill_name": "Applying knowledge to practice international trade finance operations from a business perspective",
+      "category": "Hard Skill",
+      "outcome_description": "Students can apply acquired knowledge to practice international trade finance operations from a business perspective."
+    },
+    {
+      "skill_name": "Applying knowledge to practice international trade finance services from a bank perspective",
+      "category": "Hard Skill",
+      "outcome_description": "Students can apply acquired knowledge to practice international trade finance services from a bank perspective."
+    },
+    {
+      "skill_name": "Analyzing, synthesizing, evaluating, and solving specific situations arising during international trade and finance operations",
+      "category": "Hard Skill",
+      "outcome_description": "Students have the ability to analyze, synthesize, evaluate, and solve specific situations arising during international trade and finance operations from a business perspective."
+    },
+    {
+      "skill_name": "Analyzing, synthesizing, evaluating, and consulting customers on international trade finance operations from a bank perspective",
+      "category": "Hard Skill",
+      "outcome_description": "Students have the ability to analyze, synthesize, evaluate, and consult customers on international trade finance operations from a bank perspective."
+    },
+    {
+      "skill_name": "Improving foreign language proficiency in updating information to resolve situations arising during international trade and finance operations",
+      "category": "Soft Skill",
+      "outcome_description": "Students improve their foreign language proficiency in updating information to resolve situations arising during international trade and finance operations from a business and bank perspective."
+    },
+    {
+      "skill_name": "Active learning, research, and teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Students are proactive in learning, researching, and working in teams."
+    },
+    {
+      "skill_name": "Confidently expressing opinions about how to resolve specific situations arising during international trade and finance operations",
+      "category": "Soft Skill",
+      "outcome_description": "Students confidently express opinions about how to resolve specific situations arising during international trade and finance operations from a business and bank perspective."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Theory and Monetary Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

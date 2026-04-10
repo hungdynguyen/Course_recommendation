@@ -1,0 +1,52 @@
+{
+  "course_id": "TNKT1143",
+  "title": "Agricultural supply chain organization and analysis",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding agricultural commodity industry",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the general concepts and characteristics of the agricultural commodity industry."
+    },
+    {
+      "skill_name": "Analyzing agricultural commodity industry",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze the value chain of the agricultural commodity industry."
+    },
+    {
+      "skill_name": "Organizing agricultural commodity industry",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand how to organize the agricultural commodity industry."
+    },
+    {
+      "skill_name": "Value chain analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students can perform value chain analysis for rice, seafood, fruit industries and other agricultural products."
+    },
+    {
+      "skill_name": "Self-study and research skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students improve their ability to self-study and conduct research."
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop presentation skills."
+    },
+    {
+      "skill_name": "Teamwork skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students enhance teamwork skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

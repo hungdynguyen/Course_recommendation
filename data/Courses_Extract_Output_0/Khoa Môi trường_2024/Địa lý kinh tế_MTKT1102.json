@@ -1,0 +1,75 @@
+{
+  "course_id": "MTKT1102",
+  "title": "Economic Geography",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Geographic Approaches",
+      "category": "Soft Skill",
+      "outcome_description": "Apply geographic methods to understand economic activities globally."
+    },
+    {
+      "skill_name": "Globalization Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the impact of globalization on economic geography."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of resources and environment in economic distribution."
+    },
+    {
+      "skill_name": "Labor Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Examine the influence of labor markets and human capital on economic geography."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate financial aspects and capital flows in economic geography."
+    },
+    {
+      "skill_name": "Technological Impact",
+      "category": "Hard Skill",
+      "outcome_description": "Assess the role of technology in shaping economic geography."
+    },
+    {
+      "skill_name": "Market Dynamics",
+      "category": "Hard Skill",
+      "outcome_description": "Study the dynamics of trade and consumption patterns globally."
+    },
+    {
+      "skill_name": "Urban Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze urban economies and their role in global economic geography."
+    },
+    {
+      "skill_name": "Industry Clusters",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and importance of industry clusters in economic geography."
+    },
+    {
+      "skill_name": "Global Value Chains",
+      "category": "Hard Skill",
+      "outcome_description": "Explore the structure and significance of global value chains."
+    },
+    {
+      "skill_name": "Multinational Corporations",
+      "category": "Hard Skill",
+      "outcome_description": "Examine the role of multinational corporations in economic geography."
+    },
+    {
+      "skill_name": "Regional Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Investigate regional integration and its effects on economic geography."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

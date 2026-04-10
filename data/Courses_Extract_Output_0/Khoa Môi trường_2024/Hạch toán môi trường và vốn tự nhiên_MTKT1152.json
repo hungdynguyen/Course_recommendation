@@ -1,0 +1,48 @@
+{
+  "course_id": "MTKT1152",
+  "title": "Environmental and Natural Capital Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply environmental accounting principles."
+    },
+    {
+      "skill_name": "Natural Capital Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze natural capital and its impact on business operations."
+    },
+    {
+      "skill_name": "Resource Consumption Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate resource consumption and waste generation in business activities."
+    },
+    {
+      "skill_name": "Cost Allocation",
+      "category": "Hard Skill",
+      "outcome_description": "Allocate environmental costs accurately and efficiently in production processes."
+    },
+    {
+      "skill_name": "Policy Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop policies that balance economic efficiency with environmental sustainability."
+    },
+    {
+      "skill_name": "System of Environmental-Economic Accounting (SEEA)",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and utilize SEEA systems for environmental-economic reporting."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics",
+      "Environmental Resource Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

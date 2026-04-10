@@ -1,0 +1,71 @@
+{
+  "course_id": "TNKT1159",
+  "title": "Household Economics and Farm Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic economic principles applicable to household economics and farm management."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop the ability to build strategies and plan production for households and farms."
+    },
+    {
+      "skill_name": "Land Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage land resources effectively in household and farm settings."
+    },
+    {
+      "skill_name": "Capital Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage capital efficiently in household and farm contexts."
+    },
+    {
+      "skill_name": "Labor Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage labor resources effectively in household and farm environments."
+    },
+    {
+      "skill_name": "Sales and Marketing Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage sales and marketing processes in household and farm operations."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage risks associated with household and farm operations."
+    },
+    {
+      "skill_name": "Performance Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Measure and evaluate performance in household and farm management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve problems in household and farm management."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in teams to manage household and farm operations."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities to continuously improve in household and farm management."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective presentation skills for communicating plans and strategies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

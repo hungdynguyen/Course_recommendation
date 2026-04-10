@@ -1,0 +1,36 @@
+{
+  "course_id": "MTKT1172",
+  "title": "Project - Management of Natural Resources and Environment",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Management",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance knowledge and practical skills in environmental management."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in managing natural resources and environment."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Learn to plan and implement socio-economic policies related to natural resources and environment."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Improve ability to solve real-world problems using scientific methods."
+    },
+    {
+      "skill_name": "Professional Conduct",
+      "category": "Soft Skill",
+      "outcome_description": "Develop professional conduct and working style suitable for resource and environmental management roles."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

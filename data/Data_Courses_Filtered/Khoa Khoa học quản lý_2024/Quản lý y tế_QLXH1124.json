@@ -1,0 +1,95 @@
+{
+  "course_id": "QLXH1124",
+  "title": "Health Management",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Healthcare Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the basic indicators of health."
+    },
+    {
+      "skill_name": "Healthcare System Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the structure and history of the healthcare system in Vietnam."
+    },
+    {
+      "skill_name": "Government Management of Healthcare",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the machinery and policies for managing healthcare in Vietnam."
+    },
+    {
+      "skill_name": "Health Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the overall health policy and the system of health policies in Vietnam."
+    },
+    {
+      "skill_name": "Hospital Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the general overview and management of hospitals."
+    },
+    {
+      "skill_name": "Socialization of Healthcare",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the socialization of healthcare and its implementation methods."
+    },
+    {
+      "skill_name": "Healthcare Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of healthcare management to analyze, evaluate, and propose solutions for practical situations in healthcare management."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective communication and presentation skills."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate negotiation, teamwork, and group management skills."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate time management skills."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Use economic and social research methods to analyze healthcare management issues and make decisions."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze, advise, critique, plan, organize, supervise, and evaluate healthcare policies, programs, and projects."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work independently or in teams under changing conditions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to identify and solve problems in practical healthcare management."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate a spirit of service, social responsibility, and professional ethics."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities and adapt to changes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

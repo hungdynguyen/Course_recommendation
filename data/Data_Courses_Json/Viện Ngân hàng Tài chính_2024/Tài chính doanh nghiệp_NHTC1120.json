@@ -1,0 +1,112 @@
+{
+  "course_id": "NHTC1120",
+  "title": "Corporate Finance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Corporate Finance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental theories and principles of corporate finance, including financial decision-making, capital structure, and investment analysis."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze financial statements and assess financial performance of companies."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage short-term and long-term assets and liabilities of a company."
+    },
+    {
+      "skill_name": "Financial Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop financial plans and strategies for companies."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed financial decisions based on data analysis and financial models."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate financial information effectively to stakeholders."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate financial information critically and provide recommendations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve financial problems using analytical tools and techniques."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams to complete financial projects."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and manage financial teams and projects."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to ethical standards in financial decision-making and reporting."
+    },
+    {
+      "skill_name": "Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical concepts to financial calculations and models."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand economic principles and their impact on financial decisions."
+    },
+    {
+      "skill_name": "Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare and analyze financial statements and reports."
+    },
+    {
+      "skill_name": "Statistics",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical methods to analyze financial data."
+    },
+    {
+      "skill_name": "Computer Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize software and tools for financial analysis and reporting."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Theory",
+      "Math for Economists",
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "course_id": "TNTN1147",
+  "title": "Kinh tế tài nguyên nước",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Water Resource Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic knowledge of water resource economics, including efficient use and sustainable management of water resources."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the economic relationships in water resource management and explain the impact of economic tools such as prices and interest rates on the water resource market."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and comply with legal regulations regarding water resource management and market activities."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to manage resources and complete tasks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to synthesize and generalize issues related to water resources."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and solutions related to water resource policies effectively."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply research methods to analyze economic and financial aspects of water resource management."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct economic analysis of water resource management and policy impacts."
+    },
+    {
+      "skill_name": "Environmental Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of environmental economics to water resource management."
+    },
+    {
+      "skill_name": "Public Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze public policies related to water resource management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế tài nguyên 1",
+      "Kinh tế tài nguyên 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Water Resource Management",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

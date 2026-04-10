@@ -1,0 +1,47 @@
+{
+  "course_id": "DLLH1153",
+  "title": "Operation of Travel Service 2",
+  "difficulty_level": "Advanced",
+  "duration": "135 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tour Design Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the structure, functions, market segments, current customers, tour programs, and software/systems used in tour design operations."
+    },
+    {
+      "skill_name": "Tour Operation Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the organizational structure, functions, supplier networks, and software/systems used in tour operation management."
+    },
+    {
+      "skill_name": "Tour Guide Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the organizational structure, job descriptions, procedures, requirements, and real-life scenarios in tour guiding operations."
+    },
+    {
+      "skill_name": "Soft Skills Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply soft skills such as communication, problem-solving, and teamwork to gather information about tour operations and analyze processes."
+    },
+    {
+      "skill_name": "Adaptation and Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to new environments, maintain health and ethical standards, and demonstrate responsibility and commitment during practical training."
+    },
+    {
+      "skill_name": "Environmental and Cultural Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Show awareness and respect for environmental protection and cultural values while participating in practical training."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Operation of Travel Service 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

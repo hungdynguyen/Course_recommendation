@@ -1,0 +1,56 @@
+{
+  "course_id": "KTHT 1102",
+  "title": "Hệ thống thông tin kế toán 2",
+  "difficulty_level": "Advanced",
+  "duration": "30 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Kế toán",
+      "category": "Tool/Software",
+      "outcome_description": "Cung cấp kiến thức về hệ thống thông tin kế toán trong các chu trình kinh doanh để tổ chức và thực hiện công tác kế toán của các doanh nghiệp."
+    },
+    {
+      "skill_name": "Phân tích Kinh doanh",
+      "category": "Soft Skill",
+      "outcome_description": "Phân tích và đánh giá các hoạt động trong doanh nghiệp."
+    },
+    {
+      "skill_name": "CNTT",
+      "category": "Tool/Software",
+      "outcome_description": "Sử dụng công nghệ thông tin để tổ chức, thiết kế, trình bày hệ thống thông tin kế toán."
+    },
+    {
+      "skill_name": "Phản biện",
+      "category": "Soft Skill",
+      "outcome_description": "Phản biện và đánh giá việc áp dụng các chính sách, phân tích các nguy cơ thuộc các chu trình trong hệ thống thông tin kế toán của đơn vị."
+    },
+    {
+      "skill_name": "Tư duy hệ thống",
+      "category": "Soft Skill",
+      "outcome_description": "Tư duy hệ thống trong việc tổ chức thông tin kế toán trong các chu trình tại doanh nghiệp."
+    },
+    {
+      "skill_name": "Quản lý dự án",
+      "category": "Soft Skill",
+      "outcome_description": "Lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Hệ thống thông tin kế toán 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Kế toán",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "CNTT",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "course_id": "TIKT1127",
+  "title": "Quản trị dự án Hệ thống thông tin",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and master the process of information systems project management."
+    },
+    {
+      "skill_name": "Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in analyzing, planning, and implementing information systems projects."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or actively and effectively in group activities."
+    },
+    {
+      "skill_name": "Group Organization",
+      "category": "Soft Skill",
+      "outcome_description": "Organize group activities."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of information systems management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate project challenges and difficulties."
+    },
+    {
+      "skill_name": "Software Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Use software tools to support project management."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate project concepts and processes."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems in project management."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and manage project teams effectively."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage risks in information systems projects."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate financial aspects of projects."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively in project management."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver effective presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Hệ thống thông tin quản lý (TIHT1102)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Information Systems",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Project Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

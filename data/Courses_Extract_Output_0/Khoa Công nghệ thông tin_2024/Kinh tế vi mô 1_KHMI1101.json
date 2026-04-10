@@ -1,0 +1,50 @@
+{
+  "course_id": "KHMI1101",
+  "title": "Microeconomics 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Microeconomic Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic microeconomic theory including supply and demand, consumer behavior, producer behavior, market structures, international trade, and government roles."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic analysis techniques to solve basic microeconomic problems and think about policy questions related to real-world economic activities."
+    },
+    {
+      "skill_name": "Consumer Behavior",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze consumer behavior under budget constraints and understand how to construct individual demand curves."
+    },
+    {
+      "skill_name": "Producer Behavior",
+      "category": "Hard Skill",
+      "outcome_description": "Understand production functions, scale efficiency, short-term costs, and apply these concepts to business decision-making."
+    },
+    {
+      "skill_name": "Market Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Identify characteristics of four different market structures and develop appropriate business strategies based on these structures."
+    },
+    {
+      "skill_name": "International Trade",
+      "category": "Hard Skill",
+      "outcome_description": "Understand international trade dynamics, including comparative advantages and government policies affecting trade."
+    },
+    {
+      "skill_name": "Government Role",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of government in addressing market failures and developing appropriate economic policies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

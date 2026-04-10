@@ -1,0 +1,112 @@
+{
+  "course_id": "TNKT1116",
+  "title": "Rural and Agricultural Policy Analysis",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to analyze rural and agricultural policies, and apply the results to the planning, implementation, and evaluation of rural and agricultural policies."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and structure of rural and agricultural policies, and the role of policy analysis in planning, implementation, and evaluation."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently learn, think critically, and take responsibility for analyzing and applying the results of rural and agricultural policy analysis."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills through presentations and group discussions."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking skills by analyzing and evaluating policy impacts and proposing solutions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills by analyzing and proposing solutions to rural and agricultural policy issues."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Develop leadership skills through group projects and presentations."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork skills through collaborative projects and discussions."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve presentation skills through regular seminars and group presentations."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop project management skills by leading and managing group projects."
+    },
+    {
+      "skill_name": "Policy Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to draft and write effective rural and agricultural policies."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in analyzing data related to rural and agricultural policies."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze market policies and their impact on rural and agricultural development."
+    },
+    {
+      "skill_name": "Land Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze land policies and their impact on rural and agricultural development."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze financial policies and their impact on rural and agricultural development."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze human resource policies and their impact on rural and agricultural development."
+    },
+    {
+      "skill_name": "Technology Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze technology policies and their impact on rural and agricultural development."
+    },
+    {
+      "skill_name": "Food Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze food policies and their impact on rural and agricultural development."
+    },
+    {
+      "skill_name": "Social Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze social policies and their impact on rural and agricultural development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Business I (TNKT1153)"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "course_id": "CNTT1131",
+  "title": "Object Oriented Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Object-Oriented Programming",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the principles of object-oriented programming, including encapsulation, inheritance, and polymorphism."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement solutions to problems using object-oriented programming techniques."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in a team environment to complete programming tasks."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently and seek out additional resources to enhance understanding."
+    },
+    {
+      "skill_name": "Programming Languages",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in programming languages such as C++, C#, or Java."
+    },
+    {
+      "skill_name": "Exception Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Implement and manage exception handling in programming."
+    },
+    {
+      "skill_name": "File I/O",
+      "category": "Hard Skill",
+      "outcome_description": "Perform file input/output operations in programming."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve complex programming problems."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate programming concepts and solutions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT1116)",
+      "Fundamentals of Programming (CNTT1128)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

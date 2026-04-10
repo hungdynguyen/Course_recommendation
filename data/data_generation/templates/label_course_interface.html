@@ -212,6 +212,23 @@
             padding: 5px 12px;
             border-radius: 15px;
             font-size: 13px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
+            cursor: pointer;
+            transition: filter 0.15s, transform 0.1s, box-shadow 0.15s;
+        }
+
+        .skill-pill:hover {
+            filter: brightness(0.9);
+            transform: translateY(-1px);
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+        }
+        
+        .skill-pill-wrapper {
+            display: inline-block;
+            margin: 2px;
+            max-width: 100%;
         }
         
         .tabs {
@@ -339,6 +356,9 @@
             border-radius: 10px;
             font-size: 11px;
             margin: 2px;
+            max-width: 100%;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
         
         .description-text {
@@ -494,6 +514,213 @@
             color: #666;
             margin-left: 5px;
         }
+
+        /* ===== Course Search Bar ===== */
+        .course-search-section {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 12px 14px;
+            background: #f0f4ff;
+            border-radius: 10px;
+            border: 1.5px solid #c5cae9;
+        }
+
+        .course-search-input {
+            flex: 1;
+            padding: 9px 14px;
+            border: 1.5px solid #c5cae9;
+            border-radius: 8px;
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            background: white;
+        }
+
+        .course-search-input:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102,126,234,0.15);
+        }
+
+        .btn-search {
+            padding: 9px 18px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: background 0.2s;
+            white-space: nowrap;
+        }
+
+        .btn-search:hover {
+            background: #5a6fd6;
+        }
+
+        .btn-clear-search {
+            padding: 9px 13px;
+            background: #ef5350;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 600;
+            transition: background 0.2s;
+            white-space: nowrap;
+        }
+
+        .btn-clear-search:hover {
+            background: #d32f2f;
+        }
+
+        .search-results-header {
+            padding: 8px 0 6px;
+            font-size: 14px;
+            color: #888;
+            font-style: italic;
+        }
+
+        /* ===== Search mode toggle ===== */
+        .search-mode-toggle {
+            display: flex;
+            gap: 6px;
+        }
+
+        .btn-mode {
+            padding: 5px 14px;
+            border: 1.5px solid #c5cae9;
+            border-radius: 20px;
+            background: white;
+            color: #5c6bc0;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.18s;
+        }
+
+        .btn-mode:hover {
+            background: #e8eaf6;
+        }
+
+        .btn-mode.active {
+            background: #667eea;
+            border-color: #667eea;
+            color: white;
+        }
+
+        /* ===== Matched skill tag (search results) ===== */
+        .skill-tag.matched {
+            background: #fff9c4;
+            color: #f57f17;
+            border: 1.5px solid #ffe082;
+            font-weight: 700;
+        }
+
+        .skill-tag.matched:hover {
+            background: #fff176;
+            color: #e65100;
+            box-shadow: 0 2px 6px rgba(245,127,23,0.3);
+        }
+
+        .matched-skills-section {
+            margin-top: 8px;
+            padding: 8px 10px;
+            background: #fffde7;
+            border-left: 3px solid #ffd54f;
+            border-radius: 0 6px 6px 0;
+        }
+
+        .matched-skills-label {
+            font-size: 12px;
+            font-weight: 700;
+            color: #f57f17;
+            margin-bottom: 6px;
+        }
+
+        /* ===== Skill tag clickable ===== */
+        .skill-tag {
+            cursor: pointer;
+            transition: background 0.15s, transform 0.1s, box-shadow 0.15s;
+        }
+
+        .skill-tag:hover {
+            background: #c5cae9;
+            color: #303f9f;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 6px rgba(92,107,192,0.25);
+        }
+
+        /* ===== Skill Description Modal ===== */
+        .skill-modal-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.45);
+            z-index: 9999;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .skill-modal-overlay.active {
+            display: flex;
+        }
+
+        .skill-modal {
+            background: white;
+            border-radius: 12px;
+            padding: 28px 30px 24px;
+            max-width: 520px;
+            width: 90%;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            position: relative;
+            animation: skillModalIn 0.18s ease;
+        }
+
+        @keyframes skillModalIn {
+            from { opacity: 0; transform: scale(0.92) translateY(12px); }
+            to   { opacity: 1; transform: scale(1) translateY(0); }
+        }
+
+        .skill-modal-close {
+            position: absolute;
+            top: 12px;
+            right: 14px;
+            background: none;
+            border: none;
+            font-size: 22px;
+            cursor: pointer;
+            color: #999;
+            line-height: 1;
+            transition: color 0.15s;
+        }
+
+        .skill-modal-close:hover { color: #333; }
+
+        .skill-modal-name {
+            font-size: 17px;
+            font-weight: 700;
+            color: #3949ab;
+            margin-bottom: 14px;
+            padding-right: 24px;
+            line-height: 1.4;
+        }
+
+        .skill-modal-desc {
+            font-size: 14px;
+            color: #444;
+            line-height: 1.7;
+            white-space: pre-wrap;
+        }
+
+        .skill-modal-no-desc {
+            font-size: 13px;
+            color: #aaa;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>
@@ -539,13 +766,25 @@
             </div>
         </div>
     </div>
-    
+
+    <!-- Skill Description Modal -->
+    <div class="skill-modal-overlay" id="skillModalOverlay" onclick="closeSkillModal(event)">
+        <div class="skill-modal">
+            <button class="skill-modal-close" onclick="closeSkillModal()">&#x2715;</button>
+            <div class="skill-modal-name" id="skillModalName"></div>
+            <div id="skillModalDesc"></div>
+        </div>
+    </div>
+
     <script>
         let currentPair = null;
         let selectedCourses = [];
         let sectionStates = {}; // Store expand/collapse states
-        let activeTab = 'api'; // Store active tab
+        let activeTab = 'vector'; // kept for compatibility
         let detailScrollTop = 0; // Store scroll position
+        let currentSearchQuery = '';  // Active search query
+        let currentSearchResults = []; // Cached search results
+        let currentSearchMode = 'all'; // 'all' | 'title' | 'skill'
         
         // Initialize
         async function init() {
@@ -599,6 +838,17 @@
             }
         }
         
+        // Helper function to render a plain skill string as a pill
+        function renderSkillWithEsco(skillData, bgColor, textColor) {
+            const label = (typeof skillData === 'string') ? skillData : (skillData.raw || skillData.label || '');
+            const safeName = label.replace(/'/g, '&#39;').replace(/"/g, '&quot;');
+            const desc = (typeof skillData === 'object' && skillData.description)
+                ? skillData.description.replace(/'/g, '&#39;').replace(/"/g, '&quot;')
+                : '';
+            return `<span class="skill-pill" style="background: ${bgColor}; color: ${textColor};"
+                         onclick="showSkillDesc('${safeName}','${desc}')">${label}</span>`;
+        }
+        
         // Render pairs list
         function renderPairsList(pairs) {
             const listEl = document.getElementById('pairsList');
@@ -614,7 +864,7 @@
                      onclick="selectPair(${pair.pair_id})">
                     <div class="pair-title">${pair.jd_title}</div>
                     <div class="pair-meta">
-                        📋 API: ${pair.api_count} | Vector: ${pair.vector_count} | Total: ${pair.total_count}<br>
+                        � Courses: ${pair.total_count}<br>
                         👤 ${pair.cv_experience} | 🎓 ${pair.cv_degree}<br>
                         🎯 Target: ${pair.target_matching}%
                     </div>
@@ -649,9 +899,12 @@
                 if (data.success) {
                     currentPair = data.pair;
                     selectedCourses = data.existing_label ? data.existing_label.selected_courses : [];
-                    activeTab = 'api'; // Reset tab when switching pairs
+                    activeTab = 'vector'; // Reset tab when switching pairs
                     sectionStates = {}; // Reset section states for new pair
                     detailScrollTop = 0;
+                    currentSearchQuery = '';
+                    currentSearchResults = [];
+                    currentSearchMode = 'all';
                     renderPairDetail(data.pair, data.existing_label);
                 } else {
                     console.error('Get pair detail failed:', data.error);
@@ -687,24 +940,38 @@
                     <button class="btn-save" onclick="saveLabel()">💾 Save Label</button>
                 </div>
                 
-                <div class="tabs">
-                    <button class="tab active" onclick="switchTab('api')">
-                        🔗 API (${pair.api_courses.length})
-                    </button>
-                    <button class="tab" onclick="switchTab('vector')">
-                        🔍 Vector (${pair.vector_courses.length})
-                    </button>
-                </div>
-                
-                <div class="tab-content active" id="apiTab">
-                    <div class="course-list">
-                        ${renderCourses(pair.api_courses, 'api')}
+                <div class="course-search-section">
+                    <div style="display:flex; flex-direction:column; gap:8px; flex:1;">
+                        <div class="search-mode-toggle">
+                            <button class="btn-mode active" id="modeAll"   onclick="setSearchMode('all')">Tất cả</button>
+                            <button class="btn-mode"        id="modeTitle" onclick="setSearchMode('title')">Tên khóa học</button>
+                            <button class="btn-mode"        id="modeSkill" onclick="setSearchMode('skill')">Kỹ năng</button>
+                        </div>
+                        <div style="display:flex; gap:8px; align-items:center;">
+                            <input type="text" id="courseSearchInput" class="course-search-input"
+                                   placeholder="🔍 Tìm tên hoặc kỹ năng..."
+                                   onkeydown="handleSearchKeydown(event)"
+                                   value="">
+                            <button onclick="performSearch()" class="btn-search">Tìm</button>
+                            <button onclick="clearSearch()" class="btn-clear-search"
+                                    id="clearSearchBtn" style="display:none">✕ Xóa</button>
+                        </div>
                     </div>
                 </div>
-                
-                <div class="tab-content" id="vectorTab">
+
+                <div id="searchResultsContainer" style="display:none">
+                    <div class="section-title" style="padding: 10px 0 6px;">
+                        🔍 Kết quả tìm kiếm: <span id="searchResultCount">0</span> khóa học
+                    </div>
+                    <div class="course-list" id="searchResultsList"></div>
+                </div>
+
+                <div id="recommendedCoursesContainer">
+                    <div class="section-title" style="padding: 10px 0 6px;">
+                        📋 Courses (${pair.courses.length})
+                    </div>
                     <div class="course-list">
-                        ${renderCourses(pair.vector_courses, 'vector')}
+                        ${renderCourses(pair.courses, 'vector')}
                     </div>
                 </div>
             `;
@@ -729,13 +996,13 @@
                             <div class="info-label">Technical:</div>
                             <div class="skill-pills">
                                 ${(pair.jd_technical_skills || []).map(s => 
-                                    `<span class="skill-pill">${s.trim()}</span>`
+                                    renderSkillWithEsco(s, '#e3f2fd', '#1976d2')
                                 ).join('')}
                             </div>
                             <div class="info-label">Soft:</div>
                             <div class="skill-pills">
                                 ${(pair.jd_soft_skills || []).map(s => 
-                                    `<span class="skill-pill">${s.trim()}</span>`
+                                    renderSkillWithEsco(s, '#e3f2fd', '#1976d2')
                                 ).join('')}
                             </div>
                         </div>
@@ -761,13 +1028,13 @@
                             <div class="info-label">Technical:</div>
                             <div class="skill-pills">
                                 ${(pair.cv_technical_skills || []).map(s => 
-                                    `<span class="skill-pill" style="background: #e8f5e9; color: #4caf50;">${s}</span>`
+                                    renderSkillWithEsco(s, '#e8f5e9', '#4caf50')
                                 ).join('')}
                             </div>
                             <div class="info-label">Soft:</div>
                             <div class="skill-pills">
                                 ${(pair.cv_soft_skills || []).map(s => 
-                                    `<span class="skill-pill" style="background: #e8f5e9; color: #4caf50;">${s}</span>`
+                                    renderSkillWithEsco(s, '#e8f5e9', '#4caf50')
                                 ).join('')}
                             </div>
                         </div>
@@ -784,13 +1051,13 @@
                             <div class="info-label">Technical:</div>
                             <div class="skill-pills">
                                 ${(pair.skill_gaps.missing_technical_skills || []).map(s => 
-                                    `<span class="skill-pill" style="background: #ffebee; color: #d32f2f;">${s}</span>`
+                                    renderSkillWithEsco(s, '#ffebee', '#d32f2f')
                                 ).join('')}
                             </div>
                             <div class="info-label">Soft:</div>
                             <div class="skill-pills">
                                 ${(pair.skill_gaps.missing_soft_skills || []).map(s => 
-                                    `<span class="skill-pill" style="background: #ffebee; color: #d32f2f;">${s}</span>`
+                                    renderSkillWithEsco(s, '#ffebee', '#d32f2f')
                                 ).join('')}
                             </div>
                             <div class="info-label">Experience:</div>
@@ -804,7 +1071,7 @@
             infoPanel.innerHTML = infoHtml;
             
             // Restore active tab
-            switchTab(activeTab);
+            // (tabs removed — single course list now)
             
             // Restore section states after render
             restoreSectionStates();
@@ -817,6 +1084,14 @@
             
             // Setup drag and drop after rendering
             setupDragAndDrop();
+
+            // Restore search state if there was an active search
+            if (currentSearchQuery) {
+                const input = document.getElementById('courseSearchInput');
+                if (input) input.value = currentSearchQuery;
+                setSearchMode(currentSearchMode);
+                showSearchResults(currentSearchResults);
+            }
         }
         
         // Save section expand/collapse states
@@ -941,7 +1216,20 @@
             return courses.map(course => {
                 const isSelected = selectedCourses.some(c => c.course_id === course.course_id);
                 const rank = isSelected ? selectedCourses.findIndex(c => c.course_id === course.course_id) + 1 : null;
-                
+                const matchedNames = new Set(course.matched_skill_names || []);
+
+                // Matched skills block (only visible in search results)
+                const matchedSkillsHtml = (course.matched_skills && course.matched_skills.length > 0) ? `
+                    <div class="matched-skills-section">
+                        <div class="matched-skills-label">✨ Kỹ năng phù hợp (${course.matched_skills.length}):</div>
+                        ${course.matched_skills.map(s => {
+                            const sn = (s.skill_name || '').replace(/'/g, '&#39;').replace(/"/g, '&quot;');
+                            const sd = (s.outcome_description || '').replace(/'/g, '&#39;').replace(/"/g, '&quot;');
+                            return `<span class="skill-tag matched" onclick="showSkillDesc('${sn}','${sd}')">${s.skill_name || ''}</span>`;
+                        }).join('')}
+                    </div>
+                ` : '';
+
                 return `
                     <div class="course-card ${isSelected ? 'selected' : ''}" data-course-id="${course.course_id}">
                         <div class="course-header">
@@ -957,19 +1245,21 @@
                         <div class="course-meta">
                             📚 ${course.category || 'N/A'} | 💳 ${course.credit || 'N/A'} credits
                             ${course.faculty ? `| 🏛️ ${course.faculty}` : ''}
-                            ${course.api_score ? `<span class="score-badge">| API: ${course.api_score.toFixed(3)}</span>` : ''}
-                            ${course.vector_score ? `<span class="score-badge">| Vector: ${course.vector_score.toFixed(3)}</span>` : ''}
+                            ${course.score ? `<span class="score-badge">| Score: ${course.score.toFixed(3)}</span>` : ''}
                         </div>
+                        ${matchedSkillsHtml}
                         ${course.description ? `
                             <div class="description-text" style="max-height: 80px;">
                                 ${course.description.substring(0, 200)}${course.description.length > 200 ? '...' : ''}
                             </div>
                         ` : ''}
                         <div class="course-skills">
-                            <strong>Skills taught (${course.skill_outcomes.length}):</strong><br>
-                            ${course.skill_outcomes.map(s => {
-                                const skillName = typeof s === 'string' ? s : s.skill_name;
-                                return `<span class="skill-tag">${skillName}</span>`;
+                            <strong>Skills taught (${(course.skill_outcomes || []).length}):</strong><br>
+                            ${(course.skill_outcomes || []).map(s => {
+                                const skillName = (s.skill_name || '').replace(/'/g, '&#39;').replace(/"/g, '&quot;');
+                                const desc = (s.outcome_description || '').replace(/'/g, '&#39;').replace(/"/g, '&quot;');
+                                const isMatched = matchedNames.has(s.skill_name || '');
+                                return `<span class="skill-tag${isMatched ? ' matched' : ''}" onclick="showSkillDesc('${skillName}','${desc}')">${s.skill_name || ''}</span>`;
                             }).join('')}
                         </div>
                     </div>
@@ -977,19 +1267,97 @@
             }).join('');
         }
         
-        // Switch tabs
+        // Switch tabs (no-op — tabs removed, single courses list used)
         function switchTab(tab) {
-            activeTab = tab; // Remember active tab
-            document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));
-            document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
-            
-            if (tab === 'api') {
-                document.querySelectorAll('.tab')[0].classList.add('active');
-                document.getElementById('apiTab').classList.add('active');
-            } else {
-                document.querySelectorAll('.tab')[1].classList.add('active');
-                document.getElementById('vectorTab').classList.add('active');
+            activeTab = tab;
+        }
+
+        // Set search mode and update toggle UI + placeholder
+        function setSearchMode(mode) {
+            currentSearchMode = mode;
+            ['all', 'title', 'skill'].forEach(m => {
+                const btn = document.getElementById('mode' + m.charAt(0).toUpperCase() + m.slice(1));
+                if (btn) btn.classList.toggle('active', m === mode);
+            });
+            const placeholders = {
+                all:   '🔍 Tìm tên hoặc kỹ năng...',
+                title: '🔍 Tìm tên khóa học...',
+                skill: '🔍 Tìm theo kỹ năng...',
+            };
+            const input = document.getElementById('courseSearchInput');
+            if (input) input.placeholder = placeholders[mode] || placeholders.all;
+        }
+
+        // Handle Enter key on search input
+        function handleSearchKeydown(event) {
+            if (event.key === 'Enter') {
+                performSearch();
             }
+        }
+
+        // Perform fuzzy course search
+        async function performSearch() {
+            const input = document.getElementById('courseSearchInput');
+            if (!input) return;
+            const query = input.value.trim();
+            if (!query) return;
+
+            currentSearchQuery = query;
+
+            try {
+                const url = `/api/search_courses?q=${encodeURIComponent(query)}&mode=${currentSearchMode}`;
+                const response = await fetch(url);
+                const data = await response.json();
+
+                if (!data.success) {
+                    alert('Search failed: ' + data.error);
+                    return;
+                }
+
+                currentSearchResults = data.courses;
+                showSearchResults(currentSearchResults);
+            } catch (err) {
+                console.error('Search error:', err);
+                alert('Search failed: ' + err.message);
+            }
+        }
+
+        // Render and show search results panel
+        function showSearchResults(courses) {
+            const container = document.getElementById('searchResultsContainer');
+            const list = document.getElementById('searchResultsList');
+            const countEl = document.getElementById('searchResultCount');
+            const recommContainer = document.getElementById('recommendedCoursesContainer');
+            const clearBtn = document.getElementById('clearSearchBtn');
+
+            if (!container || !list) return;
+
+            const modeLabels = { all: 'Tất cả', title: 'Tên', skill: 'Kỹ năng' };
+            const modeLabel = modeLabels[currentSearchMode] || 'Tất cả';
+            countEl.textContent = `${courses.length} khóa học [${modeLabel}]`;
+            list.innerHTML = courses.length > 0
+                ? renderCourses(courses, 'search')
+                : '<div class="empty-state">Không tìm thấy khóa học nào phù hợp.</div>';
+
+            container.style.display = 'block';
+            recommContainer.style.display = 'none';
+            if (clearBtn) clearBtn.style.display = 'inline-block';
+        }
+
+        // Clear search and go back to recommended courses
+        function clearSearch() {
+            currentSearchQuery = '';
+            currentSearchResults = [];
+
+            const input = document.getElementById('courseSearchInput');
+            const container = document.getElementById('searchResultsContainer');
+            const recommContainer = document.getElementById('recommendedCoursesContainer');
+            const clearBtn = document.getElementById('clearSearchBtn');
+
+            if (input) input.value = '';
+            if (container) container.style.display = 'none';
+            if (recommContainer) recommContainer.style.display = 'block';
+            if (clearBtn) clearBtn.style.display = 'none';
         }
         
         // Toggle course selection
@@ -1063,6 +1431,30 @@
             }
         }
         
+        // Show skill description modal
+        function showSkillDesc(name, desc) {
+            document.getElementById('skillModalName').textContent = name;
+            const descEl = document.getElementById('skillModalDesc');
+            if (desc && desc.trim()) {
+                descEl.className = 'skill-modal-desc';
+                descEl.textContent = desc;
+            } else {
+                descEl.className = 'skill-modal-no-desc';
+                descEl.textContent = 'Không có mô tả cho kỹ năng này.';
+            }
+            document.getElementById('skillModalOverlay').classList.add('active');
+        }
+
+        // Close modal when clicking overlay backdrop or close button
+        function closeSkillModal(event) {
+            if (event && event.target !== document.getElementById('skillModalOverlay')) return;
+            document.getElementById('skillModalOverlay').classList.remove('active');
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') document.getElementById('skillModalOverlay').classList.remove('active');
+        });
+
         // Initialize on load
         init();
     </script>

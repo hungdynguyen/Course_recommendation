@@ -1,0 +1,77 @@
+{
+  "course_id": "TNKT1154",
+  "title": "Agribusiness II",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of business management in agricultural contexts."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and manage financial aspects of agricultural businesses."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks in agricultural operations."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and optimize supply chain processes in agriculture."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Apply leadership skills in agricultural business settings."
+    },
+    {
+      "skill_name": "Quality Management",
+      "category": "Soft Skill",
+      "outcome_description": "Implement quality control measures in agricultural production."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve business problems using analytical techniques."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate business ideas and solutions."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to achieve business goals."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate business decisions critically and logically."
+    },
+    {
+      "skill_name": "Self-Management",
+      "category": "Soft Skill",
+      "outcome_description": "Take initiative and responsibility in business contexts."
+    },
+    {
+      "skill_name": "Continuous Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Commit to ongoing learning and development in agriculture."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "TNKT1153"
+    ],
+    "minimum_entry_skills": []
+  }
+}

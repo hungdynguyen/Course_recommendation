@@ -1,0 +1,115 @@
+{
+  "course_id": "MTKT1158",
+  "title": "Integrated Management of River Basins",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Water Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts of river basin management."
+    },
+    {
+      "skill_name": "Sustainable Development",
+      "category": "Soft Skill",
+      "outcome_description": "Apply sustainable development principles in river basin management."
+    },
+    {
+      "skill_name": "Research Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret practical river basin management issues."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to solve economic issues in river basin management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to address complex river basin management problems."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through presentations and discussions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve practical problems related to river basin management."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership in group projects and presentations."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects related to river basin management."
+    },
+    {
+      "skill_name": "Environmental Science",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the scientific basis of river basin management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze policies and regulations related to river basin management."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze data to support river basin management decisions."
+    },
+    {
+      "skill_name": "Legal Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the legal framework governing river basin management."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage finances in the context of river basin management."
+    },
+    {
+      "skill_name": "Community Engagement",
+      "category": "Soft Skill",
+      "outcome_description": "Engage communities in river basin management initiatives."
+    },
+    {
+      "skill_name": "Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize information systems for river basin management."
+    },
+    {
+      "skill_name": "Monitoring and Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement monitoring and evaluation systems for river basin management."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategic plans for river basin management."
+    },
+    {
+      "skill_name": "Public Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver effective presentations on river basin management topics."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively in group projects and presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

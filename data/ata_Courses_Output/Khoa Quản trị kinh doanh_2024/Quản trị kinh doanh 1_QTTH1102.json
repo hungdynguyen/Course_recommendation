@@ -1,0 +1,46 @@
+{
+  "course_id": "QTTH1102",
+  "title": "Business Management 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of business and business management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand fundamental concepts related to business and business management."
+    },
+    {
+      "skill_name": "Independent work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop independent work skills, discipline, teamwork, communication skills, and problem-solving abilities."
+    },
+    {
+      "skill_name": "Self-study and continuous learning",
+      "category": "Soft Skill",
+      "outcome_description": "Students will have the ability to independently study, accumulate and enhance their professional knowledge, adapt to different working environments, and take initiative in their work."
+    },
+    {
+      "skill_name": "Environmental awareness in business",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand and recognize the business environment and its factors, including social responsibility and business ethics."
+    },
+    {
+      "skill_name": "Basic concepts of management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the role, functions, skills, art, style of managers."
+    },
+    {
+      "skill_name": "Managing business activities",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the basics of managing various business activities within a company."
+    },
+    {
+      "skill_name": "Evaluating business results and effectiveness",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn how to assess business results and effectiveness using various indicators and standards."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

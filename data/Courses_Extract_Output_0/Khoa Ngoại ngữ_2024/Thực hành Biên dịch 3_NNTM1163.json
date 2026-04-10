@@ -1,0 +1,42 @@
+{
+  "course_id": "NNTM1163",
+  "title": "Translation 3",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Advanced Translation",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop advanced translation techniques for economic, management, and business texts."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn to manage time effectively under pressure while maintaining accuracy in content translation."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Students will enhance their ability to work independently on translation projects."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Students will improve their ability to collaborate with peers in a team setting."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Students will understand and adhere to professional ethics in translation work."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Translation 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

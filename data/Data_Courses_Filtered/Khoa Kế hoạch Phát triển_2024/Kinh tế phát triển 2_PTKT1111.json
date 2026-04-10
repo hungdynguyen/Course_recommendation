@@ -1,0 +1,67 @@
+{
+  "course_id": "PTKT1111",
+  "title": "Development Economics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Demographic Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the nature, phenomena, and content of demographic issues in developing countries."
+    },
+    {
+      "skill_name": "Population Trend Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize population trends and their impact on policy formulation in developing countries."
+    },
+    {
+      "skill_name": "Financial Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the nature, phenomena, and content of financial policies in economic development."
+    },
+    {
+      "skill_name": "Policy Analysis for Economic Development",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial policies in different developing countries and formulate appropriate monetary policies."
+    },
+    {
+      "skill_name": "Comparative Model Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Compare theoretical and experimental models reflecting trends in agricultural, industrial, and international trade development."
+    },
+    {
+      "skill_name": "Policy Formulation for Sectoral Development",
+      "category": "Hard Skill",
+      "outcome_description": "Apply models to formulate sectoral development policies suitable for different stages of development in developing countries."
+    },
+    {
+      "skill_name": "Data Analysis for Policy Recommendations",
+      "category": "Hard Skill",
+      "outcome_description": "Select and process domestic and international data to support professional judgments."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork skills, including participation, supervision, and leadership in group activities."
+    },
+    {
+      "skill_name": "Self-Learning and Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and research skills to accumulate knowledge."
+    },
+    {
+      "skill_name": "Critical Thinking and Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking and ethical awareness related to professional duties and social responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Development Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

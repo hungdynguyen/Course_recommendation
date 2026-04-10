@@ -1,0 +1,77 @@
+{
+  "course_id": "TIKT1129",
+  "title": "Hệ thống Thương mại điện tử",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-commerce Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the process of developing e-commerce systems, implement systems for businesses, and ensure security and safety in e-commerce activities."
+    },
+    {
+      "skill_name": "Web Development",
+      "category": "Hard Skill",
+      "outcome_description": "Master web development technologies and techniques, apply software development principles to e-commerce systems."
+    },
+    {
+      "skill_name": "Information Security",
+      "category": "Hard Skill",
+      "outcome_description": "Use IT tools to ensure security and safety in e-commerce activities."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or collaboratively, organize group activities, and demonstrate social responsibility and professional ethics."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply legal frameworks related to e-commerce."
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Apply marketing principles in e-commerce contexts."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and mitigate risks in e-commerce activities."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to e-commerce systems and operations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think critically about e-commerce systems and operations."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in e-commerce contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management Information Systems",
+      "Networks and Communications"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic IT Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Programming Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "course_id": "MTKT1169",
+  "title": "Environmental Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature of environmental planning",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the essence of environmental planning, its position in development planning, and the role of environmental planning."
+    },
+    {
+      "skill_name": "Position of Environmental Planning in Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of environmental planning in resource management."
+    },
+    {
+      "skill_name": "Application of Environmental Planning Processes",
+      "category": "Hard Skill",
+      "outcome_description": "Apply processes and methods for environmental planning, evaluate options, and choose optimal solutions for environmental planning."
+    },
+    {
+      "skill_name": "Evaluation of Integrated Plans",
+      "category": "Hard Skill",
+      "outcome_description": "Use various methods to evaluate environmental plans and assess the environmental aspects of integrated plans."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent work skills, self-study abilities, and creativity."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess teamwork skills, self-management, and responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

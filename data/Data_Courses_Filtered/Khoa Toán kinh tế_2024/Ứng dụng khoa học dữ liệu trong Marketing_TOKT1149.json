@@ -1,0 +1,86 @@
+{
+  "course_id": "TOKT1149",
+  "title": "Data Driven Marketing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing KPIs Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and calculate key performance indicators (KPIs) in marketing."
+    },
+    {
+      "skill_name": "Dashboard Creation",
+      "category": "Hard Skill",
+      "outcome_description": "Create automated dashboards to track marketing KPIs."
+    },
+    {
+      "skill_name": "Customer Segmentation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply clustering algorithms to segment customers."
+    },
+    {
+      "skill_name": "Logistic Regression Application",
+      "category": "Hard Skill",
+      "outcome_description": "Use logistic regression models to predict customer behavior."
+    },
+    {
+      "skill_name": "Decision Tree Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Develop decision tree models for predicting customer actions."
+    },
+    {
+      "skill_name": "Monte Carlo Simulation",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize Monte Carlo simulations for estimating customer lifetime value."
+    },
+    {
+      "skill_name": "Product Pricing Models",
+      "category": "Hard Skill",
+      "outcome_description": "Estimate demand curves and optimize pricing strategies."
+    },
+    {
+      "skill_name": "Content-Based Recommendation Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Build recommendation systems based on content analysis."
+    },
+    {
+      "skill_name": "Collaborative Filtering Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Construct collaborative filtering systems for personalized recommendations."
+    },
+    {
+      "skill_name": "Sentiment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform sentiment analysis using Naive Bayes classifiers."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex marketing problems using critical thinking."
+    },
+    {
+      "skill_name": "Technical Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate technical information and results."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously learn and apply new techniques in marketing analytics."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Tool/Software",
+      "outcome_description": "Use Excel for data analysis and modeling."
+    },
+    {
+      "skill_name": "R Language",
+      "category": "Tool/Software",
+      "outcome_description": "Implement marketing analytics solutions using the R programming language."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

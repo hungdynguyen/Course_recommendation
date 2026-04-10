@@ -1,0 +1,53 @@
+{
+  "course_id": "TMQT1158",
+  "title": "Strategy for E-commerce",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Environment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature of business strategies in e-commerce."
+    },
+    {
+      "skill_name": "SWOT Matrix Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various tools to analyze business environment and identify strengths, weaknesses, opportunities, and threats."
+    },
+    {
+      "skill_name": "Core Competency Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify core competencies and competitive advantages of businesses in e-commerce."
+    },
+    {
+      "skill_name": "Strategic Planning Execution",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how to use SWOT matrix in strategic planning and select appropriate strategies for different stages."
+    },
+    {
+      "skill_name": "Secondary Data Collection",
+      "category": "Soft Skill",
+      "outcome_description": "Find reliable sources of information on infrastructure, telecommunication, electronic payments, security, human resources, e-government, digital economy, etc."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice working in groups and making group decisions."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and apply skills in collecting and using reliable information sources for analysis and enhancing teamwork skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Courses",
+      "Basic E-commerce"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

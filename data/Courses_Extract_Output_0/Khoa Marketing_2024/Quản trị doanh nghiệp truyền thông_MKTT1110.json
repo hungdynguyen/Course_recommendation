@@ -1,0 +1,45 @@
+{
+  "course_id": "Marketing Management Course",
+  "title": "Doanh nghiệp truyền thông",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Principles",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental principles related to marketing communication functions."
+    },
+    {
+      "skill_name": "Organizational Structure",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend the structure and operations of a marketing communications firm."
+    },
+    {
+      "skill_name": "Customer Relationship Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage customer relationships effectively within a marketing communications firm."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage human resources efficiently in a marketing communications firm."
+    },
+    {
+      "skill_name": "Creative Management",
+      "category": "Soft Skill",
+      "outcome_description": "Facilitate creative processes and manage creativity within a marketing communications firm."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage financial outcomes and resources in a marketing communications firm."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

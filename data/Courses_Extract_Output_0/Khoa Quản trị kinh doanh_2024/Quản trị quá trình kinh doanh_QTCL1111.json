@@ -1,0 +1,56 @@
+{
+  "course_id": "Business Process Management",
+  "title": "Quản trị Quá trình Kinh doanh",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Process Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze business processes qualitatively and quantitatively."
+    },
+    {
+      "skill_name": "Process Improvement",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to apply techniques for process improvement and innovation."
+    },
+    {
+      "skill_name": "Value Chain Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of managing business operations through value chains."
+    },
+    {
+      "skill_name": "Lean Management",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of Lean management principles and their application."
+    },
+    {
+      "skill_name": "Six Sigma",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of Six Sigma methodologies for process improvement."
+    },
+    {
+      "skill_name": "Microsoft Power Automate",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Microsoft Power Automate for business process automation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Business Management"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Management",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

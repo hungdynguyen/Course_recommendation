@@ -1,0 +1,51 @@
+{
+  "course_id": "PTCC1128",
+  "title": "Socio-Economic Research Methods",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Design",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the components of socio-economic research, the process of building and basic content at each step of the research process."
+    },
+    {
+      "skill_name": "Data Collection Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply basic qualitative and quantitative data collection methods in socio-economic sciences."
+    },
+    {
+      "skill_name": "Data Analysis Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze qualitative and quantitative data using appropriate tools such as SPSS and NVivo."
+    },
+    {
+      "skill_name": "Report Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Present a research report scientifically."
+    },
+    {
+      "skill_name": "Problem Identification",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and collect data on research problems."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have ethical awareness in research and a serious, honest attitude towards scientific research."
+    },
+    {
+      "skill_name": "Independent Research Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design independent research approaches suitable for research objects and independently implement research in socio-economic fields."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work in groups, present and defend personal viewpoints, take responsibility for content and research methods."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

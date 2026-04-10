@@ -1,0 +1,37 @@
+{
+  "course_id": "QLXH1127",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop independent research capabilities, including literature review, data collection, analysis, and interpretation."
+    },
+    {
+      "skill_name": "Practical Application",
+      "category": "Hard Skill",
+      "outcome_description": "Students will apply theoretical knowledge to real-world management problems through internships at various organizations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Students will enhance their ability to critically analyze and solve complex management issues."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn how to effectively present their research findings during thesis defense sessions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "All required courses in the Management field"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

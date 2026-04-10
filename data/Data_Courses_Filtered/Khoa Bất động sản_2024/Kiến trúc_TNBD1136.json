@@ -1,0 +1,51 @@
+{
+  "course_id": "TNBD1136",
+  "title": "Architecture",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the basics of architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the requirements, concepts, and basic methodologies of architectural design, research, and analysis."
+    },
+    {
+      "skill_name": "Reading architectural drawings",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to read and analyze basic contents of architectural design drawings."
+    },
+    {
+      "skill_name": "Analyzing residential architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding the requirements and characteristics of residential architecture."
+    },
+    {
+      "skill_name": "Industrial architecture design",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding the characteristics and design principles of industrial architecture."
+    },
+    {
+      "skill_name": "Urban settlement planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding the principles and quality assessment of urban settlement planning."
+    },
+    {
+      "skill_name": "Communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop communication, teamwork, decision-making, and project management skills."
+    },
+    {
+      "skill_name": "Social responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding social context and having independent viewpoints, teamwork, and personal responsibility."
+    },
+    {
+      "skill_name": "Ethical awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Recognizing ethical responsibilities and social responsibilities, analyzing social contexts and work environments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

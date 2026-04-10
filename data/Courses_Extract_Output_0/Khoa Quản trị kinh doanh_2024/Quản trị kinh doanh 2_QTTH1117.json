@@ -1,0 +1,62 @@
+{
+  "course_id": "Quản trị kinh doanh 2",
+  "title": "Business Administration 2",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement strategic plans for businesses."
+    },
+    {
+      "skill_name": "Organizational Structure",
+      "category": "Soft Skill",
+      "outcome_description": "Design and manage organizational structures."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage supply chains and procurement processes."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply financial principles to business operations."
+    },
+    {
+      "skill_name": "Marketing Management",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and execute marketing strategies."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead teams effectively in various business contexts."
+    },
+    {
+      "skill_name": "Operational Control",
+      "category": "Hard Skill",
+      "outcome_description": "Monitor and control business operations."
+    },
+    {
+      "skill_name": "Global Business Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage businesses in a globalized environment."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Business Administration 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

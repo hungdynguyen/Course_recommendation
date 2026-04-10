@@ -1,0 +1,71 @@
+{
+  "course_id": "TOCB1101",
+  "title": "Algebra",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "System of Linear Equations",
+      "category": "Hard Skill",
+      "outcome_description": "State basic concepts about system of linear equations."
+    },
+    {
+      "skill_name": "Matrix and Determinants",
+      "category": "Hard Skill",
+      "outcome_description": "Explain basic concepts about matrices and determinants; list properties of matrix operations and determinant properties."
+    },
+    {
+      "skill_name": "Vector and Vector Space",
+      "category": "Hard Skill",
+      "outcome_description": "Elaborate on basic concepts about vectors and vector spaces."
+    },
+    {
+      "skill_name": "Linear Transformation",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the concept of linear transformation and summarize its properties; explain diagonalization method of matrices."
+    },
+    {
+      "skill_name": "Solving System of Linear Equations",
+      "category": "Hard Skill",
+      "outcome_description": "Solve system of linear equations using various methods such as Gaussian elimination, Gauss-Jordan elimination, matrix method, determinant method."
+    },
+    {
+      "skill_name": "Matrix Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Solve problems related to matrices such as finding matrix sum, product, rank, inverse, and determinant."
+    },
+    {
+      "skill_name": "Vector Space Properties",
+      "category": "Hard Skill",
+      "outcome_description": "Solve problems related to vector space such as proving a set is a subspace, finding basis and dimension of a vector space, determining linear independence or dependence of a set of vectors."
+    },
+    {
+      "skill_name": "Linear Transformation Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify linear transformations and solve problems related to finding matrix representation, eigenvalues, eigenvectors, and diagonalization of matrices."
+    },
+    {
+      "skill_name": "Economic Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Explain basic economic concepts such as supply function, demand function, market equilibrium."
+    },
+    {
+      "skill_name": "Modeling Economic Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge and skills about systems of equations, matrices, and determinants to establish and solve models of single commodity market equilibrium, multiple commodity markets, macroeconomic equilibrium model, input-output balance model, network analysis, text encoding, Markov chains."
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal responsibility and group responsibility."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ability to learn independently, research independently, work independently, and work in teams."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

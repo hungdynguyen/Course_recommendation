@@ -1,0 +1,60 @@
+{
+  "course_id": "LUCS1104",
+  "title": "Constitutional Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Constitutional Law Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic theoretical issues about Constitutional Law"
+    },
+    {
+      "skill_name": "Social Foundation Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on social foundation systems in Vietnam"
+    },
+    {
+      "skill_name": "Human Rights",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on human rights and basic rights and obligations of Vietnamese citizens"
+    },
+    {
+      "skill_name": "State Organization",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on organization of state machinery in Vietnam"
+    },
+    {
+      "skill_name": "Election Laws",
+      "category": "Hard Skill",
+      "outcome_description": "Understand knowledge on election laws"
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills"
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication, presentation, and public speaking skills"
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ability for independent research, learning, and improving knowledge"
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate presentation skills and actively present research results"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

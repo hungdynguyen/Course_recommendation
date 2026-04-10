@@ -1,0 +1,45 @@
+{
+  "course_id": "Public Relations Writing Skills",
+  "title": "Kỹ năng viết trong quan hệ công chúng",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance ability to convey messages effectively through written communication."
+    },
+    {
+      "skill_name": "Public Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective presentation skills for various audiences."
+    },
+    {
+      "skill_name": "Event Management",
+      "category": "Hard Skill",
+      "outcome_description": "Organize and manage events to promote public relations goals."
+    },
+    {
+      "skill_name": "Crisis Management",
+      "category": "Hard Skill",
+      "outcome_description": "Handle crises and emergencies with effective communication strategies."
+    },
+    {
+      "skill_name": "Grant Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write successful grant proposals to secure funding for public relations activities."
+    },
+    {
+      "skill_name": "Grammar and Syntax",
+      "category": "Hard Skill",
+      "outcome_description": "Master rules of grammar and syntax to improve written communication."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

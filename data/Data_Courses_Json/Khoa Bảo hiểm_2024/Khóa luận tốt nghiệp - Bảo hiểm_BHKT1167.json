@@ -1,0 +1,79 @@
+{
+  "course_id": "BHKT1167",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research, analyze data, and propose solutions based on findings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate and solve problems in the insurance field."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in professional settings, both written and oral."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects, including planning, execution, and evaluation."
+    },
+    {
+      "skill_name": "Insurance Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge of insurance policies, procedures, and market trends."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and implement insurance policies and strategies."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, analyze, and interpret data to inform decision-making."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write comprehensive and structured reports based on research findings."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers and mentors to achieve project goals."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership in guiding and inspiring team members."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "BHTM2",
+      "BHXH2",
+      "QTKDBH2",
+      "QLBHXH 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance Fundamentals",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Data Analysis",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

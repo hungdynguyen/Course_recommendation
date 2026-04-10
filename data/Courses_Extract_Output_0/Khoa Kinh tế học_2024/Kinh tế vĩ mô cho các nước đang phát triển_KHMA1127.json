@@ -1,0 +1,37 @@
+{
+  "course_id": "KHMA1127",
+  "title": "Macroeconomics for Developing Countries",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply macroeconomic theories and models to analyze economic issues and policies in developing countries."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate macroeconomic policies in the context of developing economies."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret economic data related to growth, inflation, consumption, savings, investment, and money demand in developing countries."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research on macroeconomic issues and policies in developing countries using relevant literature and data sources."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 2 (KHMA1102)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

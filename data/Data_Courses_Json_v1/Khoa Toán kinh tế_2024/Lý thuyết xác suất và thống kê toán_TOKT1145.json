@@ -1,0 +1,40 @@
+{
+  "course_id": "TOkt1145",
+  "title": "Probability and Mathematical Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts of descriptive and inferential statistics to analyze data and support decision-making."
+    },
+    {
+      "skill_name": "Probability Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply basic concepts of probability theory to support decision-making in uncertain environments."
+    },
+    {
+      "skill_name": "Statistical Inference",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply methods of statistical inference to draw general conclusions from data."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use software tools to visualize data, perform statistical analysis, and generate reports to support decision-making."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills, work independently and in groups, and take personal and group responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

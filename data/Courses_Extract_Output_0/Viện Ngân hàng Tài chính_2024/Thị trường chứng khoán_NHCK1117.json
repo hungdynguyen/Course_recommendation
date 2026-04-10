@@ -1,0 +1,51 @@
+{
+  "course_id": "Thị trường chứng khoán",
+  "title": "Market Securities",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Markets Overview",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of securities markets including definitions, valuation methods, issuance, and trading."
+    },
+    {
+      "skill_name": "Securities Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various methods to value different types of securities."
+    },
+    {
+      "skill_name": "Stock Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze real-world scenarios in the Vietnamese stock market using theoretical knowledge."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to complete assigned tasks and projects."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time efficiently to meet deadlines and participate in class activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Accounting"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting Principles",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Basic Financial Concepts",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

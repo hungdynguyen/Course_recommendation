@@ -1,0 +1,48 @@
+{
+  "course_id": "Quản lý phát triển kinh tế địa phương",
+  "title": "Local Economic Development Management",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze local economic attributes and development goals."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement policies for local economic development."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategic plans for local economic development."
+    },
+    {
+      "skill_name": "Public Sector Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage public sector roles in local economic development."
+    },
+    {
+      "skill_name": "Competitive Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct competitive analysis using RBV theory."
+    },
+    {
+      "skill_name": "Environmental Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze external environment using Porter's Diamond Model."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Economics",
+      "Public Administration"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "PTKT1126",
+  "title": "Comparative Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Comparative Economic Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the concepts and criteria for classifying comparative economic systems."
+    },
+    {
+      "skill_name": "Evaluating Economic System Results",
+      "category": "Hard Skill",
+      "outcome_description": "Students can evaluate the results of economic systems including growth, efficiency, and stability."
+    },
+    {
+      "skill_name": "Analyzing and Comparing Economic Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze and compare different economic systems and their impacts."
+    },
+    {
+      "skill_name": "Global Issues Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze global issues such as climate change, globalization, and economic crises."
+    },
+    {
+      "skill_name": "Self-Learning and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop self-learning habits and understand professional ethics and social responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

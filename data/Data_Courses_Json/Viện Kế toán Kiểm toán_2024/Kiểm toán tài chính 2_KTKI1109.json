@@ -1,0 +1,77 @@
+{
+  "course_id": "KTKI1109",
+  "title": "Financial Auditing 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Auditing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply auditing principles to assess financial statements and risks."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and evaluate inherent and control risks in financial processes."
+    },
+    {
+      "skill_name": "Control Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Assess the effectiveness of internal controls in mitigating risks."
+    },
+    {
+      "skill_name": "Analytical Procedures",
+      "category": "Soft Skill",
+      "outcome_description": "Use analytical techniques to detect potential material misstatements."
+    },
+    {
+      "skill_name": "Audit Procedures",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement audit procedures based on identified risks."
+    },
+    {
+      "skill_name": "Evidence Collection",
+      "category": "Soft Skill",
+      "outcome_description": "Gather evidence to support audit conclusions and financial statements."
+    },
+    {
+      "skill_name": "Reporting",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare audit reports and management letters based on audit findings."
+    },
+    {
+      "skill_name": "Continuous Improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Apply audit findings to improve client's financial reporting processes."
+    },
+    {
+      "skill_name": "Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to laws, regulations, and ethical standards in audit engagements."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate audit results and management issues to stakeholders."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Auditing 1 (KTKI1108)",
+      "Financial Accounting 2 (KTTC1107)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Financial Accounting",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Auditing",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

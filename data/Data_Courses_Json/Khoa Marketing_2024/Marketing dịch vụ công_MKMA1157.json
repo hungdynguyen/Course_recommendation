@@ -1,0 +1,45 @@
+{
+  "course_id": "MKMA1157",
+  "title": "Marketing dịch vụ công",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the characteristics and principles of public service marketing, apply marketing mix tools in public service context, analyze market research to understand community needs, and propose marketing solutions for public services."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct market research to evaluate marketing mix tools in public service organizations, analyze environmental factors affecting public service marketing."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and deliver presentations and reports on marketing activities for public services, engage in group discussions and collaborative work."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to improve public service quality from a marketing perspective."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects, manage and coordinate team tasks to complete research reports and presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Marketing",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

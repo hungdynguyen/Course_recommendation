@@ -1,0 +1,67 @@
+{
+  "course_id": "DLLH1115",
+  "title": "Tourism Policy and Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism Policy Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of tourism policy and planning."
+    },
+    {
+      "skill_name": "Tourism Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of tourism policies on sustainable development."
+    },
+    {
+      "skill_name": "Tourism History Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Provide an overview of the history and current issues in tourism policy."
+    },
+    {
+      "skill_name": "Tourism Sustainability Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage tourism sustainably with responsible practices."
+    },
+    {
+      "skill_name": "Tourism Resource Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate potential and conditions for tourism planning."
+    },
+    {
+      "skill_name": "Tourism Planning Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize tools and techniques in tourism planning."
+    },
+    {
+      "skill_name": "Tourism Future Trends",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze future trends in tourism policy and planning."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking skills to assess resources and contexts for policy and planning."
+    },
+    {
+      "skill_name": "Collaborative Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to update knowledge, take responsibility, and be creative during individual and group discussions."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings effectively in group presentations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economics of Tourism"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "KTTC1122",
+  "title": "Chuyên đề thực tế ngành Kiểm toán",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Environment Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Describe business conditions, organizational structure, and identify the role and function of auditing and internal control in the unit."
+    },
+    {
+      "skill_name": "Strengths and Weaknesses Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate strengths and weaknesses regarding issues in accounting, auditing, and internal control activities of the unit."
+    },
+    {
+      "skill_name": "Written Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess writing skills for reports related to specialized topics in auditing and internal control."
+    },
+    {
+      "skill_name": "Independent and Team Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess independent work skills, effective teamwork, professionalism, and high adaptability in work."
+    },
+    {
+      "skill_name": "Self-study and Experience Accumulation",
+      "category": "Soft Skill",
+      "outcome_description": "Practice self-study, accumulate experience, and draw lessons from issues in auditing and internal control activities."
+    },
+    {
+      "skill_name": "Objective and Scientific Approach",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal views based on an objective and scientific approach."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kiểm toán tài chính 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

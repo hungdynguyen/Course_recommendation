@@ -1,0 +1,57 @@
+{
+  "course_id": "DLLH1146",
+  "title": "Travel Business Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Administration",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the formation and development of travel business, its role, functions, benefits, models, products, and markets."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply supply chain management principles in travel business."
+    },
+    {
+      "skill_name": "Quality Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply quality management principles in travel business."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply risk management principles in travel business."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Practice leadership skills in travel business."
+    },
+    {
+      "skill_name": "Performance Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze performance metrics in travel business."
+    },
+    {
+      "skill_name": "Interpersonal Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Manage internal and external relationships in travel business."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Tourism Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "course_id": "TNBD1128",
+  "title": "Real estate valuation 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real estate valuation fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basis, grounds, and principles of real estate valuation, financial principles and cash flows in valuing income-generating assets, real estate generating cash flows."
+    },
+    {
+      "skill_name": "Capitalization method application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply capitalization methods in real estate valuation."
+    },
+    {
+      "skill_name": "Surplus value method application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply surplus value methods in real estate valuation."
+    },
+    {
+      "skill_name": "Profit method application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply profit methods in real estate valuation."
+    },
+    {
+      "skill_name": "Land valuation techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct land valuation using various techniques."
+    },
+    {
+      "skill_name": "Report writing for real estate valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Write comprehensive reports on real estate valuation."
+    },
+    {
+      "skill_name": "Group work collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group work during real estate valuation tasks."
+    },
+    {
+      "skill_name": "Decision making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions in real estate valuation processes."
+    },
+    {
+      "skill_name": "Project planning",
+      "category": "Soft Skill",
+      "outcome_description": "Plan and manage progress in real estate valuation projects."
+    },
+    {
+      "skill_name": "Independent work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently in real estate valuation tasks."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think critically about real estate valuation issues."
+    },
+    {
+      "skill_name": "Professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to professional ethics in real estate valuation."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

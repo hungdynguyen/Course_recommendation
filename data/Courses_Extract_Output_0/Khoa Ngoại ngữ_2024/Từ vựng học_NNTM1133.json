@@ -1,0 +1,43 @@
+{
+  "course_id": "NNTM1133",
+  "title": "Lexicology",
+  "difficulty_level": "Advanced",
+  "duration": "100 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Vocabulary Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of English vocabulary."
+    },
+    {
+      "skill_name": "Word Formation",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze how words are constructed and their meanings."
+    },
+    {
+      "skill_name": "Etymology",
+      "category": "Soft Skill",
+      "outcome_description": "Examine the origins and meanings of English words."
+    },
+    {
+      "skill_name": "Semantic Relationships",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and understand semantic relationships between words."
+    },
+    {
+      "skill_name": "Practical Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply vocabulary knowledge effectively in various language skills such as speaking, reading, writing, and translation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Listening-Speaking 3",
+      "Reading-Writing 3"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

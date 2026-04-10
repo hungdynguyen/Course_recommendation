@@ -1,0 +1,74 @@
+{
+  "course_id": "NHLT1101",
+  "title": "Monetary and Financial Theories 1",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and terminology in the field of finance and monetary economics."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze fundamental activities in the field of finance and monetary economics."
+    },
+    {
+      "skill_name": "Financial Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical knowledge to practical research in finance and monetary economics."
+    },
+    {
+      "skill_name": "Financial Systems Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the relationship between components of the financial system."
+    },
+    {
+      "skill_name": "Interest Rate Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze factors influencing interest rates."
+    },
+    {
+      "skill_name": "Corporate Finance Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze differences between various types of corporate assets and sources of capital."
+    },
+    {
+      "skill_name": "Financial Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze differences between components of the financial market."
+    },
+    {
+      "skill_name": "Investment Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply interest rate calculations and time value of money to make investment decisions."
+    },
+    {
+      "skill_name": "Budget Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Discuss and analyze measures to address government budget deficits."
+    },
+    {
+      "skill_name": "Risk and Return Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze risks and returns of financial instruments to make investment portfolio choices."
+    },
+    {
+      "skill_name": "Independent and Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent and dynamic group work skills, including presentation skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Marxism-Leninism",
+      "Microeconomics",
+      "Macroeconomics"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "Capstone Project",
+  "title": "Capstone Project",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Relations Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on public relations issues within a specific organization."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and propose solutions to real-world public relations problems."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage the capstone project from planning to final presentation."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings and recommendations to stakeholders."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate public relations strategies and their impact."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Completion of all major credits"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

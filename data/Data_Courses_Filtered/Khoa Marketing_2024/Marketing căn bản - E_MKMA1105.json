@@ -1,0 +1,67 @@
+{
+  "course_id": "MKMA1105",
+  "title": "Principles of Marketing",
+  "difficulty_level": "Beginner",
+  "duration": "45 in-class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence, ideology and basic philosophies of marketing"
+    },
+    {
+      "skill_name": "Role of Marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and position of marketing; the relationship between the marketing function and other function"
+    },
+    {
+      "skill_name": "Marketing Implementation Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the marketing implementation process towards making effective marketing decisions"
+    },
+    {
+      "skill_name": "Information Gathering",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of information in marketing decision making and how to gather it"
+    },
+    {
+      "skill_name": "Marketing Environment Factors",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basis for making marketing decisions is the factors belonging to the marketing environment, including customers, micro factors and macro factors"
+    },
+    {
+      "skill_name": "STP Formula",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence and how to make strategic decisions in marketing through the STP formula"
+    },
+    {
+      "skill_name": "4Ps Formula",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence and the role of basic marketing tools through the 4Ps formula; analyse marketing activities in the organization/business"
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice teamwork skills"
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate information-gathering skills and generally analyse marketing activities in a specific business"
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the requirement to get social context; have professional ethics and social responsibility"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Micro Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

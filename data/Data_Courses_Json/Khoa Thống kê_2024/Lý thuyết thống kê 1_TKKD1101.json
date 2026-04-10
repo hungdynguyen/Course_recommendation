@@ -1,0 +1,47 @@
+{
+  "course_id": "TKKD1101",
+  "title": "Theory of Statistics 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the research process and basic statistical methods."
+    },
+    {
+      "skill_name": "Data Visualization",
+      "category": "Hard Skill",
+      "outcome_description": "Use software for data visualization."
+    },
+    {
+      "skill_name": "Statistical Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply methods for data collection, synthesis, and analysis."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate and collaborate in group activities."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Understand societal context and professional ethics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Mathematics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

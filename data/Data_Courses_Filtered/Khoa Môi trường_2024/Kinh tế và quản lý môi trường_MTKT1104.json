@@ -1,0 +1,70 @@
+{
+  "course_id": "MTKT1104",
+  "title": "Environmental economics and management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the economic nature of pollution, measure economic damages caused by pollution, and value natural resources and environment."
+    },
+    {
+      "skill_name": "Environmental management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic tools and management techniques to address environmental issues."
+    },
+    {
+      "skill_name": "Sustainable development",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and propose solutions for sustainable development issues."
+    },
+    {
+      "skill_name": "Green growth",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply concepts related to green growth and circular economy."
+    },
+    {
+      "skill_name": "Climate change economics",
+      "category": "Hard Skill",
+      "outcome_description": "Study and understand the economic aspects of climate change."
+    },
+    {
+      "skill_name": "Economic valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct cost-benefit analysis and economic valuation of natural resources and environment."
+    },
+    {
+      "skill_name": "Natural resource management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage renewable and non-renewable natural resources effectively."
+    },
+    {
+      "skill_name": "Group work",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups to solve practical problems."
+    },
+    {
+      "skill_name": "Self-study",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills to complete assignments and solve real-world problems."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate complex environmental issues critically."
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver effective presentations on environmental management topics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

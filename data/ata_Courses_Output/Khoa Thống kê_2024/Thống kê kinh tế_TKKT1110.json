@@ -1,0 +1,60 @@
+{
+  "course_id": "TKkt1110",
+  "title": "Economic Statistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Index Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between conceptual content and know how to calculate macroeconomic statistical indices."
+    },
+    {
+      "skill_name": "Statistical Analysis Method Selection",
+      "category": "Hard Skill",
+      "outcome_description": "Identify appropriate statistical analysis methods for economic statistics research."
+    },
+    {
+      "skill_name": "Comprehensive Statistical Indices Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Use comprehensive statistical indices in economic and social management analysis."
+    },
+    {
+      "skill_name": "Statistical Economic Models Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and explain statistical economic models and forecasts."
+    },
+    {
+      "skill_name": "Data Collection Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Have skills to collect, utilize data, choose and use tools in practical data collection, processing, analysis, and forecasting of economic statistical indices."
+    },
+    {
+      "skill_name": "Comparative Analysis of Economic Indicators",
+      "category": "Hard Skill",
+      "outcome_description": "Compare and contrast the application of economic statistical indicators in real-world scenarios."
+    },
+    {
+      "skill_name": "Appropriate Statistical Analysis Methods Selection",
+      "category": "Hard Skill",
+      "outcome_description": "Select and use suitable statistical analysis methods for real-world situations."
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have opinions and awareness about the social context."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Have critical thinking in topic selection and problem solving in the field of population and labor."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

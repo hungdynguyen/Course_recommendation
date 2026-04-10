@@ -1,0 +1,60 @@
+{
+  "course_id": "TIKT1130",
+  "title": "Database",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Database Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply basic knowledge about data querying, database design."
+    },
+    {
+      "skill_name": "Normalization Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain relationships within databases, normalize data up to 3NF."
+    },
+    {
+      "skill_name": "Relational Algebra Expressions",
+      "category": "Hard Skill",
+      "outcome_description": "Apply relational algebra expressions, SQL syntax to analyze, evaluate and explain query optimization and data integrity issues."
+    },
+    {
+      "skill_name": "SQL Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use basic MS SQL Server database management system."
+    },
+    {
+      "skill_name": "Database Design Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Possess ability to build normalized databases and apply basic principles of database design process for operational activities."
+    },
+    {
+      "skill_name": "Data Analysis and Decision Support",
+      "category": "Hard Skill",
+      "outcome_description": "Possess ability to approach different database models, analyze, advise and support digital transformation processes regarding data digitization."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Possess ability to work independently or actively, effectively participate in group activities."
+    },
+    {
+      "skill_name": "Group Activity Organization",
+      "category": "Soft Skill",
+      "outcome_description": "Possess ability to organize group activities."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Possess social responsibility and professional ethics in the field of Information Systems Management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "course_id": "KTKI 1116",
+  "title": "Financial Audit Practice",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accepting an audit client",
+      "category": "Hard Skill",
+      "outcome_description": "Apply procedures to consider accepting an audit client for financial statements."
+    },
+    {
+      "skill_name": "Initial risk assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct preliminary analysis techniques to identify accounts with potential misstatements."
+    },
+    {
+      "skill_name": "Planning audit procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize evaluation results, allocate materiality levels, and plan financial statement audit procedures."
+    },
+    {
+      "skill_name": "Risk assessment techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply audit techniques to assess potential risks associated with specific account balances on financial statements."
+    },
+    {
+      "skill_name": "Risk assessment controls",
+      "category": "Hard Skill",
+      "outcome_description": "Apply appropriate audit techniques to assess initial risk control for a type of activity/process during the financial statement audit process."
+    },
+    {
+      "skill_name": "Testing control procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Develop comprehensive and appropriate plans for testing control procedures and detailed transaction testing within a specific cycle."
+    },
+    {
+      "skill_name": "Detailed testing procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Design detailed testing procedures for specific account balances based on initial risk control assessments in a specific cycle."
+    },
+    {
+      "skill_name": "Sampling techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various sampling techniques consistently throughout audit procedures to test control activities, accounts, disclosures, and underlying data."
+    },
+    {
+      "skill_name": "Combining evidence",
+      "category": "Hard Skill",
+      "outcome_description": "Combine information/evidence to continue collecting additional evidence to complete the audit work and determine the auditor's opinion on the financial statements."
+    },
+    {
+      "skill_name": "Preparing audit reports",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare comprehensive and appropriate audit reports on financial statements and management letters."
+    },
+    {
+      "skill_name": "Recording working papers",
+      "category": "Hard Skill",
+      "outcome_description": "Record information on working papers for the purpose of accumulating evidence and forming an audit opinion on the audit report."
+    },
+    {
+      "skill_name": "Evaluating audit findings",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate audit findings from each audit phase and audit procedures at the end of the audit to decide on the type of audit opinion on the financial statements."
+    },
+    {
+      "skill_name": "Collaborative problem-solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to solve problems arising related to planning and designing audit procedures according to objectives in the financial statement audit process under specific conditions."
+    },
+    {
+      "skill_name": "Teamwork skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork skills to combine information in planning and designing audit procedures according to specific objectives in the financial statement audit process."
+    },
+    {
+      "skill_name": "Independent professional capability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent professional capabilities to comprehensively and integrally address issues related to planning, design, and implementation of financial statement audit procedures according to proper procedures."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to solving emerging issues when planning, designing, and implementing individual audit procedures under different conditions of financial statement audits."
+    },
+    {
+      "skill_name": "Identifying legal issues",
+      "category": "Hard Skill",
+      "outcome_description": "Accurately apply issues in planning, designing, and implementing audit procedures according to specific objectives when conducting financial statement audits of clients in a legal environment and relevant regulations."
+    },
+    {
+      "skill_name": "Audit procedure planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply the audit procedure for a specific client's financial statements; design and implement audit procedures according to specific objectives in the audit procedure for a specific client's financial statements."
+    },
+    {
+      "skill_name": "Defending audit opinions",
+      "category": "Hard Skill",
+      "outcome_description": "Defend the auditor's opinion on identified issues and proposed solutions in conditions of planning, designing, and implementing audit procedures according to specific objectives when auditing a specific client's financial statements."
+    },
+    {
+      "skill_name": "Compliance with regulations",
+      "category": "Hard Skill",
+      "outcome_description": "Comply with laws, relevant regulations, and professional ethical standards when planning, designing, and implementing audit procedures according to specific objectives while performing contracts for auditing financial statements of specific clients."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting Audit 1 (KTKI 1108)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "course_id": "NHTM1129",
+  "title": "Risk Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Identification",
+      "category": "Soft Skill",
+      "outcome_description": "Identify potential risks in business operations."
+    },
+    {
+      "skill_name": "Risk Classification",
+      "category": "Soft Skill",
+      "outcome_description": "Classify different types of risks."
+    },
+    {
+      "skill_name": "Risk Measurement",
+      "category": "Soft Skill",
+      "outcome_description": "Measure various types of risks."
+    },
+    {
+      "skill_name": "Risk Monitoring",
+      "category": "Soft Skill",
+      "outcome_description": "Monitor and control risks during business operations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Theory and Monetary Economics or Financial Theory and Monetary Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

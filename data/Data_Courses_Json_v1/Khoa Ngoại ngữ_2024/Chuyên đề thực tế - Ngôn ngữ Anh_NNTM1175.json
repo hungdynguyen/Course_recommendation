@@ -1,0 +1,52 @@
+{
+  "course_id": "NNTM1175",
+  "title": "Chuyên đề thực tế",
+  "difficulty_level": "Beginner",
+  "duration": "60 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the operations of a business and various job positions within it."
+    },
+    {
+      "skill_name": "Career Orientation",
+      "category": "Soft Skill",
+      "outcome_description": "Identify career paths and align them with personal goals and skills."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective communication skills in a professional setting."
+    },
+    {
+      "skill_name": "Job Search Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Master job search techniques, including resume writing and networking."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning and research capabilities."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and evaluate business activities."
+    },
+    {
+      "skill_name": "Career Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Create a career development plan based on professional requirements."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundation Courses"
+    ],
+    "minimum_entry_skills": []
+  }
+}

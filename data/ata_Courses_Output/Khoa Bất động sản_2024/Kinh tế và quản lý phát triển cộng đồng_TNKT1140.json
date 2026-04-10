@@ -1,0 +1,67 @@
+{
+  "course_id": "TNKT1140",
+  "title": "Economics and Management of Community Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Community Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts about communities and community development."
+    },
+    {
+      "skill_name": "Development Objectives",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and understand objectives and motivations for community development."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage resources effectively for community development projects."
+    },
+    {
+      "skill_name": "Institutional Frameworks",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply institutional frameworks for community development."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and manage community development projects."
+    },
+    {
+      "skill_name": "Organizational Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply organizational methods for managing community development."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning abilities and research skills."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve presentation skills and ability to deliver conclusions on economic and management issues in community development."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and contribute to group projects."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze problems critically and provide solutions for community development issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

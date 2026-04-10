@@ -1,0 +1,62 @@
+{
+  "course_id": "CNTT1165",
+  "title": "Web Design",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Web Architecture Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the operation of computer networks, network protocols, client-server architecture, and websites."
+    },
+    {
+      "skill_name": "HTML Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Apply techniques to design web interfaces using HTML and CSS."
+    },
+    {
+      "skill_name": "CSS Styling",
+      "category": "Hard Skill",
+      "outcome_description": "Apply advanced CSS techniques to create visually appealing web designs."
+    },
+    {
+      "skill_name": "JavaScript Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Apply JavaScript to build interactive web applications."
+    },
+    {
+      "skill_name": "Responsive Web Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design flexible and user-friendly web layouts that adapt to various devices."
+    },
+    {
+      "skill_name": "Web Development Tools",
+      "category": "Tool/Software",
+      "outcome_description": "Use development tools such as Visual Studio Code and Figma effectively."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills through practical exercises and projects."
+    },
+    {
+      "skill_name": "Collaboration Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with team members to complete group assignments on time."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently and manage personal responsibilities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Programming Basics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "course_id": "LUKD1123",
+  "title": "Private International Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Private International Law",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the legal framework governing international private law."
+    },
+    {
+      "skill_name": "Conflict of Laws",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to identify and analyze conflicts of laws in international private law."
+    },
+    {
+      "skill_name": "Legal Subjects in International Private Law",
+      "category": "Hard Skill",
+      "outcome_description": "Students will comprehend the subjects involved in international private law."
+    },
+    {
+      "skill_name": "International Civil Procedure",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn about the procedures for civil litigation involving foreign elements."
+    },
+    {
+      "skill_name": "International Arbitration",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the principles and practices of international arbitration."
+    },
+    {
+      "skill_name": "Ownership Rights in International Private Law",
+      "category": "Hard Skill",
+      "outcome_description": "Students will study ownership rights within the context of international private law."
+    },
+    {
+      "skill_name": "Legal Application in International Private Law",
+      "category": "Hard Skill",
+      "outcome_description": "Students will apply legal principles to specific cases in international private law."
+    },
+    {
+      "skill_name": "Consulting Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will advise parties involved in international private law matters."
+    },
+    {
+      "skill_name": "Self-Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop independent research, learning, and knowledge enhancement skills."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will present and defend their research findings effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

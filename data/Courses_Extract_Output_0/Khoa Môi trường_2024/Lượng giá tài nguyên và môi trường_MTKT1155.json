@@ -1,0 +1,40 @@
+{
+  "course_id": "MTKT1155",
+  "title": "Valuation of Natural Resource and Environment",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the theoretical foundations of welfare economics and its application in environmental valuation."
+    },
+    {
+      "skill_name": "Environmental Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various valuation methods to support decision-making in natural resource management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of environmental policies and programs."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Contribute to strategic planning for natural resource and environmental management."
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Support resolution of environmental disputes and claims."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "course_id": "BHKT1163",
+  "title": "Risk Management in Insurance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Management Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and master the framework, standards, and stages of the risk management process in insurance businesses; Master risk management tools."
+    },
+    {
+      "skill_name": "Risk Identification Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Master techniques for identifying, analyzing, and evaluating risks in insurance business operations; Apply knowledge to assess risks in insurance business operations."
+    },
+    {
+      "skill_name": "Risk Evaluation Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of risk management in insurance to recommend risk management strategies for insurance businesses."
+    },
+    {
+      "skill_name": "Systematic Thinking Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in synthesis, analysis, and systematic thinking; Possess the ability to organize and manage resources to support specialized management activities in insurance business operations."
+    },
+    {
+      "skill_name": "Independent Work Ethic",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance when working independently, show personal responsibility and responsibility towards the group."
+    },
+    {
+      "skill_name": "Objective Perspective on Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal views based on an objective and scientific approach to risk management activities in insurance businesses."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 1",
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "course_id": "TOCB1107",
+  "title": "Discrete Mathematics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logic",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts of logic."
+    },
+    {
+      "skill_name": "Proof Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in constructing and evaluating mathematical proofs."
+    },
+    {
+      "skill_name": "Set Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Master fundamental concepts of sets and functions."
+    },
+    {
+      "skill_name": "Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and design algorithms."
+    },
+    {
+      "skill_name": "Counting Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply counting principles to solve problems."
+    },
+    {
+      "skill_name": "Graph Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply graph theory concepts."
+    },
+    {
+      "skill_name": "Trees",
+      "category": "Hard Skill",
+      "outcome_description": "Work with tree structures and their applications."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply discrete mathematics to solve real-world problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking abilities through mathematical reasoning."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Computer Science (CNTT1116)",
+      "Mathematics for Economists (TOCB1110)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

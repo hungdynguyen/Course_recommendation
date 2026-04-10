@@ -1,0 +1,112 @@
+{
+  "course_id": "KTKI 1108",
+  "title": "Financial Auditing 1",
+  "difficulty_level": "Intermediate",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Audit Report Role Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the role of financial audit reports in influencing decisions."
+    },
+    {
+      "skill_name": "Risk-Based Audit Process Steps Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the steps in a risk-based financial audit process."
+    },
+    {
+      "skill_name": "Audit Evidence Requirements Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the relationship between audit evidence requirements and audit objectives in the financial audit process."
+    },
+    {
+      "skill_name": "Audit Planning Steps Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the planning steps for audits in relation to the execution of the financial audit process."
+    },
+    {
+      "skill_name": "Audit Technique Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Combine audit techniques with internal control review to design procedures for collecting audit evidence according to specific audit objectives in financial auditing."
+    },
+    {
+      "skill_name": "Sampling Method Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply sampling methods to perform audit procedures according to specific audit objectives."
+    },
+    {
+      "skill_name": "Audit Report Type Determination",
+      "category": "Hard Skill",
+      "outcome_description": "Determine the type of audit report in the financial audit process."
+    },
+    {
+      "skill_name": "Quality Factors Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify factors affecting the quality of financial audit reports and the effectiveness of risk management and internal controls processes."
+    },
+    {
+      "skill_name": "Integrated Audit Knowledge Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply comprehensive audit knowledge to solve problems during the financial audit process."
+    },
+    {
+      "skill_name": "Internal Control Improvement Solutions Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop solutions to improve the effectiveness of internal control and risk management processes in the audited entity, particularly internal controls related to financial reporting."
+    },
+    {
+      "skill_name": "Audit Standards Application Challenges Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify advantages and challenges when applying audit standards in the audit planning process for clients."
+    },
+    {
+      "skill_name": "Audit Procedure Design Conditions Determination",
+      "category": "Hard Skill",
+      "outcome_description": "Determine conditions for applying each audit method in designing and performing an audit procedure according to specific audit objectives."
+    },
+    {
+      "skill_name": "Significance Level Evaluation Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply results of significance level evaluation in audit planning for financial statements."
+    },
+    {
+      "skill_name": "Audit Techniques Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply audit techniques in targeted testing to form different audit procedures."
+    },
+    {
+      "skill_name": "Internal Control Review Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Integrate internal control review into each step of audit planning and audit procedure design."
+    },
+    {
+      "skill_name": "Sampling Techniques Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various sampling techniques consistently in performing audit procedures to test control activities, accounts, disclosures, and data sources."
+    },
+    {
+      "skill_name": "Audit Opinion Type Determination",
+      "category": "Hard Skill",
+      "outcome_description": "Determine the appropriate audit opinion type based on specific evidence conditions."
+    },
+    {
+      "skill_name": "Audit Report Content Preparation",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare key contents of an audit report based on provided information about a client's financial statement audit."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Comply with laws, regulations, ethical standards, and specific guidelines when planning, designing, and performing audits according to specific audit objectives while fulfilling specific client financial statement audit contracts."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Auditing (KTKI1101)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

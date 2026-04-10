@@ -1,0 +1,42 @@
+{
+  "course_id": "MKMA1167",
+  "title": "Final Project (Marketing)",
+  "difficulty_level": "Beginner",
+  "duration": "500 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage a final project independently under faculty guidance."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on a marketing topic chosen by the student."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze real-world marketing problems and propose solutions."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings through written reports and presentations."
+    },
+    {
+      "skill_name": "Industry Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate with industry professionals during internships."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "All required courses in the curriculum"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

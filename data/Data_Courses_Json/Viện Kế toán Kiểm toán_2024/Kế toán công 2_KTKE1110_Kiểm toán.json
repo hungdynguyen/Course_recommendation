@@ -1,0 +1,47 @@
+{
+  "course_id": "KTKE1110",
+  "title": "Public Accounting 2",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply public accounting principles and practices in governmental and non-profit organizations."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate financial management in public sector entities."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critically assess the application of accounting policies and methods in public sector entities."
+    },
+    {
+      "skill_name": "Systematic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Systematically analyze, evaluate, and solve accounting issues in public sector entities."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan, coordinate, manage resources, and improve the effectiveness of public sector operations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "KTKE1109"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Accounting",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

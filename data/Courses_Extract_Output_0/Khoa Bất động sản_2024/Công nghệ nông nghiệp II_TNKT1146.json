@@ -1,0 +1,42 @@
+{
+  "course_id": "TNKT1146",
+  "title": "Agricultural Technology II",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Post-harvest Technology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic principles of post-harvest technology including preservation and processing methods."
+    },
+    {
+      "skill_name": "Biological Technology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply biological technologies in animal husbandry and crop processing."
+    },
+    {
+      "skill_name": "Animal Husbandry",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and care for livestock using modern techniques."
+    },
+    {
+      "skill_name": "Food Processing",
+      "category": "Hard Skill",
+      "outcome_description": "Process agricultural products using advanced food processing techniques."
+    },
+    {
+      "skill_name": "Preservation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Implement effective preservation techniques for agricultural products."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Technology I"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

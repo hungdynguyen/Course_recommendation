@@ -1,0 +1,47 @@
+{
+  "course_id": "BHKT1166",
+  "title": "Introduction to Actuarial",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understand the basic theoretical knowledge about actuarial pricing",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the concepts, characteristics, scientific foundations in the process of calculating insurance premiums, assumptions applied when pricing."
+    },
+    {
+      "skill_name": "Understand the basis of actuarial pricing for life insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the principles and bases of actuarial pricing for life insurance, factors constituting the premium of each type of life insurance product."
+    },
+    {
+      "skill_name": "Calculate premiums for some basic life insurance products",
+      "category": "Hard Skill",
+      "outcome_description": "Apply formulas and assumptions to calculate premiums for some types of life insurance products."
+    },
+    {
+      "skill_name": "Understand the principles and bases of actuarial pricing for non-life insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the principles and bases of actuarial pricing for non-life insurance, methods and formulas for calculating premiums for some basic non-life insurance products."
+    },
+    {
+      "skill_name": "Calculate premiums for some basic non-life insurance products",
+      "category": "Hard Skill",
+      "outcome_description": "Apply formulas and assumptions to calculate premiums for some types of non-life insurance products."
+    },
+    {
+      "skill_name": "Work independently and in groups",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to work independently and in groups, logical thinking and critical thinking, legal awareness, and responsibility towards society."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

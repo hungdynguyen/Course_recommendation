@@ -1,0 +1,97 @@
+{
+  "course_id": "TNTN1138",
+  "title": "Environmental Impact Assessment of Natural Resource Projects",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Impact Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature, role, and methods of environmental impact assessment in natural resource projects."
+    },
+    {
+      "skill_name": "Legal and Regulatory Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply Vietnamese laws and regulations related to environmental impact assessment."
+    },
+    {
+      "skill_name": "Community Engagement",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply community engagement strategies in environmental impact assessment."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply project management principles in the context of environmental impact assessment."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze data using appropriate methods for environmental impact assessment."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate environmental impacts of natural resource projects."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and recommendations in environmental impact assessment."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve problems related to environmental impact assessment."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems using environmental impact assessment methodologies."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze data to assess environmental impacts of natural resource projects."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write comprehensive reports on environmental impact assessments."
+    },
+    {
+      "skill_name": "GIS (Geographic Information Systems)",
+      "category": "Hard Skill",
+      "outcome_description": "Use GIS for environmental impact assessment."
+    },
+    {
+      "skill_name": "Environmental Science",
+      "category": "Hard Skill",
+      "outcome_description": "Apply principles of environmental science in impact assessment."
+    },
+    {
+      "skill_name": "Environmental Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply environmental laws and regulations."
+    },
+    {
+      "skill_name": "Project Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate projects based on environmental impact assessments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Resource Management 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Resource Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

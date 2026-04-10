@@ -1,0 +1,101 @@
+{
+  "course_id": "KTKI 1106",
+  "title": "Kiểm toán hoạt động",
+  "difficulty_level": "Advanced",
+  "duration": "3TC",
+  "skill_outcomes": [
+    {
+      "skill_name": "Operational Auditing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply operational auditing principles and techniques to assess organizational activities in terms of economy, efficiency, and effectiveness."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks in operational auditing processes."
+    },
+    {
+      "skill_name": "Internal Control",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate internal control systems and their impact on organizational performance."
+    },
+    {
+      "skill_name": "Audit Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement audit plans based on risk assessment."
+    },
+    {
+      "skill_name": "Audit Reporting",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and present audit reports effectively."
+    },
+    {
+      "skill_name": "Process Improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Propose and defend recommendations for process improvement based on audit findings."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct audits of human resource management processes."
+    },
+    {
+      "skill_name": "Procurement Management",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct audits of procurement processes."
+    },
+    {
+      "skill_name": "Production Management",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct audits of production processes."
+    },
+    {
+      "skill_name": "Sales and Marketing Management",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct audits of sales and marketing processes."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct audits of basic financial processes."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems encountered during operational auditing."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate audit findings and recommendations."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to ethical standards in operational auditing."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kiểm toán căn bản (KTKI1101)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Auditing",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

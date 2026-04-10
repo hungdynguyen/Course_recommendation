@@ -1,0 +1,65 @@
+{
+  "course_id": "QLKT1128",
+  "title": "Quản lý thay đổi",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Change Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply theories of organizational change, resistance to change, and change management processes."
+    },
+    {
+      "skill_name": "Organizational Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in organizational learning and building learning organizations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate factors that drive and hinder organizational change."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effective communication, negotiation, and group management skills in the context of change."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply change management processes to solve organizational problems."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and manage change initiatives within organizations."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively in the context of organizational change."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and manage group dynamics during change."
+    },
+    {
+      "skill_name": "Self-Management",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independence, responsibility, and continuous learning in professional settings."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make ethical decisions and demonstrate professional responsibility in change management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "course_id": "LUKD1133",
+  "title": "Skills on Formulation and Execution of Commercial Contracts",
+  "difficulty_level": "Intermediate",
+  "duration": "3 units",
+  "skill_outcomes": [
+    {
+      "skill_name": "Contract Drafting",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to effectively draft commercial contracts."
+    },
+    {
+      "skill_name": "Legal Interpretation",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to interpret legal terms and conditions in commercial contracts."
+    },
+    {
+      "skill_name": "Contract Review",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to review and amend terms and conditions of commercial contracts."
+    },
+    {
+      "skill_name": "Case Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage real-life cases involving commercial contracts."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Law on commerce 1",
+      "Law on commerce 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "course_id": "TMQT1161",
+  "title": "Project – Ecommerce",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-commerce Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement strategies for e-commerce platforms."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct market research and analysis for e-commerce businesses."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze data to inform business decisions in e-commerce."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports summarizing research findings."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and project outcomes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Education Courses",
+      "Core Discipline Knowledge Courses"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

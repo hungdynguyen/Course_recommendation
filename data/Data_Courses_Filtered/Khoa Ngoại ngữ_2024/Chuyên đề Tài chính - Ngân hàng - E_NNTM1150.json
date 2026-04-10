@@ -1,0 +1,66 @@
+{
+  "course_id": "NNTM 1150",
+  "title": "English for Banking and Finance – in English",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening and Speaking Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Use listening and speaking skills in English for banking and finance at an advanced level."
+    },
+    {
+      "skill_name": "Reading and Writing Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop reading and writing skills in English for banking and finance at an advanced level."
+    },
+    {
+      "skill_name": "Financial Markets Vocabulary",
+      "category": "Hard Skill",
+      "outcome_description": "Expand vocabulary, terminology, and structures specific to financial markets in English."
+    },
+    {
+      "skill_name": "Banking Operations Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand functions and operations of banks and apply this knowledge to analyze financial activities or solve practical problems."
+    },
+    {
+      "skill_name": "Risk Management Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature and strategies of risk management in banks and apply this knowledge to analyze financial activities or solve practical problems."
+    },
+    {
+      "skill_name": "Financial Market Characteristics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the characteristics, functions, participants, and operations of financial markets and apply this knowledge to analyze financial activities or solve practical problems."
+    },
+    {
+      "skill_name": "Financial Instruments Characteristics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature, functions, and operations of financial instruments in financial markets and apply this knowledge to analyze financial activities or solve practical problems."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice group work skills."
+    },
+    {
+      "skill_name": "Information Gathering Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate information gathering skills and perform analysis of activities at a specific bank and financial market within the financial system."
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate awareness of social context."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional ethics and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

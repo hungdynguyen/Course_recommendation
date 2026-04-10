@@ -1,0 +1,35 @@
+{
+  "course_id": "MKDG1120",
+  "title": "Pricing Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Pricing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement pricing strategies."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze market factors affecting pricing."
+    },
+    {
+      "skill_name": "Marketing Mix Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Integrate pricing with other marketing tools."
+    },
+    {
+      "skill_name": "Price Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage pricing systems and adjust prices."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

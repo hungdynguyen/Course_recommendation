@@ -1,0 +1,62 @@
+{
+  "course_id": "TNKT 1128",
+  "title": "World Agricultural Markets / International Trading of Agricultural Products",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding global agricultural market functions",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the basic functions and characteristics of the global agricultural market, international commitments in agricultural trade under global economic integration."
+    },
+    {
+      "skill_name": "Analyzing global agricultural market trends",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze the global market trends for major agricultural products such as rice, seafood, fruits, and coffee."
+    },
+    {
+      "skill_name": "Evaluating Vietnam's position in global agricultural markets",
+      "category": "Hard Skill",
+      "outcome_description": "Students will assess Vietnam's role and opportunities in the global agricultural market."
+    },
+    {
+      "skill_name": "Government management of international agricultural trade",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand government regulations and management of international agricultural trade."
+    },
+    {
+      "skill_name": "Presenting on specific agricultural commodities",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to present information on specific agricultural commodities in the global market."
+    },
+    {
+      "skill_name": "Effective communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will improve their communication skills with peers and stakeholders in the workplace."
+    },
+    {
+      "skill_name": "Analytical and systematic thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn to analyze and think systematically about opportunities and challenges in participating in the global agricultural market."
+    },
+    {
+      "skill_name": "Social responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Students will demonstrate social responsibility and compliance with laws and regulations."
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to independently study and accumulate knowledge and experience to continue higher education and adapt to changing work environments."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

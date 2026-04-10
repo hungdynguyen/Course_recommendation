@@ -1,0 +1,61 @@
+{
+  "course_id": "KTKE1108",
+  "title": "International Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Accounting",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the nature and role of international accounting, its formation and development, and the diversity of international accounting systems and factors influencing their development."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the differences in financial reporting in multinational companies and apply methods for converting international financial reports and consolidating financial statements."
+    },
+    {
+      "skill_name": "Taxation",
+      "category": "Tool/Software",
+      "outcome_description": "Understand international taxation methods for multinational companies."
+    },
+    {
+      "skill_name": "Management Accounting",
+      "category": "Tool/Software",
+      "outcome_description": "Identify management accounting methods for specific content in multinational companies."
+    },
+    {
+      "skill_name": "Auditing",
+      "category": "Tool/Software",
+      "outcome_description": "Identify differences in international auditing and international auditing standards."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking skills to analyze and evaluate issues in the context of accounting."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective communication skills in writing reports and presenting professional content."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to work independently and collaboratively in a dynamic work environment."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate adaptability in a changing work environment."
+    },
+    {
+      "skill_name": "Professional Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate personal responsibility and accountability in group work."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

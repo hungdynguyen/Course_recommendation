@@ -1,0 +1,46 @@
+{
+  "course_id": "TMKQ1103",
+  "title": "Foreign Economic Policy 1",
+  "difficulty_level": "Advanced",
+  "duration": "30 hours of lectures + 15 hours of discussions/practice + 90 hours of self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of foreign economic policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and recognize fundamental issues related to foreign economic policies of a country"
+    },
+    {
+      "skill_name": "Analyzing models and contents of international trade and investment policies",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze models, contents, international trade and investment policies of Singapore and Malaysia"
+    },
+    {
+      "skill_name": "Collecting and analyzing data",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge to analyze and recognize the suitability of models and contents of foreign economic policies of Singapore and Malaysia"
+    },
+    {
+      "skill_name": "Generalizing lessons learned",
+      "category": "Soft Skill",
+      "outcome_description": "Summarize lessons learned and policy implications for Vietnam after studying foreign economic policies of Singapore and Malaysia"
+    },
+    {
+      "skill_name": "Working independently and in teams",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work independently and in teams when completing tasks and assignments"
+    },
+    {
+      "skill_name": "Self-study and research skills",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize professional ethics and social responsibility"
+    },
+    {
+      "skill_name": "Professional ethics and social responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to self-study and find materials to complete assigned tasks and assignments"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

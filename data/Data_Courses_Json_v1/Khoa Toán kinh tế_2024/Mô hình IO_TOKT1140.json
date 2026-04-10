@@ -1,0 +1,82 @@
+{
+  "course_id": "TOkt1140",
+  "title": "Input-Output Model",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze economic models and systems."
+    },
+    {
+      "skill_name": "Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical concepts to economic models."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret data using Excel."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and critique economic models and data."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to solve economic problems."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and economic analyses."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and apply findings to economic models."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Use Excel for data analysis and economic modeling."
+    },
+    {
+      "skill_name": "Input-Output Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply Input-Output models in economic analysis."
+    },
+    {
+      "skill_name": "National Accounts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze national accounts data."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Mathematics for Economists"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Mathematics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

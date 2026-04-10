@@ -1,0 +1,31 @@
+{
+  "course_id": "TKkD1112",
+  "title": "Statistics for Quality Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply statistical methods to assess product and process quality."
+    },
+    {
+      "skill_name": "Quality Management",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize statistical tools for macro-level management decisions."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Design effective data collection processes for quality assessment."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Use statistical analysis to inform quality-related decision-making."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

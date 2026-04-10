@@ -1,0 +1,35 @@
+{
+  "course_id": "QLXH1126",
+  "title": "State Management for Non-Governmental Organizations",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Administration",
+      "category": "Soft Skill",
+      "outcome_description": "Understand state management principles for non-governmental organizations."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze government policies and laws related to non-governmental organizations."
+    },
+    {
+      "skill_name": "Non-Profit Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage non-governmental organizations effectively according to state regulations."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Ensure compliance with legal requirements for non-governmental organizations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

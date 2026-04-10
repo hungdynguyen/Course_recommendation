@@ -1,0 +1,90 @@
+{
+  "course_id": "NHCO1119",
+  "title": "Public Asset Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Asset Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept, characteristics, and structure of public assets and their role in the economy."
+    },
+    {
+      "skill_name": "Public Asset Management",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the basic theories and practices of managing public assets in administrative and infrastructure sectors."
+    },
+    {
+      "skill_name": "Public Asset Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the financial management of specific assets such as land, resources, and state-owned assets."
+    },
+    {
+      "skill_name": "Public Asset Management",
+      "category": "Soft Skill",
+      "outcome_description": "Learn the valuation methods for public assets and land."
+    },
+    {
+      "skill_name": "Public Asset Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the organizational structure and principles of public asset management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to evaluate issues in public asset management."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research, analyze, and synthesize information to evaluate public asset management issues."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage financial aspects of public assets."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and comply with legal regulations related to public asset management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze policies related to public asset management."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic principles to public asset management."
+    },
+    {
+      "skill_name": "Asset Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and value public assets."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver effective presentations on public asset management topics."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and prepare for exams."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

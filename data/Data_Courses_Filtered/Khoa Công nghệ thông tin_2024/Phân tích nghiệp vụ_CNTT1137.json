@@ -1,0 +1,71 @@
+{
+  "course_id": "CNTT1137",
+  "title": "Business Analysis",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Analysis Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Describe key concepts in business analysis including business analyst roles, core conceptual models, and stakeholder engagement."
+    },
+    {
+      "skill_name": "Requirement Gathering Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply techniques for eliciting and collaborating with stakeholders to define requirements, manage requirement lifecycles, and evaluate solutions."
+    },
+    {
+      "skill_name": "Analyzing and Defining Solutions",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and define solutions based on functional and non-functional requirements, design specifications, and solution evaluation."
+    },
+    {
+      "skill_name": "Problem Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate problem-solving skills related to business analysis tasks."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to complete assignments and projects."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in self-directed learning to acquire new knowledge and skills in business analysis."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking abilities to analyze complex business scenarios."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and solutions effectively using appropriate communication methods."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage project timelines, deliverables, and team coordination for business analysis projects."
+    },
+    {
+      "skill_name": "Strategic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct strategic analysis to assess current state, future state, risks, and change strategies."
+    },
+    {
+      "skill_name": "Modeling and Specifying Requirements",
+      "category": "Hard Skill",
+      "outcome_description": "Model and specify functional and non-functional requirements using appropriate tools and techniques."
+    },
+    {
+      "skill_name": "Solution Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate potential solutions based on their value and impact on business operations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

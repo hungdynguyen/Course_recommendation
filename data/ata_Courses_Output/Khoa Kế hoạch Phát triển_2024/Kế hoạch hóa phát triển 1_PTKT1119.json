@@ -1,0 +1,72 @@
+{
+  "course_id": "PTKT 1119",
+  "title": "Development Planning 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Plan Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Explain basic concepts of development planning in a market economy."
+    },
+    {
+      "skill_name": "Differentiate Centralized vs Market Economy Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Distinguish characteristics of centralized versus market economy planning."
+    },
+    {
+      "skill_name": "Understand Need for Planning Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the necessity of planning tools for macroeconomic management by the state."
+    },
+    {
+      "skill_name": "Context Analysis for Planning Decisions",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze contextual factors influencing the selection of planning tools and methods in Vietnam's market economy."
+    },
+    {
+      "skill_name": "Evaluate Achievements and Limitations",
+      "category": "Hard Skill",
+      "outcome_description": "Assess achievements and limitations in organizing and implementing planning activities in Vietnam."
+    },
+    {
+      "skill_name": "Apply Modern Planning Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Apply modern planning principles in developing national, sectoral, and local development plans."
+    },
+    {
+      "skill_name": "Construct Logical Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Develop the logical framework and basic content of a development plan (national/sector/local)."
+    },
+    {
+      "skill_name": "Develop Action Plans",
+      "category": "Hard Skill",
+      "outcome_description": "Create action plans to implement development plans."
+    },
+    {
+      "skill_name": "Monitor and Evaluate Development Plans",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze monitoring and evaluation indicators for development plans."
+    },
+    {
+      "skill_name": "Demonstrate Professionalism",
+      "category": "Soft Skill",
+      "outcome_description": "Show professionalism, responsibility, and ethical conduct in implementing and evaluating plans."
+    },
+    {
+      "skill_name": "Work in Teams",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork, communication, and presentation skills to present and defend planning results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economic Development 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "course_id": "CNTT1119",
+  "title": "Website Design and Programming",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Web Architecture",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts of web architecture and web services."
+    },
+    {
+      "skill_name": "Web Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design and implement the architecture, interface, and database of a website."
+    },
+    {
+      "skill_name": "HTML",
+      "category": "Hard Skill",
+      "outcome_description": "Create and manipulate HTML documents."
+    },
+    {
+      "skill_name": "CSS",
+      "category": "Hard Skill",
+      "outcome_description": "Style and format web pages using CSS."
+    },
+    {
+      "skill_name": "Object-Oriented Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Apply object-oriented programming principles in web development."
+    },
+    {
+      "skill_name": "Web Application Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop web applications using languages such as C#, Java, JavaScript, or PHP."
+    },
+    {
+      "skill_name": "Database Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Connect and interact with databases in web applications."
+    },
+    {
+      "skill_name": "Web Services",
+      "category": "Hard Skill",
+      "outcome_description": "Implement and use web services in web applications."
+    },
+    {
+      "skill_name": "MVC Model",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply the Model-View-Controller (MVC) architecture in web development."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and coordinate resources, evaluate and improve the efficiency of web development activities."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance and responsibility in independent learning and teamwork."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal viewpoints based on objective and scientific approaches."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in web development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

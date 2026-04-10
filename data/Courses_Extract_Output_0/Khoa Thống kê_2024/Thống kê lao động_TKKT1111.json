@@ -1,0 +1,31 @@
+{
+  "course_id": "TKKT1111",
+  "title": "Labor Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct statistical analysis on labor force dynamics, employment, unemployment, productivity, wages, and income."
+    },
+    {
+      "skill_name": "Labor Market Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to forecast labor market trends using statistical methods."
+    },
+    {
+      "skill_name": "Economic Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to analyze economic data related to labor statistics."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding of basic research methodologies used in labor statistics studies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

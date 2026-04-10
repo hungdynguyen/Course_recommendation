@@ -1,0 +1,42 @@
+{
+  "course_id": "LUCS1124",
+  "title": "Comparative Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Comparative Legal Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Students have basic knowledge about comparative law science and deep understanding of the characteristics of major legal systems around the world."
+    },
+    {
+      "skill_name": "Legal Systems Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze the factors affecting the formation and development of legal systems, evaluate and analyze the reasons for similarities and differences between legal systems."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop research skills, independent work skills, teamwork skills, and presentation skills."
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students can analyze legal solutions from different legal systems to make decisions on applying appropriate solutions to emerging legal issues."
+    },
+    {
+      "skill_name": "Independent Research Capability",
+      "category": "Soft Skill",
+      "outcome_description": "Students form an attitude of active and independent scientific research, propose research topics, and solve scientific legal problems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

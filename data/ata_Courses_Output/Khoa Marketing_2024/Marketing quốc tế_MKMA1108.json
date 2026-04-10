@@ -1,0 +1,60 @@
+{
+  "course_id": "MKMA1108",
+  "title": "International Marketing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the basics of international marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the essence of international marketing, planning and strategic processes, environmental analysis, customer behavior, resource management, and execution of marketing activities."
+    },
+    {
+      "skill_name": "Analyzing environmental factors and marketing resources",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of political, legal, economic, cultural, and social environments on marketing activities."
+    },
+    {
+      "skill_name": "Evaluating market entry strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the feasibility of entering international markets and select appropriate market entry strategies."
+    },
+    {
+      "skill_name": "Developing international marketing plans",
+      "category": "Hard Skill",
+      "outcome_description": "Create comprehensive international marketing plans for specific products or brands."
+    },
+    {
+      "skill_name": "Implementing marketing strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Execute and manage marketing strategies in international markets."
+    },
+    {
+      "skill_name": "Adapting to international business environments",
+      "category": "Soft Skill",
+      "outcome_description": "Adjust marketing strategies to fit different international business environments."
+    },
+    {
+      "skill_name": "Collaborative teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, contribute to group discussions, and support team members."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve marketing problems in international contexts."
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently and integrate knowledge from various disciplines."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

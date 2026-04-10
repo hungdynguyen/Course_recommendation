@@ -1,0 +1,38 @@
+{
+  "course_id": "DLKS1128",
+  "title": "Cultural Tourism",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cultural Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Gain a fundamental understanding of cultural tourism and its relationship with culture."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze market conditions and develop products suitable for cultural tourism."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage cultural resources effectively for sustainable tourism development."
+    },
+    {
+      "skill_name": "Tourism Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and manage sustainable cultural tourism development."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Vietnamese Cultural History",
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

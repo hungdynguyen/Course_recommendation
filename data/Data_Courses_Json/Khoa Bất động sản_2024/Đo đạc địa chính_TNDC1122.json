@@ -1,0 +1,65 @@
+{
+  "course_id": "TNDC1122",
+  "title": "Cadastral Survey",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land Surveying",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of cadastral surveying, including mathematical foundations, principles, and methods for collecting land data and creating cadastral maps."
+    },
+    {
+      "skill_name": "Cartography",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to design, measure, and compile cadastral maps and land records."
+    },
+    {
+      "skill_name": "Geospatial Data Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and utilize cadastral maps and records for land management tasks."
+    },
+    {
+      "skill_name": "Geomatics",
+      "category": "Soft Skill",
+      "outcome_description": "Apply geomatics principles to analyze and interpret cadastral data."
+    },
+    {
+      "skill_name": "Land Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply cadastral data and maps to land management tasks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to solve problems in land management."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently study and complete assignments."
+    },
+    {
+      "skill_name": "Technical Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write technical reports and presentations based on cadastral data."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret data from cadastral surveys."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

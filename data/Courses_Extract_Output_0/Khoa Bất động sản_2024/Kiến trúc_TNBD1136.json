@@ -1,0 +1,35 @@
+{
+  "course_id": "TNBD1136",
+  "title": "Architecture",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Architectural Design",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and principles of architectural design."
+    },
+    {
+      "skill_name": "Technical Drawing",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to read and interpret technical drawings."
+    },
+    {
+      "skill_name": "Urban Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Basic understanding of urban planning principles."
+    },
+    {
+      "skill_name": "Critical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze and evaluate architectural designs."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "course_id": "TMQT1152",
+  "title": "E-commerce Transaction: Theory and Practice",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding e-commerce transaction concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand and apply knowledge about e-commerce transactions such as B2C, B2B2C, C2C, B2B and applications of technology in management and society."
+    },
+    {
+      "skill_name": "Applying technology and data in managing e-commerce transactions",
+      "category": "Hard Skill",
+      "outcome_description": "Students will apply technology and data in managing various types of e-commerce transactions and specific applications in different economic sectors."
+    },
+    {
+      "skill_name": "Information retrieval and synthesis",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to find and synthesize information related to the e-commerce business environment, government, social, and digital economy."
+    },
+    {
+      "skill_name": "Collaborative work and presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will practice teamwork and present research results on e-commerce transactions."
+    },
+    {
+      "skill_name": "Self-study and practical application",
+      "category": "Soft Skill",
+      "outcome_description": "Students will enhance their ability to study independently and apply e-commerce transactions in various platforms."
+    },
+    {
+      "skill_name": "Critical thinking and problem-solving",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop critical thinking and problem-solving skills in the context of e-commerce transactions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General courses",
+      "Basic knowledge of e-commerce"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

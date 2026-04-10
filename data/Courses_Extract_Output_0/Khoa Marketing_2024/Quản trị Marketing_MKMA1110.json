@@ -1,0 +1,42 @@
+{
+  "course_id": "MKMA1110",
+  "title": "Marketing Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze market opportunities and select target markets."
+    },
+    {
+      "skill_name": "Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement marketing strategies."
+    },
+    {
+      "skill_name": "Marketing Execution",
+      "category": "Soft Skill",
+      "outcome_description": "Execute marketing plans and monitor their effectiveness."
+    },
+    {
+      "skill_name": "Marketing Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate marketing performance and make adjustments as necessary."
+    },
+    {
+      "skill_name": "Marketing Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize various marketing tools and techniques."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

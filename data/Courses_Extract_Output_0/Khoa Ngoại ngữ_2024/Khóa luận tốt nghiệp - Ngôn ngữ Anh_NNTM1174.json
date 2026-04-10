@@ -1,0 +1,48 @@
+{
+  "course_id": "General Information",
+  "title": "Khóa Luận Tốt Nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "Full Semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Apply research methodologies effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex problems critically."
+    },
+    {
+      "skill_name": "Academic Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Produce well-structured and coherent academic papers."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct comprehensive data analysis using appropriate tools."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects efficiently from conception to completion."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate professionally in both written and oral formats."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Education",
+      "Major-Specific Courses"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

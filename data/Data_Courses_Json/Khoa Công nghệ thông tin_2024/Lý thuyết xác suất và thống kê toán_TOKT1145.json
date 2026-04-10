@@ -1,0 +1,65 @@
+{
+  "course_id": "TOkt1145",
+  "title": "Probability and Mathematical Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze data and support decision-making using probability and statistical methods."
+    },
+    {
+      "skill_name": "Probability",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of probability concepts and distributions."
+    },
+    {
+      "skill_name": "Statistical Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of statistical methods and their applications in economics and business."
+    },
+    {
+      "skill_name": "Statistical Inference",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to draw conclusions from data using statistical inference techniques."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Excel for data analysis and statistical computations."
+    },
+    {
+      "skill_name": "R Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Basic proficiency in using R for statistical analysis."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to make decisions based on statistical analysis and probability."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Developing the ability to learn independently and work collaboratively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhancing critical thinking skills through statistical analysis."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to write reports based on statistical analysis to support decision-making."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

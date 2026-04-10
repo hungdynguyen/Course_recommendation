@@ -1,0 +1,51 @@
+{
+  "course_id": "CNTT1157",
+  "title": "Mobile Applications Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Mobile App Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop mobile applications using Android or iOS platforms."
+    },
+    {
+      "skill_name": "Programming Languages",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in programming languages such as Java, Objective-C, Swift."
+    },
+    {
+      "skill_name": "UI Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design user interfaces for mobile applications."
+    },
+    {
+      "skill_name": "Data Storage",
+      "category": "Hard Skill",
+      "outcome_description": "Implement data storage solutions for mobile apps."
+    },
+    {
+      "skill_name": "Networking",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and implement networking concepts in mobile app development."
+    },
+    {
+      "skill_name": "API Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize APIs to enhance functionality in mobile applications."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams to develop mobile applications."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to independently learn new technologies and apply them in mobile app development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

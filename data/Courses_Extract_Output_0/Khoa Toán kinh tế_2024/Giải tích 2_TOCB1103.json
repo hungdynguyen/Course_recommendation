@@ -1,0 +1,46 @@
+{
+  "course_id": "TOCB1103",
+  "title": "Calculus 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Differential Equations",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and solving differential equations."
+    },
+    {
+      "skill_name": "Difference Equations",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and solving difference equations."
+    },
+    {
+      "skill_name": "Series Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding series theory and its applications."
+    },
+    {
+      "skill_name": "Multiple Integrals",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding multiple integrals and their applications."
+    },
+    {
+      "skill_name": "Mathematical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyzing economic models using mathematical methods."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Developing critical thinking skills through mathematical analysis."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Applying mathematical knowledge to solve real-world problems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

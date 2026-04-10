@@ -1,0 +1,71 @@
+{
+  "course_id": "TIHT1113",
+  "title": "Phát triển các ứng dụng trong quản lý",
+  "difficulty_level": "Advanced",
+  "duration": "3TC",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge on the importance of IT in management and the concepts of commercial software applications."
+    },
+    {
+      "skill_name": "Database Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement database systems for management applications."
+    },
+    {
+      "skill_name": "Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Develop software applications using programming languages such as C#."
+    },
+    {
+      "skill_name": "User Interface Design",
+      "category": "Hard Skill",
+      "outcome_description": "Create user-friendly interfaces for management applications."
+    },
+    {
+      "skill_name": "Report Generation",
+      "category": "Hard Skill",
+      "outcome_description": "Generate reports from management applications."
+    },
+    {
+      "skill_name": "Security and Data Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement security measures and manage data in software applications."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively in team settings."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and manage group activities effectively."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of management information systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Ứng dụng cơ sở dữ liệu"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Database Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

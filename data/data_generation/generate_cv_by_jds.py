@@ -19,12 +19,12 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # Paths configuration
 BASE_DIR = Path(__file__).parent.parent.parent  # Go up to /root/courses_rec/
-JDS_PATH = BASE_DIR / "data" / "raw" / "jds" / "jds.xlsx"
+JDS_PATH = BASE_DIR / "data" / "raw" / "jds" / "job_jds_1.xlsx"
 OUTPUT_DIR = BASE_DIR / "data" / "processed" / "jd_cv_pairs"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Generation parameters
-TARGET_SAMPLES = 2  # Số lượng JD-CV pairs muốn tạo
+TARGET_SAMPLES = 1000  # Số lượng JD-CV pairs muốn tạo
 MIN_MATCHING = 60  # % matching tối thiểu
 MAX_MATCHING = 80  # % matching tối đa
 LLM_MODEL = "gemini-3-flash-preview"

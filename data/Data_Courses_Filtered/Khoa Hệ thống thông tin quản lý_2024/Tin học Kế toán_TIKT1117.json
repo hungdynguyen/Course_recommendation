@@ -1,0 +1,69 @@
+{
+  "course_id": "TIKT1117",
+  "title": "Accounting Informatics",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Terminology Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand relevant terminologies related to accounting data, accounting information, accounting database, accounting software, accounting information system, process handling accounting tasks, developing accounting information systems."
+    },
+    {
+      "skill_name": "Digitalization of Accounting Management",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the content of digitalizing accounting management, accounting information systems, and the role of accounting information systems in business organizations, especially in today's digital economy."
+    },
+    {
+      "skill_name": "Deployment of Accounting Information System Development Process",
+      "category": "Hard Skill",
+      "outcome_description": "Deploy stages of the development process of accounting information systems: deploying data warehouse systems, deploying tools for creating accounting databases, programming tools for accounting software."
+    },
+    {
+      "skill_name": "MS Access Proficiency",
+      "category": "Tool/Software",
+      "outcome_description": "Proficiently use MS Access to build basic accounting subsystems in accounting software for small and medium-sized businesses. Analyze real-world problems at businesses to advise on choosing the most suitable and optimal accounting software."
+    },
+    {
+      "skill_name": "Accounting Software Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the quality and effectiveness of various accounting software available in the market."
+    },
+    {
+      "skill_name": "Analytical Skills for Digital Transformation",
+      "category": "Soft Skill",
+      "outcome_description": "Develop analytical skills for planning, implementing digital transformation, and developing smart businesses. Evaluate the quality and effectiveness of various accounting software available in the market."
+    },
+    {
+      "skill_name": "Practical Application of MS Access",
+      "category": "Tool/Software",
+      "outcome_description": "Proficiently use MS Access to implement practical accounting software at organizations/businesses."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Possess self-learning abilities, reading materials about accounting informatics and accounting information systems, systematic thinking, and modeling in approaching and solving accounting problems of businesses."
+    },
+    {
+      "skill_name": "Independent Work Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to work independently or actively, positively, and effectively participate in group activities. Possess organizational skills for group activities."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Have social responsibility and professional ethics in the field of information management systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Computer Science",
+      "Database Fundamentals",
+      "Accounting Principles"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

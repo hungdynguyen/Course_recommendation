@@ -1,0 +1,76 @@
+{
+  "course_id": "QLXH1127",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply research methodologies and analyze data to solve practical problems in public management and organizations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve real-world problems related to public management and organizations."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings and solutions through presentations and reports."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time and resources effectively to complete research projects."
+    },
+    {
+      "skill_name": "Public Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of public management and organizational management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and propose solutions for public policies and organizational issues."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategic plans and policies for public organizations."
+    },
+    {
+      "skill_name": "Ethical Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical behavior and leadership qualities in public management roles."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve complex problems in public management."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and take responsibility for professional tasks."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "All required courses of the Public Management major"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Public Management",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Policy Analysis",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "course_id": "MKTT1112",
+  "title": "Quản trị quảng cáo",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Advertising Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature, role, and functions of advertising; grasp the economic, social, and legal aspects of advertising."
+    },
+    {
+      "skill_name": "Consumer Behavior Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze consumer reception in advertising; understand the psychological and social factors influencing consumer behavior."
+    },
+    {
+      "skill_name": "Media Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement media planning strategies; allocate advertising budgets effectively."
+    },
+    {
+      "skill_name": "Creative Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Create and design effective advertising messages; develop creative strategies for advertising campaigns."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups; analyze advertising activities in specific organizations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the effectiveness of advertising campaigns; propose appropriate advertising strategies."
+    },
+    {
+      "skill_name": "Legal and Ethical Considerations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal and ethical issues in advertising; apply ethical principles in advertising practices."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver presentations effectively; communicate advertising strategies clearly."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on advertising; analyze data and draw conclusions."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic plans for advertising campaigns; integrate various media channels."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Marketing Fundamentals",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "LLNL1105",
+  "title": "Philosophy of Marxism and Leninism",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marxist Philosophy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the fundamental concepts of Marxist philosophy."
+    },
+    {
+      "skill_name": "Leninist Thought",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the core principles of Leninist thought."
+    },
+    {
+      "skill_name": "Materialist Dialectics",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend the basics of materialist dialectics."
+    },
+    {
+      "skill_name": "Historical Materialism",
+      "category": "Soft Skill",
+      "outcome_description": "Apply the principles of historical materialism to real-world scenarios."
+    },
+    {
+      "skill_name": "Social Dynamics",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the laws governing social movement and development."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "None"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

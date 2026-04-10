@@ -1,0 +1,50 @@
+{
+  "course_id": "TIHT1123",
+  "title": "Application of Artificial Intelligence in Business and Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Artificial Intelligence Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts, achievements, application areas, and future trends of AI."
+    },
+    {
+      "skill_name": "Problem Solving Techniques in AI",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate problem-solving techniques using search methods, data science, and machine learning approaches."
+    },
+    {
+      "skill_name": "Machine Learning Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply supervised, unsupervised, semi-supervised, reinforcement learning, and deep learning methods."
+    },
+    {
+      "skill_name": "Model Building for AI Applications",
+      "category": "Hard Skill",
+      "outcome_description": "Develop models and applications of AI in business and management."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on AI applications in business and management."
+    },
+    {
+      "skill_name": "Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams to solve problems related to AI applications."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently and manage personal responsibilities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

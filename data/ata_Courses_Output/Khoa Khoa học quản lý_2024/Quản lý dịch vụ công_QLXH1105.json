@@ -1,0 +1,95 @@
+{
+  "course_id": "QLXH1105",
+  "title": "Public Services Management",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Service Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of public services and management of public service provision by an organization."
+    },
+    {
+      "skill_name": "Human Resource Management Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply the human resource management process within an organization providing public services."
+    },
+    {
+      "skill_name": "Operational Management Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand operational management techniques within organizations providing public services."
+    },
+    {
+      "skill_name": "Strategic Management Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles of strategic management in public service provision."
+    },
+    {
+      "skill_name": "Process Design Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Demonstrate good skills in designing processes for public service provision and measurement systems."
+    },
+    {
+      "skill_name": "Customer Satisfaction Improvement",
+      "category": "Hard Skill",
+      "outcome_description": "Propose measures to improve customer satisfaction with public services."
+    },
+    {
+      "skill_name": "Problem Identification and Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate good skills in identifying and resolving problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate good skills in critical thinking."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate good skills in teamwork."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate good skills in communication."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate good skills in negotiation."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate good skills in conflict resolution."
+    },
+    {
+      "skill_name": "Independent Work Capability",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to work independently and take responsibility for professional tasks."
+    },
+    {
+      "skill_name": "Planning and Coordination",
+      "category": "Soft Skill",
+      "outcome_description": "Be able to proactively plan, coordinate, assess, and improve professional tasks."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Have social responsibility and professional ethics."
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-learn and adapt to changes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

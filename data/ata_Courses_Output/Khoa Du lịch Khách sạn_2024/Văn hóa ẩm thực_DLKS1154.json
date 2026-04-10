@@ -1,0 +1,43 @@
+{
+  "course_id": "DLKS1154",
+  "title": "Culinary Culture",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours (30 hours lecture, 15 hours discussion/practical)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Concepts of Culinary Culture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of culinary culture and its relationship with tourism behavior and hospitality business."
+    },
+    {
+      "skill_name": "Understanding Characteristics of Vietnamese Culinary Culture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the characteristics of Vietnamese culinary culture and apply this knowledge in hospitality and tourism business."
+    },
+    {
+      "skill_name": "Understanding Culinary Cultures of Other Countries",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the characteristics of culinary cultures of other countries and apply this knowledge in hospitality and tourism business."
+    },
+    {
+      "skill_name": "Proactive Learning and Personal Development",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning and personal development, demonstrating responsibility, honesty, seriousness, high discipline, courteous demeanor, passion for work, and service spirit."
+    },
+    {
+      "skill_name": "Respect for Traditional Culture",
+      "category": "Soft Skill",
+      "outcome_description": "Respect traditional culture, customs, and have a sense of preserving and promoting traditional cultural values."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Vietnamese Cultural History",
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

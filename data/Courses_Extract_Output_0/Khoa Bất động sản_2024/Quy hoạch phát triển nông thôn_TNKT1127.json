@@ -1,0 +1,48 @@
+{
+  "course_id": "TNKT 1127",
+  "title": "Rural Development Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand macroeconomic and microeconomic principles."
+    },
+    {
+      "skill_name": "Urban Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply urban planning concepts to rural development scenarios."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze government policies related to rural development."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage projects related to rural development planning."
+    },
+    {
+      "skill_name": "Research Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research on rural development issues."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and critique rural development plans."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1",
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

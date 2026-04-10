@@ -1,0 +1,65 @@
+{
+  "course_id": "QLXH1105",
+  "title": "Public Services Management",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Services Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the basic knowledge of public services and organizational public service management; understand and apply the human resource management process in public service organizations."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the management of capabilities and logistics in public service provision; understand the essence of strategic management in public service provision and apply strategic management in public service provision."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Practice well the skills in public service management: skill in designing public service provision processes and systems for measuring and evaluating the implementation in public service provision; propose measures to improve the satisfaction of public service beneficiaries."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Practice well the skills: problem detection and resolution, critical thinking, teamwork, communication, negotiation, and conflict resolution."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to work independently and take responsibility for professional tasks; proactively plan, coordinate, evaluate, and improve professional tasks; have social responsibility, professional ethics; have the ability to self-learn and adapt to changes."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Practice well the skills: problem detection and resolution, critical thinking, teamwork, communication, negotiation, and conflict resolution."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Practice well the skills: problem detection and resolution, critical thinking, teamwork, communication, negotiation, and conflict resolution."
+    },
+    {
+      "skill_name": "Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Practice well the skills: problem detection and resolution, critical thinking, teamwork, communication, negotiation, and conflict resolution."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Practice well the skills: problem detection and resolution, critical thinking, teamwork, communication, negotiation, and conflict resolution."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Public Services Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

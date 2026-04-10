@@ -1,0 +1,57 @@
+{
+  "course_id": "TMKD1132",
+  "title": "International Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding cultural differences",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the differences in multicultural environments and the challenges faced by companies operating in such environments."
+    },
+    {
+      "skill_name": "Analyzing cultural factors",
+      "category": "Hard Skill",
+      "outcome_description": "Students can analyze and evaluate the factors affecting multicultural management in international businesses."
+    },
+    {
+      "skill_name": "Applying cultural analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply knowledge to analyze cultural differences and identify issues in multicultural environments."
+    },
+    {
+      "skill_name": "Decision-making in international management",
+      "category": "Hard Skill",
+      "outcome_description": "Students use skills to make decisions in international management situations."
+    },
+    {
+      "skill_name": "Independent work",
+      "category": "Soft Skill",
+      "outcome_description": "Students demonstrate independent working ability and adaptability in multicultural management."
+    },
+    {
+      "skill_name": "Social responsibility awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Students understand social responsibility, ethical issues, and citizen rights, applying them in business management and personal life."
+    },
+    {
+      "skill_name": "Adapting to multicultural environments",
+      "category": "Soft Skill",
+      "outcome_description": "Students adapt to multicultural environments and manage cultural diversity effectively."
+    },
+    {
+      "skill_name": "Effective communication in multicultural settings",
+      "category": "Soft Skill",
+      "outcome_description": "Students communicate effectively in multicultural settings and negotiate successfully."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "International Business 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

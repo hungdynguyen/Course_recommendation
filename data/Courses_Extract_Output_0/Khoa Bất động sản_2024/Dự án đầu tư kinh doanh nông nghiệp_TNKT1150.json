@@ -1,0 +1,43 @@
+{
+  "course_id": "Dự án đầu tư kinh doanh nông nghiệp",
+  "title": "Dự án đầu tư kinh doanh nông nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "Not specified",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage agricultural investment projects."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct market research for agricultural investments."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to analyze the effectiveness of agricultural investments."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage risks associated with agricultural investments."
+    },
+    {
+      "skill_name": "Business Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to plan business operations in agriculture."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economics",
+      "Finance"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

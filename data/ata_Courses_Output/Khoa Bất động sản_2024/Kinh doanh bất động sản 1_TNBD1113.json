@@ -1,0 +1,71 @@
+{
+  "course_id": "TNBD1113",
+  "title": "Real Estate Business 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real Estate Business Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, characteristics, principles, and theories of real estate business."
+    },
+    {
+      "skill_name": "Opportunity Analysis for Real Estate Business",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze opportunities and conditions for real estate business, choose appropriate business models."
+    },
+    {
+      "skill_name": "Business Planning for Real Estate",
+      "category": "Hard Skill",
+      "outcome_description": "Create business plans for real estate projects, including strategic planning and environmental forecasting."
+    },
+    {
+      "skill_name": "Production Management in Real Estate",
+      "category": "Hard Skill",
+      "outcome_description": "Manage production processes in real estate, including site selection and project functionality."
+    },
+    {
+      "skill_name": "Human Resource Management in Real Estate Business",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage human resources in real estate businesses, including recruitment and training."
+    },
+    {
+      "skill_name": "Strategic Planning for Real Estate Projects",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategic plans for real estate projects, including market analysis and competitive positioning."
+    },
+    {
+      "skill_name": "Project Management Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply project management techniques to real estate projects, including scheduling and budgeting."
+    },
+    {
+      "skill_name": "Legal Compliance in Real Estate Business",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal requirements and compliance issues in real estate business operations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate various aspects of real estate business, including market trends and financial performance."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve problems and complete projects in real estate business."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Take initiative in learning and applying new knowledge and skills in real estate business contexts."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver presentations on real estate business topics, including case studies and research findings."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

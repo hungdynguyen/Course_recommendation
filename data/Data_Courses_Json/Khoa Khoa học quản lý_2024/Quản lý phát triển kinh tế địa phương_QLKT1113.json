@@ -1,0 +1,76 @@
+{
+  "course_id": "QLKT1113",
+  "title": "Managing Local Economic Development",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Development",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of businesses in local economic development and their competitive capabilities."
+    },
+    {
+      "skill_name": "Public Administration",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of government in managing local economic development."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in strategic and organizational planning for local economic development."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work and social responsibility, with an understanding of professional ethics and continuous learning."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze data to understand local economic development and business competitiveness."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze policies and strategies for local economic development."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research and analyze data to support local economic development strategies."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and strategic plans for local economic development."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in teams to develop and present local economic development strategies."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership in organizing and implementing local economic development projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Public Administration in a Market Economy"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Public Policy",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

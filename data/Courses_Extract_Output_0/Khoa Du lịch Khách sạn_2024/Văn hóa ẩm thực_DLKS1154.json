@@ -1,0 +1,38 @@
+{
+  "course_id": "DLKS1154",
+  "title": "Culinary Culture",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cultural Studies",
+      "category": "Soft Skill",
+      "outcome_description": "Understand cultural aspects of food and dining."
+    },
+    {
+      "skill_name": "Tourism Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of culinary culture on tourism industry."
+    },
+    {
+      "skill_name": "Global Cuisine",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and compare global culinary traditions."
+    },
+    {
+      "skill_name": "Religious Studies",
+      "category": "Soft Skill",
+      "outcome_description": "Examine the relationship between religion and food culture."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Vietnamese Cultural History",
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

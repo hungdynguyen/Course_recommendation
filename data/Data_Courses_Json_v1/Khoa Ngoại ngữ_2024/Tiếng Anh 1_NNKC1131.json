@@ -1,0 +1,65 @@
+{
+  "course_id": "NNKC 1131",
+  "title": "English 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and transcribe key information from short dialogues and monologues in business and daily life contexts."
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in business and daily life contexts using basic vocabulary and sentence structures."
+    },
+    {
+      "skill_name": "Reading",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend main ideas and extract specific information from texts related to business and daily life."
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Construct simple sentences and paragraphs to convey ideas in business and daily life contexts."
+    },
+    {
+      "skill_name": "Vocabulary",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and use a range of vocabulary related to business and daily life contexts."
+    },
+    {
+      "skill_name": "Grammar",
+      "category": "Soft Skill",
+      "outcome_description": "Apply basic grammatical structures in business and daily life contexts."
+    },
+    {
+      "skill_name": "Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate proficiency in English language skills for business and daily life contexts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret information from business and daily life contexts."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Participate in group discussions and collaborative activities in business and daily life contexts."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both written and spoken forms in business and daily life contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "course_id": "LUCS1125",
+  "title": "Contract Law",
+  "difficulty_level": "Advanced",
+  "duration": "150 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal contracts and their implications."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct thorough research on contract laws."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve complex legal issues."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate terms and conditions of legal contracts."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write clear and concise legal documents related to contracts."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Ensure compliance with relevant legal regulations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "DLKS1158",
+  "title": "Operation of hospitality services 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Service Orientation",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a service mindset and orientation towards customer satisfaction in hospitality services."
+    },
+    {
+      "skill_name": "Hotel Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage basic operations in hotel services including front desk, housekeeping, and food and beverage services."
+    },
+    {
+      "skill_name": "Quality Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply quality management principles to ensure high standards in hotel services."
+    },
+    {
+      "skill_name": "Customer Needs Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and meet the needs of hotel guests through effective service delivery."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

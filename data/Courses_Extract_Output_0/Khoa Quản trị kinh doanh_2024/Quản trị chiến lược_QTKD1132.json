@@ -1,0 +1,38 @@
+{
+  "course_id": "Quản trị chiến lược",
+  "title": "Strategic Management",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic plans for businesses and organizations."
+    },
+    {
+      "skill_name": "Environmental Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct external and internal environmental analysis to identify opportunities and challenges."
+    },
+    {
+      "skill_name": "Competitive Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate competitive strategies using basic tools."
+    },
+    {
+      "skill_name": "Implementation and Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the implementation and evaluation processes of strategic management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Business Administration",
+      "Organizational Behavior"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "course_id": "LLNL1101",
+  "title": "History of Economic Theories",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic History",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the development and evolution of economic theories over time."
+    },
+    {
+      "skill_name": "Value Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the concept of value in goods and its distribution, exchange, and usage."
+    },
+    {
+      "skill_name": "Political Economy",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the role of the state in economic production and distribution."
+    },
+    {
+      "skill_name": "Classical Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Study the foundational principles of classical economic thought."
+    },
+    {
+      "skill_name": "Keynesian Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Examine the theories of John Maynard Keynes and their impact on modern economics."
+    },
+    {
+      "skill_name": "Neoclassical Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Explore the principles of neoclassical economic theory."
+    },
+    {
+      "skill_name": "Modern Political Economy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand contemporary political economy theories and their application."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

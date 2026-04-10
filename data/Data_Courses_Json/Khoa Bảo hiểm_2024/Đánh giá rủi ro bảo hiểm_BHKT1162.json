@@ -1,0 +1,391 @@
+{
+  "course_id": "BHKT1162",
+  "title": "Insurance Risk Analysis",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge of risk management principles and practices in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Principles",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge of insurance principles and contract management."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct risk assessments and evaluate risks in insurance contracts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex problems related to insurance risk management."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently to manage and evaluate risks."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and coordinate risk management activities within an organization."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate risk assessment findings and recommendations."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and comply with legal requirements in insurance risk management."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze data to support risk assessment and management decisions."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to insurance risk management."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on risk assessment and management."
+    },
+    {
+      "skill_name": "Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate terms and conditions in insurance contracts."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects related to insurance risk management."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze financial implications of insurance risks."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and gather data for risk assessment."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make ethical decisions in risk management."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic plans for risk management."
+    },
+    {
+      "skill_name": "Risk Mitigation",
+      "category": "Soft Skill",
+      "outcome_description": "Implement strategies to mitigate risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply insurance laws and regulations."
+    },
+    {
+      "skill_name": "Risk Identification",
+      "category": "Soft Skill",
+      "outcome_description": "Identify potential risks in insurance operations."
+    },
+    {
+      "skill_name": "Risk Control",
+      "category": "Soft Skill",
+      "outcome_description": "Control and manage risks in insurance operations."
+    },
+    {
+      "skill_name": "Risk Transfer",
+      "category": "Soft Skill",
+      "outcome_description": "Transfer risks through insurance mechanisms."
+    },
+    {
+      "skill_name": "Risk Monitoring",
+      "category": "Soft Skill",
+      "outcome_description": "Monitor and evaluate risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Contracts",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and manage insurance contracts."
+    },
+    {
+      "skill_name": "Insurance Products",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and evaluate insurance products."
+    },
+    {
+      "skill_name": "Insurance Claims",
+      "category": "Soft Skill",
+      "outcome_description": "Handle insurance claims effectively."
+    },
+    {
+      "skill_name": "Insurance Policies",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and manage insurance policies."
+    },
+    {
+      "skill_name": "Insurance Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Manage insurance operations effectively."
+    },
+    {
+      "skill_name": "Insurance Regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and comply with insurance regulations."
+    },
+    {
+      "skill_name": "Insurance Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with insurance regulations."
+    },
+    {
+      "skill_name": "Insurance Underwriting",
+      "category": "Soft Skill",
+      "outcome_description": "Underwrite insurance policies effectively."
+    },
+    {
+      "skill_name": "Insurance Pricing",
+      "category": "Soft Skill",
+      "outcome_description": "Price insurance products effectively."
+    },
+    {
+      "skill_name": "Insurance Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Market insurance products effectively."
+    },
+    {
+      "skill_name": "Insurance Sales",
+      "category": "Soft Skill",
+      "outcome_description": "Sell insurance products effectively."
+    },
+    {
+      "skill_name": "Insurance Customer Service",
+      "category": "Soft Skill",
+      "outcome_description": "Provide excellent customer service in insurance."
+    },
+    {
+      "skill_name": "Insurance Training",
+      "category": "Soft Skill",
+      "outcome_description": "Train staff in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Supervision",
+      "category": "Soft Skill",
+      "outcome_description": "Supervise insurance operations effectively."
+    },
+    {
+      "skill_name": "Insurance Reporting",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and present insurance reports."
+    },
+    {
+      "skill_name": "Insurance Auditing",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct insurance audits effectively."
+    },
+    {
+      "skill_name": "Insurance Risk Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Control",
+      "category": "Soft Skill",
+      "outcome_description": "Control risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Transfer",
+      "category": "Soft Skill",
+      "outcome_description": "Transfer risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Monitoring",
+      "category": "Soft Skill",
+      "outcome_description": "Monitor risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Assess risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Identification",
+      "category": "Soft Skill",
+      "outcome_description": "Identify risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Mitigation",
+      "category": "Soft Skill",
+      "outcome_description": "Mitigate risks in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Management Strategies",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement risk management strategies in insurance operations."
+    },
+    {
+      "skill_name": "Insurance Risk Management Practices",
+      "category": "Soft Skill",
+      "outcome_description": "Apply best practices in insurance risk management."
+    },
+    {
+      "skill_name": "Insurance Risk Management Tools",
+      "category": "Soft Skill",
+      "outcome_description": "Use tools and techniques for insurance risk management."
+    },
+    {
+      "skill_name": "Insurance Risk Management Processes",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply insurance risk management processes."
+    },
+    {
+      "skill_name": "Insurance Risk Management Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Implement and manage insurance risk management systems."
+    },
+    {
+      "skill_name": "Insurance Risk Management Policies",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement insurance risk management policies."
+    },
+    {
+      "skill_name": "Insurance Risk Management Procedures",
+      "category": "Soft Skill",
+      "outcome_description": "Follow insurance risk management procedures."
+    },
+    {
+      "skill_name": "Insurance Risk Management Standards",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to insurance risk management standards."
+    },
+    {
+      "skill_name": "Insurance Risk Management Guidelines",
+      "category": "Soft Skill",
+      "outcome_description": "Follow insurance risk management guidelines."
+    },
+    {
+      "skill_name": "Insurance Risk Management Frameworks",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply insurance risk management frameworks."
+    },
+    {
+      "skill_name": "Insurance Risk Management Models",
+      "category": "Soft Skill",
+      "outcome_description": "Use insurance risk management models."
+    },
+    {
+      "skill_name": "Insurance Risk Management Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Apply insurance risk management techniques."
+    },
+    {
+      "skill_name": "Insurance Risk Management Approaches",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply insurance risk management approaches."
+    },
+    {
+      "skill_name": "Insurance Risk Management Methods",
+      "category": "Soft Skill",
+      "outcome_description": "Use insurance risk management methods."
+    },
+    {
+      "skill_name": "Insurance Risk Management Strategies",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement insurance risk management strategies."
+    },
+    {
+      "skill_name": "Insurance Risk Management Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Implement and manage insurance risk management systems."
+    },
+    {
+      "skill_name": "Insurance Risk Management Policies",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement insurance risk management policies."
+    },
+    {
+      "skill_name": "Insurance Risk Management Procedures",
+      "category": "Soft Skill",
+      "outcome_description": "Follow insurance risk management procedures."
+    },
+    {
+      "skill_name": "Insurance Risk Management Standards",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to insurance risk management standards."
+    },
+    {
+      "skill_name": "Insurance Risk Management Guidelines",
+      "category": "Soft Skill",
+      "outcome_description": "Follow insurance risk management guidelines."
+    },
+    {
+      "skill_name": "Insurance Risk Management Frameworks",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply insurance risk management frameworks."
+    },
+    {
+      "skill_name": "Insurance Risk Management Models",
+      "category": "Soft Skill",
+      "outcome_description": "Use insurance risk management models."
+    },
+    {
+      "skill_name": "Insurance Risk Management Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Apply insurance risk management techniques."
+    },
+    {
+      "skill_name": "Insurance Risk Management Approaches",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply insurance risk management approaches."
+    },
+    {
+      "skill_name": "Insurance Risk Management Methods",
+      "category": "Soft Skill",
+      "outcome_description": "Use insurance risk management methods."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance Principles",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Risk Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

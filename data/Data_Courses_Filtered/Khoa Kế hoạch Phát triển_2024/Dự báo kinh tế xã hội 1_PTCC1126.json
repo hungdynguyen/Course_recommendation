@@ -1,0 +1,49 @@
+{
+  "course_id": "PTCC1126",
+  "title": "Social - Economic Forecasting 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature of scientific forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the nature of scientific forecasting, how to classify forecasts, and the relationship between economic-social forecasting and macro-micro management tools."
+    },
+    {
+      "skill_name": "Principles of economic-social forecasting practice",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the principles of economic-social forecasting practice, conditions for implementation, and the formation of a forecasting process for specific tasks."
+    },
+    {
+      "skill_name": "Analyzing past and present development processes",
+      "category": "Hard Skill",
+      "outcome_description": "Students analyze and evaluate past and present development processes of socio-economic phenomena, identify formed trends, and determine influencing factors on forecast objects and environments."
+    },
+    {
+      "skill_name": "Collecting and analyzing information/data",
+      "category": "Hard Skill",
+      "outcome_description": "Students develop skills in collecting, analyzing information/data, using qualitative and quantitative techniques, and appropriate statistical and econometric software to model objects and perform forecasts."
+    },
+    {
+      "skill_name": "Reading, writing, presenting, and debating specialized content",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop skills in reading, writing, presenting, and debating specialized content, and applying forecasting results in management and policy planning."
+    },
+    {
+      "skill_name": "Self-study and research awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Students cultivate self-study and research awareness, accumulate knowledge, recognize professional ethics, and social responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Econometrics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

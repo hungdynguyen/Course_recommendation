@@ -1,0 +1,60 @@
+{
+  "course_id": "MTKT1154",
+  "title": "Business and The Natural Environment",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Awareness",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and present key concepts about business and environment."
+    },
+    {
+      "skill_name": "Interpretation of Business-Environment Relationship",
+      "category": "Hard Skill",
+      "outcome_description": "Master and analyze the interactive relationship between business and environment."
+    },
+    {
+      "skill_name": "Understanding Corporate Environmental Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and master corporate environmental strategies, especially proactive ones."
+    },
+    {
+      "skill_name": "Analyzing Corporate Environmental Approaches",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze corporate approaches to environmental friendliness."
+    },
+    {
+      "skill_name": "Technical Methods for Improving Environmental Quality",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze technical methods for improving environmental quality from a corporate perspective."
+    },
+    {
+      "skill_name": "Corporate Social Responsibility Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze corporate social responsibility, particularly regarding environmental protection."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge to analyze and discuss corporate environmental strategies and sustainable businesses."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to work in groups by seeking, collecting information, building content, and presenting research results through presentations."
+    },
+    {
+      "skill_name": "Self-study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study abilities through discussions, questions, and answers on case studies provided in the course."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

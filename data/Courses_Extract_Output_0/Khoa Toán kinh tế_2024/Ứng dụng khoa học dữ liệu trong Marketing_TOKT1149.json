@@ -1,0 +1,36 @@
+{
+  "course_id": "TOKT1149",
+  "title": "Data Driven Marketing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to use data for product pricing, customer lifetime value estimation, churn prediction models, and customer segmentation."
+    },
+    {
+      "skill_name": "Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Development of targeted and personalized marketing strategies based on customer behavior analysis."
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category": "Hard Skill",
+      "outcome_description": "Application of machine learning techniques for basket analysis, product recommendation systems, and sentiment analysis."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Excel for data-driven marketing tasks."
+    },
+    {
+      "skill_name": "R Language",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using R language for data analysis in marketing."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

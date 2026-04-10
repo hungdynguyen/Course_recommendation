@@ -1,0 +1,74 @@
+{
+  "course_id": "TOkt1144",
+  "title": "Optimization",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Optimization Problem Structure",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the structure of general optimization problems and how to formulate them from economic and financial issues."
+    },
+    {
+      "skill_name": "Optimization Conditions",
+      "category": "Hard Skill",
+      "outcome_description": "Use necessary and sufficient conditions for optimality to find and classify extremum points of functions on given constraint sets."
+    },
+    {
+      "skill_name": "Linear Programming Problems",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of linear programming problems and dual problems to solve specific problems."
+    },
+    {
+      "skill_name": "R Software Basics",
+      "category": "Tool/Software",
+      "outcome_description": "Use basic commands in R software and apply it to solve some optimization problems."
+    },
+    {
+      "skill_name": "Simplex Algorithm One Phase",
+      "category": "Hard Skill",
+      "outcome_description": "Flexibly use the simplex algorithm one phase to solve linear programming problems and apply software skills to program solutions."
+    },
+    {
+      "skill_name": "Simplex Algorithm Two Phases",
+      "category": "Hard Skill",
+      "outcome_description": "Flexibly use the simplex algorithm two phases to solve linear programming problems and apply software skills to program solutions."
+    },
+    {
+      "skill_name": "Decision Making Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop decision-making skills and take responsibility."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt well to changes in external factors."
+    },
+    {
+      "skill_name": "Karush-Kuhn-Tucker Conditions",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Karush-Kuhn-Tucker conditions to solve constrained optimization problems."
+    },
+    {
+      "skill_name": "Excel Software",
+      "category": "Tool/Software",
+      "outcome_description": "Use Excel software to solve linear programming problems."
+    },
+    {
+      "skill_name": "Dual Problem Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze properties of a solution using dual problem characteristics when the optimal solution of another problem is known."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Algebra",
+      "Calculus 1",
+      "Calculus 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

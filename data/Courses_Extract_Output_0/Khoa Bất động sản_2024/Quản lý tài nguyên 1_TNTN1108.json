@@ -1,0 +1,45 @@
+{
+  "course_id": "TNTN1108",
+  "title": "Natural Resources Management 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Resource Management Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and classifications of natural resources."
+    },
+    {
+      "skill_name": "Legal Framework Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the legal aspects of resource management including ownership issues and governmental regulations."
+    },
+    {
+      "skill_name": "Survey Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Learn methods for surveying and investigating natural resources."
+    },
+    {
+      "skill_name": "Planning and Regulation",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in planning and regulation of natural resource exploitation."
+    },
+    {
+      "skill_name": "Data Management",
+      "category": "Hard Skill",
+      "outcome_description": "Gain knowledge on managing files and databases for resource management."
+    },
+    {
+      "skill_name": "Land Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the requirements and challenges of land resource management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

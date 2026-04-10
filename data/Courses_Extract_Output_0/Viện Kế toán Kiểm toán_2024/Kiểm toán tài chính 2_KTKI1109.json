@@ -1,0 +1,43 @@
+{
+  "course_id": "KTKI1109",
+  "title": "Financial Auditing 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to assess risks and integrate them into audit planning."
+    },
+    {
+      "skill_name": "Audit Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to plan and execute audit procedures based on risk assessment."
+    },
+    {
+      "skill_name": "Evidence Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to collect and evaluate audit evidence."
+    },
+    {
+      "skill_name": "Auditing Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in applying various auditing techniques."
+    },
+    {
+      "skill_name": "Reporting",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to prepare audit reports and management letters."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Auditing 1",
+      "Financial Accounting 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

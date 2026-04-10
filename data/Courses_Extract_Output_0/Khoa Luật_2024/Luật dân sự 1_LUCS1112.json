@@ -1,0 +1,36 @@
+{
+  "course_id": "LUCS1112",
+  "title": "Civil Law 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate a comprehensive understanding of civil law principles and their application."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve legal problems related to civil law."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct independent research on civil law topics using relevant legal texts and databases."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Produce clear, concise, and well-reasoned legal documents based on civil law principles."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze legal cases and statutes to understand the implications of civil law in practical scenarios."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

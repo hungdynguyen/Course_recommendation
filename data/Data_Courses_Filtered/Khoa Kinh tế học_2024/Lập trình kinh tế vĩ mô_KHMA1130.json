@@ -1,0 +1,53 @@
+{
+  "course_id": "KHMA1130",
+  "title": "Macroeconomic Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Macroeconomic Theory Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply advanced macroeconomic theories to analyze macroeconomic relationships and the operation of the overall economy."
+    },
+    {
+      "skill_name": "Economic Event Impact Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the impact of economic events and policy changes on the overall economy using advanced macroeconomic theories."
+    },
+    {
+      "skill_name": "Data Collection Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in collecting data, synthesizing secondary materials, and applying analytical tools in economics to real-world situations."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop independent research skills, teamwork abilities, and presentation skills to communicate knowledge through writing and discussing real-world macroeconomic situations in Vietnam and other countries."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning and research abilities to improve knowledge related to real-world macroeconomic issues."
+    },
+    {
+      "skill_name": "Critical Thinking Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking skills regarding macroeconomic issues in Vietnam and other countries."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics when making judgments and evaluations about macroeconomic programs."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2",
+      "Macroeconomics 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

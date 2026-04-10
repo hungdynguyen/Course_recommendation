@@ -1,0 +1,31 @@
+{
+  "course_id": "Data Analysis",
+  "title": "Phân tích dữ liệu",
+  "difficulty_level": "Advanced",
+  "duration": "Not specified",
+  "skill_outcomes": [
+    {
+      "skill_name": "Multivariate Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply multivariate analysis techniques to real-world datasets."
+    },
+    {
+      "skill_name": "Classification Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize classification methods such as clustering, discriminant analysis, decision trees, random forests, and multi-criteria decision-making."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical software like R for data analysis."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on empirical evidence derived from data analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

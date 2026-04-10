@@ -1,0 +1,50 @@
+{
+  "course_id": "TKKD1132",
+  "title": "Chuyên đề thực tế - Thống kê kinh tế",
+  "difficulty_level": "Advanced",
+  "duration": "15 hours lecture + 45 hours practical",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Mô tả được đặc điểm hoạt động của đơn vị dưới giác độ thống kê, vẽ được cơ cấu tổ chức và nhận dạng được vai trò và chức năng của thống kê trong đơn vị"
+    },
+    {
+      "skill_name": "Critical Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Đánh giá được điểm mạnh, điểm yếu, phát hiện những vấn đề trong hoạt động thống kê của đơn vị"
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Thu thập, đọc và phân tích được các báo cáo về hoạt động thống kê và đánh giá được việc triển khai ứng dụng thống kê trong hoạt động thực tiễn."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Trau dồi kỹ năng chung và kỹ năng chuyên môn để hướng tới mục tiêu làm việc độc lập, làm việc nhóm hiệu quả, quản lý tốt thời gian"
+    },
+    {
+      "skill_name": "IT Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Thực hành kỹ năng tin học trong việc tìm hiểu thực tiễn hoạt động thống kê, khảo sát các bên liên quan về thực trạng hoạt động thống kê tại đơn vị"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Đề xuất được giải pháp giải quyết các vấn đề đã chỉ ra trong hoạt động thống kê của đơn vị"
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Thực hành giao lưu kết nối giữa các học viên, giảng viên và đơn vị cơ sở trong quá trình thâm nhập thực tế."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

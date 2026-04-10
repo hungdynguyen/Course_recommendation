@@ -1,0 +1,76 @@
+{
+  "course_id": "KTKE1109",
+  "title": "Public Accounting 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding general accounting system for administrative and public service units",
+      "category": "Hard Skill",
+      "outcome_description": "Identify common issues in accounting within administrative and public service units, understand the financial management system's impact on accounting operations."
+    },
+    {
+      "skill_name": "Comprehending basic accounting methods in administrative and public service units",
+      "category": "Hard Skill",
+      "outcome_description": "Understand general issues related to accounting systems in administrative and public service units, including organizational structure and basic accounting methods."
+    },
+    {
+      "skill_name": "Analyzing and evaluating asset accounting in administrative and public service units",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge about accounting related to the accounting system in administrative and public service units to analyze and evaluate asset accounting."
+    },
+    {
+      "skill_name": "Analyzing and evaluating accounts payable accounting in administrative and public service units",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge about accounting related to the accounting system in administrative and public service units to analyze and evaluate accounts payable accounting."
+    },
+    {
+      "skill_name": "Analyzing and evaluating capital and fund accounting in administrative and public service units",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge about accounting related to the accounting system in administrative and public service units to analyze and evaluate capital and fund accounting."
+    },
+    {
+      "skill_name": "Analyzing and evaluating revenue, expenditure, and result accounting in administrative and public service units",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge about accounting related to the accounting system in administrative and public service units to analyze and evaluate revenue, expenditure, and result accounting."
+    },
+    {
+      "skill_name": "Analyzing and evaluating financial situation and operational results in administrative and public service units",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge about accounting related to the accounting system in administrative and public service units to analyze and evaluate financial situations and operational results."
+    },
+    {
+      "skill_name": "Applying professional standards and ethics in accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Use professional standards and ethics in accounting within the public sector."
+    },
+    {
+      "skill_name": "Critical thinking on the application of accounting policies and methods in administrative and public service units",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking skills to evaluate the application of accounting policies and methods in administrative and public service units."
+    },
+    {
+      "skill_name": "Independent work skills in accounting for administrative and public service units",
+      "category": "Soft Skill",
+      "outcome_description": "Apply independent work skills in accounting for administrative and public service units."
+    },
+    {
+      "skill_name": "Effective teamwork through group reports and presentations on accounting topics in administrative and public service units",
+      "category": "Soft Skill",
+      "outcome_description": "Use effective teamwork skills through group reports and presentations on accounting topics in administrative and public service units in an international integration environment."
+    },
+    {
+      "skill_name": "Coordinating and managing resources in administrative and public service units",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to coordinate and manage resources in administrative and public service units."
+    },
+    {
+      "skill_name": "Evaluating and improving the efficiency of activities in administrative and public service units",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to evaluate and improve the efficiency of activities in administrative and public service units."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

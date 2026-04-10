@@ -1,0 +1,61 @@
+{
+  "course_id": "TNDC1151",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Apply appropriate research methods and techniques to analyze and solve real-world problems in land management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate complex issues in land management, providing well-reasoned solutions."
+    },
+    {
+      "skill_name": "Land Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of land management and policy-making in practical scenarios."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and propose solutions to existing problems in land management."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings and solutions to stakeholders."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and coordinate the completion of a comprehensive research project."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, process, and analyze data to support research conclusions."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Produce clear, structured, and well-supported reports on research findings."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and defend the thesis in front of an audience."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply relevant laws and regulations related to land management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

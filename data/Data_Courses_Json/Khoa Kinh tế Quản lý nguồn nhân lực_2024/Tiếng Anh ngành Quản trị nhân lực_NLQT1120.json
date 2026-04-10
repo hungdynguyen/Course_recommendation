@@ -1,0 +1,57 @@
+{
+  "course_id": "NLQT1106",
+  "title": "English for Human Resource Management",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts and vocabulary in Human Resource Management in English."
+    },
+    {
+      "skill_name": "English Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in English in Human Resource Management contexts."
+    },
+    {
+      "skill_name": "English Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and accurate English texts in Human Resource Management contexts."
+    },
+    {
+      "skill_name": "English Reading",
+      "category": "Soft Skill",
+      "outcome_description": "Read and comprehend English texts in Human Resource Management contexts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate the effectiveness of English vocabulary and texts in Human Resource Management contexts."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to produce English texts in Human Resource Management contexts."
+    },
+    {
+      "skill_name": "Self-Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and improve personal English proficiency in Human Resource Management contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management of Human Resources"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

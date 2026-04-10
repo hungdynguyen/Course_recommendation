@@ -1,0 +1,36 @@
+{
+  "course_id": "BHKT1164",
+  "title": "Insurance Adjusting and Claims",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Claims Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of claims adjusting and management in insurance operations."
+    },
+    {
+      "skill_name": "Contract Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze insurance contracts and gather relevant information for claims processing."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Identify legal issues related to claims adjusting and ensure compliance with regulations."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Develop comprehensive reports for claims adjusting processes."
+    },
+    {
+      "skill_name": "Fraud Detection",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize potential fraud scenarios and address them effectively during claims processing."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "course_id": "TOTC1109",
+  "title": "The models for analyzing and evaluating the financial assets 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Asset Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply models for analyzing and evaluating financial assets such as fixed income, equity, and derivatives."
+    },
+    {
+      "skill_name": "Technical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply technical analysis techniques in financial markets using specialized software."
+    },
+    {
+      "skill_name": "Model Building",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in building, estimating, and validating models for financial asset analysis."
+    },
+    {
+      "skill_name": "Portfolio Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage investment portfolios using financial models and software tools."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning and group work skills, taking personal and group responsibility."
+    },
+    {
+      "skill_name": "Financial Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical models in financial analysis."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial data using software tools such as Excel, R, Metastock, and Amibroker."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage financial risks using financial models and software tools."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills in financial analysis and decision-making."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in financial analysis and decision-making."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundations of Financial Mathematics",
+      "The models for analyzing and evaluating the financial assets 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Financial Mathematics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

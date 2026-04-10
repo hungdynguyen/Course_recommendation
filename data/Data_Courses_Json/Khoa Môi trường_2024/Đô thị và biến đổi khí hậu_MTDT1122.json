@@ -1,0 +1,72 @@
+{
+  "course_id": "MTDT1122",
+  "title": "Cities and Climate Change",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Climate Change Adaptation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze approaches to climate change adaptation in urban planning and management."
+    },
+    {
+      "skill_name": "Urban Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and apply urban planning strategies in response to climate change."
+    },
+    {
+      "skill_name": "Climate Change Mitigation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze approaches to climate change mitigation in urban settings."
+    },
+    {
+      "skill_name": "Environmental Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic principles to climate change mitigation and adaptation in urban contexts."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate policies related to urban development and climate change."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills to gather, synthesize, and present scientific information from multiple sources."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to complete research and presentation tasks."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and respond to questions about the presented content."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve problems related to urban climate change issues."
+    },
+    {
+      "skill_name": "Urban Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply economic principles to urban development and climate change issues."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1 (KHMI1101)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "course_id": "NHHLT1103",
+  "title": "Monetary and Financial Theories 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Intermediary Organizations Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Students recognize key concepts about financial intermediaries and their roles."
+    },
+    {
+      "skill_name": "Money Demand Theories Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand basic differences between monetary and financial issues, quantity theory of money demand, Keynes's theory of money demand, modern quantity theory of money demand by M. Friedman, empirical evidence on money demand."
+    },
+    {
+      "skill_name": "Central Bank Operations Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students analyze central bank operations, including money supply processes and monetary policy tools."
+    },
+    {
+      "skill_name": "Inflation Causes and Effects Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Students evaluate causes and effects of inflation, including prevention measures."
+    },
+    {
+      "skill_name": "International Finance Fundamentals Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Students gain fundamental knowledge about international finance, including foreign exchange markets and balance of payments."
+    },
+    {
+      "skill_name": "Analytical Problem Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop analytical problem-solving skills to address practical issues within the scope of monetary and financial theories."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students acquire independent work skills, dynamic and diverse teamwork skills, and presentation skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

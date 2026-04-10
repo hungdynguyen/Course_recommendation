@@ -1,0 +1,61 @@
+{
+  "course_id": "KTKE1110",
+  "title": "Public Accounting 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Sector Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the general principles and regulations for public sector accounting."
+    },
+    {
+      "skill_name": "Budgetary Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply budgetary accounting principles in public sector organizations."
+    },
+    {
+      "skill_name": "Treasury Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Manage treasury operations within public sector entities."
+    },
+    {
+      "skill_name": "Banking Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Handle banking operations related to public sector accounting."
+    },
+    {
+      "skill_name": "Social Insurance Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct social insurance accounting in public sector entities."
+    },
+    {
+      "skill_name": "Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze financial statements and reports in public sector entities."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critically evaluate policies and methods in public sector accounting."
+    },
+    {
+      "skill_name": "Systematic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think systematically about financial management issues in public sector entities."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to financial management in public sector entities."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects and resources effectively in public sector entities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

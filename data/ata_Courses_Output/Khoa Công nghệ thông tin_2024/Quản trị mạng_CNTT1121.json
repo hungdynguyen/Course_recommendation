@@ -1,0 +1,61 @@
+{
+  "course_id": "CNTT1121",
+  "title": "Network Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Network Management Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Explain basic concepts and knowledge about network management systems, procedures, and security mechanisms of Simple Network Management Protocol (SNMP)."
+    },
+    {
+      "skill_name": "Basic Network Device Functionality",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the functions of basic network devices and perform configuration tasks using simulation tools."
+    },
+    {
+      "skill_name": "Windows Server Organization and Management",
+      "category": "Hard Skill",
+      "outcome_description": "Perform user organization and management on Windows Server environment, set up and deploy group policies, manage shared network resources such as directories, files, DNS, DHCP, Web server, File server, Mail server, etc."
+    },
+    {
+      "skill_name": "Network Security Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Describe firewall structure, basic functions, classification, advantages, and disadvantages, and explain firewall knowledge in network management and security."
+    },
+    {
+      "skill_name": "Optimal Configuration for Network Devices",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiently use tools to configure network devices optimally in various network models."
+    },
+    {
+      "skill_name": "Problem Solving in Network Management",
+      "category": "Soft Skill",
+      "outcome_description": "Proficiently find, collect, synthesize, analyze, and present solutions to problems related to network management."
+    },
+    {
+      "skill_name": "Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate with team members to solve group assignments, ensuring timely completion of group work."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Answer questions posed by instructors, complete in-class and homework assignments."
+    },
+    {
+      "skill_name": "Group Discussion Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Participate in group discussions to solve problems, defend personal opinions before the group."
+    },
+    {
+      "skill_name": "Project Implementation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Complete instructor-assigned projects, collaborate with group members to finish assigned tasks."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

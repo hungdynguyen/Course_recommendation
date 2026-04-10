@@ -1,0 +1,37 @@
+{
+  "course_id": "QTTH1128",
+  "title": "Enterprise development and change",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Change management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of managing organizational change."
+    },
+    {
+      "skill_name": "Organizational Development",
+      "category": "Soft Skill",
+      "outcome_description": "Apply methods and techniques for developing organizations."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategies for business growth and change."
+    },
+    {
+      "skill_name": "Global Trends Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze global trends impacting business development and change."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Business Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "course_id": "NNTM1170",
+  "title": "Cultures of English Speaking Countries",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cross-cultural Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance understanding of cultures, values, customs, and social structures of English-speaking countries."
+    },
+    {
+      "skill_name": "Geopolitical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Gain knowledge about geography, politics, religion, education, and economy of English-speaking nations."
+    },
+    {
+      "skill_name": "English Language Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Improve language skills through cultural context."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills by analyzing cultural differences and similarities."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Learn how to conduct research on various aspects of English-speaking cultures."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Listening and Speaking Skills 3",
+      "Reading and Writing Skills 3"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

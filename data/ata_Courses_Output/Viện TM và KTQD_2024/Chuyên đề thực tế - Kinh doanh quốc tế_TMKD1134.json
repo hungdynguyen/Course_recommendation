@@ -1,0 +1,47 @@
+{
+  "course_id": "TMKD1134",
+  "title": "Study tour – International business",
+  "difficulty_level": "Advanced",
+  "duration": "15 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to collect, process, and analyze data for research purposes."
+    },
+    {
+      "skill_name": "Problem Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to analyze and evaluate solutions to problems arising in international business operations."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to apply appropriate methods and techniques for data collection and analysis in international business contexts."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to independently plan, conduct research, and propose solutions to issues in international business activities."
+    },
+    {
+      "skill_name": "Initiative",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to proactively suggest solutions to emerging problems in international business activities."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to think critically about issues in international business activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "International Business"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

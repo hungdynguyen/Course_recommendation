@@ -1,0 +1,71 @@
+{
+  "course_id": "PTKT1108",
+  "title": "Development Planning 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the concepts, contents, and positions of each component plan within the economic and social development planning system."
+    },
+    {
+      "skill_name": "Mathematical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and calculate key indicators in development plans using various models and methods."
+    },
+    {
+      "skill_name": "Policy Formulation",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate policies for resource allocation, labor force utilization, and fiscal management to support development goals."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and critique the logic and methods of planning and policy formulation."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to develop and present plans and policies."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate and present plans and policies to stakeholders."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently study and apply knowledge to practical situations."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and prepare for assessments."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to professional ethics and social responsibility in development planning."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Development Planning 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economic Concepts",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Mathematical Skills",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

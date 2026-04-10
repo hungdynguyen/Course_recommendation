@@ -1,0 +1,81 @@
+{
+  "course_id": "QTKD1148",
+  "title": "Operations Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the concept of operations management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the basic concepts related to operations and operations management."
+    },
+    {
+      "skill_name": "Understanding the role and development process of operations management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the role and development process of operations management."
+    },
+    {
+      "skill_name": "Forecasting product demand",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to forecast product demand using various methods."
+    },
+    {
+      "skill_name": "Product design",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn about product design and its importance in operations management."
+    },
+    {
+      "skill_name": "Capacity planning",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn how to plan capacity effectively."
+    },
+    {
+      "skill_name": "Enterprise positioning",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the concept and role of enterprise positioning."
+    },
+    {
+      "skill_name": "Production floor layout",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn about production floor layout and its importance."
+    },
+    {
+      "skill_name": "Strategic and operational management concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand strategic and operational management concepts."
+    },
+    {
+      "skill_name": "Making decisions on practical operational issues",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to make decisions and handle practical operational issues."
+    },
+    {
+      "skill_name": "Combining experience, knowledge, and tools to solve operational management problems",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to combine their experience, knowledge, and tools to solve operational management problems."
+    },
+    {
+      "skill_name": "Analyzing case studies",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze case studies presented in the textbook."
+    },
+    {
+      "skill_name": "Analyzing real-world examples in operations management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze real-world examples in operations management."
+    },
+    {
+      "skill_name": "Applying different methods in operations management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to apply different methods in operations management."
+    },
+    {
+      "skill_name": "Solving exercises related to operations management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to solve exercises related to operations management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

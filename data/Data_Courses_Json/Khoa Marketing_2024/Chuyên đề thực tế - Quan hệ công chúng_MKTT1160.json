@@ -1,0 +1,57 @@
+{
+  "course_id": "MKTT1160",
+  "title": "Chuyên đề thực tế Quan hệ công chúng",
+  "difficulty_level": "Advanced",
+  "duration": "10 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Relations",
+      "category": "Soft Skill",
+      "outcome_description": "Apply public relations theories and practices in real-world scenarios."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and apply research methodologies to solve practical problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems using critical thinking skills."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through written and oral presentations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems using appropriate knowledge and methods."
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply marketing principles in public relations contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Nguyên lý Quan hệ công chúng",
+      "Nghiên cứu marketing"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Public Relations",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Marketing",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

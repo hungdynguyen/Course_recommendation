@@ -1,0 +1,7 @@
+{
+  "total_pairs": 1000,
+  "total_courses_available": 658,
+  "average_vector_courses_per_pair": 30.0,
+  "top_k": 30,
+  "embedding_model": "Qwen/Qwen3-Embedding-0.6B"
+}

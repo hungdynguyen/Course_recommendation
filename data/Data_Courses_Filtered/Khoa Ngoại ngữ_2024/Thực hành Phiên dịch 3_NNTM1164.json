@@ -1,0 +1,61 @@
+{
+  "course_id": "NNTM1164",
+  "title": "Interpretation 3",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Consecutive Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze speaker's message and convey it accurately in the target language within 20-30 seconds."
+    },
+    {
+      "skill_name": "Simultaneous Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Accurately interpret and convey messages in real-time during presentations, meetings, and lectures."
+    },
+    {
+      "skill_name": "Terminology Management",
+      "category": "Hard Skill",
+      "outcome_description": "Build and maintain a glossary of specialized terminology used in economics, management, and business fields."
+    },
+    {
+      "skill_name": "Self-Assessment Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Develop methods for evaluating the quality of translation work."
+    },
+    {
+      "skill_name": "Feedback Solicitation",
+      "category": "Soft Skill",
+      "outcome_description": "Proactively seek feedback on the quality of translation work."
+    },
+    {
+      "skill_name": "Technology Utilization",
+      "category": "Hard Skill",
+      "outcome_description": "Use technology tools to support translation tasks in various professional settings."
+    },
+    {
+      "skill_name": "Continuous Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize the need for lifelong learning to continuously improve translation skills in different professional contexts."
+    },
+    {
+      "skill_name": "Translation Notebook Creation",
+      "category": "Hard Skill",
+      "outcome_description": "Create a translation notebook to document learned terminology and translation techniques."
+    },
+    {
+      "skill_name": "Professional Ethics Development",
+      "category": "Soft Skill",
+      "outcome_description": "Refine professional ethics in the field of translation."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills for working in teams and leading groups."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

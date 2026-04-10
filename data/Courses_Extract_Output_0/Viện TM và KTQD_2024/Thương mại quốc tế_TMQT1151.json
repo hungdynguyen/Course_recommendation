@@ -1,0 +1,38 @@
+{
+  "course_id": "TMQTT1151",
+  "title": "International Trade",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Trade Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature of international trade and its theoretical foundations."
+    },
+    {
+      "skill_name": "Trade Policies",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply various trade policies including tariffs and non-tariff barriers."
+    },
+    {
+      "skill_name": "International Economic Organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Examine the role of international economic organizations and their impact on global trade."
+    },
+    {
+      "skill_name": "Global Trade Regulations",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend and apply global trade regulations and free trade agreements."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1",
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

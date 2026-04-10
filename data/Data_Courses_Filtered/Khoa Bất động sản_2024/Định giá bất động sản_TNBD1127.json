@@ -1,0 +1,79 @@
+{
+  "course_id": "TNBD1127",
+  "title": "Real estate Valuation",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real estate valuation fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basis, principles, and procedures for real estate valuation."
+    },
+    {
+      "skill_name": "Report structure and requirements",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the structure and requirements of a valuation report."
+    },
+    {
+      "skill_name": "Valuation process implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to organize and implement specific real estate valuation tasks."
+    },
+    {
+      "skill_name": "Comparative method application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply comparative methods in real estate valuation."
+    },
+    {
+      "skill_name": "Cost method application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply cost methods in real estate valuation."
+    },
+    {
+      "skill_name": "Income method application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply income methods in real estate valuation."
+    },
+    {
+      "skill_name": "Residual method application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply residual methods in real estate valuation."
+    },
+    {
+      "skill_name": "Excel and basic calculation tools",
+      "category": "Tool/Software",
+      "outcome_description": "Use Excel and other basic calculation tools for data analysis."
+    },
+    {
+      "skill_name": "Group work and collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group work and presentations."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think critically about real estate valuation issues."
+    },
+    {
+      "skill_name": "Professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply professional ethics in real estate valuation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic real estate concepts",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic economics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

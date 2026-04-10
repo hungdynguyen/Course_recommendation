@@ -1,0 +1,42 @@
+{
+  "course_id": "BHKT1102",
+  "title": "Business Insurance 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature and characteristics of commercial insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the essence and features of commercial insurance, including life insurance, vehicle insurance, fire insurance, money insurance, and property insurance."
+    },
+    {
+      "skill_name": "Applying principles of commercial insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply the operational mechanisms and principles of commercial insurance in various types such as life insurance, vehicle insurance, fire insurance, money insurance, and property insurance."
+    },
+    {
+      "skill_name": "Analyzing and evaluating risks in commercial insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of commercial insurance principles to analyze and assess risks, monitor business processes, and manage various types of insurance operations."
+    },
+    {
+      "skill_name": "Research and independent work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research abilities, independent work skills, logical and critical thinking, teamwork, presentation skills, and problem-solving skills."
+    },
+    {
+      "skill_name": "Personal responsibility and teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate personal accountability and responsibility towards team work."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Insurance"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "course_id": "Quản lý học 1",
+  "title": "Management Studies 1",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Management Overview",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of management including social systems, organizational structures, and managerial roles."
+    },
+    {
+      "skill_name": "Environmental Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze external environments and their impact on management decisions."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in making effective management decisions."
+    },
+    {
+      "skill_name": "Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Learn the fundamentals of planning in a management context."
+    },
+    {
+      "skill_name": "Organizing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles of organizing resources effectively."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Gain insights into leadership theories and practices."
+    },
+    {
+      "skill_name": "Control",
+      "category": "Hard Skill",
+      "outcome_description": "Master the techniques of control in management processes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

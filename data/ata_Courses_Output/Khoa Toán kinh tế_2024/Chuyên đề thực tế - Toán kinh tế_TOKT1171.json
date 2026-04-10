@@ -1,0 +1,75 @@
+{
+  "course_id": "TOKT1171",
+  "title": "Chuyên đề thực tế - Toán kinh tế",
+  "difficulty_level": "Advanced",
+  "duration": "15 hours theory + 45 hours practice",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic and Financial Knowledge Synthesis",
+      "category": "Hard Skill",
+      "outcome_description": "Summarize relevant economic and financial knowledge."
+    },
+    {
+      "skill_name": "Specialized Knowledge Systematization",
+      "category": "Hard Skill",
+      "outcome_description": "Systematize specialized knowledge and combine tools for analysis to solve economic and financial problems."
+    },
+    {
+      "skill_name": "Identify Appropriate IT Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Identify appropriate IT tools for solving economic and financial problems and determine additional knowledge needed."
+    },
+    {
+      "skill_name": "Recognize Economic Relationships",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize economic relationships through practical environments and understand methods to solve economic and financial issues."
+    },
+    {
+      "skill_name": "Identify Practical Issues",
+      "category": "Soft Skill",
+      "outcome_description": "Identify practical issues that can be addressed using learned knowledge."
+    },
+    {
+      "skill_name": "Explain Problem Urgency",
+      "category": "Soft Skill",
+      "outcome_description": "Explain the urgency of the problem, set research goals and questions."
+    },
+    {
+      "skill_name": "Review Previous Research",
+      "category": "Soft Skill",
+      "outcome_description": "Review previous research and update related tools to address the problem."
+    },
+    {
+      "skill_name": "Apply Learned Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Apply learned knowledge and self-taught skills to calculate and solve economic and financial problems."
+    },
+    {
+      "skill_name": "Analyze and Report Results",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze results, report findings, evaluate outcomes, and propose policies for related issues."
+    },
+    {
+      "skill_name": "Self-Organize and Plan Work",
+      "category": "Soft Skill",
+      "outcome_description": "Self-organize and plan work."
+    },
+    {
+      "skill_name": "Present and Discuss Findings",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings, discuss with peers, and complete reports."
+    },
+    {
+      "skill_name": "Report and Defend Opinions",
+      "category": "Soft Skill",
+      "outcome_description": "Report findings, defend opinions before a panel."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

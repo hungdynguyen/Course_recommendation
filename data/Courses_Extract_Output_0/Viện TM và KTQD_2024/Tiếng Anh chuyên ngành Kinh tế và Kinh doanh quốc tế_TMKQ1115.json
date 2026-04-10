@@ -1,0 +1,40 @@
+{
+  "course_id": "TMKQ1115",
+  "title": "English for International Economics and Business",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Correspondence",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to write international business letters including inquiries, quotations, orders, complaints, etc."
+    },
+    {
+      "skill_name": "Contract Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of international business contracts such as import/export, technology transfer, joint ventures, etc."
+    },
+    {
+      "skill_name": "Trade Documentation",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of commercial documents including invoices, transport documents, insurance certificates, warehouse receipts, customs declarations, etc."
+    },
+    {
+      "skill_name": "Project Proposal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to draft and propose international investment projects"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic English",
+      "Macroeconomics 1",
+      "Microeconomics 1",
+      "International Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

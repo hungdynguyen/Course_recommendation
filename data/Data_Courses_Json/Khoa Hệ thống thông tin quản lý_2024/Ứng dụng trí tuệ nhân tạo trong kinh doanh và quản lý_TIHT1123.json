@@ -1,0 +1,65 @@
+{
+  "course_id": "TIHT1123",
+  "title": "Application of Artificial Intelligence in Business and Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Artificial Intelligence",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and apply basic and advanced concepts of Artificial Intelligence (AI) in business and management."
+    },
+    {
+      "skill_name": "Data Science",
+      "category": "Tool/Software",
+      "outcome_description": "Apply data science techniques to solve business and management problems."
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category": "Tool/Software",
+      "outcome_description": "Evaluate and apply various machine learning techniques including supervised, unsupervised, semi-supervised, reinforcement learning, and deep learning."
+    },
+    {
+      "skill_name": "Python (Computer Programming)",
+      "category": "Tool/Software",
+      "outcome_description": "Use Python programming to develop AI applications in business and management."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems using AI techniques."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and critique AI applications in business and management."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently and manage personal responsibilities."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to develop AI applications."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and execute projects involving AI applications in business and management."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and develop AI models for business and management applications."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "course_id": "KHMA1134",
+  "title": "Project",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Practical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to understand and analyze real-world economic issues."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to write comprehensive reports on practical economic issues."
+    },
+    {
+      "skill_name": "Economic Theories Application",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to apply economic theories and quantitative tools to analyze practical issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Industry Knowledge",
+      "Industry Specific Knowledge",
+      "Advanced Industry Knowledge"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "course_id": "TMKT1136",
+  "title": "E-Logistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to optimize supply chains using modern logistics solutions."
+    },
+    {
+      "skill_name": "Customer Relationship Management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn to manage customer relationships through digital platforms."
+    },
+    {
+      "skill_name": "Procurement Management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will develop skills in procurement, negotiation, and contract management."
+    },
+    {
+      "skill_name": "Inventory Management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will master inventory management techniques using electronic tools."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "E-commerce",
+      "Business Logistics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

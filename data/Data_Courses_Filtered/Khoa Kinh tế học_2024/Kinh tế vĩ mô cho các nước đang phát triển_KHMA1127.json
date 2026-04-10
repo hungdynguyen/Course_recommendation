@@ -1,0 +1,52 @@
+{
+  "course_id": "KHMA1127",
+  "title": "Macroeconomics for Developing Countries",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding advanced macroeconomic models and theories",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply advanced macroeconomic models and theories"
+    },
+    {
+      "skill_name": "Applying deep theory to explain macroeconomic issues and policies in developing countries",
+      "category": "Hard Skill",
+      "outcome_description": "Apply deep theoretical knowledge to explain macroeconomic issues and policies in developing countries"
+    },
+    {
+      "skill_name": "Analyzing and evaluating macroeconomic issues and policies in developing countries",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate macroeconomic issues and policies in developing countries"
+    },
+    {
+      "skill_name": "Using tools from basic to advanced levels for research assignments",
+      "category": "Hard Skill",
+      "outcome_description": "Use tools from basic to advanced levels for research assignments"
+    },
+    {
+      "skill_name": "Working independently and in groups",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in groups, with presentation and critical thinking skills to solve practical problems"
+    },
+    {
+      "skill_name": "Self-study and research skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-study and research skills, take responsibility for group work"
+    },
+    {
+      "skill_name": "Critical thinking skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking skills on macroeconomic issues and policies"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 2 (KHMA1102)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

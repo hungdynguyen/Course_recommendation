@@ -1,0 +1,83 @@
+{
+  "course_id": "TNDC1130",
+  "title": "Land Administration 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding characteristics of land",
+      "category": "Hard Skill",
+      "outcome_description": "Recall the characteristics of land, functions, and methods of state management of land."
+    },
+    {
+      "skill_name": "Understanding basis of state management of land",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basis of state management of land."
+    },
+    {
+      "skill_name": "Understanding organizational structure and division of authority in state management of land",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the organizational structure and division of authority in state management of land."
+    },
+    {
+      "skill_name": "Understanding contents of some policies of state management of land",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the contents of some policies of state management of land."
+    },
+    {
+      "skill_name": "Relating issues of land management and use to the characteristics of land",
+      "category": "Hard Skill",
+      "outcome_description": "Link issues of land management and use to the characteristics of land."
+    },
+    {
+      "skill_name": "Determining functions of state management contents",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the functions of state management contents."
+    },
+    {
+      "skill_name": "Determining appropriate land policies to explain specific land management situations",
+      "category": "Hard Skill",
+      "outcome_description": "Identify appropriate land policies to explain specific land management situations."
+    },
+    {
+      "skill_name": "Explaining the meaning of state management of land",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the meaning of state management of land."
+    },
+    {
+      "skill_name": "Analyzing land policies and applying them to real-life situations",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze land policies and apply them to real-life situations."
+    },
+    {
+      "skill_name": "Synthesizing various contents and research materials in land management",
+      "category": "Hard Skill",
+      "outcome_description": "Synthesize various contents and research materials in land management."
+    },
+    {
+      "skill_name": "Being proactive in learning, research, and group work",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning, research, and group work."
+    },
+    {
+      "skill_name": "Choosing methods and research materials to analyze real-life land management situations",
+      "category": "Soft Skill",
+      "outcome_description": "Choose methods and research materials to analyze real-life land management situations."
+    },
+    {
+      "skill_name": "Being proactive in presenting research topics",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in presenting research topics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management Studies 1",
+      "Research Methods for Economics and Society"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

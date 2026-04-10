@@ -1,0 +1,46 @@
+{
+  "course_id": "Kinh tế Tài nguyên 1",
+  "title": "Natural Resource Economics I",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic issues related to natural resource management."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate policies related to natural resource utilization."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze market dynamics involving natural resources."
+    },
+    {
+      "skill_name": "Resource Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply methods to determine the economic value of natural resources."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Economics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Microeconomics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Macroeconomics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

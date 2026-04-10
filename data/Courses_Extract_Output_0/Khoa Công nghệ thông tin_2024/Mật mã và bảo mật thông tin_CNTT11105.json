@@ -1,0 +1,74 @@
+{
+  "course_id": "CNTT11105",
+  "title": "Cryptography and Information Security",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cryptography Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of cryptography including symmetric and asymmetric encryption."
+    },
+    {
+      "skill_name": "Information Security Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to manage risks and threats related to information security."
+    },
+    {
+      "skill_name": "Symmetric Encryption Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Master various methods of symmetric encryption including block and stream ciphers."
+    },
+    {
+      "skill_name": "Asymmetric Encryption Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Learn about public key cryptography including RSA and El-Gamal algorithms."
+    },
+    {
+      "skill_name": "Hash Functions and Digital Signatures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply hash functions and digital signatures in practical scenarios."
+    },
+    {
+      "skill_name": "Secure Communication Protocols",
+      "category": "Hard Skill",
+      "outcome_description": "Study protocols for secure communication over networks."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance problem-solving abilities in real-world cryptographic challenges."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Improve ability to work independently on complex projects."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork skills for collaborative projects."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Programming Basics",
+      "Data Structures and Algorithms",
+      "Database Fundamentals",
+      "Computer Networks and Data Transmission"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming Skills",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Understanding of Data Structures",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

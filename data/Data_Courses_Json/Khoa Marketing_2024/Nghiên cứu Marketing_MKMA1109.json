@@ -1,0 +1,47 @@
+{
+  "course_id": "MKMA1109",
+  "title": "Marketing Research",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Research",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of marketing research, types of research, ethical requirements, and organizational issues."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Master the process of conducting marketing research, from problem identification to data analysis and reporting."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform data analysis using SPSS software and interpret results for marketing decision-making."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects, data collection, report writing, and presentation."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop communication skills for data collection and presentation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and interpret marketing research data."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Marketing"
+    ],
+    "minimum_entry_skills": []
+  }
+}

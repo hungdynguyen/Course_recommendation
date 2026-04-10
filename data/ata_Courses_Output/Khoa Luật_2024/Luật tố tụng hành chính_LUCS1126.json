@@ -1,0 +1,76 @@
+{
+  "course_id": "LUCS1126",
+  "title": "Law on Administrative Procedures",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Administrative Law Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic theoretical issues about administrative litigation."
+    },
+    {
+      "skill_name": "Court Structure and Functions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the structure, functions, and roles of courts in administrative litigation."
+    },
+    {
+      "skill_name": "Judicial Review Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the procedures for judicial review of administrative cases."
+    },
+    {
+      "skill_name": "Legal Principles of Administrative Litigation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand fundamental legal principles governing administrative litigation."
+    },
+    {
+      "skill_name": "Legal Remedies in Administrative Litigation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal remedies available in administrative litigation."
+    },
+    {
+      "skill_name": "Legal Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to research and apply legal information effectively."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to work collaboratively in groups."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to present and defend research findings effectively."
+    },
+    {
+      "skill_name": "Critical Thinking Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and synthesize legal information."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ability to independently study and improve specialized knowledge."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS1114 (Administrative Law)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Understanding of Administrative Law",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "course_id": "CNTT11103",
+  "title": "UNIX Operation System",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Operating Systems Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic structure and operation of a Unix/Linux operating system."
+    },
+    {
+      "skill_name": "File System Management",
+      "category": "Hard Skill",
+      "outcome_description": "Organize files within a Unix/Linux environment and utilize shell scripts."
+    },
+    {
+      "skill_name": "Shell Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and execute shell scripts in a Unix/Linux environment."
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and administer a Unix/Linux system effectively."
+    },
+    {
+      "skill_name": "Network Service Management",
+      "category": "Hard Skill",
+      "outcome_description": "Set up and manage network services on a Unix/Linux system."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

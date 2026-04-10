@@ -1,0 +1,40 @@
+{
+  "mode": "designed_flow",
+  "labels_file": "data/processed/training_dataset/human_labeled_recommendations.json",
+  "scenario_file": "data/processed/course_recommendations/course_recommendations.json",
+  "total_labeled_samples": 68,
+  "matched_samples": 68,
+  "k_values": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "summary": {
+    "@1": {
+      "precision": 0.235294,
+      "recall": 0.128676,
+      "hit_rate": 0.235294,
+      "ndcg": 0.235294
+    },
+    "@3": {
+      "precision": 0.186275,
+      "recall": 0.290441,
+      "hit_rate": 0.470588,
+      "ndcg": 0.269944
+    },
+    "@5": {
+      "precision": 0.141176,
+      "recall": 0.352941,
+      "hit_rate": 0.573529,
+      "ndcg": 0.298376
+    },
+    "@10": {
+      "precision": 0.086765,
+      "recall": 0.406863,
+      "hit_rate": 0.588235,
+      "ndcg": 0.322328
+    }
+  },
+  "excel_output": "data/processed/course_recommendation_metrics/designed_flow_comparison.xlsx"
+}

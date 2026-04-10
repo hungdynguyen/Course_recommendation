@@ -1,0 +1,46 @@
+{
+  "course_id": "BHKT1116",
+  "title": "Reinsurance",
+  "difficulty_level": "Beginner",
+  "duration": "45",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply knowledge of reinsurance in managing reinsurance activities in insurance companies."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of reinsurance in insurance and reinsurance business, evaluate the effectiveness of reinsurance programs in insurance company operations."
+    },
+    {
+      "skill_name": "Analytical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Research, analyze, and think systematically in reinsurance management. Demonstrate leadership and responsibility."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work in teams, manage resources for professional reinsurance management activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Insurance Business 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Risk Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

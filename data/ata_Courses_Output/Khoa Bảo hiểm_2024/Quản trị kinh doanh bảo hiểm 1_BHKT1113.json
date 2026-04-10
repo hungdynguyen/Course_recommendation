@@ -1,0 +1,51 @@
+{
+  "course_id": "BHKT1113",
+  "title": "Insurance Business Administration 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Business Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts of insurance business and insurance business administration, the objective necessity of insurance business administration, scientific basis and main contents of insurance business administration."
+    },
+    {
+      "skill_name": "Market Insurance Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and characteristics of market insurance, classification of market insurance, structure of market insurance, state management of insurance business activities."
+    },
+    {
+      "skill_name": "Insurance Company Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and classification of insurance companies, organizational models of insurance companies, main functions of insurance companies, characteristics of insurance company operations, business strategies of insurance companies."
+    },
+    {
+      "skill_name": "Product Management Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the general overview of insurance products, issues related to developing new insurance products, pricing and product management, quality management of insurance products."
+    },
+    {
+      "skill_name": "Distribution Channel Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and classification of distribution channels in insurance business activities, role of distribution channels, insurance agents and brokers, selection and management of distribution channels."
+    },
+    {
+      "skill_name": "Analytical and Evaluation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of insurance business and insurance business administration to analyze and evaluate business operations, organizational structures, strategic planning, market analysis, policies in insurance business."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research capabilities, synthesis, logical and critical thinking skills, teamwork skills, presentation skills, problem-solving skills, leadership skills."
+    },
+    {
+      "skill_name": "Planning and Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to plan, coordinate, manage resources, assess and improve the effectiveness of activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

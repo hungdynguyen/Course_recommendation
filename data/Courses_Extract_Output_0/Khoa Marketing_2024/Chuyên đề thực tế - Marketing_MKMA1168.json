@@ -1,0 +1,44 @@
+{
+  "course_id": "MKMA1168",
+  "title": "Practical Internship Report",
+  "difficulty_level": "Beginner",
+  "duration": "15 class hours + 90 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Market Research",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct market research and analyze data."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to identify and solve problems in a practical marketing context."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage a project from conception to completion."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to write comprehensive reports based on practical marketing experiences."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to think critically about marketing theories and their application in real-world scenarios."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Marketing",
+      "Marketing Management",
+      "Consumer Behavior"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

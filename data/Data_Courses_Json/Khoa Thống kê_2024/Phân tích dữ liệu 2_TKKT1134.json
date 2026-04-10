@@ -1,0 +1,72 @@
+{
+  "course_id": "TKKT1134",
+  "title": "Phân tích dữ liệu 2",
+  "difficulty_level": "Advanced",
+  "duration": "3TC (45 tiết)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Systematize knowledge about data analysis methods, evaluate models and results from data analysis."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in using statistical software for data analysis."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply multi-criteria decision analysis methods to make informed decisions based on data analysis."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate data analysis models and results."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in groups to solve problems and present findings."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate data analysis results and methodologies."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Understand societal context and professional ethics in data analysis."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and research capabilities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Lý thuyết thống kê",
+      "Thống kê trong kinh tế và kinh doanh",
+      "Phân tích dữ liệu 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Data Analysis",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "course_id": "DTKT1123",
+  "title": "Public-Private Partnerships",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature of PPP investments",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and understand the essence of PPP investments, the role of PPP investments, and the selection process for investors and types of PPP contracts."
+    },
+    {
+      "skill_name": "Analyzing PPP investment processes",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the selection process for investors and types of PPP contracts."
+    },
+    {
+      "skill_name": "Financial analysis of PPP projects",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate and evaluate the financial effectiveness of PPP projects."
+    },
+    {
+      "skill_name": "Risk management in PPP projects",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze risks associated with PPP projects and methods to mitigate and allocate these risks."
+    },
+    {
+      "skill_name": "Government management of PPP",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze government management of PPP in Vietnam."
+    },
+    {
+      "skill_name": "Research and analytical skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess research and analytical skills related to PPP investments."
+    },
+    {
+      "skill_name": "Independent learning",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to learn independently, identify problems, analyze and solve problems."
+    },
+    {
+      "skill_name": "Collaborative work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to complete group tasks."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Procurement"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

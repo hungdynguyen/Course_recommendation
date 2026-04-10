@@ -1,0 +1,51 @@
+{
+  "course_id": "International Business Management",
+  "title": "Practical Case Studies in International Business",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Case Study Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to analyze real-world business cases effectively."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance students' ability to apply research methodologies in practical scenarios."
+    },
+    {
+      "skill_name": "Business Strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategic thinking and planning skills for international business operations."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Improve proficiency in analyzing business data to inform decision-making."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance project management skills through group assignments and presentations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to International Business"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "English Communication Skills",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

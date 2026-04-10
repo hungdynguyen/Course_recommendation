@@ -1,0 +1,71 @@
+{
+  "course_id": "CNTT1191",
+  "title": "General Physics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Electric Field",
+      "category": "Hard Skill",
+      "outcome_description": "Understand concepts, quantities, and principles related to electric fields including Coulomb's law, Gauss's law, and electric potential."
+    },
+    {
+      "skill_name": "Magnetic Field",
+      "category": "Hard Skill",
+      "outcome_description": "Understand concepts, quantities, and principles related to magnetic fields including Ampère's law, magnetic flux, and magnetic induction."
+    },
+    {
+      "skill_name": "Electromagnetic Induction",
+      "category": "Hard Skill",
+      "outcome_description": "Understand Faraday's law and Lenz's law, and apply them to solve problems involving electromagnetic induction."
+    },
+    {
+      "skill_name": "Maxwell's Equations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply Maxwell's equations to describe the behavior of electromagnetic fields."
+    },
+    {
+      "skill_name": "Dielectrics and Conductors",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the behavior of dielectric materials and conductors in electric fields, including polarization and capacitance."
+    },
+    {
+      "skill_name": "Ferromagnetism",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the properties and applications of ferromagnetic materials."
+    },
+    {
+      "skill_name": "Electromagnetic Waves",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature and characteristics of electromagnetic waves, including their generation and propagation."
+    },
+    {
+      "skill_name": "Resonant Circuits",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze resonant circuits and their applications in various contexts."
+    },
+    {
+      "skill_name": "Problem Solving Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving techniques for analyzing and solving complex physics problems."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to complete group assignments and presentations."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently seek out and understand new information and concepts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking skills to analyze and interpret physical phenomena."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

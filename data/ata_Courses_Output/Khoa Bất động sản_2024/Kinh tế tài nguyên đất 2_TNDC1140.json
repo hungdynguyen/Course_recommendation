@@ -1,0 +1,67 @@
+{
+  "course_id": "TNDC1140",
+  "title": "Land Resource Economics 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature of land resource environment",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence of land resource environment"
+    },
+    {
+      "skill_name": "Understanding the characteristics of land resource environment pollution and degradation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the characteristics of pollution and degradation of land resource environment"
+    },
+    {
+      "skill_name": "Understanding the development process and components of land market",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the development process and components of land market"
+    },
+    {
+      "skill_name": "Analyzing indicators of specific land markets",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze indicators of specific land markets"
+    },
+    {
+      "skill_name": "Collecting information during evaluation of land resource environment status",
+      "category": "Hard Skill",
+      "outcome_description": "Collect information during evaluation of land resource environment status"
+    },
+    {
+      "skill_name": "Analyzing and evaluating components of land market",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate components of land market"
+    },
+    {
+      "skill_name": "Collecting information for evaluating and analyzing land use plans",
+      "category": "Hard Skill",
+      "outcome_description": "Collect information for evaluating and analyzing land use plans"
+    },
+    {
+      "skill_name": "Evaluating land use plans according to market mechanisms",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate land use plans according to market mechanisms"
+    },
+    {
+      "skill_name": "Self-study and accumulate experience to improve expertise in land economics",
+      "category": "Soft Skill",
+      "outcome_description": "Self-study and accumulate experience to improve expertise in land economics"
+    },
+    {
+      "skill_name": "Actively presenting research results",
+      "category": "Soft Skill",
+      "outcome_description": "Actively present research results"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Land Resource Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

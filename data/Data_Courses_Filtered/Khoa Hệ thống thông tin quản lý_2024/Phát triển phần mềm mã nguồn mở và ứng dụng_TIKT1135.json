@@ -1,0 +1,82 @@
+{
+  "course_id": "TIKT1135",
+  "title": "Development of Open Source Software and Applications",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Open Source Software Terminology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and master the terminology related to open source software"
+    },
+    {
+      "skill_name": "Open Source Software Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain key concepts related to open source software"
+    },
+    {
+      "skill_name": "Open Source Software Licenses",
+      "category": "Hard Skill",
+      "outcome_description": "Explain various open source software licenses such as GNU, LGPL, MIT, BSD, Apache, QPL, and Artistic"
+    },
+    {
+      "skill_name": "Linux Distributions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use basic Ubuntu"
+    },
+    {
+      "skill_name": "Python Programming Language",
+      "category": "Tool/Software",
+      "outcome_description": "Use Python programming language effectively"
+    },
+    {
+      "skill_name": "MySQL Database Management System",
+      "category": "Tool/Software",
+      "outcome_description": "Use MySQL database management system effectively"
+    },
+    {
+      "skill_name": "Open Source Application Software",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use open source application software such as office suites, content management systems, and ERP systems"
+    },
+    {
+      "skill_name": "Development Environment Tools",
+      "category": "Tool/Software",
+      "outcome_description": "Use development environment tools like Eclipse and NetBeans effectively"
+    },
+    {
+      "skill_name": "Version Control Systems",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and use version control systems like Git"
+    },
+    {
+      "skill_name": "Project Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects effectively using open source tools"
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning skills to understand and apply open source software"
+    },
+    {
+      "skill_name": "Collaborative Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in teams to develop and deploy open source applications"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve problems related to open source software development"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "CNTT1128 - Fundamental Programming"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

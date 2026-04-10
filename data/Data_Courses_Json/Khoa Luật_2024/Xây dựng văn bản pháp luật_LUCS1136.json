@@ -1,0 +1,69 @@
+{
+  "course_id": "LUCS1136",
+  "title": "Drafting Legal Documents",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Drafting",
+      "category": "Soft Skill",
+      "outcome_description": "Students will understand the basics of legal documents, the process of drafting legal documents, and the requirements for legal documents. They will also be able to draft legal documents in various forms such as laws, regulations, decrees, etc."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to conduct legal research and apply their findings to the drafting of legal documents."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to analyze legal documents and assess their legality and compliance with formal requirements."
+    },
+    {
+      "skill_name": "Legal Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop skills in communication, presentation, and group work related to legal drafting."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Students will understand the legal compliance requirements and be able to review and handle defective legal documents."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to write legal documents in a clear and concise manner, adhering to legal standards and formal requirements."
+    },
+    {
+      "skill_name": "Legal Review",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to review and critique legal documents, ensuring they meet legal and formal standards."
+    },
+    {
+      "skill_name": "Legal Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to use their knowledge to draft legal documents to solve practical problems and manage administrative activities."
+    },
+    {
+      "skill_name": "Legal Documentation",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to document and present their research findings effectively."
+    },
+    {
+      "skill_name": "Legal Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Students will understand the ethical considerations involved in legal drafting and document management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 1,2",
+      "Constitutional Law",
+      "Administrative Law"
+    ],
+    "minimum_entry_skills": []
+  }
+}

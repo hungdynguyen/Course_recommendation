@@ -1,0 +1,61 @@
+{
+  "course_id": "DTKT1120",
+  "title": "International Investment",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Investment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and differentiate various forms of international investment and analyze their impacts on participating countries."
+    },
+    {
+      "skill_name": "Economic Environment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the components and impact of the international investment environment on investment activities."
+    },
+    {
+      "skill_name": "Global Business Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of multinational corporations in expanding international investment globally and analyze their strategies."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the legal aspects and comply with regulations in international investment."
+    },
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research and analysis skills to solve specific issues in international investment."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve problems in international investment."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently to complete research projects."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present research findings effectively and engage in discussions."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to meet deadlines for assignments and presentations."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills to continue education and adapt to globalization and the 4th Industrial Revolution."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

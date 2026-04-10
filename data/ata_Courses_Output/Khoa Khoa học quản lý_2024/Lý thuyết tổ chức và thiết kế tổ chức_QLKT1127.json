@@ -1,0 +1,76 @@
+{
+  "course_id": "QLKT1127",
+  "title": "Organization Theory and Design",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (150 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizational Theories",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply various organizational theories."
+    },
+    {
+      "skill_name": "Organizational Structure",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and design organizational structures."
+    },
+    {
+      "skill_name": "Systemic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop systemic thinking skills."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Improve problem-solving abilities."
+    },
+    {
+      "skill_name": "Group Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage groups effectively."
+    },
+    {
+      "skill_name": "Organizational Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply organizational processes."
+    },
+    {
+      "skill_name": "Organizational Culture",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze organizational culture and ethics."
+    },
+    {
+      "skill_name": "Organizational Learning",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement organizational learning programs."
+    },
+    {
+      "skill_name": "Power and Politics in Organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand power dynamics and political behavior in organizations."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and take responsibility for professional tasks."
+    },
+    {
+      "skill_name": "Planning and Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan and manage resources effectively."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and ethical behavior."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to changes and continuously learn."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

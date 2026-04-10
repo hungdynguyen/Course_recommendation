@@ -1,0 +1,91 @@
+{
+  "course_id": "QTKD1132",
+  "title": "Strategic Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Management Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature of business strategy and its role in enterprises."
+    },
+    {
+      "skill_name": "Importance of Strategic Management",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize the importance of strategic management in business operations."
+    },
+    {
+      "skill_name": "Strategic Management Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the process of strategic management."
+    },
+    {
+      "skill_name": "Vision, Mission, and Objectives",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the concepts of vision, mission, and objectives."
+    },
+    {
+      "skill_name": "PESTEL Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply tools for analyzing macro-environment."
+    },
+    {
+      "skill_name": "Five Forces Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply tools for analyzing industry environment."
+    },
+    {
+      "skill_name": "Internal Environment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze internal environment of the enterprise."
+    },
+    {
+      "skill_name": "Types of Competitive Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various competitive strategies of enterprises."
+    },
+    {
+      "skill_name": "Application of Competitive Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Apply competitive strategies of enterprises."
+    },
+    {
+      "skill_name": "SWOT Matrix Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze using SWOT matrix to form strategies for enterprises."
+    },
+    {
+      "skill_name": "Selection of Suitable Strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Select appropriate strategies based on SWOT analysis."
+    },
+    {
+      "skill_name": "Implementation and Adjustment of Strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the implementation and adjustment of strategy."
+    },
+    {
+      "skill_name": "Self-Discipline and Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-discipline and responsibility in learning and working."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques in strategic management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

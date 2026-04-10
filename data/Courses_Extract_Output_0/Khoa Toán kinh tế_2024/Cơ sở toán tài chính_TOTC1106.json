@@ -1,0 +1,55 @@
+{
+  "course_id": "TOTC1106",
+  "title": "Fundamentals of Mathematical Finance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Mathematics",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding financial mathematics concepts including interest rates, discounting cash flows, and valuation methods."
+    },
+    {
+      "skill_name": "Excel Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to use Excel for financial modeling and calculations."
+    },
+    {
+      "skill_name": "Stochastic Processes",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of stochastic processes and their application in financial modeling."
+    },
+    {
+      "skill_name": "Derivatives Pricing",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of derivative pricing models and their implementation."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to apply risk management principles in financial contexts."
+    },
+    {
+      "skill_name": "Random Calculations",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in performing random calculations using appropriate software tools."
+    },
+    {
+      "skill_name": "Martingale Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehension of martingale theory and its applications in finance."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Probability Theory",
+      "Algebra",
+      "Calculus 1",
+      "Calculus 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

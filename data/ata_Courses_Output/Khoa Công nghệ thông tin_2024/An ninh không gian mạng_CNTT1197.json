@@ -1,0 +1,77 @@
+{
+  "course_id": "CNTT1197",
+  "title": "Cybersecurity",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Network Security Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and discuss key issues related to network security models."
+    },
+    {
+      "skill_name": "Cryptography Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply cryptographic methods in cybersecurity."
+    },
+    {
+      "skill_name": "Network Vulnerability Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Identify, analyze, and evaluate weaknesses in network systems."
+    },
+    {
+      "skill_name": "Cyber Threat Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and analyze cyber threats."
+    },
+    {
+      "skill_name": "Practical Cybersecurity Solutions",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of cybersecurity to develop practical solutions for securing network systems."
+    },
+    {
+      "skill_name": "English Literature Reading Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to read and understand English literature in the field."
+    },
+    {
+      "skill_name": "Self-Learning and Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to learn independently and conduct research."
+    },
+    {
+      "skill_name": "Risk Assessment Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to identify, assess risks in network systems."
+    },
+    {
+      "skill_name": "Cyber Attack Analysis Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to identify, analyze cyber attacks."
+    },
+    {
+      "skill_name": "Problem-Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to solve complex problems, design, install, and deploy practical cybersecurity solutions."
+    },
+    {
+      "skill_name": "Individual Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work independently and in teams."
+    },
+    {
+      "skill_name": "Expressing and Defending Personal Views",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to express and defend personal views, understand and fulfill responsibilities and professional ethics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Computer Networks and Data Transmission"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

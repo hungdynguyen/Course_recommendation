@@ -1,0 +1,60 @@
+{
+  "course_id": "TIHT1126",
+  "title": "Internship",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 155 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "System Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain specific issues related to Management Information Systems."
+    },
+    {
+      "skill_name": "Design Process",
+      "category": "Hard Skill",
+      "outcome_description": "Implement certain stages of the analysis, design, development, operation, and management process for information systems supporting operational activities, management, and control in organizations and businesses."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time and resources effectively, be adaptable to changes, and communicate well on digital platforms."
+    },
+    {
+      "skill_name": "Technical Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write reports and deliver professional presentations related to plans, strategies, and execution of assigned activities."
+    },
+    {
+      "skill_name": "Information System Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in analyzing, designing, operating, and managing information systems within organizations and businesses."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to independently seek out and read specialized literature."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Be capable of working independently or actively participating in group activities."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to laws and regulations of the organization."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of Management Information Systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

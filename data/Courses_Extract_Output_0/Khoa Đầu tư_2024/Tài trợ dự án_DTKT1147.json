@@ -1,0 +1,49 @@
+{
+  "course_id": "DTKT1147",
+  "title": "Project Financing",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Finance Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts, characteristics, requirements, and bases of project financing."
+    },
+    {
+      "skill_name": "Project Funding Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Identify various forms of project funding structures and their applications."
+    },
+    {
+      "skill_name": "Funding Sources",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze different sources of funding for projects."
+    },
+    {
+      "skill_name": "Contract Management",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and manage contracts related to project financing."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement risk management strategies in project financing."
+    },
+    {
+      "skill_name": "International Organizations",
+      "category": "Soft Skill",
+      "outcome_description": "Explore international organizations involved in project financing activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Investment Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

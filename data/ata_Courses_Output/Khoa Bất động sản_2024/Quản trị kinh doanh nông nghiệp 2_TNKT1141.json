@@ -1,0 +1,46 @@
+{
+  "course_id": "TNKT1141",
+  "title": "Agricultural Business Management 2",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Organizing the use of production materials in agricultural businesses",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand and analyze the organization of production material usage in agricultural businesses."
+    },
+    {
+      "skill_name": "Organizing crop production, livestock farming, and non-agricultural business activities",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand and analyze the organization of crop production, livestock farming, and non-agricultural business activities in agricultural enterprises."
+    },
+    {
+      "skill_name": "Financial management, distribution, accounting, and business analysis in agricultural enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand and analyze financial management, distribution, accounting, and business analysis in agricultural enterprises."
+    },
+    {
+      "skill_name": "Applying knowledge to organize crop production, livestock farming, and non-agricultural business activities",
+      "category": "Hard Skill",
+      "outcome_description": "Students can apply their knowledge to organize crop production, livestock farming, and non-agricultural business activities in agricultural enterprises."
+    },
+    {
+      "skill_name": "Applying knowledge to organize the sale of products in agricultural enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Students can apply their knowledge to organize the sale of products in agricultural enterprises."
+    },
+    {
+      "skill_name": "Self-study and research abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Students improve their self-study and research abilities."
+    },
+    {
+      "skill_name": "Drawing conclusions on issues related to agricultural business management",
+      "category": "Soft Skill",
+      "outcome_description": "Students can draw conclusions on issues related to agricultural business management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "course_id": "LUKD1110",
+  "title": "Law on Commerce 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic legal regulations regarding business registration and management."
+    },
+    {
+      "skill_name": "Private Enterprise Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal regulations concerning private enterprises and companies."
+    },
+    {
+      "skill_name": "Company Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal regulations concerning various types of companies including limited liability companies, joint-stock companies, and partnerships."
+    },
+    {
+      "skill_name": "State-Owned Enterprise Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal regulations concerning state-owned enterprises and other business entities."
+    },
+    {
+      "skill_name": "Bankruptcy Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal regulations concerning bankruptcy and dissolution of businesses."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills and accumulate knowledge."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork skills and ability to work collaboratively."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective presentation skills and ability to communicate ideas clearly."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking skills to analyze and solve legal problems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Civil Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

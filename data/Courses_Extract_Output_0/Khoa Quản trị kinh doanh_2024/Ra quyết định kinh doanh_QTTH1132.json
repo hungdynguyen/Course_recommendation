@@ -1,0 +1,48 @@
+{
+  "course_id": "QTTH1132",
+  "title": "Business Decisions Making",
+  "difficulty_level": "Advanced",
+  "duration": "135 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a fundamental understanding of decision-making theories and processes."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to real-world business scenarios."
+    },
+    {
+      "skill_name": "Strategic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance strategic thinking abilities by analyzing complex business situations."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Improve collaboration with team members to enhance collective intelligence in decision-making."
+    },
+    {
+      "skill_name": "Game Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize game theory principles to make effective business decisions."
+    },
+    {
+      "skill_name": "Uncertainty Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage uncertainty in decision-making processes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1",
+      "Mathematics for Economists"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

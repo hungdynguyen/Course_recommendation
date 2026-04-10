@@ -1,0 +1,55 @@
+{
+  "course_id": "DLKS1148",
+  "title": "Du lịch có trách nhiệm",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Sustainable Tourism Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the basic concepts of responsible tourism development, including responsible business management, accommodation, food services, and tourism management."
+    },
+    {
+      "skill_name": "Business Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the basic content of laws and charters related to ethics and social responsibility for all parties involved in tourism and hospitality."
+    },
+    {
+      "skill_name": "Environmental Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role, necessity, standards, and methods of building business ethics in the tourism and hospitality industry."
+    },
+    {
+      "skill_name": "Environmental Impact Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze business environment issues related to environmental, social, and economic issues, as well as stakeholder issues for tourism businesses."
+    },
+    {
+      "skill_name": "Corporate Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate a serious attitude in learning and career development, with a responsible, honest, and disciplined work ethic."
+    },
+    {
+      "skill_name": "Cultural Respect",
+      "category": "Soft Skill",
+      "outcome_description": "Respect traditional culture, customs, and actively preserve and promote cultural values."
+    },
+    {
+      "skill_name": "Ethical Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Actively and proactively build ethical standards and social responsibility for individuals and organizations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Tourism",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

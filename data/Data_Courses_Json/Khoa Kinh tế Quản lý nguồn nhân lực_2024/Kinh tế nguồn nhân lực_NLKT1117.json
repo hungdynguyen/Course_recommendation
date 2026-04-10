@@ -1,0 +1,68 @@
+{
+  "course_id": "NLKT1117",
+  "title": "Human Resource Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts and principles of labor and human resources"
+    },
+    {
+      "skill_name": "Labor Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the structure and distribution of human resources, the relationship between population and human resources"
+    },
+    {
+      "skill_name": "Quantitative Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply quantitative techniques to analyze data on human resource economics"
+    },
+    {
+      "skill_name": "Qualitative Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply qualitative techniques to analyze data on human resource economics"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to labor market and social security"
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups, demonstrate communication, presentation, analysis, synthesis, and problem-solving skills"
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Show the ability to self-study and research, choose topics, methods, and present research results"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate policies related to social security and unemployment"
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate ethical and professional responsibilities, adapt to different work environments"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

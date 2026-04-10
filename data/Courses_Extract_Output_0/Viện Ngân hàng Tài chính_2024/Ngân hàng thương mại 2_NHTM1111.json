@@ -1,0 +1,43 @@
+{
+  "course_id": "NHTM 1111",
+  "title": "Commercial Banking 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Credit Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of credit operations in commercial banking."
+    },
+    {
+      "skill_name": "Credit Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and develop credit policies for commercial banks."
+    },
+    {
+      "skill_name": "Capital Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage capital effectively in a commercial banking environment."
+    },
+    {
+      "skill_name": "Bank Performance Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and analyze the performance of commercial banks."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and manage risks associated with commercial banking activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Theory and Monetary Economics 1",
+      "Commercial Banking 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

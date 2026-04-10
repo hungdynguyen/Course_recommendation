@@ -1,0 +1,73 @@
+{
+  "course_id": "KTHT1105",
+  "title": "Kiểm soát nội bộ",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply risk management principles in business operations."
+    },
+    {
+      "skill_name": "Internal Control",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and implement effective internal control systems in various business environments."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and evaluate internal control systems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to internal control in business operations."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to implement internal control systems."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively to present and defend personal viewpoints on internal control systems."
+    },
+    {
+      "skill_name": "Microsoft Office",
+      "category": "Hard Skill",
+      "outcome_description": "Develop basic computer skills using Microsoft Office (Word, Excel, PowerPoint)."
+    },
+    {
+      "skill_name": "Business Process Control",
+      "category": "Hard Skill",
+      "outcome_description": "Apply internal control principles to various business processes such as purchasing, sales, payroll, and fixed assets."
+    },
+    {
+      "skill_name": "Information Technology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply internal control principles in an IT environment."
+    },
+    {
+      "skill_name": "Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply internal control principles in accounting processes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kế toán quản trị 1 (KTQT1103)",
+      "Kế toán tài chính 1 (KTTC1106)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Accounting",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "DLLH1115",
+  "title": "TOURISM POLICY AND PLANNING",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze tourism policies and their impacts."
+    },
+    {
+      "skill_name": "Tourism Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop tourism plans based on policy analysis."
+    },
+    {
+      "skill_name": "Policy Formulation",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate effective tourism policies."
+    },
+    {
+      "skill_name": "Sustainable Tourism Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage sustainable tourism practices."
+    },
+    {
+      "skill_name": "Historical Context Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Understand historical context of tourism policies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

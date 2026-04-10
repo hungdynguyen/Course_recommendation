@@ -1,0 +1,93 @@
+{
+  "course_id": "KTTC1120",
+  "title": "Graduation Thesis in Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "100 hours in-class, 400 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply accounting principles to describe and evaluate accounting operations in domestic and international organizations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate accounting operations in domestic and international organizations."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and apply findings to practical accounting scenarios."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop communication skills for writing reports and presenting professional content."
+    },
+    {
+      "skill_name": "IT Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize basic IT skills for data processing and report presentation."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical responsibility and social accountability in professional judgment and evaluation."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Show leadership in independent work and responsibility towards group tasks."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Approach problems objectively and scientifically to resolve issues in accounting systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 2",
+      "Accounting Information Systems 1",
+      "Public Accounting 1",
+      "Accounting Field Project"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Accounting",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Research Skills",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Communication",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "IT Skills",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Ethical Responsibility",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Leadership",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Problem Solving",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

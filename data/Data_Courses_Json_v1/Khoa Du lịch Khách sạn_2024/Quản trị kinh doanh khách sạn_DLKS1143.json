@@ -1,0 +1,69 @@
+{
+  "course_id": "DLKS1143",
+  "title": "Hospitality Business Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours (30 hours of lectures and 15 hours of discussions/practicals)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the theoretical foundations of hospitality, hotel business, and tourism accommodation, and analyze the characteristics of hotel business activities."
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze marketing activities and marketing mix strategies in the hospitality industry."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply human resource management principles in the hospitality sector."
+    },
+    {
+      "skill_name": "Operations Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage operations, including procurement and quality service management, in the hospitality industry."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Control and audit business activities, optimize revenue, and analyze financial performance in the hospitality sector."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and effectively utilize input resources in hotel business operations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical knowledge to analyze and explain real-world situations in the hospitality business."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Handle situations that arise during the operation and management of hotel businesses in Vietnam and globally."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and propose organizational management models for hotel businesses."
+    },
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the impact of hotel business activities on the economy, environment, and society."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "DLKS1158",
+      "DLKS1159",
+      "DLKS1160"
+    ],
+    "minimum_entry_skills": []
+  }
+}

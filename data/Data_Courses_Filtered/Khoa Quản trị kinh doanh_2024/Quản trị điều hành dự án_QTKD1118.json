@@ -1,0 +1,102 @@
+{
+  "course_id": "QTKD1118",
+  "title": "Project Execution Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, characteristics, and lifecycle of projects"
+    },
+    {
+      "skill_name": "Project Management Role Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and importance of project management"
+    },
+    {
+      "skill_name": "Project Manager Role Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and responsibilities of a project manager"
+    },
+    {
+      "skill_name": "Project Office Role Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and functions of a project office"
+    },
+    {
+      "skill_name": "Project Management Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply project management concepts to analyze, evaluate, and handle situations in project execution"
+    },
+    {
+      "skill_name": "Scope Description Creation",
+      "category": "Hard Skill",
+      "outcome_description": "Create scope descriptions for projects"
+    },
+    {
+      "skill_name": "Work Breakdown Structure (WBS)",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use WBS techniques for project tasks"
+    },
+    {
+      "skill_name": "Time and Cost Estimation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use techniques for estimating time and cost of projects"
+    },
+    {
+      "skill_name": "Partner Selection Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use techniques for selecting partners and negotiating contracts"
+    },
+    {
+      "skill_name": "Project Network Diagram Creation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use techniques to create project network diagrams"
+    },
+    {
+      "skill_name": "Resource Coordination Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use techniques to coordinate resources for completing projects"
+    },
+    {
+      "skill_name": "Project Time and Cost Control Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use techniques to control time and costs of projects"
+    },
+    {
+      "skill_name": "Risk Management Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use techniques to manage risks and implement changes in projects"
+    },
+    {
+      "skill_name": "Project Quality Assurance Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use techniques to ensure and monitor project quality"
+    },
+    {
+      "skill_name": "Project Acceptance and Settlement Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content and procedures for project acceptance and settlement"
+    },
+    {
+      "skill_name": "Microsoft Project Software Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Use Microsoft Project software to support project execution management"
+    },
+    {
+      "skill_name": "Independent and Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to work independently or in groups to select projects, propose plans, secure resources, budgets, and lead teams to successfully complete organizational projects"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Business Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

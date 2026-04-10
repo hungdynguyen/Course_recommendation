@@ -1,0 +1,73 @@
+{
+  "course_id": "NLQT1123",
+  "title": "Human Resource Information System",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Human Resource Information System Concept",
+      "category": "Hard Skill",
+      "outcome_description": "Recall the concept, meaning, role of Human Resource Information System and related issues"
+    },
+    {
+      "skill_name": "Understanding Human Resource Information System",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of Human Resource Information System, its value to organizational success, and methods for evaluating, selecting, and building Human Resource Information Systems"
+    },
+    {
+      "skill_name": "Using Human Resource Information System",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how to use Human Resource Information System to support HR management activities"
+    },
+    {
+      "skill_name": "Evaluating Needs for Human Resource Information System",
+      "category": "Hard Skill",
+      "outcome_description": "Know how to assess needs for Human Resource Information System"
+    },
+    {
+      "skill_name": "Analyzing and Selecting Human Resource Information System",
+      "category": "Hard Skill",
+      "outcome_description": "Know how to analyze and select Human Resource Information System"
+    },
+    {
+      "skill_name": "Building Simple Human Resource Information System",
+      "category": "Hard Skill",
+      "outcome_description": "Know how to build a simple Human Resource Information System for organizations"
+    },
+    {
+      "skill_name": "Effective Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Be able to establish and participate effectively in group work"
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to present, analyze, evaluate, and solve problems"
+    },
+    {
+      "skill_name": "Proactive Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning, research, and group work"
+    },
+    {
+      "skill_name": "Data Selection and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in choosing issues, data, and analyzing data"
+    },
+    {
+      "skill_name": "Presenting Research Results",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in presenting research results"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Human Resource Management",
+      "Information Management Systems"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

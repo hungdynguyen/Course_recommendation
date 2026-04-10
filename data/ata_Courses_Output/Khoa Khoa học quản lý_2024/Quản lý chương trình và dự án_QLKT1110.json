@@ -1,0 +1,76 @@
+{
+  "course_id": "QLKT1110",
+  "title": "Program and Project Management",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (50 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Program and Project Management Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, roles, and classifications of programs and projects."
+    },
+    {
+      "skill_name": "Project Management Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend basic project management principles including planning, organizing, leading, and controlling."
+    },
+    {
+      "skill_name": "Preparation Phase Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage the preparation phase of programs and projects effectively."
+    },
+    {
+      "skill_name": "Execution Phase Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage the execution phase of programs and projects effectively."
+    },
+    {
+      "skill_name": "Efficiency Analysis of Programs and Projects",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the efficiency of programs and projects, including financial and socio-economic aspects."
+    },
+    {
+      "skill_name": "Bid Management in Program and Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage bidding processes within program and project management."
+    },
+    {
+      "skill_name": "Group Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in managing groups, teamwork, communication, and conflict resolution."
+    },
+    {
+      "skill_name": "Planning and Organizing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance skills in planning, organizing, leadership, and control in program and project management."
+    },
+    {
+      "skill_name": "Analysis and Evaluation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve skills in analyzing, evaluating, and implementing programs and projects."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to work independently and take responsibility for professional tasks."
+    },
+    {
+      "skill_name": "Self-expression and Defense of Personal Views",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to express and defend personal views effectively."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and practice social responsibility and professional ethics."
+    },
+    {
+      "skill_name": "Continuous Learning and Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop continuous learning habits and improve professional competence."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

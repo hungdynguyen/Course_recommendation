@@ -1,0 +1,62 @@
+{
+  "course_id": "MKBH1116",
+  "title": "Digital Marketing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature of digital marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence, role, and characteristics of digital marketing."
+    },
+    {
+      "skill_name": "Role and position of digital marketing strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and position of digital marketing strategy within a business's overall strategy."
+    },
+    {
+      "skill_name": "Data types and analysis tools",
+      "category": "Hard Skill",
+      "outcome_description": "Understand different types of data and tools for collecting and analyzing data."
+    },
+    {
+      "skill_name": "Factors affecting digital marketing activities",
+      "category": "Hard Skill",
+      "outcome_description": "Understand factors influencing digital marketing activities and strategies."
+    },
+    {
+      "skill_name": "Digital marketing decision-making process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the decision-making process in digital marketing."
+    },
+    {
+      "skill_name": "Application of digital marketing knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Apply digital marketing knowledge to analyze specific issues related to digital marketing strategies and tools."
+    },
+    {
+      "skill_name": "Proposing digital marketing strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Propose digital marketing strategies and solutions for businesses."
+    },
+    {
+      "skill_name": "Applying general communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply general communication and presentation skills in digital marketing activities."
+    },
+    {
+      "skill_name": "Working independently",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in teams to analyze and plan digital marketing strategies and campaigns."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Marketing"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

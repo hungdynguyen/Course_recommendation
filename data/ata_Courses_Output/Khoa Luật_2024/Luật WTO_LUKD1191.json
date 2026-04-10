@@ -1,0 +1,52 @@
+{
+  "course_id": "LUKD1191",
+  "title": "WTO Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic knowledge about WTO organization and activities",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic knowledge about the organization and activities of the World Trade Organization (WTO), its establishment and development, principles of operation, multilateral and plurilateral agreements, and WTO agreements on goods trade, services trade, and intellectual property rights."
+    },
+    {
+      "skill_name": "Understanding dispute resolution mechanisms of WTO",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic knowledge about the dispute resolution mechanisms of the World Trade Organization (WTO)."
+    },
+    {
+      "skill_name": "Group work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills effectively."
+    },
+    {
+      "skill_name": "Communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication skills effectively."
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply presentation skills effectively."
+    },
+    {
+      "skill_name": "Self-study skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study skills to accumulate and enhance knowledge."
+    },
+    {
+      "skill_name": "Active presentation of research results",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in presenting research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Law 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

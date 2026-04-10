@@ -1,0 +1,105 @@
+{
+  "course_id": "NHCO1119",
+  "title": "Public Asset Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the concept, characteristics, and structure of public assets",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, characteristics, and structure of public assets."
+    },
+    {
+      "skill_name": "Recognizing the role of public assets in the economy",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize the role of public assets in the economy."
+    },
+    {
+      "skill_name": "Identifying management tools for public assets",
+      "category": "Hard Skill",
+      "outcome_description": "Identify management tools for public assets, management measures, hierarchical division, and content of public asset management."
+    },
+    {
+      "skill_name": "Understanding basic concepts of public asset management in administrative regions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of public asset management in administrative regions."
+    },
+    {
+      "skill_name": "Understanding characteristics and management of infrastructure assets",
+      "category": "Hard Skill",
+      "outcome_description": "Understand characteristics and management of infrastructure assets."
+    },
+    {
+      "skill_name": "Understanding the concept, origin, scope of state-owned assets invested in enterprises",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, origin, scope of state-owned assets invested in enterprises."
+    },
+    {
+      "skill_name": "Understanding the concept, characteristics, and role of land, resources, and financial policies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, characteristics, and role of land, resources, and financial policies."
+    },
+    {
+      "skill_name": "Understanding the management of state-owned assets established with state ownership",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the management of state-owned assets established with state ownership."
+    },
+    {
+      "skill_name": "Understanding the management of state reserve assets",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the management of state reserve assets."
+    },
+    {
+      "skill_name": "Understanding cost calculation methods for products",
+      "category": "Hard Skill",
+      "outcome_description": "Understand cost calculation methods for products."
+    },
+    {
+      "skill_name": "Understanding the scientific basis for determining land prices",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the scientific basis for determining land prices."
+    },
+    {
+      "skill_name": "Understanding valuation methods for real estate",
+      "category": "Hard Skill",
+      "outcome_description": "Understand valuation methods for real estate."
+    },
+    {
+      "skill_name": "Understanding the concept, objectives, and principles of public asset management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, objectives, and principles of public asset management."
+    },
+    {
+      "skill_name": "Understanding the procedures and content of public asset management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the procedures and content of public asset management."
+    },
+    {
+      "skill_name": "Understanding the organizational structure of public asset management in Vietnam",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the organizational structure of public asset management in Vietnam."
+    },
+    {
+      "skill_name": "Collecting information, researching, analyzing, and synthesizing to value assets",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate skills in collecting information, researching, analyzing, and synthesizing to value assets."
+    },
+    {
+      "skill_name": "Collecting information, researching, analyzing, and synthesizing to assess issues in public asset management",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate skills in collecting information, researching, analyzing, and synthesizing to assess issues in public asset management."
+    },
+    {
+      "skill_name": "Establishing critical thinking in assessing issues in public asset management",
+      "category": "Soft Skill",
+      "outcome_description": "Establish critical thinking in assessing issues in public asset management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

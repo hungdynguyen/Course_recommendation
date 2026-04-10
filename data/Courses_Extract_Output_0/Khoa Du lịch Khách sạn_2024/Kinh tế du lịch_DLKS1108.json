@@ -1,0 +1,37 @@
+{
+  "course_id": "DLKS1108",
+  "title": "Tourism Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and synthesize knowledge on organizing and managing hospitality industry activities."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic analysis techniques to evaluate business performance and sustainability in the tourism sector."
+    },
+    {
+      "skill_name": "Business Environment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct practical skills in analyzing the business environment for hospitality businesses."
+    },
+    {
+      "skill_name": "Sustainable Development",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of sustainable development in the tourism industry."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Principles 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

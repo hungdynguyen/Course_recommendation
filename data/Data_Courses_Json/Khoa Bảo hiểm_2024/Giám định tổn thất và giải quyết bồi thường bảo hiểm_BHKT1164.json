@@ -1,0 +1,76 @@
+{
+  "course_id": "BHKT1164",
+  "title": "Giám định tổn thất và giải quyết bồi thường bảo hiểm",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Claims Processing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the principles and procedures of insurance claims processing, including the analysis of losses and the preparation of claims reports."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply legal regulations related to insurance claims and adjuster activities."
+    },
+    {
+      "skill_name": "Contract Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze insurance contracts and understand the scope of coverage and exclusions."
+    },
+    {
+      "skill_name": "Information Gathering",
+      "category": "Soft Skill",
+      "outcome_description": "Collect and analyze information relevant to claims and adjuster activities."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to evaluate claims and adjuster activities, including fraud detection."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently, demonstrating leadership and collaboration skills."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to insurance claims and adjuster activities, applying theoretical knowledge to practical situations."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both written and oral forms, presenting findings and reports."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make ethical decisions in the context of insurance claims and adjuster activities."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply risk management principles in the context of insurance claims and adjuster activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm thương mại 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance Fundamentals",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Legal Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

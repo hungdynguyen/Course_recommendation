@@ -1,0 +1,67 @@
+{
+  "course_id": "TIKT1135",
+  "title": "Phát triển phần mềm mã nguồn mở và ứng dụng",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Open Source Software Development",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and master the process of developing open source software, including licensing, community dynamics, and practical applications."
+    },
+    {
+      "skill_name": "Programming Languages",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in programming languages commonly used in open source software development, such as Python."
+    },
+    {
+      "skill_name": "Database Management Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and practical use of open source database management systems like MySQL."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage and organize group activities effectively, including planning and executing projects."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effective communication in writing and presenting technical information related to open source software development."
+    },
+    {
+      "skill_name": "Version Control Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using version control systems such as Git for managing software development projects."
+    },
+    {
+      "skill_name": "IDEs and Development Environments",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in using Integrated Development Environments (IDEs) like Eclipse and NetBeans for software development."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work independently and collaboratively in a team environment."
+    },
+    {
+      "skill_name": "Ethical and Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and adherence to ethical and social responsibilities in the field of information management systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "CNTT1128 - Cơ sở lập trình"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming Basics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

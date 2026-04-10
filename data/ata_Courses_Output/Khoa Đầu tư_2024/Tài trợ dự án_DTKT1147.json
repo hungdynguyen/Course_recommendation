@@ -1,0 +1,84 @@
+{
+  "course_id": "DTKT1147",
+  "title": "Project Financing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the role and position of project financing in the training program",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic issues about project financing such as the concept, characteristics, and role of project financing with economic entities."
+    },
+    {
+      "skill_name": "Recognizing the requirements of project financing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the requirements, basis, and role of project financing for economic entities."
+    },
+    {
+      "skill_name": "Differentiating project financing from direct investment",
+      "category": "Hard Skill",
+      "outcome_description": "Distinguish between project financing and direct investment."
+    },
+    {
+      "skill_name": "Identifying forms of project financing and sources of funds that can be mobilized for project financing",
+      "category": "Hard Skill",
+      "outcome_description": "Identify various forms of project financing and sources of funds."
+    },
+    {
+      "skill_name": "Understanding techniques of project financing and types of contracts for project financing for different types of projects",
+      "category": "Hard Skill",
+      "outcome_description": "Understand techniques of project financing and types of contracts for project financing for different types of projects."
+    },
+    {
+      "skill_name": "Understanding the methods of project financing by each funding organization and knowing how to exploit funding sources from funding organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the methods of project financing by each funding organization and know how to exploit funding sources from funding organizations."
+    },
+    {
+      "skill_name": "Selecting appropriate forms and sources of funding for project financing",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to select appropriate forms and sources of funding for project financing."
+    },
+    {
+      "skill_name": "Selecting and drafting appropriate project financing contracts for real investment projects",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to select and draft appropriate project financing contracts for real investment projects."
+    },
+    {
+      "skill_name": "Evaluating risks for a real investment project",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to evaluate risks for a real investment project."
+    },
+    {
+      "skill_name": "Selecting appropriate funding organizations for real investment projects",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to select appropriate funding organizations for real investment projects."
+    },
+    {
+      "skill_name": "Developing self-study skills, independent work, and teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study skills, independent work, and teamwork."
+    },
+    {
+      "skill_name": "Adapting to globalization and Industry 4.0",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to globalization and Industry 4.0."
+    },
+    {
+      "skill_name": "Understanding laws and complying with all school rules and regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand laws and comply with all school rules and regulations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Investment Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

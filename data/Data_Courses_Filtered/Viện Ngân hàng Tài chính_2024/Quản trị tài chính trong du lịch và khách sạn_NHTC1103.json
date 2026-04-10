@@ -1,0 +1,136 @@
+{
+  "course_id": "NHTC1103",
+  "title": "Quản trị Tài chính trong du lịch và khách sạn",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand financial concepts and differentiate between finance and money."
+    },
+    {
+      "skill_name": "Business Entity Types",
+      "category": "Hard Skill",
+      "outcome_description": "Understand different types of business entities and their characteristics."
+    },
+    {
+      "skill_name": "Role of Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and objectives of financial management in hospitality industry."
+    },
+    {
+      "skill_name": "Principles of Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply principles of financial management in hospitality industry."
+    },
+    {
+      "skill_name": "Content of Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the contents of financial management in hospitality industry."
+    },
+    {
+      "skill_name": "Foundation of Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the foundation of financial management in hospitality industry."
+    },
+    {
+      "skill_name": "Time Value of Money",
+      "category": "Hard Skill",
+      "outcome_description": "Apply the time value of money principle to solve simple problems."
+    },
+    {
+      "skill_name": "Financial Statements",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the structure and differences of financial statements in Vietnam and other countries."
+    },
+    {
+      "skill_name": "Balance Sheet",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the function and role of balance sheet and its basic items."
+    },
+    {
+      "skill_name": "Income Statement",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the function and role of income statement and its basic items."
+    },
+    {
+      "skill_name": "Cash Flow Statement",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the function and role of cash flow statement and its basic items."
+    },
+    {
+      "skill_name": "Relationship Between Financial Statements",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the relationship between financial statements."
+    },
+    {
+      "skill_name": "Methods of Cash Flow Statement Preparation",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between two methods of preparing cash flow statement."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of financial analysis in hospitality businesses."
+    },
+    {
+      "skill_name": "Basic Process of Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic process of financial analysis."
+    },
+    {
+      "skill_name": "Financial Analysis Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various methods of financial analysis such as horizontal, vertical, ratio groups, and DuPont analysis."
+    },
+    {
+      "skill_name": "Interpretation of Financial Ratios",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how to interpret financial ratios related to liquidity, efficiency, capital structure, profitability, and growth."
+    },
+    {
+      "skill_name": "DuPont Analysis Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply DuPont analysis to determine Return on Assets (ROA) and Return on Equity (ROE)."
+    },
+    {
+      "skill_name": "Sources of Capital",
+      "category": "Hard Skill",
+      "outcome_description": "Classify sources of capital based on different criteria."
+    },
+    {
+      "skill_name": "Cost of Capital",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of cost of capital and how to determine it for each source."
+    },
+    {
+      "skill_name": "Project Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate projects using Net Present Value (NPV), Internal Rate of Return (IRR), Profitability Index (PI), and Payback Period (PP)."
+    },
+    {
+      "skill_name": "Short-term Asset Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and characteristics of short-term assets such as cash equivalents, receivables, and inventory."
+    },
+    {
+      "skill_name": "EOQ Model",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Economic Order Quantity (EOQ) model to determine optimal order quantity."
+    },
+    {
+      "skill_name": "Baumol Model",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Baumol model to determine optimal cash balance."
+    },
+    {
+      "skill_name": "Miller-Orr Model",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Miller-Orr model to determine optimal cash balance range."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "course_id": "TIHT1101",
+  "title": "Data Structures and Algorithms",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Structure Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts of data structures and algorithms, their performance, methods of algorithm representation, design techniques, and application techniques."
+    },
+    {
+      "skill_name": "Array Data Structure Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of array data structure and apply algorithms to process array data."
+    },
+    {
+      "skill_name": "Stack and Queue Data Structure Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of stack and queue data structures and apply algorithms to process list data."
+    },
+    {
+      "skill_name": "Tree Data Structure Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of tree data structure and apply algorithms to process tree data."
+    },
+    {
+      "skill_name": "Graph Data Structure Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of graph data structure and apply algorithms to process graph data."
+    },
+    {
+      "skill_name": "Sorting Algorithm Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand sorting algorithms and apply them to sort data."
+    },
+    {
+      "skill_name": "Search Algorithm Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand search algorithms and apply methods for searching."
+    },
+    {
+      "skill_name": "External Processing Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept of external processing and evaluate external processing algorithms."
+    },
+    {
+      "skill_name": "Algorithm Design and Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to design and present algorithms, write reports on analyzing and representing algorithms on various data structures."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to independently learn about data structures and algorithms."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to work independently or actively participate in group activities."
+    },
+    {
+      "skill_name": "Social Responsibility and Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Possess social responsibility and professional ethics in the field of information management systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "course_id": "LUCS1145",
+  "title": "Project",
+  "difficulty_level": "Advanced",
+  "duration": "10 credits (150 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on legal issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical knowledge to solve real-world legal problems."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and solutions in a professional setting."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze complex legal scenarios and develop logical solutions."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Produce comprehensive reports based on research and analysis."
+    },
+    {
+      "skill_name": "Fieldwork Experience",
+      "category": "Hard Skill",
+      "outcome_description": "Gain practical experience in a legal work environment."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Civil Law 1 & 2",
+      "Administrative Law",
+      "Criminal Law",
+      "Marriage and Family Law",
+      "Commercial Law",
+      "Labor Law",
+      "International Commercial Law"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Legal Knowledge",
+        "minimum_proficiency_level": 75
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

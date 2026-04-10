@@ -1,0 +1,56 @@
+{
+  "course_id": "NNKC1126",
+  "title": "Second Foreign Language (French 2)",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "French Pronunciation",
+      "category": "Soft Skill",
+      "outcome_description": "Improve pronunciation of all French words."
+    },
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Understand longer sentences and conversations."
+    },
+    {
+      "skill_name": "Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate longer sentences using models."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Read and understand longer sentences and paragraphs."
+    },
+    {
+      "skill_name": "Vocabulary Acquisition",
+      "category": "Soft Skill",
+      "outcome_description": "Expand vocabulary through various topics."
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write short passages on characters or simple topics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foreign Language 2.1 (French 1)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic French Vocabulary",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic French Grammar",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

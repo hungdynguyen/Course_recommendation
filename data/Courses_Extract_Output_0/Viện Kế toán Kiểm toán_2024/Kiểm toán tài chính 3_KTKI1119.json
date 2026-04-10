@@ -1,0 +1,48 @@
+{
+  "course_id": "Kiểm toán tài chính 3",
+  "title": "Financial Auditing 3",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Auditing Procedures",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply auditing procedures effectively."
+    },
+    {
+      "skill_name": "Financial Reporting Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial reports from various industries."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and assess risks in financial auditing."
+    },
+    {
+      "skill_name": "Industry-Specific Auditing",
+      "category": "Hard Skill",
+      "outcome_description": "Apply auditing principles to different industries such as banking, insurance, construction, technology, mining, food processing, retail, and hospitality."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Auditing 1",
+      "Financial Auditing 2",
+      "Financial Accounting 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting Principles",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Fundamental Auditing Concepts",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

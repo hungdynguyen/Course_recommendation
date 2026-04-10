@@ -1,0 +1,45 @@
+{
+  "course_id": "NHCO1113",
+  "title": "International Taxation",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tax Law",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and explain the basic concepts and principles of international taxation, including double taxation, tax treaties, transfer pricing, international tax competition, anti-dumping and countervailing duties, and foreign contractor taxes."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Tool/Software",
+      "outcome_description": "Read and understand standard documents related to current tax policies and model tax treaties from OECD, UN, and the US."
+    },
+    {
+      "skill_name": "International Trade",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze the practical issues of tax management in the context of globalization, including foreign direct investment and international trade policies."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Apply professional knowledge to analyze and propose solutions for current issues in international taxation."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Tool/Software",
+      "outcome_description": "Demonstrate the ability to work in a team, share information, and use group information to solve problems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Tool/Software",
+      "outcome_description": "Show initiative in learning, answering questions, choosing topics, gathering data, analyzing data, and presenting results."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

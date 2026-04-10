@@ -1,0 +1,57 @@
+{
+  "course_id": "MTDT1129",
+  "title": "Chuyên đề thực tế - Kinh tế và quản lý đô thị",
+  "difficulty_level": "Advanced",
+  "duration": "15 hours theory + 45 hours practice",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Economic Activities Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on urban economic activities and management tools in domestic and international contexts."
+    },
+    {
+      "skill_name": "Problem Identification in Urban Management",
+      "category": "Hard Skill",
+      "outcome_description": "Identify problems in urban management and propose solutions based on theoretical knowledge."
+    },
+    {
+      "skill_name": "Literature Search and Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to search for, analyze, synthesize, and generalize issues related to urban development and management."
+    },
+    {
+      "skill_name": "Independent and Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively to solve assigned tasks."
+    },
+    {
+      "skill_name": "Self-Learning and Experience Accumulation",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to self-study, accumulate experience, and improve professional competence to adapt to changes in urban management environment."
+    },
+    {
+      "skill_name": "Critical Thinking and Systematic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking and systematic thinking skills."
+    },
+    {
+      "skill_name": "Organizational and Resource Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Manage resources effectively for professional management activities in the urban field."
+    },
+    {
+      "skill_name": "Urban Management Problem Solving",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge to analyze, evaluate, and explain urban economic and management issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Urban Economics (MTDT1127)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "course_id": "TNKT1109",
+  "title": "Agricultural Economics 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic principles and theories related to agriculture."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct market analysis specific to agricultural products."
+    },
+    {
+      "skill_name": "Policy Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and interpret agricultural policies and regulations."
+    },
+    {
+      "skill_name": "International Trade",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze international trade aspects of agricultural commodities."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage resources effectively in agricultural settings."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Mathematical Skills",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "course_id": "TNKT 1163",
+  "title": "Internship Programme",
+  "difficulty_level": "Advanced",
+  "duration": "13 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Summarize economic knowledge related to agricultural economics"
+    },
+    {
+      "skill_name": "Theoretical and Practical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical and practical analysis in agricultural economics"
+    },
+    {
+      "skill_name": "Real-world Application",
+      "category": "Hard Skill",
+      "outcome_description": "Link theoretical concepts with real-world applications in agricultural economics"
+    },
+    {
+      "skill_name": "Policy Determination",
+      "category": "Hard Skill",
+      "outcome_description": "Identify appropriate agricultural policies based on real-world observations"
+    },
+    {
+      "skill_name": "Problem Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify problems in agricultural economics through real-world observation"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate critical thinking in analyzing agricultural economic issues"
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Show initiative in learning, research, and group work"
+    },
+    {
+      "skill_name": "Research Method Selection",
+      "category": "Hard Skill",
+      "outcome_description": "Select and apply appropriate research methods for agricultural economics"
+    },
+    {
+      "skill_name": "Data Collection and Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and analyze data effectively in agricultural economics research"
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports on internship projects"
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings clearly and confidently"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Courses in Agricultural Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

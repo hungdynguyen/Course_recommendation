@@ -1,0 +1,43 @@
+{
+  "course_id": "Kinh tế tài nguyên 2",
+  "title": "Natural Resource Economics 2",
+  "difficulty_level": "Advanced",
+  "duration": "Not specified",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic aspects of natural resource management"
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage various types of natural resources effectively"
+    },
+    {
+      "skill_name": "Environmental Impact Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate environmental impacts of resource utilization"
+    },
+    {
+      "skill_name": "Policy Formulation",
+      "category": "Soft Skill",
+      "outcome_description": "Develop policies for sustainable resource management"
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret complex data related to natural resources"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Economic Principles",
+      "Introduction to Natural Resources"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

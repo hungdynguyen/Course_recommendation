@@ -1,0 +1,61 @@
+{
+  "course_id": "PTKT1117",
+  "title": "Development Policy",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding State Intervention through Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the necessity of state intervention through policy, distinguish between policy and other management tools of the state."
+    },
+    {
+      "skill_name": "Understanding Policy Development Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the stages of the policy development process, identify the role and position of each stage within the policy process."
+    },
+    {
+      "skill_name": "Analyzing Economic-Social Conditions",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the current economic-social conditions of Vietnam to determine policy issues."
+    },
+    {
+      "skill_name": "Organizing Policy Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the current methods of organizing policy implementation in Vietnam."
+    },
+    {
+      "skill_name": "Evaluating Policy Effectiveness",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the current economic-social conditions of Vietnam to evaluate ongoing policies."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice teamwork skills."
+    },
+    {
+      "skill_name": "Reading, Writing, and Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice reading, writing, and presentation skills."
+    },
+    {
+      "skill_name": "Self-Learning and Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and research skills."
+    },
+    {
+      "skill_name": "Creative Thinking and Independent Opinion",
+      "category": "Soft Skill",
+      "outcome_description": "Develop creative thinking and independent opinion."
+    },
+    {
+      "skill_name": "Ethical Awareness and Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ethical awareness and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

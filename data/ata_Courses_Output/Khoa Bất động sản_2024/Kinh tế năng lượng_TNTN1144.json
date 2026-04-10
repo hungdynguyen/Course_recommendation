@@ -1,0 +1,57 @@
+{
+  "course_id": "TNTN1144",
+  "title": "Energy Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Energy Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts about energy, renewable energy, and economic growth."
+    },
+    {
+      "skill_name": "Renewable Energy Sources",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various renewable energy sources such as wind and solar energy."
+    },
+    {
+      "skill_name": "Vietnamese Energy Policies",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze Vietnam's sustainable energy development policies."
+    },
+    {
+      "skill_name": "Economic Analysis of Energy Projects",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct economic and technical analysis of energy investment projects."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and analyze energy policy proposals."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance ability for independent learning and research."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve presentation skills and teamwork abilities."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to draw conclusions on energy economics, policies, and investment projects."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Resource Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

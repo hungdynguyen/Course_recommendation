@@ -1,0 +1,71 @@
+{
+  "course_id": "TKKD1106",
+  "title": "Applied Informatics for Statistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Software Application",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply various statistical methods using software tools."
+    },
+    {
+      "skill_name": "Data Management in SPSS",
+      "category": "Hard Skill",
+      "outcome_description": "Set up and manage databases in SPSS."
+    },
+    {
+      "skill_name": "Descriptive Statistical Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply descriptive statistical methods using SPSS."
+    },
+    {
+      "skill_name": "Hypothesis Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Perform hypothesis testing using SPSS."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct regression analysis using SPSS."
+    },
+    {
+      "skill_name": "Time Series Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze time series data and make predictions using SPSS."
+    },
+    {
+      "skill_name": "Stata Software Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Stata for statistical analysis."
+    },
+    {
+      "skill_name": "Epidata Software Application",
+      "category": "Hard Skill",
+      "outcome_description": "Use Epidata for statistical analysis."
+    },
+    {
+      "skill_name": "R Language Application",
+      "category": "Tool/Software",
+      "outcome_description": "Apply R language for statistical analysis."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills in statistical analysis."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills in group activities."
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Gain awareness of social context and ethical responsibilities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

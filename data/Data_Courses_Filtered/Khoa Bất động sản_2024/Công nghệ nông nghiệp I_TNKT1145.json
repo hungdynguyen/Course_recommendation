@@ -1,0 +1,52 @@
+{
+  "course_id": "TNKT1145",
+  "title": "Agricultural Technology I",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Concepts of Agricultural Technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to recognize and understand basic concepts related to agricultural technologies."
+    },
+    {
+      "skill_name": "Analyzing Suitable Technologies for Crop Cultivation",
+      "category": "Hard Skill",
+      "outcome_description": "Students will develop the ability to analyze suitable technologies for crop cultivation and apply them effectively under real-world conditions."
+    },
+    {
+      "skill_name": "Evaluating the Effectiveness of Applied Technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to assess the results and effectiveness of applied technologies in crop cultivation."
+    },
+    {
+      "skill_name": "Researching and Analyzing Technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Students will have the capability to conduct research, analyze, and synthesize information to select appropriate technologies that enhance agricultural production efficiency."
+    },
+    {
+      "skill_name": "Logical Argumentation",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be capable of presenting logical and evidence-based arguments in the analysis and selection of agricultural technologies."
+    },
+    {
+      "skill_name": "Self-Learning and Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to independently study and research to complete assigned tasks."
+    },
+    {
+      "skill_name": "Drawing Conclusions on Technology Selection",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to draw conclusions about issues related to the selection of agricultural technologies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

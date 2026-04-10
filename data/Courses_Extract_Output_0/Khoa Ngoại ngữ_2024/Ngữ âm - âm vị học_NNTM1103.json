@@ -1,0 +1,53 @@
+{
+  "course_id": "NNTM1103",
+  "title": "Phonetics and Phonology",
+  "difficulty_level": "Advanced",
+  "duration": "100 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Phonetics",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding of phonetic principles and their application."
+    },
+    {
+      "skill_name": "Phonology",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehension of phonological structures and processes."
+    },
+    {
+      "skill_name": "Language Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to analyze and interpret linguistic sounds and patterns."
+    },
+    {
+      "skill_name": "Acoustic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Capability to understand and analyze acoustic properties of speech."
+    },
+    {
+      "skill_name": "Practical Linguistics",
+      "category": "Hard Skill",
+      "outcome_description": "Application of phonetic and phonological knowledge in real-world scenarios."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Listening 3",
+      "Speaking 3",
+      "Writing 3"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "English Language Proficiency",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Linguistics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

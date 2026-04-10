@@ -1,0 +1,61 @@
+{
+  "course_id": "DLKS1131",
+  "title": "E-Tourism Business",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information System Strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Describe ways organizations leverage information in competitive strategies."
+    },
+    {
+      "skill_name": "Strategic Role of IT",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the strategic role of IT in business and tourism."
+    },
+    {
+      "skill_name": "Application of IT in Business",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the role and significance of applying IT in various business types."
+    },
+    {
+      "skill_name": "Current State of IT Development",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the current state of IT development affecting demand and supply in tourism and hospitality."
+    },
+    {
+      "skill_name": "Future Trends of IT",
+      "category": "Hard Skill",
+      "outcome_description": "Understand future trends of IT and propose suitable applications."
+    },
+    {
+      "skill_name": "Principles of IT and Communication Technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the principles of major IT and communication technologies used in business and tourism."
+    },
+    {
+      "skill_name": "Applications of IT in Travel Agencies",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the applications of IT in travel agencies, hotels, tour operators, and tourist attractions."
+    },
+    {
+      "skill_name": "Hotel Management Software Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Perform tasks on hotel management software simulation."
+    },
+    {
+      "skill_name": "Website and Social Media Management",
+      "category": "Hard Skill",
+      "outcome_description": "Describe and use programs in travel companies, build website content, social media pages, and email marketing for tourism and hospitality businesses."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical responsibility, civic awareness, and professional duty."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

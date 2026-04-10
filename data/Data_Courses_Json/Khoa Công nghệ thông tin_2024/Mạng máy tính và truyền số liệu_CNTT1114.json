@@ -1,0 +1,72 @@
+{
+  "course_id": "CNTT1114",
+  "title": "Computer Network and Data Communication",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Computer Networking",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply fundamental concepts of computer networks, including network architecture, communication protocols, and network models."
+    },
+    {
+      "skill_name": "Data Communication",
+      "category": "Hard Skill",
+      "outcome_description": "Master techniques for data transmission, including encoding, modulation, error detection and correction, and data control."
+    },
+    {
+      "skill_name": "LAN Technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend and implement basic elements of Local Area Networks (LANs), including Ethernet standards, network devices, and wireless LANs."
+    },
+    {
+      "skill_name": "WAN Technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply techniques for Wide Area Networks (WANs), including PSTN, leased lines, ISDN, and DSL technologies."
+    },
+    {
+      "skill_name": "TCP/IP Protocols",
+      "category": "Hard Skill",
+      "outcome_description": "Explain and utilize TCP, UDP, IP protocols, subnetting techniques, and common Internet services."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to solve problems related to computer networks and data communication in practical scenarios."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance skills in working collaboratively in groups to solve network-related problems."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Foster the ability to independently seek and understand information related to computer networks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Improve critical thinking skills to analyze and solve network-related issues."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in presenting network-related concepts and solutions effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT1116)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

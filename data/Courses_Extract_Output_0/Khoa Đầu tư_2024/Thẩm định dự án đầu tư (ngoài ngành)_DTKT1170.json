@@ -1,0 +1,43 @@
+{
+  "course_id": "Investment Appraisal",
+  "title": "Investment Project Appraisal",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to evaluate investment projects effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to assess project feasibility."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct comprehensive financial analysis of investment projects."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and manage risks associated with investment projects."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on project appraisal results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Economics",
+      "Finance Fundamentals"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

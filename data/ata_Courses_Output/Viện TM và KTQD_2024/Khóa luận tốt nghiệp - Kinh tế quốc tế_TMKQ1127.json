@@ -1,0 +1,61 @@
+{
+  "course_id": "TMKQ1127",
+  "title": "Graduation Thesis - International Economics",
+  "difficulty_level": "Advanced",
+  "duration": "150 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic policies related to international trade and investment."
+    },
+    {
+      "skill_name": "International Trade Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply theories of international trade."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply appropriate research methods and techniques for data collection and analysis."
+    },
+    {
+      "skill_name": "Data Analysis Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical tools and software for analyzing economic data."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the effectiveness of economic policies using quantitative and qualitative methods."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze complex economic issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to economic policies and international trade."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-motivation and independence in learning and research."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings through written reports and presentations."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers and mentors on research projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

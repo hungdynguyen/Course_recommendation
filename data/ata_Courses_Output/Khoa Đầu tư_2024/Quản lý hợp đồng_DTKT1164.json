@@ -1,0 +1,56 @@
+{
+  "course_id": "DTKT1164",
+  "title": "Contract Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understand basic issues about economic contracts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and identify fundamental issues related to economic contracts, design and implementation of contracts, warranty, changes, assignment, and termination of contracts."
+    },
+    {
+      "skill_name": "Understand types of economic contracts in investment projects",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various types of economic contracts in investment projects and apply them to draft contracts."
+    },
+    {
+      "skill_name": "Understand basis for determining prices and price forms in contracts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basis for determining prices and price forms in contracts, especially construction contracts, and apply them to draft hypothetical contracts."
+    },
+    {
+      "skill_name": "Understand process and content of contract management work",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the process and content of contract management work, from drafting, signing, and implementing contracts."
+    },
+    {
+      "skill_name": "Negotiation skills for contracts",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply negotiation skills for contracts."
+    },
+    {
+      "skill_name": "Manage contract execution process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage the contract execution process, particularly construction contracts, including quality, quantity, schedule, cost, and labor safety management."
+    },
+    {
+      "skill_name": "Manage relationships and prevent disputes during contract execution",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply methods to manage relationships and prevent disputes that may arise during contract execution."
+    },
+    {
+      "skill_name": "Evaluate contract performance levels",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply evaluation methods for contract performance levels and contract management work."
+    },
+    {
+      "skill_name": "Self-study ability",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-study, complete assignments independently, work in groups, have a cooperative spirit, be responsible for work, have professional ethics, social responsibility, and legal compliance."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

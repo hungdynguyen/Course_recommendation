@@ -1,0 +1,57 @@
+{
+  "course_id": "TNDC1151",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct independent research and gather relevant information."
+    },
+    {
+      "skill_name": "Analytical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to analyze complex problems and develop solutions."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Skill to evaluate arguments and evidence critically."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to plan, execute, and manage a project from start to finish."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in writing clear, concise, and well-structured reports."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to effectively present findings and defend a thesis."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of legal resources and ability to apply them in research."
+    },
+    {
+      "skill_name": "Fieldwork Experience",
+      "category": "Hard Skill",
+      "outcome_description": "Experience in conducting fieldwork and gathering practical data."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Core knowledge courses"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

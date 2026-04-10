@@ -1,0 +1,42 @@
+{
+  "course_id": "MKTT1155",
+  "title": "Event Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Industry Environment Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the industry environment of event planning, types of events, companies involved, and trends."
+    },
+    {
+      "skill_name": "Event Management Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the management of events, factors affecting event planning activities, and content of event plans."
+    },
+    {
+      "skill_name": "Event Analysis Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze influencing factors and develop creative ideas, scripts, plans, and communication plans for events."
+    },
+    {
+      "skill_name": "Report Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Write reports on event plans in text and presentations."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present and defend event plans through presentations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Marketing Basics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

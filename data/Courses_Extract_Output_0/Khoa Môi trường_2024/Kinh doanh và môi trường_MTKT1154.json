@@ -1,0 +1,48 @@
+{
+  "course_id": "Business and Environment",
+  "title": "Business and Environment",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Strategy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze environmental strategies of businesses."
+    },
+    {
+      "skill_name": "Corporate Sustainability",
+      "category": "Soft Skill",
+      "outcome_description": "Understand corporate social responsibility and sustainability."
+    },
+    {
+      "skill_name": "Environmental Management Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Apply ISO 14000 standards for environmental management."
+    },
+    {
+      "skill_name": "Cleaner Production Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Implement cleaner production methods to improve environmental quality."
+    },
+    {
+      "skill_name": "Environmental Impact Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct environmental impact assessments for business activities."
+    },
+    {
+      "skill_name": "Business Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate ethical considerations in business-environment interactions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Business",
+      "Introduction to Environmental Science"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

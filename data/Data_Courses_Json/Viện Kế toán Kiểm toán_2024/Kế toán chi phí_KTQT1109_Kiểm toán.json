@@ -1,0 +1,52 @@
+{
+  "course_id": "KTQT1109",
+  "title": "Kế toán chi phí",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept of cost accounting, differentiate cost accounting from management and financial accounting, and recognize the role and position of cost accounting within an organization."
+    },
+    {
+      "skill_name": "Cost Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various cost determination methods suitable for different business activities."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Use cost information to evaluate business operations and make management decisions."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Proficient in writing reports."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Proficient in working independently and in teams."
+    },
+    {
+      "skill_name": "Self-Management",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate autonomy and responsibility for personal learning outcomes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "KTKE1101 - Nguyên lý kế toán"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Accounting",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

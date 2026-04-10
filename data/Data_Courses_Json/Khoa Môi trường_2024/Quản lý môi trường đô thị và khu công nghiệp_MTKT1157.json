@@ -1,0 +1,65 @@
+{
+  "course_id": "MTKT1157",
+  "title": "Environmental Management for Cities and Industrial Estates",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic concepts and approaches to environmental management in urban areas and industrial estates."
+    },
+    {
+      "skill_name": "Urban and Industrial Area Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and analyze environmental issues specific to urban areas and industrial estates."
+    },
+    {
+      "skill_name": "Waste Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage solid waste, wastewater, and air pollution in urban areas."
+    },
+    {
+      "skill_name": "Climate Change Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage greenhouse gases and organic pollutants in urban areas."
+    },
+    {
+      "skill_name": "Environmental Incident Management",
+      "category": "Hard Skill",
+      "outcome_description": "Handle environmental emergencies in urban areas."
+    },
+    {
+      "skill_name": "Industrial Estate Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the entities involved in environmental management and promote sustainable practices in industrial estates."
+    },
+    {
+      "skill_name": "Energy Efficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Implement energy-efficient and cleaner production practices in industrial estates."
+    },
+    {
+      "skill_name": "Eco-industrial Park Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design eco-industrial parks."
+    },
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze environmental management issues in urban areas and industrial estates."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in teams to solve practical environmental management problems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

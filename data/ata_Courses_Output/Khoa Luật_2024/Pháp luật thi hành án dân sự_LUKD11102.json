@@ -1,0 +1,51 @@
+{
+  "course_id": "LUKD11102",
+  "title": "Pháp luật thi hành án dân sự",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Civil Judgments Enforcement Laws",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic knowledge of civil judgments enforcement laws, procedures, guarantees, and enforcement of civil judgments, complaints, accusations, and handling violations in civil judgments enforcement."
+    },
+    {
+      "skill_name": "Complaints and Accusations Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic knowledge about complaints, accusations, and handling violations in civil judgments enforcement."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication skills."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply presentation skills."
+    },
+    {
+      "skill_name": "Self-Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study skills."
+    },
+    {
+      "skill_name": "Independent Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research skills."
+    },
+    {
+      "skill_name": "Active Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Actively present research results."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

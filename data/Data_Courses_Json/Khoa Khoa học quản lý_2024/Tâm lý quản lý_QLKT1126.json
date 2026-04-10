@@ -1,0 +1,95 @@
+{
+  "course_id": "QLKT1126",
+  "title": "Psychology in Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Psychology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply psychological principles in management contexts."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and apply leadership skills based on psychological principles."
+    },
+    {
+      "skill_name": "Group Dynamics",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and manage group dynamics using psychological insights."
+    },
+    {
+      "skill_name": "Customer Psychology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand customer behavior and apply psychological principles in marketing."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance communication skills through psychological understanding."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply psychological principles to problem-solving and decision-making."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize psychological insights for effective conflict resolution."
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage organizational change using psychological principles."
+    },
+    {
+      "skill_name": "Motivation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of motivation in management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze psychological theories and applications."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve presentation skills through psychological insights."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork skills using psychological principles."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply ethical decision-making principles in management contexts."
+    },
+    {
+      "skill_name": "Self-Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-management skills based on psychological principles."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance adaptability skills through psychological understanding."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Psychology",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

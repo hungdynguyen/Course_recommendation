@@ -1,0 +1,90 @@
+{
+  "course_id": "CNTT1199",
+  "title": "Software and Database Security",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Database Security Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Apply advanced knowledge on database security principles."
+    },
+    {
+      "skill_name": "Access Control Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage access control for data."
+    },
+    {
+      "skill_name": "User Account Monitoring",
+      "category": "Hard Skill",
+      "outcome_description": "Monitor user accounts and system accounts."
+    },
+    {
+      "skill_name": "Data Protection Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Implement techniques for protecting data."
+    },
+    {
+      "skill_name": "Data Backup and Recovery",
+      "category": "Hard Skill",
+      "outcome_description": "Perform data backup and recovery operations."
+    },
+    {
+      "skill_name": "Application Security Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic principles of application security."
+    },
+    {
+      "skill_name": "Secure Software Development Lifecycle",
+      "category": "Hard Skill",
+      "outcome_description": "Develop secure software through the entire lifecycle."
+    },
+    {
+      "skill_name": "Password Management in Code",
+      "category": "Hard Skill",
+      "outcome_description": "Manage passwords within code."
+    },
+    {
+      "skill_name": "Public Key Infrastructure Deployment",
+      "category": "Hard Skill",
+      "outcome_description": "Deploy public key infrastructure and smart cards."
+    },
+    {
+      "skill_name": "Security Threat Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze security threats and vulnerabilities."
+    },
+    {
+      "skill_name": "Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance in independent study."
+    },
+    {
+      "skill_name": "Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively to solve problems."
+    },
+    {
+      "skill_name": "Project Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to evaluate security measures."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make ethical decisions regarding security issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

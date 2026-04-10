@@ -1,0 +1,77 @@
+{
+  "course_id": "MKBH1112",
+  "title": "Business to Business Marketing (B2B)",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of marketing to organizational customers and the content of the organizational customer market"
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and understand the behavior of organizational customers"
+    },
+    {
+      "skill_name": "Market Segmentation",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and segment markets, and determine target markets"
+    },
+    {
+      "skill_name": "Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Propose marketing strategies and solutions for building plans in the organizational customer market"
+    },
+    {
+      "skill_name": "Customer Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the decision-making process and buying behavior of organizational customers"
+    },
+    {
+      "skill_name": "Marketing Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Apply marketing communication strategies in organizational markets"
+    },
+    {
+      "skill_name": "Sales Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply general skills (communication, presentation, negotiation) and marketing skills in sales management"
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in teams to build and implement decisions in marketing management"
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct market research and analyze data to support marketing decisions"
+    },
+    {
+      "skill_name": "Product Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage products and services in organizational markets"
+    },
+    {
+      "skill_name": "Pricing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop pricing strategies for organizational markets"
+    },
+    {
+      "skill_name": "Distribution Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop distribution strategies for organizational markets"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Marketing Basics"
+    ],
+    "minimum_entry_skills": []
+  }
+}

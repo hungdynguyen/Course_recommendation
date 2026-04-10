@@ -1,0 +1,62 @@
+{
+  "course_id": "TNBD1128",
+  "title": "Real estate valuation 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real estate valuation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the principles and methods of real estate valuation, including income capitalization, residual method, and profit method."
+    },
+    {
+      "skill_name": "Financial analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply financial analysis techniques to real estate valuation, including income and expense projections."
+    },
+    {
+      "skill_name": "Report writing",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and present real estate valuation reports."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex real estate valuation problems."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to complete valuation projects."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate valuation findings clearly and persuasively."
+    },
+    {
+      "skill_name": "Professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to professional ethics in real estate valuation."
+    },
+    {
+      "skill_name": "Project management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage the process of real estate valuation projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Market analysis in real estate"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Real estate market analysis",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

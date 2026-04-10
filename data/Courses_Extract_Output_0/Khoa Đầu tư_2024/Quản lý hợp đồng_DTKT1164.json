@@ -1,0 +1,42 @@
+{
+  "course_id": "DTKT1164",
+  "title": "Contract Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Contract Design",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to design various types of economic contracts."
+    },
+    {
+      "skill_name": "Contract Management",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in managing contract signing and execution processes."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding how to identify risks and opportunities associated with contracts."
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Knowledge on managing disputes and complaints related to contracts."
+    },
+    {
+      "skill_name": "Performance Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Capability to assess the implementation level of contracts and manage them effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Investment Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

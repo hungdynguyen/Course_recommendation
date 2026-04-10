@@ -1,0 +1,52 @@
+{
+  "course_id": "BHKT1133",
+  "title": "Social Insurance Management 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Fund Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and managing the operations and investments of social insurance funds."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Compliance with Vietnamese laws and regulations regarding social insurance management."
+    },
+    {
+      "skill_name": "Audit Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Application of audit techniques in social insurance management."
+    },
+    {
+      "skill_name": "Government Oversight",
+      "category": "Soft Skill",
+      "outcome_description": "Knowledge of government oversight mechanisms in social insurance management."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyzing investment strategies and performance within social insurance funds."
+    },
+    {
+      "skill_name": "Regulatory Environment",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding the regulatory environment governing social insurance activities."
+    },
+    {
+      "skill_name": "Quality Assurance",
+      "category": "Hard Skill",
+      "outcome_description": "Ensuring quality standards in social insurance management processes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

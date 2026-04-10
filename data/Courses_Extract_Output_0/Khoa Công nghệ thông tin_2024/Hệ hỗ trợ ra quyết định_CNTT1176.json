@@ -1,0 +1,41 @@
+{
+  "course_id": "CNTT1176",
+  "title": "Decision Support System",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking and decision-making skills."
+    },
+    {
+      "skill_name": "Data Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage data within decision support systems."
+    },
+    {
+      "skill_name": "System Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and design system architecture for decision support systems."
+    },
+    {
+      "skill_name": "Modeling Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various modeling techniques in decision support systems."
+    },
+    {
+      "skill_name": "User Interface Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design effective user interfaces for decision support systems."
+    },
+    {
+      "skill_name": "Software Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop software solutions for specific decision support scenarios."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

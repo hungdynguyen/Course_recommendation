@@ -1,0 +1,56 @@
+{
+  "course_id": "MTDT 1125",
+  "title": "Managing Urban Administrative Affairs",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Management Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of urban management and administrative affairs."
+    },
+    {
+      "skill_name": "Urban Administration Structure",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the structure of urban administration and its functions."
+    },
+    {
+      "skill_name": "Administrative Decision-Making Process",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the process of making administrative decisions in urban settings."
+    },
+    {
+      "skill_name": "Legal Document Classification",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and classify legal documents related to urban administration."
+    },
+    {
+      "skill_name": "Policy Analysis Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply techniques for analyzing urban management policies."
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective teamwork skills through group activities."
+    },
+    {
+      "skill_name": "Information Gathering",
+      "category": "Soft Skill",
+      "outcome_description": "Show proficiency in gathering information relevant to urban management issues."
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Develop awareness of social context and ethical responsibilities in urban administration."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking abilities to evaluate urban management policies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

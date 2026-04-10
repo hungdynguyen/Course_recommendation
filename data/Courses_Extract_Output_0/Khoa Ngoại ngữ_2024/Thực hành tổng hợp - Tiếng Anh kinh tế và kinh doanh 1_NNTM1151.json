@@ -1,0 +1,50 @@
+{
+  "course_id": "NNTM1151",
+  "title": "Integrated skills - English for economics and business 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop proficiency in English communication for academic and professional purposes."
+    },
+    {
+      "skill_name": "Vocabulary Building",
+      "category": "Soft Skill",
+      "outcome_description": "Expand vocabulary related to economics and business."
+    },
+    {
+      "skill_name": "Academic Reading",
+      "category": "Soft Skill",
+      "outcome_description": "Read and comprehend academic texts on economics and business."
+    },
+    {
+      "skill_name": "Oral Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver effective oral presentations on economic and business topics."
+    },
+    {
+      "skill_name": "Written Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and concise analyses of economic and business scenarios."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve problems in economics and business."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English Proficiency",
+        "minimum_proficiency_level": 5
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

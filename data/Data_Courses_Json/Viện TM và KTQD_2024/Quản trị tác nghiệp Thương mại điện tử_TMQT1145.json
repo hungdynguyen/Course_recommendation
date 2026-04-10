@@ -1,0 +1,58 @@
+{
+  "course_id": "TMQT1145",
+  "title": "E-commerce operation management",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-commerce management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic knowledge of e-commerce operation management, including product management, quality management, supply chain management, inventory management, and customer relationship management."
+    },
+    {
+      "skill_name": "Market analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze macro and micro environmental factors affecting e-commerce operations and predict market demand."
+    },
+    {
+      "skill_name": "Risk management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and analyze risks in e-commerce purchasing processes and develop preventive measures."
+    },
+    {
+      "skill_name": "Human resource management",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate, classify, and manage human resources in e-commerce operations."
+    },
+    {
+      "skill_name": "Problem-solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems and manage e-commerce operations effectively."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively in e-commerce operations."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate business data to solve practical problems in e-commerce operations."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional responsibility, creativity, and teamwork in e-commerce operations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General education courses",
+      "Basic e-commerce courses"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "course_id": "QTTH1102",
+  "title": "Business Management 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of business and business management."
+    },
+    {
+      "skill_name": "Environmental Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and understand business environment and its factors."
+    },
+    {
+      "skill_name": "Management Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role, functions, skills, and art of management."
+    },
+    {
+      "skill_name": "Business Operations Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic issues in managing business operations."
+    },
+    {
+      "skill_name": "Business Performance Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize methods to evaluate business performance and effectiveness."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent work skills and discipline."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Develop dynamic and diverse teamwork skills."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills through group assignments and presentations."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in data processing, analysis, and problem-solving."
+    },
+    {
+      "skill_name": "Self-Study",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-study and research capabilities, adaptability to different work environments, and self-reliance."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Develop awareness of professional ethics and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Mathematics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

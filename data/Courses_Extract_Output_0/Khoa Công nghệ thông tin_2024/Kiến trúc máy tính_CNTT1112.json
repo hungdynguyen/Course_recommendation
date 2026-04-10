@@ -1,0 +1,62 @@
+{
+  "course_id": "CNTT1112",
+  "title": "Computer Architecture",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Computer Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles of modern computer design and components."
+    },
+    {
+      "skill_name": "Instruction Set Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze different Instruction Set Architectures."
+    },
+    {
+      "skill_name": "Performance Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Measure and evaluate performance of computer systems."
+    },
+    {
+      "skill_name": "Pipeline Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply pipeline techniques in computer architecture."
+    },
+    {
+      "skill_name": "Memory Hierarchies",
+      "category": "Hard Skill",
+      "outcome_description": "Design memory hierarchies in computer systems."
+    },
+    {
+      "skill_name": "Multicore Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply concepts of multicore architectures."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to solve complex problems in computer architecture."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Improve problem-solving abilities related to computer architecture issues."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance research skills to explore and analyze computer architecture topics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT1116)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "course_id": "TNKT 1161",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Theory Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze theoretical and practical issues in agricultural economics."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Identify appropriate agricultural policies based on economic analysis."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply research methods to gather and analyze data in agricultural economics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate critical thinking in evaluating economic issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to economic problems in agriculture."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Actively choose research methods and materials for analyzing real-world economic situations."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers and instructors."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present research findings and defend the thesis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

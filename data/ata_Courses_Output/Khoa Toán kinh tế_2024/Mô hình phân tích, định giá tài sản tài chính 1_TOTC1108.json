@@ -1,0 +1,72 @@
+{
+  "course_id": "TOTC1108",
+  "title": "The models for analyzing and evaluating the financial assets 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Asset Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mean-variance models to analyze and select investment portfolios."
+    },
+    {
+      "skill_name": "Capital Asset Pricing Model (CAPM)",
+      "category": "Hard Skill",
+      "outcome_description": "Use CAPM to estimate expected returns on assets and portfolios."
+    },
+    {
+      "skill_name": "Multi-factor Models",
+      "category": "Hard Skill",
+      "outcome_description": "Apply multi-factor models to estimate expected returns and identify arbitrage opportunities."
+    },
+    {
+      "skill_name": "Model Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop models for investment selection and financial asset valuation."
+    },
+    {
+      "skill_name": "Model Estimation and Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Estimate and test models for financial asset valuation."
+    },
+    {
+      "skill_name": "Risk Management Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze risk management strategies in financial markets."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities and independent work habits."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and take responsibility for individual and group performance."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Tool/Software",
+      "outcome_description": "Use Excel for financial modeling and analysis."
+    },
+    {
+      "skill_name": "R",
+      "category": "Tool/Software",
+      "outcome_description": "Use R for statistical analysis and financial modeling."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Mathematical Economics Models 1",
+      "Econometrics",
+      "Optimization",
+      "Financial Economics Theory"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "course_id": "NLXH1106",
+  "title": "Sociology",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Theory Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain basic knowledge about society and sociology, history of formation and development of sociological ideas."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Master research methods in sociology, techniques for collecting and processing social information."
+    },
+    {
+      "skill_name": "Social Structure Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze social structure and its components related to society building such as class, ethnicity, population, gender, territory, profession."
+    },
+    {
+      "skill_name": "Group Dynamics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature of group linkage and its influence on individual life."
+    },
+    {
+      "skill_name": "Social Inequality and Stratification",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the manifestations and significance of social inequality and stratification research."
+    },
+    {
+      "skill_name": "Organizational Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, nature, function of social institutions and their role in social life."
+    },
+    {
+      "skill_name": "Cultural Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, components, and expressions of culture in daily social life."
+    },
+    {
+      "skill_name": "Socialization Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the process of socialization and its impact on individuals and society."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze social phenomena and processes."
+    },
+    {
+      "skill_name": "Self-management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-management skills to adapt to social changes and modernize through practical activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

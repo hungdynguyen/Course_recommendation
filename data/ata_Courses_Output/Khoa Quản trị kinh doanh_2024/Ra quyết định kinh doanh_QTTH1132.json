@@ -1,0 +1,61 @@
+{
+  "course_id": "QTTH1132",
+  "title": "Business Decisions Making",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Decision Making Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts about decision making and business decisions."
+    },
+    {
+      "skill_name": "Problem Solving Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply problem-solving techniques and tools effectively."
+    },
+    {
+      "skill_name": "Managerial Decision Making",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of managerial decision making and its impact on business operations."
+    },
+    {
+      "skill_name": "Decision Process Models",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize different models of decision-making processes and their ethical implications."
+    },
+    {
+      "skill_name": "Game Theory Application",
+      "category": "Hard Skill",
+      "outcome_description": "Understand game theory and its application in business decision-making scenarios."
+    },
+    {
+      "skill_name": "Effective Decision Making",
+      "category": "Hard Skill",
+      "outcome_description": "Understand factors contributing to effective decision-making and support systems."
+    },
+    {
+      "skill_name": "Logical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop logical thinking skills."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking skills in various scenarios."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in group settings."
+    },
+    {
+      "skill_name": "Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to study independently and manage personal learning."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

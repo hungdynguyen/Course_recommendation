@@ -1,0 +1,55 @@
+{
+  "course_id": "TKKT1131",
+  "title": "Trade and Tourism Statistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Index Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to calculate statistical indices for trade and tourism."
+    },
+    {
+      "skill_name": "Data Collection Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Skill in collecting data for trade and tourism statistics."
+    },
+    {
+      "skill_name": "Statistical Analysis Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and application of statistical analysis methods in trade and tourism."
+    },
+    {
+      "skill_name": "Statistical Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to forecast key indicators in trade and tourism using statistical methods."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to critically think about issues in trade and tourism."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to conduct independent research on trade and tourism topics."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to collaborate effectively in group projects related to trade and tourism."
+    },
+    {
+      "skill_name": "Use of Statistical Software",
+      "category": "Tool/Software",
+      "outcome_description": "Proficiency in using statistical software for data analysis in trade and tourism."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

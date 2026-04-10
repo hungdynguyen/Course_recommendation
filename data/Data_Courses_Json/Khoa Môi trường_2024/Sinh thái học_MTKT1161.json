@@ -1,0 +1,62 @@
+{
+  "course_id": "MTKT1161",
+  "title": "Sinh Thái Học",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Ecology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the nature of ecology, the structure of ecological systems, and the impact of human activities on ecological processes."
+    },
+    {
+      "skill_name": "Environmental Science",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate ecological systems, the impact of human activities on ecological processes, and the effects of environmental pollution."
+    },
+    {
+      "skill_name": "Environmental Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply ecological principles to manage environmental resources and address environmental issues."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to solve ecological problems and make informed decisions."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to address ecological challenges and environmental issues."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently seek out and understand information to complete assignments and solve practical problems."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply professional ethics and environmental ethics in ecological studies and environmental management."
+    },
+    {
+      "skill_name": "Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to class rules and regulations, and show responsibility and cooperation in assigned activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Cơ sở khoa học môi trường"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Environmental Science",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

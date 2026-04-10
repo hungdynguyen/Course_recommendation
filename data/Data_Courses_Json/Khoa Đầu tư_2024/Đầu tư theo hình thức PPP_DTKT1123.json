@@ -1,0 +1,67 @@
+{
+  "course_id": "DTKT1123",
+  "title": "Public-Private Partnerships",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public-Private Partnerships",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept and characteristics of PPP, the origin of PPP, and its role in infrastructure development and public service provision."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the bidding and contract management process in PPP projects."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, assess, and mitigate risks in PPP projects."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the financial effectiveness of PPP projects."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the government's management of PPP projects in Vietnam."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research, analyze, synthesize, and evaluate PPP-related content."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and in groups, identify and solve problems related to PPP."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate practical situations related to PPP."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present and discuss topics related to PPP."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bidding"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Bidding",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

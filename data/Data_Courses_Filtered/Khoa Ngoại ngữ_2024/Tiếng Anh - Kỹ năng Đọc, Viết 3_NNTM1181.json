@@ -1,0 +1,96 @@
+{
+  "course_id": "NNTM1181",
+  "title": "English – Reading & Writing Skills 3",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Vocabulary Acquisition",
+      "category": "Hard Skill",
+      "outcome_description": "Use context to infer word meanings"
+    },
+    {
+      "skill_name": "Dictionary Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Develop advanced vocabulary through topics covered in class and additional reading materials"
+    },
+    {
+      "skill_name": "Compound Word Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Expand vocabulary with compound words, affixes, synonyms, antonyms, polysemous words, collocations, idiomatic expressions, and irony"
+    },
+    {
+      "skill_name": "Skimming Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Read for main ideas and specific details"
+    },
+    {
+      "skill_name": "Directed Reading Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Use visual aids, titles, transitions, and prior knowledge to support comprehension"
+    },
+    {
+      "skill_name": "Academic Text Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Read annotated texts, ask questions while reading, use charts to find information, and take notes using models"
+    },
+    {
+      "skill_name": "Critical Reading",
+      "category": "Hard Skill",
+      "outcome_description": "Read critically, identify two-sided arguments, distinguish between facts and opinions"
+    },
+    {
+      "skill_name": "Text Summarization",
+      "category": "Hard Skill",
+      "outcome_description": "Summarize, compare, outline, paraphrase main ideas, and present arguments"
+    },
+    {
+      "skill_name": "Essay Structure Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify essay structure and how supporting details develop the main idea"
+    },
+    {
+      "skill_name": "Chart Description",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and describe various types of charts, graphs, tables, and process diagrams"
+    },
+    {
+      "skill_name": "Paragraph Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write paragraphs including introduction, body, and conclusion"
+    },
+    {
+      "skill_name": "Argumentative Essay Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write argumentative essays on cause-effect, comparison-contrast, problem-solution, and personal opinion"
+    },
+    {
+      "skill_name": "IELTS Exam Question Format",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and understand the format of IELTS reading and writing exam questions"
+    },
+    {
+      "skill_name": "IELTS Exam Skills Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply reading and writing skills at levels B2 to C1 according to the Common European Framework of Reference, equivalent to IELTS 6.0-6.5"
+    },
+    {
+      "skill_name": "Group Work Participation",
+      "category": "Soft Skill",
+      "outcome_description": "Participate actively in group activities to solve problems"
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to learn independently, research materials to complete assignments and tasks"
+    },
+    {
+      "skill_name": "Self-assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare academic skills for international English proficiency exams and help consolidate specialized subjects in subsequent semesters"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

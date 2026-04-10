@@ -1,0 +1,47 @@
+{
+  "course_id": "KHMA1130",
+  "title": "Macroeconomic Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Forecasting",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to predict macroeconomic trends and scenarios."
+    },
+    {
+      "skill_name": "Macroeconomic Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Students will develop models to understand economic behavior and interrelations."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students will analyze the impact of policy changes on the economy."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Students will evaluate risks associated with economic shocks and policy changes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2",
+      "Macroeconomics 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Microeconomics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Macroeconomics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

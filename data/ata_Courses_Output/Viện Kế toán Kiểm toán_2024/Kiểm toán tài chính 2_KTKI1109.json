@@ -1,0 +1,118 @@
+{
+  "course_id": "KTKI1109",
+  "title": "Financial Auditing 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Account Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify accounts, descriptions, and related bases of evidence in cycles."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Assess potential risks and fraud risks affecting material misstatements in cycles."
+    },
+    {
+      "skill_name": "Control Risk Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate control risks affecting material misstatements in cycles."
+    },
+    {
+      "skill_name": "Analytical Procedure Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply analytical procedures to identify potential material misstatements in cycles, descriptions, and related bases of evidence."
+    },
+    {
+      "skill_name": "Audit Procedure Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop appropriate audit procedures based on identified risks for testing transactional bases of evidence and account balances in cycles."
+    },
+    {
+      "skill_name": "Evidence Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect evidence on accounts, transactions, and descriptions with related bases of evidence in cycles."
+    },
+    {
+      "skill_name": "Residual Evidence Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect residual evidence on discovered errors, potential liabilities, appropriateness of descriptions, non-compliance with laws and regulations, analytical review procedures, subsequent events, and continuous operation assumptions."
+    },
+    {
+      "skill_name": "Audit Problem Solving",
+      "category": "Hard Skill",
+      "outcome_description": "Apply comprehensive auditing knowledge to solve auditing problems arising during cycle audits in financial statement auditing processes."
+    },
+    {
+      "skill_name": "Process Improvement",
+      "category": "Hard Skill",
+      "outcome_description": "Apply comprehensive knowledge of management, risk management, and controls to address audit findings and improve related processes of the audited entity, particularly controls over financial reporting."
+    },
+    {
+      "skill_name": "Audit Standard Application",
+      "category": "Hard Skill",
+      "outcome_description": "Identify advantages and disadvantages when applying audit standards to specific cycle auditing processes in financial statement auditing of clients."
+    },
+    {
+      "skill_name": "Residual Risk Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate residual risks after controls affect the cycles being audited."
+    },
+    {
+      "skill_name": "Material Misstatement Risk Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate material misstatement risk with items in specific cycles being audited."
+    },
+    {
+      "skill_name": "Testing Techniques Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Integrate techniques to design test procedures for control activities and detailed transaction tests, detailed analytical procedures, and detailed balance tests according to material misstatement risks."
+    },
+    {
+      "skill_name": "Audit Test Execution",
+      "category": "Hard Skill",
+      "outcome_description": "Execute audit tests in cycle audits and in evidence collection."
+    },
+    {
+      "skill_name": "Test Result Processing",
+      "category": "Hard Skill",
+      "outcome_description": "Process results of executed tests in cycle audits."
+    },
+    {
+      "skill_name": "Evidence Combination",
+      "category": "Hard Skill",
+      "outcome_description": "Combine evidence with consideration and execute further evidence collection procedures to complete financial statement auditing."
+    },
+    {
+      "skill_name": "Working Paper Information Presentation",
+      "category": "Hard Skill",
+      "outcome_description": "Present information on working papers for the purpose of accumulating evidence and forming audit opinions."
+    },
+    {
+      "skill_name": "Information Combination",
+      "category": "Hard Skill",
+      "outcome_description": "Combine obtained information/evidence to determine content and conclusions to be presented in reports according to Vietnamese Audit Standards."
+    },
+    {
+      "skill_name": "Result Communication",
+      "category": "Hard Skill",
+      "outcome_description": "Combine methods to communicate information about the results of performing audit segments through financial statement audit reports and management letters, ensuring compliance and effectiveness."
+    },
+    {
+      "skill_name": "Compliance with Laws and Regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Comply with laws, relevant regulations, and ethical standards as well as specific guidelines for auditing segments in the performance of financial statement audit contracts for clients."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Auditing 1 (KTKI1108)",
+      "Financial Accounting 2 (KTTC1107)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

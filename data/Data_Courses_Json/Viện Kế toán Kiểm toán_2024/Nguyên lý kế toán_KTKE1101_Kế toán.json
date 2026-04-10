@@ -1,0 +1,45 @@
+{
+  "course_id": "KTKE1101",
+  "title": "Nguyên lý kế toán",
+  "difficulty_level": "Beginner",
+  "duration": "3",
+  "skill_outcomes": [
+    {
+      "skill_name": "Kế toán",
+      "category": "Tool/Software",
+      "outcome_description": "Hiểu và áp dụng các nguyên tắc kế toán và chuẩn mực kế toán quốc tế (GAAP) trong việc ghi chép, phân loại và báo cáo tài chính."
+    },
+    {
+      "skill_name": "Phân tích tài chính",
+      "category": "Tool/Software",
+      "outcome_description": "Phân tích và đánh giá tình hình tài chính và hiệu quả hoạt động kinh doanh thông qua các báo cáo tài chính."
+    },
+    {
+      "skill_name": "Tư duy hệ thống",
+      "category": "Soft Skill",
+      "outcome_description": "Xây dựng và áp dụng tư duy hệ thống trong việc nhận diện, phân loại và ghi nhận nghiệp vụ kế toán."
+    },
+    {
+      "skill_name": "Kỹ năng làm việc nhóm",
+      "category": "Soft Skill",
+      "outcome_description": "Thực hiện các hoạt động nhóm hiệu quả và thích nghi trong môi trường làm việc quốc tế."
+    },
+    {
+      "skill_name": "Đạo đức nghề nghiệp",
+      "category": "Soft Skill",
+      "outcome_description": "Hiểu và thực hiện trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực kế toán."
+    },
+    {
+      "skill_name": "Kỹ năng giao tiếp",
+      "category": "Soft Skill",
+      "outcome_description": "Viết báo cáo và thuyết trình chuyên môn trong công việc kế toán."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

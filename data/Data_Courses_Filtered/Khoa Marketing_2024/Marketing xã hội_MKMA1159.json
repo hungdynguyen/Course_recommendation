@@ -1,0 +1,61 @@
+{
+  "course_id": "MKMA1159",
+  "title": "Social Marketing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature and characteristics of social marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence and features of social marketing"
+    },
+    {
+      "skill_name": "Understanding the nature and characteristics of social issues",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence and features of social issues"
+    },
+    {
+      "skill_name": "Understanding the nature and characteristics of social change programs",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the essence and features of social change programs"
+    },
+    {
+      "skill_name": "Mastering analytical methods for social marketing environments",
+      "category": "Hard Skill",
+      "outcome_description": "Master analytical methods for social marketing environments"
+    },
+    {
+      "skill_name": "Mastering principles and techniques for setting strategic goals and target audiences in social marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Master principles and techniques for setting strategic goals and target audiences in social marketing"
+    },
+    {
+      "skill_name": "Mastering marketing tools applied to solve social problems",
+      "category": "Hard Skill",
+      "outcome_description": "Master marketing tools applied to solve social problems"
+    },
+    {
+      "skill_name": "Designing a social marketing strategy to address specific social issues",
+      "category": "Hard Skill",
+      "outcome_description": "Design a social marketing strategy to address specific social issues"
+    },
+    {
+      "skill_name": "Proposing marketing tools to implement a social marketing program",
+      "category": "Hard Skill",
+      "outcome_description": "Propose marketing tools to implement a social marketing program"
+    },
+    {
+      "skill_name": "Applying ethical understanding to evaluate social marketing programs",
+      "category": "Soft Skill",
+      "outcome_description": "Apply ethical understanding to evaluate social marketing programs"
+    },
+    {
+      "skill_name": "Using social marketing to fulfill civic responsibilities in society",
+      "category": "Soft Skill",
+      "outcome_description": "Use social marketing to fulfill civic responsibilities in society"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "course_id": "MKMA1101",
+  "title": "Consumer Behavior",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Consumer Psychology",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding consumer behavior theories and their application in marketing."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Hard Skill",
+      "outcome_description": "Analyzing factors influencing consumer behavior during purchase and usage."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Applying knowledge of consumer behavior to develop marketing strategies and tools."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluating the impact of research on consumer behavior in marketing contexts."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Marketing"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "course_id": "QTVH 1107",
+  "title": "Business Ethics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Ethics Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze ethical issues in business and corporate social responsibility."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply ethical principles to decision-making processes in business."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply concepts of corporate social responsibility."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate ethical dilemmas in business."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills to discuss and resolve ethical issues."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

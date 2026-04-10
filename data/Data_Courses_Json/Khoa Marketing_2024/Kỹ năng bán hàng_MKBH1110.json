@@ -1,0 +1,91 @@
+{
+  "course_id": "MKBH1110",
+  "title": "Selling Skills",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Sales Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the unique characteristics of the sales profession and sales activities."
+    },
+    {
+      "skill_name": "Customer Relationship Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the qualities and characteristics of salespeople."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the knowledge salespeople need to have to support sales activities."
+    },
+    {
+      "skill_name": "Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the sales process and the behavior of salespeople in the sales process."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the principles of basic communication skills."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Understand how to communicate effectively in sales."
+    },
+    {
+      "skill_name": "Customer Service",
+      "category": "Soft Skill",
+      "outcome_description": "Understand how to follow up and serve customers after sales."
+    },
+    {
+      "skill_name": "Sales Process",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the tasks that salespeople need to perform throughout the sales process."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply acquired knowledge to analyze specific sales situations."
+    },
+    {
+      "skill_name": "Sales Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate sales methods in various real situations and provide sales guidance for specific products/services."
+    },
+    {
+      "skill_name": "Sales Script Development",
+      "category": "Soft Skill",
+      "outcome_description": "Propose sales scripts for specific products/services in specific situations."
+    },
+    {
+      "skill_name": "Sales Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Apply sales skills to communicate effectively in sales situations."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Apply independent and team work skills to develop sales scripts for specific products/services in specific situations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Communication",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Critical Thinking",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

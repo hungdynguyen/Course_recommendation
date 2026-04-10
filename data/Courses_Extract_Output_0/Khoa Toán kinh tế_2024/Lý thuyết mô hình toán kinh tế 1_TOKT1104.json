@@ -1,0 +1,40 @@
+{
+  "course_id": "TOkt1104",
+  "title": "Mathematical Economic Modeling 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to create economic models using mathematical tools."
+    },
+    {
+      "skill_name": "Optimization Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and applying optimization techniques in economic scenarios."
+    },
+    {
+      "skill_name": "Microeconomic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyzing consumer and producer behavior using microeconomic principles."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Using quantitative models to support decision-making processes."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Algebra",
+      "Calculus 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

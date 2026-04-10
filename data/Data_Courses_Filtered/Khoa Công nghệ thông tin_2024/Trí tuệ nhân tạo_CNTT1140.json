@@ -1,0 +1,67 @@
+{
+  "course_id": "CNTT1140",
+  "title": "Artificial Intelligence",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Identify basic problems in AI",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize various research areas in AI and their roles in human perception"
+    },
+    {
+      "skill_name": "Classify problem-solving methods using search techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply different search methods to solve problems"
+    },
+    {
+      "skill_name": "Differentiate knowledge representation and processing methods",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply various knowledge representation and processing techniques"
+    },
+    {
+      "skill_name": "Differentiate modern AI techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply modern AI techniques such as machine learning, neural networks, fuzzy logic, genetic algorithms, and data mining"
+    },
+    {
+      "skill_name": "Combine searching, modeling, and solving techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate searching, modeling, and solving techniques to address AI problems"
+    },
+    {
+      "skill_name": "Research and develop AI applications",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and develop practical AI applications"
+    },
+    {
+      "skill_name": "Independent study and group work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work independently and collaboratively in groups"
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Show initiative in self-directed learning and responsibility for assigned tasks"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Programming Fundamentals",
+      "Data Structures and Algorithms"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming fundamentals",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Data structures and algorithms",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "course_id": "TNBD1140",
+  "title": "Internship Programme",
+  "difficulty_level": "Beginner",
+  "duration": "04 Credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real Estate Industry Practices",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply theoretical knowledge to practical real estate activities such as business operations, government management, and professional practices like brokerage, valuation, and property management."
+    },
+    {
+      "skill_name": "Information Gathering and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in searching, collecting, and analyzing reliable information, working independently, and managing time effectively."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance communication skills in both verbal and written forms for professional activities, including the use of foreign languages and IT skills."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to work independently, take responsibility in group work, and show a sense of responsibility in personal tasks."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Show the ability to plan and utilize appropriate resources to complete research topics."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to present issues and defend personal viewpoints."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the workplace, and maintain academic integrity."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance multi-dimensional thinking, planning, and organizing research activities."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve real-world problems based on acquired knowledge and skills."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and prepare a final report."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

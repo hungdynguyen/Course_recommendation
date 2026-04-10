@@ -1,0 +1,141 @@
+{
+  "course_id": "QTCL1112",
+  "title": "Innovation Management in Business",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Creative Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to present key concepts related to creativity."
+    },
+    {
+      "skill_name": "Creative Thinking",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to present about creative thinking."
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to present about design thinking."
+    },
+    {
+      "skill_name": "SCAMPER Model Application",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to apply methods to promote innovation through the SCAMPER model."
+    },
+    {
+      "skill_name": "Invention vs Innovation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to distinguish between invention and innovation."
+    },
+    {
+      "skill_name": "Types of Innovation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to present types of innovation."
+    },
+    {
+      "skill_name": "Diffusion of Innovation Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to analyze the diffusion process of innovation."
+    },
+    {
+      "skill_name": "Sources of Innovative Ideas",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to analyze sources of innovative ideas."
+    },
+    {
+      "skill_name": "Paradox of Innovation",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to analyze the 'advance-retreat dilemma' in innovation."
+    },
+    {
+      "skill_name": "Theoretical Development of Innovation Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand about the development of theoretical innovation management."
+    },
+    {
+      "skill_name": "Content of Innovation Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand about the content of innovation management."
+    },
+    {
+      "skill_name": "Project Management for Innovation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand about the characteristics of innovation projects and considerations in managing innovation projects."
+    },
+    {
+      "skill_name": "Building an Innovation Culture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand about the characteristics of organizations promoting innovation and tasks to build an innovation culture."
+    },
+    {
+      "skill_name": "Business Model Concept",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and components of business models."
+    },
+    {
+      "skill_name": "Types of Business Models",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the characteristics of different types of business models."
+    },
+    {
+      "skill_name": "Canvas Business Model Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to apply knowledge to construct business models using the Canvas framework."
+    },
+    {
+      "skill_name": "New Product Classification",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to classify new products."
+    },
+    {
+      "skill_name": "Importance of New Product Development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to present the importance of developing new products and services."
+    },
+    {
+      "skill_name": "Product and Service Innovation Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to apply the process of product and service innovation."
+    },
+    {
+      "skill_name": "Innovation Ecosystem Concept",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to present the concept and structure of the innovation ecosystem."
+    },
+    {
+      "skill_name": "Actors in the Innovation Ecosystem",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to present the roles of actors in the innovation ecosystem."
+    },
+    {
+      "skill_name": "Open Innovation Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to present the concept and forms of open innovation."
+    },
+    {
+      "skill_name": "Intellectual Property Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and be able to solve some issues related to intellectual property management."
+    },
+    {
+      "skill_name": "Group Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Be able to give group presentations."
+    },
+    {
+      "skill_name": "Teamwork Improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Improve teamwork skills."
+    },
+    {
+      "skill_name": "Proposing Solutions for Specific Business Scenarios",
+      "category": "Soft Skill",
+      "outcome_description": "Be able to propose solutions for specific business scenarios."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

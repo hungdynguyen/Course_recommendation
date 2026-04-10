@@ -1,0 +1,51 @@
+{
+  "course_id": "TOTC1121",
+  "title": "Quantitative risk management 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Apply models such as VaR, term structure models, volatility models to measure market risk and calculate capital requirements for market risk."
+    },
+    {
+      "skill_name": "Credit Risk Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Apply structural default models, statistical methods to estimate credit risk parameters (PD, LGD, EAD) and calculate expected losses, unexpected losses, economic capital for credit risk."
+    },
+    {
+      "skill_name": "Operational Risk Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Apply methods to calculate capital requirements for specific cases of operational risk according to Basel II; measure market liquidity risk and fund liquidity risk."
+    },
+    {
+      "skill_name": "Strategic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to build models and analyze strategies (accept, avoid, mitigate, transfer) for managing market risk in financial institutions."
+    },
+    {
+      "skill_name": "Credit Risk Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to build models and analyze strategies (accept, avoid, mitigate, transfer) for managing credit risk in financial institutions."
+    },
+    {
+      "skill_name": "Operational Risk Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to build models and analyze strategies (accept, avoid, mitigate, transfer) for managing operational risk and liquidity in financial institutions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ability to learn independently, organize and manage group work, summarize issues and persuade others."
+    },
+    {
+      "skill_name": "Personal Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal responsibility, responsibility towards the group, build discipline in learning."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

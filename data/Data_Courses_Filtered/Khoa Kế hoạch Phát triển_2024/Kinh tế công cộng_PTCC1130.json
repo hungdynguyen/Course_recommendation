@@ -1,0 +1,66 @@
+{
+  "course_id": "PTCC1130",
+  "title": "Development Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Government Role Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and scope of government intervention in a market economy."
+    },
+    {
+      "skill_name": "Four Basic Roles of Government",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the four fundamental roles of government: resource allocation, income redistribution, macroeconomic stability, and national representation on international forums."
+    },
+    {
+      "skill_name": "Limitations of Government Intervention",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize the limitations of government intervention in a market economy."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the research object, content, and methods of the course."
+    },
+    {
+      "skill_name": "Market Failure Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze different types of market failures and the role of government intervention."
+    },
+    {
+      "skill_name": "Public Choice Benefits",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the benefits of public choice and compare principles of public choice within a direct democratic mechanism."
+    },
+    {
+      "skill_name": "Policy Tools for Market Interventions",
+      "category": "Hard Skill",
+      "outcome_description": "Systematically understand various policy tools used by governments to intervene in market economies."
+    },
+    {
+      "skill_name": "Social Equity Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze social equity issues in income distribution and their relationship with economic efficiency."
+    },
+    {
+      "skill_name": "Poverty Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Measure poverty and its impact on society."
+    },
+    {
+      "skill_name": "Independent Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning and research skills to enhance professional expertise and adapt to dynamic work environments."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Gain ethical awareness and professional responsibility in participating in the formulation, monitoring, and evaluation of government policies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "course_id": "LUKD1133",
+  "title": "Skills on Formulation and Execution of Commercial Contracts",
+  "difficulty_level": "Advanced",
+  "duration": "3 units",
+  "skill_outcomes": [
+    {
+      "skill_name": "Contract Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and evaluate existing commercial contract law"
+    },
+    {
+      "skill_name": "Critical Reasoning",
+      "category": "Soft Skill",
+      "outcome_description": "Interpret and apply critical reasoning skills in legal contexts"
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and synthesize information from legal situations"
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in team settings"
+    },
+    {
+      "skill_name": "English Legal Practice",
+      "category": "Soft Skill",
+      "outcome_description": "Use English effectively in legal practices"
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and enhance knowledge"
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication, presentation, and public speaking skills"
+    },
+    {
+      "skill_name": "Commercial Contracts",
+      "category": "Hard Skill",
+      "outcome_description": "Draft, interpret, review, and amend commercial contracts"
+    },
+    {
+      "skill_name": "International Contracts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage international sale of goods contracts"
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Hard Skill",
+      "outcome_description": "Apply alternative dispute resolution methods in commercial contracts"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Law on commerce 1",
+      "Law on commerce 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "course_id": "TNKT1138",
+  "title": "Agricultural Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role and characteristics of agricultural economics, basic theories, markets, and resource use in agriculture."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge and skills in analyzing agricultural markets and resource development."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze government policies and management in agriculture and rural areas."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the research object, tasks, and methods in agricultural economics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to solve practical problems in agricultural economics."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills through group discussions and presentations."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and self-management skills."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork and responsibility in group activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Communication",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

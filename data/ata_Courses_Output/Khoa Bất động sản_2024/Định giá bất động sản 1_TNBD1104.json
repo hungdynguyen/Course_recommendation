@@ -1,0 +1,61 @@
+{
+  "course_id": "TNBD1104",
+  "title": "Real estate valuation 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real estate valuation fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basics of real estate valuation, including its necessity, nature, influencing factors, bases, principles, procedures, and ethical standards."
+    },
+    {
+      "skill_name": "Real estate valuation process",
+      "category": "Hard Skill",
+      "outcome_description": "Apply the process of real estate valuation in practical economic activities."
+    },
+    {
+      "skill_name": "Comparative method in real estate valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize the comparative method in real estate valuation."
+    },
+    {
+      "skill_name": "Cost method in real estate valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize the cost method in real estate valuation."
+    },
+    {
+      "skill_name": "Real estate market analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the real estate market and its impact on property values."
+    },
+    {
+      "skill_name": "Group collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings for real estate valuation tasks."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think critically about real estate valuation methods and their application."
+    },
+    {
+      "skill_name": "Ethical standards in real estate valuation",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to ethical standards in real estate valuation."
+    },
+    {
+      "skill_name": "Independent work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and responsibly in real estate valuation tasks."
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present and defend personal viewpoints in real estate valuation."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

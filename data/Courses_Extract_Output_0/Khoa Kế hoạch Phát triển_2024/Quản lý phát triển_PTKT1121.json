@@ -1,0 +1,38 @@
+{
+  "course_id": "QLPT",
+  "title": "Quản lý Phát triển",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of project management in development contexts."
+    },
+    {
+      "skill_name": "Development Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and implement effective development plans at local and project levels."
+    },
+    {
+      "skill_name": "Community Engagement",
+      "category": "Soft Skill",
+      "outcome_description": "Facilitate community involvement in development projects."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze policies related to development management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Economics",
+      "Public Administration"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

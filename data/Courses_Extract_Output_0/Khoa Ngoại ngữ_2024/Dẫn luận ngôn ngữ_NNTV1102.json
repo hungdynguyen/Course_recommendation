@@ -1,0 +1,35 @@
+{
+  "course_id": "NNTV1102",
+  "title": "Introduction to Linguistics",
+  "difficulty_level": "Beginner",
+  "duration": "100 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Linguistics Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic nature of human language, phonetics, vocabulary, grammar, and linguistic theories."
+    },
+    {
+      "skill_name": "Language Development",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the development process of language over time."
+    },
+    {
+      "skill_name": "Phonetics",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and classify phonetic units and phenomena."
+    },
+    {
+      "skill_name": "Grammar",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend grammatical structures and functions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

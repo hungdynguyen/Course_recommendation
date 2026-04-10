@@ -1,0 +1,53 @@
+{
+  "course_id": "BHKT1121",
+  "title": "English for Insurance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Terminology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and master vocabulary and terminology in the insurance industry."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Explain terms used in specific contexts related to social insurance and commercial insurance."
+    },
+    {
+      "skill_name": "Legal Documents Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal documents related to insurance, comprehend the contents of insurance contracts, and analyze insurance proposals/reinsurance proposals."
+    },
+    {
+      "skill_name": "Insurance Contract Drafting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply specialized English knowledge to draft insurance proposals/reinsurance proposals, transaction documents, and reports in the insurance field."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Fluently use specialized English in professional communication and insurance transactions."
+    },
+    {
+      "skill_name": "Independent and Team Work",
+      "category": "Soft Skill",
+      "outcome_description": "Possess independent and team work capabilities, logical and critical thinking, proactive creativity, and adaptability to learning and working environments in an integrated context and application of technology."
+    },
+    {
+      "skill_name": "Responsibility and Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Possess self-responsibility capability; understand and comply with national laws and organizational regulations, community service awareness, and recognition of business ethics and corporate social responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 1",
+      "Insurance Business Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

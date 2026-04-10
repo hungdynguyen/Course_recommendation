@@ -1,0 +1,72 @@
+{
+  "course_id": "DLKS1113",
+  "title": "Restaurant Business Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Restaurant Theory Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the theoretical foundations of restaurants and food service operations."
+    },
+    {
+      "skill_name": "Customer Concept Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp basic concepts such as restaurant customers and products."
+    },
+    {
+      "skill_name": "Historical Development Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the historical development and future trends of restaurant operations."
+    },
+    {
+      "skill_name": "Restaurant Classification Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between various types of food service establishments and restaurants."
+    },
+    {
+      "skill_name": "Investment and Development Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage investment and development activities for restaurants."
+    },
+    {
+      "skill_name": "Production Operations Management",
+      "category": "Hard Skill",
+      "outcome_description": "Organize production operations including menu planning, purchasing, inventory management, storage, and food preparation."
+    },
+    {
+      "skill_name": "Marketing Management Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement marketing management activities for restaurants."
+    },
+    {
+      "skill_name": "Organization Model Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze organizational models for restaurant management."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage human resources within restaurants."
+    },
+    {
+      "skill_name": "Project Consultation and Participation",
+      "category": "Hard Skill",
+      "outcome_description": "Consult and participate in investment and development projects for restaurants."
+    },
+    {
+      "skill_name": "Real-world Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge to real-world scenarios in Vietnam's restaurant industry."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

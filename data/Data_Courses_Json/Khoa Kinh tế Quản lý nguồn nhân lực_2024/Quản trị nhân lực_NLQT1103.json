@@ -1,0 +1,60 @@
+{
+  "course_id": "NLQT1103",
+  "title": "Human Resource Management",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the concept of human resource management, responsibilities, roles of the human resource department, and factors influencing human resource activities in organizations."
+    },
+    {
+      "skill_name": "Recruitment and Selection",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze, evaluate, and implement human resource activities, propose solutions to improve human resource management in organizations."
+    },
+    {
+      "skill_name": "Performance Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze, evaluate, and implement performance management activities, propose solutions to improve performance management in organizations."
+    },
+    {
+      "skill_name": "Training and Development",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze, evaluate, and implement training and development activities, propose solutions to improve training and development in organizations."
+    },
+    {
+      "skill_name": "Compensation and Benefits",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze, evaluate, and implement compensation and benefits activities, propose solutions to improve compensation and benefits in organizations."
+    },
+    {
+      "skill_name": "Employee Motivation",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze, evaluate, and implement employee motivation activities, propose solutions to improve employee motivation in organizations."
+    },
+    {
+      "skill_name": "Independent and Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent and effective teamwork skills."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate presentation skills on human resource management issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate analytical, synthesis, and problem-solving skills related to specific human resource management activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

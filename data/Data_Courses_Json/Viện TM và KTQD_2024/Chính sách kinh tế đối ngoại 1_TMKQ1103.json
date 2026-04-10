@@ -1,0 +1,67 @@
+{
+  "course_id": "TMKQ1103",
+  "title": "Foreign Economic Policy 1",
+  "difficulty_level": "Beginner",
+  "duration": "30 hours in-class, 15 hours discussion/practice, 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the basic concepts, functions, roles, and principles of foreign economic policy."
+    },
+    {
+      "skill_name": "International Trade Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze international trade policies and their impact on a country's economy."
+    },
+    {
+      "skill_name": "International Investment Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze international investment policies and their impact on a country's economy."
+    },
+    {
+      "skill_name": "Policy Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on foreign economic policies and draw lessons for Vietnam."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and analyze data to understand the impact of foreign economic policies."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to complete tasks and projects."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present research findings and policy analysis effectively."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently study and learn new material."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Understand professional ethics and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "International Economics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

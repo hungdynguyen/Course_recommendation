@@ -1,0 +1,42 @@
+{
+  "course_id": "KTKE1109",
+  "title": "Public Accounting 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Government Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the principles and practices of government accounting."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare financial reports for public sector entities."
+    },
+    {
+      "skill_name": "Budget Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze budgets and financial statements for public sector entities."
+    },
+    {
+      "skill_name": "Accounting Standards",
+      "category": "Hard Skill",
+      "outcome_description": "Apply relevant accounting standards to public sector entities."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage financial resources effectively in public sector entities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting (KTKE1101)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

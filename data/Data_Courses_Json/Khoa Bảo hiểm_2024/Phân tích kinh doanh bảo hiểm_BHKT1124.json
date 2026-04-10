@@ -1,0 +1,51 @@
+{
+  "course_id": "BHKT1124",
+  "title": "Phân tích kinh doanh bảo hiểm",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply methods for analyzing business operations in insurance companies, including financial activities, investment activities, and other operations."
+    },
+    {
+      "skill_name": "Insurance Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze core insurance business, reinsurance business, financial activities, investment activities, and other operations."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate business results and effectiveness, and develop policies and strategies for insurance companies."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent research and analytical skills, logical and critical thinking, teamwork, presentation, and leadership skills."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Plan, coordinate, manage resources, and improve the efficiency of operations in insurance companies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản trị kinh doanh bảo hiểm 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance Operations",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Financial Analysis",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "course_id": "CNTT11101",
+  "title": "Practical Training",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 155 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Industry Familiarity",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding the business environment and operations."
+    },
+    {
+      "skill_name": "Project Insight",
+      "category": "Soft Skill",
+      "outcome_description": "Knowledge about ongoing projects within the industry."
+    },
+    {
+      "skill_name": "Practical Application",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to apply theoretical knowledge in real-world scenarios."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

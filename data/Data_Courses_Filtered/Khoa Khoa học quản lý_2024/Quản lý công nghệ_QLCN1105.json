@@ -1,0 +1,91 @@
+{
+  "course_id": "QLCN1105",
+  "title": "Quản lý công nghệ",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of technology",
+      "category": "Hard Skill",
+      "outcome_description": "Students will have a fundamental understanding of technology and its characteristics, and be able to apply this knowledge to explain, analyze, and evaluate scientific and technological activities at the organizational level."
+    },
+    {
+      "skill_name": "Analyzing dual nature of technology",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the dual nature of technology, the role of technology management, and the content of technology management at micro and macro levels, and be able to apply this knowledge to explain, analyze, and evaluate scientific and technological activities at micro and macro levels."
+    },
+    {
+      "skill_name": "Evaluating technological environment",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze, evaluate, and explain scientific and technological activities and technology management at micro and macro levels within a dynamic technological environment."
+    },
+    {
+      "skill_name": "Assessing technological innovation",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the process of technological innovation, its effectiveness, and how to manage it."
+    },
+    {
+      "skill_name": "Analyzing technological capability",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze and assess technological capabilities at the organizational level using quantitative methods."
+    },
+    {
+      "skill_name": "Understanding technology transfer",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the reasons for technology transfer, distinguish between endogenous and exogenous technology, and grasp the basics of technology reception operations."
+    },
+    {
+      "skill_name": "Government management of science and technology",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the models and organizational structures of government management of science and technology in Vietnam."
+    },
+    {
+      "skill_name": "Analyzing scientific and technological activities",
+      "category": "Hard Skill",
+      "outcome_description": "Students will develop skills to analyze and evaluate scientific and technological activities at micro and macro levels."
+    },
+    {
+      "skill_name": "Implementing technology management activities",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to implement technology management activities in enterprises under a dynamic technological environment."
+    },
+    {
+      "skill_name": "Using modern methods and tools for technology management",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to use modern methods and tools for technology management at the organizational level."
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will practice and improve their presentation skills."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop teamwork skills."
+    },
+    {
+      "skill_name": "Group management",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop group management skills."
+    },
+    {
+      "skill_name": "Independent operational skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to independently carry out operational tasks related to technology management."
+    },
+    {
+      "skill_name": "Self-improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to continuously improve themselves, with a spirit of creativity and innovation, being adaptable to changes."
+    },
+    {
+      "skill_name": "Professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop a sense of professional ethics and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

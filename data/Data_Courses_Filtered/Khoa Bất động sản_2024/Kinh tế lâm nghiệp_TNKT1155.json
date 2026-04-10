@@ -1,0 +1,77 @@
+{
+  "course_id": "TNKT1155",
+  "title": "Kinh tế Lâm nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Overview of Forestry Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic concepts, characteristics, and role of forestry economics."
+    },
+    {
+      "skill_name": "Forest Resource Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the economic aspects of forest resources."
+    },
+    {
+      "skill_name": "Labor in Forestry",
+      "category": "Hard Skill",
+      "outcome_description": "Understand labor dynamics within the forestry sector."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage the use of forest resources effectively."
+    },
+    {
+      "skill_name": "Capital and Basic Construction Investment in Forestry",
+      "category": "Hard Skill",
+      "outcome_description": "Understand capital investment and construction projects in forestry."
+    },
+    {
+      "skill_name": "Social Forestry",
+      "category": "Hard Skill",
+      "outcome_description": "Explore social forestry practices and policies."
+    },
+    {
+      "skill_name": "Integrated Agriculture-Forestry Production Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply integrated agriculture-forestry production methods."
+    },
+    {
+      "skill_name": "Institutional and Policy Frameworks in Forestry",
+      "category": "Hard Skill",
+      "outcome_description": "Understand institutional frameworks and policies in forestry."
+    },
+    {
+      "skill_name": "Macro-level Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop macro-level management skills for the agricultural sector."
+    },
+    {
+      "skill_name": "Problem Solving and Implementation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve practical problems related to forestry development through information gathering and planning."
+    },
+    {
+      "skill_name": "Self-discipline and Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-discipline, enthusiasm, and teamwork in academic and professional settings."
+    },
+    {
+      "skill_name": "Independent Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills to enhance professional expertise."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

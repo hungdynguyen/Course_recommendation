@@ -1,0 +1,76 @@
+{
+  "course_id": "LLNL1107",
+  "title": "Scientific Socialism",
+  "difficulty_level": "Advanced",
+  "duration": "30 hours in-class + 75 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marxist-Leninist Theory on Working Class",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic viewpoints of Marxist-Leninist theory on working class and its historical mission."
+    },
+    {
+      "skill_name": "Historical Mission of Working Class",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the content, manifestations, and significance of the historical mission of the working class in the current context."
+    },
+    {
+      "skill_name": "Socialism Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend basic viewpoints of Marxist-Leninist theory on socialism and the transitional period towards socialism."
+    },
+    {
+      "skill_name": "Democratic Socialism",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize the essence of democratic socialism and socialist state in general and specifically in Vietnam."
+    },
+    {
+      "skill_name": "Social Structure and Class Alliance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the social structure, class alliance, and layers during the transition to socialism."
+    },
+    {
+      "skill_name": "Ethnic and Religious Issues",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze ethnic and religious issues during the transition to socialism."
+    },
+    {
+      "skill_name": "Family Issues",
+      "category": "Hard Skill",
+      "outcome_description": "Examine family issues during the transition to socialism."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply research methodologies to analyze the historical mission of the working class and other theoretical issues."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work independently and in groups to solve problems."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity for independent learning and self-study."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to apply learned knowledge to explain political and social issues in contemporary life."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively with peers in group projects."
+    },
+    {
+      "skill_name": "Responsible Attitude",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate responsibility and accountability in assigned tasks."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

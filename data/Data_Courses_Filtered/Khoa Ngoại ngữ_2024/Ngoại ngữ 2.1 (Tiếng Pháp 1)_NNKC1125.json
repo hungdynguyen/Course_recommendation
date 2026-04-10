@@ -1,0 +1,66 @@
+{
+  "course_id": "NNKC1125",
+  "title": "Second Foreign Language (French 1)",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the main points of short conversations on familiar topics in everyday life."
+    },
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Understand announcements and instructions in train stations, airports, and over PA systems."
+    },
+    {
+      "skill_name": "Vocabulary Usage",
+      "category": "Hard Skill",
+      "outcome_description": "Use 40-60 vocabulary words for greetings, introductions, thanks, and apologies."
+    },
+    {
+      "skill_name": "Oral Presentation",
+      "category": "Hard Skill",
+      "outcome_description": "Give a solo speech of 1-2 minutes on basic, familiar topics in everyday life."
+    },
+    {
+      "skill_name": "Oral Communication",
+      "category": "Hard Skill",
+      "outcome_description": "Communicate for 2-3 minutes in familiar daily life situations such as asking directions, ordering food, and asking for information."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize about 150 vocabulary words from reading passages of up to 200 words on familiar topics in everyday life."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the main points of reading passages of over 200 words on familiar topics in everyday life."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Guess the meaning of words based on context from reading passages of over 300 words on familiar topics in everyday life."
+    },
+    {
+      "skill_name": "Simple Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write simple sentences to construct a text for everyday life communication, including personal information."
+    },
+    {
+      "skill_name": "Text Construction",
+      "category": "Hard Skill",
+      "outcome_description": "Combine simple structures using basic linking devices to construct a text for everyday life communication."
+    },
+    {
+      "skill_name": "Email Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write a short letter/email to friends about familiar topics in everyday life such as birthday wishes, invitations, and meeting arrangements."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

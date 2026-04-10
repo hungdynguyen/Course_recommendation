@@ -1,0 +1,78 @@
+{
+  "course_id": "NLKT1122",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research, including data collection, analysis, and synthesis of economic and social issues related to human resource economics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret economic phenomena and issues related to human resource economics at organizational, industry, and local levels."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply economic theories to evaluate and forecast changes in the labor market under different contexts."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop listening, negotiation, and interpersonal skills to resolve issues in practical settings."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to take initiative, self-study, and propose solutions based on practical analysis."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan, organize, and execute tasks effectively, both individually and in teams."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply economic theories to analyze and predict labor market changes."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage human resources effectively, including recruitment, training, and performance evaluation."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write comprehensive reports and graduation theses based on research findings."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze data to draw conclusions and propose solutions to practical problems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Core knowledge courses",
+      "Major courses",
+      "Specialized courses"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Human Resource Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

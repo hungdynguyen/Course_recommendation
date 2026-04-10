@@ -1,0 +1,67 @@
+{
+  "course_id": "KTKI 1101",
+  "title": "Kiểm toán căn bản",
+  "difficulty_level": "Advanced",
+  "duration": "3TC",
+  "skill_outcomes": [
+    {
+      "skill_name": "Auditing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply auditing theories, principles, and standards in organizational and auditing processes, and identify new responsibilities of auditors."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems systematically in the context of changing legal and business environments while explaining the application of auditing principles and standards."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Defend opinions on issues discovered while explaining the application of auditing theories, principles, and standards and propose improvements."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure a balance between social responsibility and professional ethics in accounting and auditing when making judgments and evaluations."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the concepts and functions of auditing, including risk-based auditing approaches and internal controls."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the ethical standards and legal responsibilities of auditors."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to issues identified in the application of auditing principles and standards."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the process of concluding and issuing an audit report."
+    },
+    {
+      "skill_name": "Social Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Apply auditing principles and standards in new auditing areas related to social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Nguyên lý kế toán (KTKE 1101)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Accounting",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

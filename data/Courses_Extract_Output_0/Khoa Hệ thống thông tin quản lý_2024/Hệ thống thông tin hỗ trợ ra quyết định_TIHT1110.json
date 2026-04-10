@@ -1,0 +1,56 @@
+{
+  "course_id": "TIHT1110",
+  "title": "Decision Support Systems",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply decision-making processes in management."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize tools and techniques for analyzing data to support decision-making."
+    },
+    {
+      "skill_name": "Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and interpret models that support decision-making processes."
+    },
+    {
+      "skill_name": "Simulation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply simulation techniques to support decision-making scenarios."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct regression analysis to predict outcomes and inform decisions."
+    },
+    {
+      "skill_name": "Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Use forecasting methods to anticipate future trends and make informed decisions."
+    },
+    {
+      "skill_name": "Linear Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Formulate and solve linear programming problems to optimize decision-making."
+    },
+    {
+      "skill_name": "Decision Trees",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and utilize decision trees to evaluate different decision options."
+    },
+    {
+      "skill_name": "Business Intelligence",
+      "category": "Hard Skill",
+      "outcome_description": "Implement business intelligence systems to enhance decision-making capabilities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

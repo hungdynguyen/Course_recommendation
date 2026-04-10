@@ -1,0 +1,37 @@
+{
+  "course_id": "TNDC1152",
+  "title": "Internship Programme",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Field Application",
+      "category": "Soft Skill",
+      "outcome_description": "Apply theoretical knowledge to real-world scenarios."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and connect theoretical knowledge with practical situations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose relevant ideas related to economic management and land use."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate findings and proposals in a professional setting."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Foundation Courses"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

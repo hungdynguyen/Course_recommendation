@@ -1,0 +1,70 @@
+{
+  "course_id": "TKKD1101",
+  "title": "Theory of Statistics 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Research Process Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the research process in statistics"
+    },
+    {
+      "skill_name": "Basic Statistical Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic statistical methods"
+    },
+    {
+      "skill_name": "Data Visualization Software Usage",
+      "category": "Soft Skill",
+      "outcome_description": "Use data visualization software effectively"
+    },
+    {
+      "skill_name": "Information Collection Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Collect information using statistical survey methods"
+    },
+    {
+      "skill_name": "Data Processing and Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Process and analyze collected data"
+    },
+    {
+      "skill_name": "Effective Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in group activities"
+    },
+    {
+      "skill_name": "Social Context Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize social context and ethical responsibilities"
+    },
+    {
+      "skill_name": "Statistical Survey Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design statistical surveys"
+    },
+    {
+      "skill_name": "Sampling Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply sampling techniques"
+    },
+    {
+      "skill_name": "Hypothesis Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Test hypotheses in statistics"
+    },
+    {
+      "skill_name": "Power BI Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Use Power BI for data presentation"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

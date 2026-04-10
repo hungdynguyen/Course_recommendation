@@ -1,0 +1,69 @@
+{
+  "course_id": "DTKT1173",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in conducting independent research, including problem identification and solution development in project management."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge to practical project management scenarios, including planning, execution, and evaluation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance ability to analyze and synthesize information to solve complex problems in project management."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate capacity for self-directed learning and continuous professional development."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently to achieve project goals."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve skills in written and oral communication, including report writing and presentation."
+    },
+    {
+      "skill_name": "Ethical Conduct",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to ethical standards and professional conduct in academic and practical settings."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to meet project deadlines and deliverables."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Project Planning",
+      "Project Management",
+      "Project Evaluation",
+      "Tendering"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Project Management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Research Methodology",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

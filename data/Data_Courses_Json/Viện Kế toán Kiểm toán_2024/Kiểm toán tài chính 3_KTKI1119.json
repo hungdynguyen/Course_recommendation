@@ -1,0 +1,62 @@
+{
+  "course_id": "KTKI 1119",
+  "title": "Kiểm toán tài chính 3",
+  "difficulty_level": "Advanced",
+  "duration": "3TC",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Auditing",
+      "category": "Soft Skill",
+      "outcome_description": "Apply auditing knowledge to identify key characteristics and perform audit tests on specific audit subjects in various industries."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate risks and design audit procedures for financial statements in various industries."
+    },
+    {
+      "skill_name": "Audit Procedures",
+      "category": "Soft Skill",
+      "outcome_description": "Implement audit procedures based on risk assessment for financial statements in various industries."
+    },
+    {
+      "skill_name": "Audit Improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Use knowledge of accounting and auditing to assess and improve audit activities."
+    },
+    {
+      "skill_name": "Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with auditing standards and ethical principles in various industries."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and address issues arising from the application of auditing standards and ethical principles in specific contexts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal viewpoints based on objective and scientific approaches during audits in specific industries."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in making audit judgments and evaluations in specific industries."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kiểm toán tài chính 2 (KTKI 1109)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Financial Accounting",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

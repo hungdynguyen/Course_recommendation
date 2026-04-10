@@ -1,0 +1,55 @@
+{
+  "course_id": "TIHT1126",
+  "title": "Internship",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 155 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Systems Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge and skills to identify, develop, and resolve research issues in Information Systems Management."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time and resources effectively, adapt to changes, and communicate professionally."
+    },
+    {
+      "skill_name": "Technical Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Write reports and deliver professional presentations on Information Systems topics."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or collaboratively in groups, demonstrating responsibility and ethical conduct."
+    },
+    {
+      "skill_name": "Information Systems Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design and develop Information Systems to support operational, managerial, and executive activities in organizations."
+    },
+    {
+      "skill_name": "Information Systems Operation",
+      "category": "Hard Skill",
+      "outcome_description": "Operate and manage Information Systems in organizations."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and solve problems in Information Systems."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Self-learn and read specialized literature in Information Systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "course_id": "TMKT1135",
+  "title": "Economic and Technical Norms",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of economic and technical norms, their role, significance, and organizational structure in market economy management."
+    },
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the methods and components of economic norms, and develop solutions to reduce consumption and save materials in production."
+    },
+    {
+      "skill_name": "Quality Management",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and manage the implementation of economic and technical norms, and quality management according to ISO standards."
+    },
+    {
+      "skill_name": "Logistics",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of logistics and supply chain management to develop systems for economic and technical norms."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork skills and analyze the construction and management of economic norms in specific businesses."
+    },
+    {
+      "skill_name": "Sustainability",
+      "category": "Soft Skill",
+      "outcome_description": "Understand social context and professional ethics, and take responsibility for sustainable practices and circular economy."
+    },
+    {
+      "skill_name": "Standardization",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and manage standardization and quality according to ISO standards."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Identify opportunities and develop systems for economic and technical norms to solve logistics and supply chain issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills to solve problems related to logistics and supply chain management."
+    },
+    {
+      "skill_name": "Self-Management",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independence and responsibility in work and group settings."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal views based on objective and scientific approaches."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế thương mại",
+      "Quản trị kinh doanh"
+    ],
+    "minimum_entry_skills": []
+  }
+}

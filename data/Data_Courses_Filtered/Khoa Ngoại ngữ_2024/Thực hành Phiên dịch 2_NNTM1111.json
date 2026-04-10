@@ -1,0 +1,67 @@
+{
+  "course_id": "NNTM1111",
+  "title": "Interpretation 1",
+  "difficulty_level": "Advanced",
+  "duration": "10 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and interpret key terms and terminology in the source language."
+    },
+    {
+      "skill_name": "Vocabulary Memorization",
+      "category": "Hard Skill",
+      "outcome_description": "Memorize and quickly write down key terms and terminology in the source language."
+    },
+    {
+      "skill_name": "Translation Accuracy",
+      "category": "Hard Skill",
+      "outcome_description": "Find the precise meaning or express equivalent ways of saying key terms and terminology in the target language."
+    },
+    {
+      "skill_name": "Sentence Structure Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Listen, recognize sentence structure and components used in the source language to identify subject and action, then construct equivalent sentences in the target language."
+    },
+    {
+      "skill_name": "Industry Knowledge Application",
+      "category": "Hard Skill",
+      "outcome_description": "Use industry knowledge to perform translation exercises."
+    },
+    {
+      "skill_name": "Self-study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate fixed phrases, equivalent expressions, and translation techniques into a coherent presentation within 15-20 minutes."
+    },
+    {
+      "skill_name": "Message Clarity",
+      "category": "Soft Skill",
+      "outcome_description": "Clearly and accurately convey the speaker's message in the target language."
+    },
+    {
+      "skill_name": "Translation Notebook Creation",
+      "category": "Soft Skill",
+      "outcome_description": "Create a translation notebook, recording learned terminology and sentence structure handling techniques."
+    },
+    {
+      "skill_name": "Practical Translation Technique Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Be aware of the application of these techniques and terminology in practical work to gain additional experience."
+    },
+    {
+      "skill_name": "Product Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Be responsible for the product, translating correctly and completely."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Practical Interpretation 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

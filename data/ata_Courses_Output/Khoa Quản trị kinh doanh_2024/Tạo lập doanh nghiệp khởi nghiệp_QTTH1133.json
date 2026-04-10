@@ -1,0 +1,81 @@
+{
+  "course_id": "QTTH1133",
+  "title": "New Venture Creation",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Entrepreneurship Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the theoretical foundations and knowledge about starting a new business."
+    },
+    {
+      "skill_name": "Business Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Know the steps involved in starting a new business, including initial setup, funding, and management."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the necessary resources for a business to operate effectively."
+    },
+    {
+      "skill_name": "Financial Preparation",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to prepare financial support for a new business."
+    },
+    {
+      "skill_name": "Basic Business Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic business management activities such as human resource management, production, marketing, finance, and risk management."
+    },
+    {
+      "skill_name": "Business Growth Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Know strategies and challenges in growing and developing a new business."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply learned knowledge to assess specific situations related to starting a new business and provide feasible solutions."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Use critical thinking to solve problems in different industries and sectors."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in writing reports, presenting, and defending reports."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning and research."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in group work sessions."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Support other members in the group."
+    },
+    {
+      "skill_name": "Dynamic Learning Environment",
+      "category": "Soft Skill",
+      "outcome_description": "Create a dynamic, flexible, and friendly learning environment."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve conflicts within the group."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

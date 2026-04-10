@@ -1,0 +1,60 @@
+{
+  "course_id": "MTKT1155",
+  "title": "Valuation of Natural Resource and Environment",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Natural Resource and Environmental Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of natural resource and environmental valuation"
+    },
+    {
+      "skill_name": "Approach to Natural Resource and Environmental Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand approaches and methods of natural resource and environmental valuation"
+    },
+    {
+      "skill_name": "Role of Natural Resource and Environmental Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of natural resource and environmental valuation in management"
+    },
+    {
+      "skill_name": "Economic Analysis Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic analysis in designing policies and plans for natural resource and environmental management"
+    },
+    {
+      "skill_name": "Basic Skills in Natural Resource and Environmental Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Apply basic skills and techniques in natural resource and environmental valuation"
+    },
+    {
+      "skill_name": "Discussion and Explanation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop discussion and explanation skills related to natural resource and environmental valuation"
+    },
+    {
+      "skill_name": "Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent study skills"
+    },
+    {
+      "skill_name": "Teamwork Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork skills in selecting topics and solving valuation problems"
+    },
+    {
+      "skill_name": "Self-learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning skills"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

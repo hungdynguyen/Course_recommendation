@@ -1,0 +1,77 @@
+{
+  "course_id": "TMKQ1127",
+  "title": "Graduation Thesis - International Economics",
+  "difficulty_level": "Beginner",
+  "duration": "15 hours of theory, 135 hours of practice",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental knowledge of international economic relations, policies, and management."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Apply research methods and techniques to collect, analyze, and evaluate economic data."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze, synthesize, and generalize issues, write and present reports to effectively solve economic problems."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate and critically discuss professional content; work independently."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to international economics."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Take initiative in planning and implementing research on international economic issues."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to emerging issues related to international economics."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and complete a graduation thesis project."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to professional ethics and responsibilities during the internship and thesis process."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Meet deadlines and manage time effectively during the thesis process."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "International Economics 2",
+      "Foreign Economic Policy 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

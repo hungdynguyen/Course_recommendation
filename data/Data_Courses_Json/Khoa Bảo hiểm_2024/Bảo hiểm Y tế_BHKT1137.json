@@ -1,0 +1,73 @@
+{
+  "course_id": "BHKT1137",
+  "title": "Bảo hiểm Y tế",
+  "difficulty_level": "Beginner",
+  "duration": "45",
+  "skill_outcomes": [
+    {
+      "skill_name": "Healthcare Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and grasp the basic knowledge of healthcare, health insurance, and financing models."
+    },
+    {
+      "skill_name": "Insurance Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate health insurance models and their impact on healthcare systems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking and analytical skills to assess health insurance policies and practices."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings and demonstrate leadership skills."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and comply with legal and regulatory frameworks related to health insurance."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and communicate findings and analyses in both written and oral formats."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and analyze data related to health insurance systems."
+    },
+    {
+      "skill_name": "Health Insurance Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage the operations of social and commercial health insurance systems."
+    },
+    {
+      "skill_name": "Healthcare Financing",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and manage healthcare financing models and insurance funds."
+    },
+    {
+      "skill_name": "Health Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and evaluate health policies and their implementation in Vietnam and globally."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance 2",
+      "Social Insurance Management 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Social Insurance Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

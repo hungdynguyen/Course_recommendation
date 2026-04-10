@@ -1,0 +1,61 @@
+{
+  "course_id": "KHMA1126",
+  "title": "Economics of Taxation",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tax Role Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the role of taxes in forming government budgets, regulating macroeconomic activities, and redistributing income."
+    },
+    {
+      "skill_name": "Tax Impact Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the scope of impact of a type of tax and evaluate its role in income distribution."
+    },
+    {
+      "skill_name": "Tax Efficiency Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate the efficiency of a tax system and specific types of taxes."
+    },
+    {
+      "skill_name": "Optimal Tax System Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the degree of optimality of a tax system and specific types of taxes such as personal income tax, corporate income tax, consumption tax, and property tax."
+    },
+    {
+      "skill_name": "Data Collection for Tax Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Collect data on Vietnam's tax system, evaluate the role of each type of tax in the total government revenue, and propose reforms based on comparisons with ASEAN countries."
+    },
+    {
+      "skill_name": "Application of Economic Theories",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic theories and models to analyze and determine the scope of impact, efficiency, and fairness of a type of tax."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and analyze real-world data related to current tax policies domestically and internationally, and make rational choices about tax policies to achieve revenue generation goals, income distribution goals, economic efficiency goals, and trade-offs between these goals."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent work skills, including self-study, finding real-life situations about tax reforms in Vietnam and ASEAN countries, analyzing situations, working in groups, presenting, and debating."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning and research abilities to accumulate knowledge."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate real-world issues and policies related to taxation and subsidies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

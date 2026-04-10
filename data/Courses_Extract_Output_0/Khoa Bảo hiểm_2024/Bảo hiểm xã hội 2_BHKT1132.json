@@ -1,0 +1,47 @@
+{
+  "course_id": "BHKT1132",
+  "title": "Social Insurance 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Principles",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the fundamental principles of social insurance."
+    },
+    {
+      "skill_name": "Cost Calculation Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various methods for calculating social insurance costs."
+    },
+    {
+      "skill_name": "Regulatory Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Ensure compliance with social insurance regulations and laws."
+    },
+    {
+      "skill_name": "Policy Formulation",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and implement social insurance policies effectively."
+    },
+    {
+      "skill_name": "Health Insurance Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the basics of health insurance within the context of social insurance."
+    },
+    {
+      "skill_name": "Pension Insurance Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the fundamentals of pension insurance as part of social insurance."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

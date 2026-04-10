@@ -1,0 +1,59 @@
+{
+  "course_id": "KHMA1131",
+  "title": "Quantitative Analysis in Macroeconomics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Macroeconomic Relationships Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Students can explain basic macroeconomic relationships."
+    },
+    {
+      "skill_name": "Advanced Macroeconomic Theories Application",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply advanced macroeconomic theories to assess the impact of events and policy changes on key macroeconomic variables."
+    },
+    {
+      "skill_name": "Time Series Data Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand and apply techniques for handling time series data in economics and finance."
+    },
+    {
+      "skill_name": "Time Series Analysis Techniques Application",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply time series analysis techniques to quantify macroeconomic relationships and evaluate the impact of policies or shocks on the economy."
+    },
+    {
+      "skill_name": "Quantitative Analysis Techniques Application",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply quantitative analysis techniques to analyze important macroeconomic relationships."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop independent work skills, teamwork, and presentation skills to convey knowledge through writing and discussing real-world macroeconomic research scenarios in Vietnam and around the world."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "The course cultivates students' ability to learn independently and conduct research on related macroeconomic issues in practice."
+    },
+    {
+      "skill_name": "Critical Thinking Skills",
+      "category": "Soft Skill",
+      "outcome_description": "The course enhances students' critical thinking skills regarding macroeconomic issues in Vietnam and around the world."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1 (KHMI1102)",
+      "Macroeconomics 1 (KHMA1102)",
+      "Econometrics 1 (TOKT1101)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

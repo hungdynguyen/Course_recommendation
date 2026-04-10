@@ -1,0 +1,77 @@
+{
+  "course_id": "TNKT1111",
+  "title": "Economics for Rural Development",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic economic theories and principles"
+    },
+    {
+      "skill_name": "Rural Development",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate rural development policies and practices"
+    },
+    {
+      "skill_name": "Sociology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand social structures and dynamics in rural areas"
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and propose rural development policies"
+    },
+    {
+      "skill_name": "Infrastructure Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Plan and manage rural infrastructure development"
+    },
+    {
+      "skill_name": "Environmental Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage environmental issues in rural development"
+    },
+    {
+      "skill_name": "Public Finance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze public finance in rural areas"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to rural development issues"
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively on rural development topics"
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in rural development projects"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1",
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Sociology",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

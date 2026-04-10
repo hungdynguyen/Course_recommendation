@@ -1,0 +1,78 @@
+{
+  "course_id": "KTHT1105",
+  "title": "Kiểm soát nội bộ",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Internal Control Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the general concepts and history of internal control."
+    },
+    {
+      "skill_name": "Components of Internal Control",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and explain the components that make up internal control."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate risks within business processes and apply appropriate controls."
+    },
+    {
+      "skill_name": "Business Process Controls",
+      "category": "Hard Skill",
+      "outcome_description": "Apply internal control principles to various business processes such as procurement, sales, payroll, fixed assets, and cash management."
+    },
+    {
+      "skill_name": "IT Environment Controls",
+      "category": "Hard Skill",
+      "outcome_description": "Implement internal controls in an IT environment."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to assess and critique the application of internal controls."
+    },
+    {
+      "skill_name": "Systematic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Think systematically about internal control issues and solve problems effectively."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently on internal control issues."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams to address internal control challenges."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to working environments with integrated operations."
+    },
+    {
+      "skill_name": "Microsoft Office Skills",
+      "category": "Tool/Software",
+      "outcome_description": "Develop basic computer skills using Microsoft Office tools (Word, Excel, PowerPoint)."
+    },
+    {
+      "skill_name": "Objective Expression",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal viewpoints based on objective and scientific approaches in organizing internal control."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "KTQT1103",
+      "KTTC1106"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

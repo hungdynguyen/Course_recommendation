@@ -1,0 +1,112 @@
+{
+  "course_id": "MKTT1147",
+  "title": "Modern Journalism",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concepts and functions of modern journalism and public relations, and apply them effectively in organizational communication strategies."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems related to public relations and journalism, identifying opportunities and challenges in media contexts."
+    },
+    {
+      "skill_name": "Media Literacy",
+      "category": "Soft Skill",
+      "outcome_description": "Differentiate between various forms of modern journalism and utilize them as effective tools in public relations campaigns."
+    },
+    {
+      "skill_name": "Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Create and evaluate press releases and media content that align with public relations objectives and media trends."
+    },
+    {
+      "skill_name": "Public Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver presentations and speeches on public relations and journalism topics effectively."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate with peers to develop and present public relations strategies and media content."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze data to inform public relations and journalism practices."
+    },
+    {
+      "skill_name": "Digital Literacy",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize digital tools and platforms for creating and distributing media content."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic plans for public relations campaigns using various forms of modern journalism."
+    },
+    {
+      "skill_name": "Event Management",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and manage events for public relations purposes."
+    },
+    {
+      "skill_name": "Crisis Management",
+      "category": "Soft Skill",
+      "outcome_description": "Handle crises and manage public relations during critical situations."
+    },
+    {
+      "skill_name": "Public Relations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of public relations in various media contexts."
+    },
+    {
+      "skill_name": "Media Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze media trends and their impact on public relations strategies."
+    },
+    {
+      "skill_name": "Media Production",
+      "category": "Soft Skill",
+      "outcome_description": "Produce media content for public relations purposes."
+    },
+    {
+      "skill_name": "Audience Engagement",
+      "category": "Soft Skill",
+      "outcome_description": "Engage with media audiences effectively to achieve public relations goals."
+    },
+    {
+      "skill_name": "Professionalism",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional behavior and ethics in public relations and journalism."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Communication",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Research",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Writing",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Public Relations",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

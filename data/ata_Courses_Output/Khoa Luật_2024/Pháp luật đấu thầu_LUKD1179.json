@@ -1,0 +1,76 @@
+{
+  "course_id": "LUKD 1179",
+  "title": "Law on Procurement",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding legal theory of procurement law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, characteristics, and legal framework of procurement law."
+    },
+    {
+      "skill_name": "Understanding regulated objects and adjustment methods of procurement law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the regulated objects and adjustment methods of procurement law."
+    },
+    {
+      "skill_name": "Understanding principles and sources of procurement law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles and sources of procurement law."
+    },
+    {
+      "skill_name": "Understanding history and development of Vietnamese procurement law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the history and development of Vietnamese procurement law."
+    },
+    {
+      "skill_name": "Understanding specific regulations of procurement law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand specific regulations of procurement law such as selecting contractors, investors, PPP projects, and national e-procurement system."
+    },
+    {
+      "skill_name": "Handling situations, resolving complaints, and dealing with violations in procurement activities",
+      "category": "Hard Skill",
+      "outcome_description": "Handle situations, resolve complaints, and deal with violations in procurement activities."
+    },
+    {
+      "skill_name": "Group work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate group work skills."
+    },
+    {
+      "skill_name": "Communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate communication skills."
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate presentation skills."
+    },
+    {
+      "skill_name": "Application of legal knowledge to specific situations",
+      "category": "Hard Skill",
+      "outcome_description": "Apply legal knowledge to specific situations."
+    },
+    {
+      "skill_name": "Self-study and research skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study and research skills."
+    },
+    {
+      "skill_name": "Active presentation of research results",
+      "category": "Soft Skill",
+      "outcome_description": "Actively present research results."
+    },
+    {
+      "skill_name": "Professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Develop professional ethics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

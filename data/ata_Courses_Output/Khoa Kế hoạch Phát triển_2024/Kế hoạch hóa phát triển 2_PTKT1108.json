@@ -1,0 +1,87 @@
+{
+  "course_id": "PTKT1108",
+  "title": "Development Planning 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Development Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts, contents, tasks, and positions of various sub-plans within the economic development planning system."
+    },
+    {
+      "skill_name": "Growth Rate Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Master the process of formulating growth rate plans using investment models and linear regression models."
+    },
+    {
+      "skill_name": "Structural Change Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Learn the process of formulating structural change plans for economic sectors using input-output models and linear regression models."
+    },
+    {
+      "skill_name": "Social Sector Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the methods and calculations involved in social sector planning."
+    },
+    {
+      "skill_name": "Investment Capital Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Learn the approach and process of formulating investment capital plans and understand how to calculate relevant indices."
+    },
+    {
+      "skill_name": "Labor and Employment Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the methods and calculations involved in labor and employment planning."
+    },
+    {
+      "skill_name": "Budget Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Learn the approach and process of formulating budget plans and understand how to calculate relevant indices."
+    },
+    {
+      "skill_name": "Policy Formulation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles and methods of formulating policies for effective exploitation, mobilization, and utilization of resources."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and evaluate the implementation of plans and policies."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork skills through group activities and discussions."
+    },
+    {
+      "skill_name": "Technical Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Improve technical writing skills by preparing reports and presentations on analysis and evaluation of plans and policies."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning skills to independently acquire and apply knowledge."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance presentation skills by presenting findings and recommendations on analysis and evaluation of plans and policies."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ethical awareness and social responsibility in the field of economic development planning."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Development Planning 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

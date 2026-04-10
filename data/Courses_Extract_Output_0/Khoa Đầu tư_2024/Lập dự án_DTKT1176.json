@@ -1,0 +1,39 @@
+{
+  "course_id": "DTKT 1176",
+  "title": "Project Design",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the necessity and process of project investment."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial and economic efficiency of projects."
+    },
+    {
+      "skill_name": "Economic Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate economic and social benefits of projects."
+    },
+    {
+      "skill_name": "Optimization Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply methods to select optimal investment options."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Investment Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

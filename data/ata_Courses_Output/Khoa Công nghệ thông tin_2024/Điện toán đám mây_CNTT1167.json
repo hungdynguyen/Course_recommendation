@@ -1,0 +1,67 @@
+{
+  "course_id": "CNTT1167",
+  "title": "Cloud Computing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cloud Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Describe cloud concepts such as services, infrastructure, platforms, storage, and security."
+    },
+    {
+      "skill_name": "Hadoop Model Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the operation model of Hadoop."
+    },
+    {
+      "skill_name": "Cloud Service Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the operational mechanisms of cloud services by integrating individual knowledge."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply learned knowledge to solve exercises and situations related to each topic."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Possess research skills to find, collect, synthesize, and analyze problems specific to the field."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively with peers to solve specialized problems within deadlines."
+    },
+    {
+      "skill_name": "Independent Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent problem-solving abilities and teamwork skills to address specialized issues."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-study and understand materials to complete assigned lessons and assignments."
+    },
+    {
+      "skill_name": "Group Organization",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and coordinate group work to solve class problems."
+    },
+    {
+      "skill_name": "Classroom Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Be aware of classroom organization and discipline, follow class rules, and have a sense of cooperation and personal responsibility for activities assigned by instructors."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT116)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

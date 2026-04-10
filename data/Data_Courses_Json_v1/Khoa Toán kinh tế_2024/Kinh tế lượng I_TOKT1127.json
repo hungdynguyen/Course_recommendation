@@ -1,0 +1,67 @@
+{
+  "course_id": "TOTKT1127",
+  "title": "Econometrics I",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Econometrics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the methodology of regression analysis; the nature and role of components in regression models (variables, regression coefficients, random error). Explain the role of assumptions for two types of data for the properties of estimations. Construct formulas for estimating coefficients, standard errors, and model fit parameters from OLS and MLE methods. Perform statistical inference on regression coefficients, forecasts, and forecast error evaluation. Analyze the causes, consequences, and methods of detecting violations of OLS assumptions and handling them. Interpret the economic meaning of estimated coefficients and the meaning of outputs when performing regression. Propose economic/financial/business issues that apply econometric models."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in using software to visualize, estimate coefficients, perform statistical inference, forecast, and evaluate models. Combine techniques and standards to detect when OLS assumptions are not satisfied and address them to achieve the best model. Proficient in analyzing estimation results and comparing them with theory. Present/write a report presenting analysis results and recommendations from specific economic data."
+    },
+    {
+      "skill_name": "Statistical Software (R/Python)",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in using statistical software for data processing, visualization, analysis, and evaluation in the experimental analysis process with specific datasets. Handle data, perform regression analysis, and evaluate models using software."
+    },
+    {
+      "skill_name": "Independent Learning and Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independence in learning, research, and teamwork. Integrate self-study, teamwork, and presentation skills. Identify research topics in economics/business, including problem formulation, data collection, model establishment, data processing, analysis, and report writing."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, contribute to group projects, and collaborate on research topics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate econometric models, data, and research findings critically."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Probability Theory",
+      "Mathematical Statistics",
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Probability Theory",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Mathematical Statistics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Microeconomics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Macroeconomics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "NNTM1108",
+  "title": "Translation 2",
+  "difficulty_level": "Advanced",
+  "duration": "100 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Translation Techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Master advanced translation techniques."
+    },
+    {
+      "skill_name": "Economic Translation",
+      "category": "Hard Skill",
+      "outcome_description": "Translate economic and business-related texts accurately."
+    },
+    {
+      "skill_name": "Vocabulary Expansion",
+      "category": "Soft Skill",
+      "outcome_description": "Expand specialized vocabulary in economics and business."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently as a translator."
+    },
+    {
+      "skill_name": "Collaborative Translation",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group translation projects."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Translation 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

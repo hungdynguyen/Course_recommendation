@@ -1,0 +1,43 @@
+{
+  "course_id": "KHEH1104",
+  "title": "Vietnamese Economy",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits (equivalent to 150 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the overall economic situation of Vietnam."
+    },
+    {
+      "skill_name": "Historical Context",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the historical development of Vietnam's economy."
+    },
+    {
+      "skill_name": "Macroeconomics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply macroeconomic principles to understand Vietnam's economic policies."
+    },
+    {
+      "skill_name": "Microeconomics",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize microeconomic theories to analyze individual and business behaviors in Vietnam."
+    },
+    {
+      "skill_name": "International Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate Vietnam's international trade relations and economic integration."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "course_id": "NHTC1110",
+  "title": "Corporate Finance 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Return and Risk Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Understand concepts of return and risk, distinguish between actual and required returns."
+    },
+    {
+      "skill_name": "Risk Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Understand risk measurement concepts and apply them to individual stocks and portfolios."
+    },
+    {
+      "skill_name": "Cost of Capital",
+      "category": "Hard Skill",
+      "outcome_description": "Understand cost of capital concepts and calculate costs for debt, equity, and overall capital."
+    },
+    {
+      "skill_name": "Capital Structure",
+      "category": "Hard Skill",
+      "outcome_description": "Understand theories of capital structure and determine optimal capital structures."
+    },
+    {
+      "skill_name": "Dividend Policy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand dividend policies and their implications on company operations."
+    },
+    {
+      "skill_name": "Short-term Asset Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage short-term assets including cash, receivables, and inventory effectively."
+    },
+    {
+      "skill_name": "Mergers and Acquisitions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand M&A processes, benefits, and risks involved."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve financial management problems."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in teams to solve financial management issues."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Proactively engage in learning activities and seek solutions independently."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "course_id": "KHMA1101",
+  "title": "Principles of Macroeconomics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Macroeconomic Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts related to national income, consumer price index, inflation, unemployment, financial system, and monetary system."
+    },
+    {
+      "skill_name": "Economic Models",
+      "category": "Hard Skill",
+      "outcome_description": "Apply simple models to explain short-term economic fluctuations and the role of macroeconomic policies in stabilizing the economy."
+    },
+    {
+      "skill_name": "Argumentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop argumentation skills to analyze and solve basic macroeconomic problems."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve research skills, work independently and in groups, develop discussion, critical thinking, and creative problem-solving skills."
+    },
+    {
+      "skill_name": "Self-Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning and research skills to deepen understanding of macroeconomic issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

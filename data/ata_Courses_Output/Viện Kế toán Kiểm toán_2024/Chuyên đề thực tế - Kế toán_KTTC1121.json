@@ -1,0 +1,49 @@
+{
+  "course_id": "KTTC1121",
+  "title": "Internship in Accounting",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Environment Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the business environment, organizational structure, and role/function of accounting and analysis in the unit."
+    },
+    {
+      "skill_name": "Strengths and Weaknesses Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate strengths and weaknesses regarding issues in accounting and analysis activities of the unit."
+    },
+    {
+      "skill_name": "Effective Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective communication skills through written reports and discussions on topics related to accounting and analysis."
+    },
+    {
+      "skill_name": "Independent and Collaborative Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Show ability to work independently and collaboratively, professionally adapting to various situations."
+    },
+    {
+      "skill_name": "Self-study and Reflection Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice self-study, accumulate and reflect on issues in auditing and control activities."
+    },
+    {
+      "skill_name": "Objective and Scientific Argumentation",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal viewpoints based on objective and scientific approaches."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Accounting 2",
+      "Financial Statement Analysis",
+      "Government Accounting 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

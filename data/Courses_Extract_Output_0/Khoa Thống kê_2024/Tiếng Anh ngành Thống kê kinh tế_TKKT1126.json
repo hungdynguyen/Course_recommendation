@@ -1,0 +1,41 @@
+{
+  "course_id": "TKkt1126",
+  "title": "English for Economic Statistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to perform statistical analysis using English language."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Capacity to interpret and present statistical data effectively."
+    },
+    {
+      "skill_name": "Economic Statistics",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of economic statistics concepts and applications."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work collaboratively in a team setting."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Capability to deliver effective presentations in English."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Development of critical thinking skills through statistical problem solving."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

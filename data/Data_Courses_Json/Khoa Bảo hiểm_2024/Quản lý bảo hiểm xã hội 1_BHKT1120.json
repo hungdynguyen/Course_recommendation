@@ -1,0 +1,42 @@
+{
+  "course_id": "BHKT1120",
+  "title": "Social Insurance Management 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Insurance Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the principles, nature, and foundations of social insurance management, including the organizational structure of social insurance, management of participants and beneficiaries, and financial management."
+    },
+    {
+      "skill_name": "Policy and Strategy Development",
+      "category": "Soft Skill",
+      "outcome_description": "Use knowledge of social insurance management to develop policies and strategies for the organizational structure of social insurance agencies."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to synthesize, analyze, and think systematically, with the capacity to organize and manage resources for professional social insurance management activities."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Show initiative in independent work, take personal responsibility, and inspire team members in assigned tasks and social activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Bảo hiểm xã hội 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Social Insurance",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

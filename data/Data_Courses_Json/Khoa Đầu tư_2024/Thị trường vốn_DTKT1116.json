@@ -1,0 +1,72 @@
+{
+  "course_id": "DTKT11116",
+  "title": "Capital Market",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Markets",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic concepts and theories of capital markets, including the structure, functions, and operations of capital markets."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate investment opportunities in capital markets, including the valuation of financial assets and the performance of investment funds."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to capital markets, including the issuance of securities and investment activities."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research skills to analyze issues related to capital markets, including the ability to work independently and in groups."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently, organize personal study, and complete assigned tasks."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups to solve problems and complete tasks related to capital markets."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve problems in capital markets."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in class discussions and presentations related to capital markets."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical responsibility and discipline in class participation and group work."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Investment Economics 1",
+      "Economics for Investment Decision Making"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

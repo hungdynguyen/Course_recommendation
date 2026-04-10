@@ -1,0 +1,102 @@
+{
+  "course_id": "QTKD1133",
+  "title": "Supply Chain Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Concepts of Supply Chain",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the nature of supply chain design"
+    },
+    {
+      "skill_name": "Design Decisions in Supply Chain",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the nature of design decisions in supply chain"
+    },
+    {
+      "skill_name": "Factors Influencing Supply Chain Design",
+      "category": "Hard Skill",
+      "outcome_description": "Identify factors influencing and related logistics costs in supply chain design"
+    },
+    {
+      "skill_name": "Principles of Supply Chain Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand principles of supply chain planning"
+    },
+    {
+      "skill_name": "Operational and Sales Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply operational and sales planning in supply chain"
+    },
+    {
+      "skill_name": "Forecasting Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand forecasting methods in supply chain planning"
+    },
+    {
+      "skill_name": "Transportation Modes",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various transportation modes in supply chain"
+    },
+    {
+      "skill_name": "Transportation Policies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand transportation policies in supply chain"
+    },
+    {
+      "skill_name": "Transportation Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand transportation strategies in supply chain"
+    },
+    {
+      "skill_name": "Transportation Decisions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand transportation decisions in supply chain"
+    },
+    {
+      "skill_name": "Inventory Costs",
+      "category": "Hard Skill",
+      "outcome_description": "Understand inventory costs in supply chain management"
+    },
+    {
+      "skill_name": "Optimal Inventory Models",
+      "category": "Hard Skill",
+      "outcome_description": "Understand optimal inventory models in supply chain management"
+    },
+    {
+      "skill_name": "Global Supply Chains",
+      "category": "Hard Skill",
+      "outcome_description": "Understand global supply chains"
+    },
+    {
+      "skill_name": "Global Sourcing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand global sourcing in supply chain management"
+    },
+    {
+      "skill_name": "Performance Measurement Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understand performance measurement systems in supply chain management"
+    },
+    {
+      "skill_name": "Activity Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand activity evaluation in supply chain management"
+    },
+    {
+      "skill_name": "Financial Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand financial evaluation in supply chain management"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Operations Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

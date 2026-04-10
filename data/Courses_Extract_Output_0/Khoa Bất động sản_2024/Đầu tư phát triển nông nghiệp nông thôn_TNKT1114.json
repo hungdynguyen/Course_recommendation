@@ -1,0 +1,53 @@
+{
+  "course_id": "Investment Development in Agriculture and Rural Areas",
+  "title": "Investment Development in Agriculture and Rural Areas",
+  "difficulty_level": "Advanced",
+  "duration": "Not specified",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage projects related to agricultural investment development."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to conduct financial analysis for agricultural investment decisions."
+    },
+    {
+      "skill_name": "Market Research",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to research and analyze market conditions for agricultural investments."
+    },
+    {
+      "skill_name": "Technology Selection",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to select appropriate technology for agricultural investment projects."
+    },
+    {
+      "skill_name": "Economic Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to evaluate economic, social, and environmental impacts of agricultural investments."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to make informed decisions based on financial, economic, and market analyses."
+    },
+    {
+      "skill_name": "Project Appraisal",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to appraise and review agricultural investment projects."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Economics",
+      "Introduction to Finance"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

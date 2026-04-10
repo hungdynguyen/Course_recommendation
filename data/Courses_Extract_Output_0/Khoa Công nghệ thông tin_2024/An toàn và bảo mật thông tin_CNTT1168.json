@@ -1,0 +1,74 @@
+{
+  "course_id": "CNTT1168",
+  "title": "Cryptography and Information Security",
+  "difficulty_level": "Advanced",
+  "duration": "150 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Security",
+      "category": "Soft Skill",
+      "outcome_description": "Develop a comprehensive understanding of information security principles."
+    },
+    {
+      "skill_name": "Cryptography",
+      "category": "Hard Skill",
+      "outcome_description": "Master cryptographic techniques including symmetric and asymmetric encryption."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply risk management strategies in information security contexts."
+    },
+    {
+      "skill_name": "Network Security",
+      "category": "Hard Skill",
+      "outcome_description": "Implement network security measures to protect against external threats."
+    },
+    {
+      "skill_name": "Cryptographic Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply various cryptographic algorithms in practical scenarios."
+    },
+    {
+      "skill_name": "Digital Signatures",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement digital signature systems using cryptographic methods."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to real-world information security challenges."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work independently on complex information security projects."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve information security problems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Programming Basics",
+      "Data Structures and Algorithms",
+      "Database Systems",
+      "Computer Networks and Data Transmission"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Mathematics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

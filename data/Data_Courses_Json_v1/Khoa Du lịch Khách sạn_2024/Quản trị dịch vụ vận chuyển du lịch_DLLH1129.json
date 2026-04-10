@@ -1,0 +1,63 @@
+{
+  "course_id": "DLLH1129",
+  "title": "Transportation service management in tourism",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Transportation management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze supply and demand for transportation services in tourism, and manage transportation services by air, sea, rail, and road."
+    },
+    {
+      "skill_name": "Tourism marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge to implement marketing and sales activities for transportation services at tourist destinations."
+    },
+    {
+      "skill_name": "Business environment analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Practice skills in analyzing the business environment for transportation service companies."
+    },
+    {
+      "skill_name": "Leadership and management",
+      "category": "Soft Skill",
+      "outcome_description": "Practice skills in leading and managing transportation service companies."
+    },
+    {
+      "skill_name": "Case study analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze case studies related to transportation services in tourism."
+    },
+    {
+      "skill_name": "Service quality management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage the quality of transportation services such as air, sea, rail, and road services."
+    },
+    {
+      "skill_name": "Product development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop transportation products at tourist destinations."
+    },
+    {
+      "skill_name": "Customer demand analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze customer demand for transportation services in tourism."
+    },
+    {
+      "skill_name": "Economic and social impact analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the economic, social, and environmental impacts of transportation services at tourist destinations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tourism economics",
+      "Travel agency management"
+    ],
+    "minimum_entry_skills": []
+  }
+}

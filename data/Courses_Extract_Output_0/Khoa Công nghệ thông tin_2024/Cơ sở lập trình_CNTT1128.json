@@ -1,0 +1,40 @@
+{
+  "course_id": "628 QĐ-ĐHKTQD",
+  "title": "Cơ sở lập trình",
+  "difficulty_level": "Beginner",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Programming Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic programming concepts and structures."
+    },
+    {
+      "skill_name": "Algorithm Basics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply fundamental algorithms to solve problems."
+    },
+    {
+      "skill_name": "C Language",
+      "category": "Hard Skill",
+      "outcome_description": "Write and debug programs using C language."
+    },
+    {
+      "skill_name": "Data Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Implement basic data structures in C."
+    },
+    {
+      "skill_name": "File Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Read and write files using C."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

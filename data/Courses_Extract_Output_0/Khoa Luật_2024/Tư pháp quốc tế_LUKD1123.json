@@ -1,0 +1,55 @@
+{
+  "course_id": "LUKD1123",
+  "title": "Private International Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "International Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic principles and theories of international law."
+    },
+    {
+      "skill_name": "Conflict of Laws",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and resolve conflicts of laws in private international law cases."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct legal research on international laws and treaties."
+    },
+    {
+      "skill_name": "Civil Procedure",
+      "category": "Hard Skill",
+      "outcome_description": "Apply civil procedure rules in international contexts."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and concise legal documents related to private international law."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Civil Law",
+      "Marriage and Family Law",
+      "Labor Law",
+      "Intellectual Property Law",
+      "Civil Litigation Law"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Legal Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "English Language Proficiency",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

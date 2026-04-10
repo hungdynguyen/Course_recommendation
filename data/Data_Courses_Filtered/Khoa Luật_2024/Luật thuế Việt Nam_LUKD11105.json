@@ -1,0 +1,60 @@
+{
+  "course_id": "LUKD_11105",
+  "title": "Vietnam Laws on Taxation",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tax Law Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand foundational issues about tax under economic and legal perspectives."
+    },
+    {
+      "skill_name": "Tax Policy Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand foundational issues of tax policy law and legal aspects of important tax policies in Vietnam."
+    },
+    {
+      "skill_name": "Tax Management Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand foundational issues of tax management law."
+    },
+    {
+      "skill_name": "Information Search Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to search for information and legal regulations."
+    },
+    {
+      "skill_name": "Information Analysis Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze, synthesize information and solve legal situations."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work in groups."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to communicate, present and speak."
+    },
+    {
+      "skill_name": "Self-directed Learning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to independently research, accumulate knowledge and experience to improve professional expertise."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law (LUCS 1128)",
+      "Administrative Law (LUCS 1114)",
+      "Civil Law (LUCS 1112)",
+      "Commercial Law (LUCS 1107)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

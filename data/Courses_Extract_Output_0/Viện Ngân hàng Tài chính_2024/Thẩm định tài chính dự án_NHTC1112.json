@@ -1,0 +1,57 @@
+{
+  "course_id": "NHTC1112",
+  "title": "Financial Appraisal of Investment Projects",
+  "difficulty_level": "Advanced",
+  "duration": "45 class hours + 105 self-study hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Capital Budgeting",
+      "category": "Tool/Software",
+      "outcome_description": "Ability to evaluate investment projects using financial appraisal techniques."
+    },
+    {
+      "skill_name": "NPV Calculation",
+      "category": "Tool/Software",
+      "outcome_description": "Ability to calculate Net Present Value for investment projects."
+    },
+    {
+      "skill_name": "IRR Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Ability to perform Internal Rate of Return analysis on investment projects."
+    },
+    {
+      "skill_name": "Risk Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Ability to conduct risk analysis using discounted cash flow methods."
+    },
+    {
+      "skill_name": "Project Valuation",
+      "category": "Tool/Software",
+      "outcome_description": "Ability to value investment projects using various financial metrics."
+    },
+    {
+      "skill_name": "Cash Flow Forecasting",
+      "category": "Tool/Software",
+      "outcome_description": "Ability to forecast cash flows for investment projects."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of Financial Markets",
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Financial Concepts",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Accounting Principles",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

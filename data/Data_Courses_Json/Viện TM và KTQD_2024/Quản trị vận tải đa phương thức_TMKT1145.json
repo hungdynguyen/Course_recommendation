@@ -1,0 +1,68 @@
+{
+  "course_id": "TMKT1145",
+  "title": "Multimodal Transport Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Multimodal Transport Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply concepts of multimodal transport management, including logistics operations, service design, cost analysis, decision-making, and legal issues."
+    },
+    {
+      "skill_name": "Logistics Operations",
+      "category": "Soft Skill",
+      "outcome_description": "Design, implement, and control logistics services in multimodal transport."
+    },
+    {
+      "skill_name": "Cost Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and determine costs and pricing strategies in multimodal transport management."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and process information to make informed decisions in multimodal transport management."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Coordinate and execute group projects related to multimodal transport management."
+    },
+    {
+      "skill_name": "Conflict Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Resolve conflicts and manage group dynamics during project execution."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply legal regulations in multimodal transport management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate the core tasks in logistics management."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present project outcomes and engage in discussions."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Produce structured and logical reports on multimodal transport projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Logistics Management",
+      "Business Logistics"
+    ],
+    "minimum_entry_skills": []
+  }
+}

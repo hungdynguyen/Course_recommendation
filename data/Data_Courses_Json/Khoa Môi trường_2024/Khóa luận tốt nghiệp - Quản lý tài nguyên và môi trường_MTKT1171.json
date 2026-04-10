@@ -1,0 +1,95 @@
+{
+  "course_id": "MTKT1171",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "10 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and apply research methodologies effectively."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret data to address real-world issues in resource and environmental management."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems in resource and environmental management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and critique research findings and management practices in resource and environmental fields."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Produce well-structured and logically coherent reports."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time efficiently to meet project deadlines."
+    },
+    {
+      "skill_name": "Environmental Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of environmental management principles and practices."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and manage resources effectively in economic and environmental contexts."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic issues related to resource and environmental management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and propose policies for resource and environmental management."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively with stakeholders in resource and environmental management."
+    },
+    {
+      "skill_name": "Adaptability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to changes in organizational and environmental management contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Complete 75% of the program's credit requirements"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Research Skills",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Environmental Management",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Resource Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

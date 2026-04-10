@@ -1,0 +1,72 @@
+{
+  "course_id": "QTCL1105",
+  "title": "Service Quality Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Service Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the role and importance of service quality management for businesses, customers, and the economy."
+    },
+    {
+      "skill_name": "Customer Relationship Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply methods and techniques to evaluate service quality based on qualitative data from customer satisfaction surveys."
+    },
+    {
+      "skill_name": "Service Design",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and apply theories to design service processes and service blueprints."
+    },
+    {
+      "skill_name": "Service Delivery",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and manage service delivery processes to ensure quality."
+    },
+    {
+      "skill_name": "Customer Satisfaction Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze customer satisfaction and expectations, and develop strategies to enhance customer loyalty and handle complaints."
+    },
+    {
+      "skill_name": "Quality Control",
+      "category": "Soft Skill",
+      "outcome_description": "Implement quality control measures and evaluate service quality using various models."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and solutions effectively in group settings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze service quality issues and develop solutions."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and apply findings to service quality management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "KHMI1101"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Management",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

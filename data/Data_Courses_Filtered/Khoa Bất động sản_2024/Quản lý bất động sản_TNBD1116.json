@@ -1,0 +1,65 @@
+{
+  "course_id": "TNBD1116",
+  "title": "Real estate Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real estate management fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and necessity of real estate management, purposes of real estate management tasks, contents of real estate management tasks."
+    },
+    {
+      "skill_name": "Effective real estate management operations",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to manage real estate operations safely, efficiently, and cost-effectively."
+    },
+    {
+      "skill_name": "Technical analysis of real estate",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate real estate technically and specifically to develop a concrete real estate management plan."
+    },
+    {
+      "skill_name": "Ethical responsibility in work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical responsibility, perseverance, professionalism, and cooperation in work."
+    },
+    {
+      "skill_name": "Systematic thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop systematic thinking and information gathering skills."
+    },
+    {
+      "skill_name": "Adaptability to real estate management situations",
+      "category": "Soft Skill",
+      "outcome_description": "Develop acute thinking skills and adapt to real estate management situations."
+    },
+    {
+      "skill_name": "Planning skills for real estate management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop planning skills in the field of real estate management."
+    },
+    {
+      "skill_name": "Independent work capability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent work capability and teamwork when participating in professional activities."
+    },
+    {
+      "skill_name": "Objective and scientific approach",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal views based on an objective and scientific approach."
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and fulfill social and professional ethical responsibilities when making judgments and evaluations in the field of real estate management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

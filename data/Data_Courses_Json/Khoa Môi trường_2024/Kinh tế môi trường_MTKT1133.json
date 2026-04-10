@@ -1,0 +1,57 @@
+{
+  "course_id": "MTKT1133",
+  "title": "Environmental Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the theoretical foundations and practical applications of economics in studying and resolving the interrelationship between economic development and environmental protection."
+    },
+    {
+      "skill_name": "Environmental Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand economic tools and policies for managing the environment, and evaluate the economic value of natural resources and the environment."
+    },
+    {
+      "skill_name": "Cost-Benefit Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge from the course to analyze economic content in practical environmental management."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to work independently and in groups, taking responsibility for choosing topics and solving basic issues in environmental economics in practical management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to critically analyze and discuss economic environmental issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to solve problems related to environmental economics."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research and analytical skills in the context of environmental management."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to communicate effectively in the context of environmental economics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1 (KHMI1101)"
+    ],
+    "minimum_entry_skills": []
+  }
+}

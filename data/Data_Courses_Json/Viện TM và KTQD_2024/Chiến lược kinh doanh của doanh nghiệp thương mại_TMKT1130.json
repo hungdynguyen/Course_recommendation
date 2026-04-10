@@ -1,0 +1,67 @@
+{
+  "course_id": "TMKT1130",
+  "title": "Business Strategy of Commercial Enterprise",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and content of business strategy for commercial enterprises in the context of globalization."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze internal and external factors affecting the formulation, selection, and implementation of business strategies."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate and select business strategies based on analysis of industry, macroeconomic, and international environments."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work ability, personal responsibility, and responsibility towards group work."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan, coordinate, manage resources, evaluate, and improve the effectiveness of activities."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply business strategies to manage commercial enterprises and services."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present and defend personal viewpoints based on objective and scientific approaches in planning, coordination, resource management, evaluation, and improvement of activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management 1",
+      "Economics of Commerce",
+      "Business Management of Commercial Enterprises"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Business Management",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

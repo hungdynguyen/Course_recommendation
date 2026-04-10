@@ -1,0 +1,88 @@
+{
+  "course_id": "CNTT1118",
+  "title": "Algorithm Analysis and Design",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Algorithm Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design efficient algorithms for solving computational problems."
+    },
+    {
+      "skill_name": "Algorithm Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate the complexity of algorithms."
+    },
+    {
+      "skill_name": "Complexity Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply concepts of computational complexity, including P, NP, and NP-complete classes."
+    },
+    {
+      "skill_name": "Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Implement algorithms using programming languages such as C++ and Python."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques such as divide-and-conquer, greedy algorithms, dynamic programming, and backtracking."
+    },
+    {
+      "skill_name": "Data Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize advanced data structures in algorithm design."
+    },
+    {
+      "skill_name": "Heuristic Algorithms",
+      "category": "Soft Skill",
+      "outcome_description": "Design and evaluate heuristic algorithms for solving complex problems."
+    },
+    {
+      "skill_name": "Approximation Algorithms",
+      "category": "Soft Skill",
+      "outcome_description": "Develop approximation algorithms for NP-hard problems."
+    },
+    {
+      "skill_name": "Graph Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Apply graph theory concepts to solve algorithmic problems."
+    },
+    {
+      "skill_name": "Parallel Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement parallel algorithms."
+    },
+    {
+      "skill_name": "Probabilistic Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Use probabilistic methods in algorithm design."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently to complete assignments and projects."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to professional ethics in algorithm design and implementation."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT1116)",
+      "Programming Basics (CNTT1128)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

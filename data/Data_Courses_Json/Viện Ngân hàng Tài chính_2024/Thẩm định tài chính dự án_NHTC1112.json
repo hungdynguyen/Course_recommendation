@@ -1,0 +1,77 @@
+{
+  "course_id": "NHTC1112",
+  "title": "Financial Appraisal of Investment Projects",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the financial appraisal process and its role in project investment decisions."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and measure project investment risks."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare financial analysis and appraisal reports for specific investment projects."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently or in groups to analyze and appraise specific investment projects."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply financial criteria and risk analysis to make investment decisions."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Use Excel for financial calculations and project analysis."
+    },
+    {
+      "skill_name": "Financial Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Create financial models to assess investment projects."
+    },
+    {
+      "skill_name": "Investment Appraisal",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate investment projects using NPV, IRR, and other financial metrics."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct sensitivity analysis, scenario analysis, and Monte Carlo simulations to assess project risks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret financial data to make informed investment decisions."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Money and Banking Theory",
+      "Accounting Principles"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Finance",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

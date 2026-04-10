@@ -1,0 +1,62 @@
+{
+  "course_id": "Lịch sử Đảng Cộng Sản Việt Nam",
+  "title": "History of the Communist Party of Vietnam",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Political History Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze historical events and their impact on political ideologies."
+    },
+    {
+      "skill_name": "Historical Research",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to conduct research on historical events and periods."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to think critically about historical events and their implications."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to effectively communicate complex ideas and arguments."
+    },
+    {
+      "skill_name": "Marxist Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding of Marxist theory and its application to historical analysis."
+    },
+    {
+      "skill_name": "Vietnamese Political Thought",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of Vietnamese political thought and its evolution over time."
+    },
+    {
+      "skill_name": "Historical Documentation",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to document and interpret historical records accurately."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Marxism",
+      "Vietnamese History"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Historical Research",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Basic Communication Skills",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "course_id": "MTKT1134",
+  "title": "Natural Resource Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze economic activities related to natural resource exploitation."
+    },
+    {
+      "skill_name": "Sustainable Practices",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and applying sustainable practices in natural resource management."
+    },
+    {
+      "skill_name": "Resource Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to model the extraction of depletable resources."
+    },
+    {
+      "skill_name": "Renewable Energy Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding the economics of renewable energy sources."
+    },
+    {
+      "skill_name": "Environmental Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Analyzing the economic aspects of environmental issues related to natural resources."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1",
+      "Natural Resource Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

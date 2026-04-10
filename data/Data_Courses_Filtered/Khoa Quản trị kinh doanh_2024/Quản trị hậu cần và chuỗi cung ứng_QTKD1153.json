@@ -1,0 +1,61 @@
+{
+  "course_id": "QTKD1153",
+  "title": "Logistics and Supply Chain Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Introduction to logistics and supply chain management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the approach, nature, activities, roles, trends, objects, scope, and basic contents of logistics and supply chain management."
+    },
+    {
+      "skill_name": "Nature and classification of logistics products",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the nature, classification, characteristics of logistics products; the 80/20 principle and ABC analysis in logistics management; packaging and pricing of logistics products."
+    },
+    {
+      "skill_name": "Customer service decision-making in logistics operations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain how to make decisions about customer service in logistics operations."
+    },
+    {
+      "skill_name": "Information system in logistics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the information system in logistics operations."
+    },
+    {
+      "skill_name": "Transportation services selection",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the role, components, and selection criteria for transportation services."
+    },
+    {
+      "skill_name": "Inventory management principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain inventory management principles including push and pull strategies."
+    },
+    {
+      "skill_name": "Supply chain management strategic planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the strategic planning process in supply chain management."
+    },
+    {
+      "skill_name": "Effective participation in class discussions",
+      "category": "Soft Skill",
+      "outcome_description": "Actively participate in class discussions, ask questions, and present ideas."
+    },
+    {
+      "skill_name": "Self-study and preparation before seminars",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare for seminars by reading materials and completing assignments."
+    },
+    {
+      "skill_name": "Collaborative work in group projects",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers in group projects, presenting findings and defending ideas."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

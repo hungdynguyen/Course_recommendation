@@ -1,0 +1,78 @@
+{
+  "course_id": "KHMI1117",
+  "title": "Quantitative Analysis in Microeconomics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Quantitative Analysis Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply advanced quantitative analysis techniques in microeconomic contexts."
+    },
+    {
+      "skill_name": "Microeconomic Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Convert theoretical models into appropriate econometric models."
+    },
+    {
+      "skill_name": "OLS Regression",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Ordinary Least Squares regression techniques on various datasets."
+    },
+    {
+      "skill_name": "Binary Dependent Variable Models",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and interpret econometric models with binary dependent variables."
+    },
+    {
+      "skill_name": "Panel Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze panel data using appropriate econometric methods."
+    },
+    {
+      "skill_name": "Productivity and Efficiency Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Measure productivity and efficiency using econometric techniques."
+    },
+    {
+      "skill_name": "Data Cleaning Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Clean and preprocess data for econometric analysis."
+    },
+    {
+      "skill_name": "Econometric Software Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Use Stata software for econometric analysis."
+    },
+    {
+      "skill_name": "Critical Reading Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Read and synthesize scientific information from multiple sources."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to solve assigned problems."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities to enhance knowledge on economic growth issues."
+    },
+    {
+      "skill_name": "Classroom Participation",
+      "category": "Soft Skill",
+      "outcome_description": "Actively participate in class discussions and presentations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1 (KHMI1101)",
+      "Econometrics (TOKT1101)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

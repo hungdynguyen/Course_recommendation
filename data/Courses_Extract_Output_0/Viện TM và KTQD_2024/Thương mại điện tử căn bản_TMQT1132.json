@@ -1,0 +1,35 @@
+{
+  "course_id": "THÔNG TIN CHUNG",
+  "title": "Thương mại điện tử căn bản",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-commerce fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of e-commerce including online business models, legal frameworks, and socio-economic impacts."
+    },
+    {
+      "skill_name": "Internet business operations",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend operational aspects of internet-based businesses including infrastructure requirements and management practices."
+    },
+    {
+      "skill_name": "Legal and regulatory environment",
+      "category": "Soft Skill",
+      "outcome_description": "Gain knowledge about legal and regulatory frameworks impacting e-commerce activities."
+    },
+    {
+      "skill_name": "Project management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop foundational skills in managing e-commerce projects including system development and maintenance."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

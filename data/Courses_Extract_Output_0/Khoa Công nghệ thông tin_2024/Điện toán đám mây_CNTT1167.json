@@ -1,0 +1,57 @@
+{
+  "course_id": "CNTT1167",
+  "title": "Cloud Computing",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cloud Computing Overview",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the fundamental concepts and drivers of cloud computing."
+    },
+    {
+      "skill_name": "Parallel Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills in parallel programming techniques for cloud computing systems."
+    },
+    {
+      "skill_name": "Big Data Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Gain knowledge on big data systems like Hadoop and NoSQL databases."
+    },
+    {
+      "skill_name": "Web Server Performance",
+      "category": "Hard Skill",
+      "outcome_description": "Learn to optimize web server performance."
+    },
+    {
+      "skill_name": "Cloud Security",
+      "category": "Hard Skill",
+      "outcome_description": "Acquire skills in securing cloud-based systems."
+    },
+    {
+      "skill_name": "Map-Reduce Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Master the Map-Reduce programming model used in distributed computing."
+    },
+    {
+      "skill_name": "Application Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop applications that run efficiently on cloud platforms."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking abilities to analyze and solve problems in cloud computing."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT116)"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

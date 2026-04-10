@@ -1,0 +1,58 @@
+{
+  "course_id": "TNDC1116",
+  "title": "Land Database",
+  "difficulty_level": "Beginner",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Database Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of database systems and land database systems. Analyze, design, and build land database systems to support land management tasks."
+    },
+    {
+      "skill_name": "GIS Software",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient use of GIS software (e.g., Mapinfo) to build, manage, and utilize land databases."
+    },
+    {
+      "skill_name": "Land Management",
+      "category": "Hard Skill",
+      "outcome_description": "Design, analyze, and build land databases suitable for practical land management tasks."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve problems related to land database systems."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently learn and understand materials to complete assignments and tasks."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups to complete tasks and projects related to land database systems."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to land database systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Land Administration",
+      "Land Surveying"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Land Administration",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "course_id": "BHKT1155",
+  "title": "Investment in insurance companies",
+  "difficulty_level": "Advanced",
+  "duration": "150 hours (45 classroom hours + 105 self-study hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Insurance Investment Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze investment activities within insurance companies."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand legal regulations governing investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Financial Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop financial strategies for investment in insurance companies."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate risks associated with investment activities in insurance companies."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Create strategic plans for investment activities in insurance companies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 1",
+      "Insurance Business Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

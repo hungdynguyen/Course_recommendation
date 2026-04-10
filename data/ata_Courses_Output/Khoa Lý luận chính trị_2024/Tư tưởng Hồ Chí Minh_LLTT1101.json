@@ -1,0 +1,61 @@
+{
+  "course_id": "LLTT1101",
+  "title": "Ho Chi Minh Ideology",
+  "difficulty_level": "Intermediate",
+  "duration": "30 hours in-class, 60 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the Objectives, Research Methods, and Significance of Studying Ho Chi Minh Thought",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand the research objectives, methods, and significance of studying Ho Chi Minh thought."
+    },
+    {
+      "skill_name": "Understanding the Theoretical and Practical Foundations for the Formation of Ho Chi Minh Thought",
+      "category": "Hard Skill",
+      "outcome_description": "Students comprehend the theoretical and practical foundations for the formation of Ho Chi Minh thought."
+    },
+    {
+      "skill_name": "Recognizing the Scientific, Revolutionary, and Creative Nature of Ho Chi Minh's Application of Marxist Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Students recognize the scientific, revolutionary, and creative nature of Ho Chi Minh's application of Marxist principles."
+    },
+    {
+      "skill_name": "Applying Basic Contents of Ho Chi Minh Thought to Current Reform in Vietnam",
+      "category": "Hard Skill",
+      "outcome_description": "Students apply basic contents of Ho Chi Minh thought to current reform in Vietnam."
+    },
+    {
+      "skill_name": "Analyzing the Role of Ho Chi Minh Thought in Building and Strengthening the Communist Party and Socialist State",
+      "category": "Hard Skill",
+      "outcome_description": "Students analyze the role of Ho Chi Minh thought in building and strengthening the Communist Party and Socialist State."
+    },
+    {
+      "skill_name": "Enhancing Logical Reasoning Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students enhance their logical reasoning skills."
+    },
+    {
+      "skill_name": "Building Political Resilience and Civic Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Students build political resilience and civic responsibility."
+    },
+    {
+      "skill_name": "Developing Scientific Work Methods and Problem-Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop scientific work methods and problem-solving skills."
+    },
+    {
+      "skill_name": "Improving Presentation and Argumentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students improve their presentation and argumentation skills."
+    },
+    {
+      "skill_name": "Demonstrating Professionalism and Responsibility in Modernization and International Integration",
+      "category": "Soft Skill",
+      "outcome_description": "Students demonstrate professionalism and responsibility in modernization and international integration."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

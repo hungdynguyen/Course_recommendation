@@ -1,0 +1,50 @@
+{
+  "course_id": "DTKT1172",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "90 hours in class + 350 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Consolidate theoretical knowledge on economics, management, and investment",
+      "category": "Hard Skill",
+      "outcome_description": "Understand macroeconomic and microeconomic principles related to investment and management."
+    },
+    {
+      "skill_name": "Apply theoretical knowledge to identify and solve issues in the field of investment",
+      "category": "Hard Skill",
+      "outcome_description": "Demonstrate ability to analyze and solve problems in the investment sector."
+    },
+    {
+      "skill_name": "Develop research skills",
+      "category": "Hard Skill",
+      "outcome_description": "Show proficiency in conducting research, analysis, and synthesis of issues related to investment."
+    },
+    {
+      "skill_name": "Work independently and in teams",
+      "category": "Soft Skill",
+      "outcome_description": "Prove capability to work both individually and collaboratively to address investment-related issues."
+    },
+    {
+      "skill_name": "Self-study and accumulate experience",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently and gather relevant experience to enhance professional expertise."
+    },
+    {
+      "skill_name": "Organizational discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Exhibit awareness of organizational discipline and responsibility towards assigned tasks."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Investment Economics 1",
+      "Investment Economics 2",
+      "Project Planning",
+      "Project Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

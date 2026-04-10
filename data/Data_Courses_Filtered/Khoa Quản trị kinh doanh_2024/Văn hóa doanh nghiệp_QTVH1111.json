@@ -1,0 +1,70 @@
+{
+  "course_id": "QTVH1111",
+  "title": "Corporate Culture",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the concept of culture and corporate culture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concepts of culture, corporate culture, values, and the role of corporate culture."
+    },
+    {
+      "skill_name": "Understanding factors influencing corporate culture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the factors that influence corporate culture."
+    },
+    {
+      "skill_name": "Understanding the relationship between culture and business strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the relationship between culture and business strategy."
+    },
+    {
+      "skill_name": "Recognizing corporate cultural values",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to recognize corporate cultural values."
+    },
+    {
+      "skill_name": "Measuring and evaluating corporate culture",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to measure and evaluate corporate culture."
+    },
+    {
+      "skill_name": "Building and maintaining corporate culture",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to build and maintain corporate culture according to a process."
+    },
+    {
+      "skill_name": "Selecting or developing appropriate cultural models for organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to select or develop appropriate cultural models for organizations."
+    },
+    {
+      "skill_name": "Identifying obstacles or conflicts in corporate culture",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to apply knowledge to identify obstacles or cultural conflicts in businesses."
+    },
+    {
+      "skill_name": "Proposing solutions to overcome obstacles or resolve cultural conflicts",
+      "category": "Hard Skill",
+      "outcome_description": "Be able to propose solutions to overcome obstacles or resolve cultural conflicts in businesses."
+    },
+    {
+      "skill_name": "Determining compatibility between personal values and organizational values",
+      "category": "Soft Skill",
+      "outcome_description": "Know how to determine the compatibility between personal values and organizational values."
+    },
+    {
+      "skill_name": "Expressing personal responsibility for sustainable development of organizations",
+      "category": "Soft Skill",
+      "outcome_description": "Know how to express personal responsibility for the sustainable development of organizations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

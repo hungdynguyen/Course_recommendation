@@ -1,0 +1,52 @@
+{
+  "course_id": "TMKQ1118",
+  "title": "Government Policy for Multinational Corporations",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Global Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand global economic trends and their impact on multinational corporations."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze government policies affecting multinational corporations."
+    },
+    {
+      "skill_name": "International Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand international investment agreements and their implications."
+    },
+    {
+      "skill_name": "Economic Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic theories to multinational corporation management."
+    },
+    {
+      "skill_name": "Strategic Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic approaches to managing multinational corporations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1",
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "English Language",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

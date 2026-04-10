@@ -1,0 +1,50 @@
+{
+  "course_id": "DLKS1152",
+  "title": "Cruise Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Hotel Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and characteristics of hotel management, particularly cruise ships."
+    },
+    {
+      "skill_name": "Tourism Industry",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize the relationship between cruise ship operations and other tourism service businesses."
+    },
+    {
+      "skill_name": "Business Management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply business management principles to cruise ship operations."
+    },
+    {
+      "skill_name": "Economic Impact",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the economic impact of cruise ship operations on national economies."
+    },
+    {
+      "skill_name": "Service Quality",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and improve service quality in cruise ship operations."
+    },
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage resources effectively in cruise ship operations."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems in real-world cruise ship operations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

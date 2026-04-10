@@ -1,0 +1,66 @@
+{
+  "course_id": "DLLH1130",
+  "title": "Ecotourism",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding trends in responsible tourism",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the development trends of responsible tourism and ecotourism."
+    },
+    {
+      "skill_name": "Analyzing the history and development of ecotourism",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the history and development of ecotourism."
+    },
+    {
+      "skill_name": "Defining key concepts related to ecotourism",
+      "category": "Hard Skill",
+      "outcome_description": "Define and differentiate key concepts related to ecotourism."
+    },
+    {
+      "skill_name": "Evaluating the role of ecotourism in economy, society, and environment",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the role of ecotourism in economic, social, and environmental aspects."
+    },
+    {
+      "skill_name": "Identifying characteristics and principles of ecotourism",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and analyze the characteristics and principles of ecotourism."
+    },
+    {
+      "skill_name": "Analyzing the roles of organizations and individuals in ecotourism",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the roles of various stakeholders in ecotourism."
+    },
+    {
+      "skill_name": "Developing planning and management models for ecotourism",
+      "category": "Hard Skill",
+      "outcome_description": "Develop planning and management models for ecotourism."
+    },
+    {
+      "skill_name": "Calculating carrying capacity of ecotourism destinations",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate the carrying capacity of ecotourism destinations based on different criteria."
+    },
+    {
+      "skill_name": "Analyzing and identifying management models for ecotourism",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and identify management models for ecotourism."
+    },
+    {
+      "skill_name": "Demonstrating responsibility and creativity in learning",
+      "category": "Soft Skill",
+      "outcome_description": "Show responsibility and creativity in the learning process."
+    },
+    {
+      "skill_name": "Responsible behavior towards the environment",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate responsible behavior towards the environment and sustainable tourism development."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

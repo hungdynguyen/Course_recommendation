@@ -1,0 +1,61 @@
+{
+  "course_id": "MKTT1112",
+  "title": "Advertising Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Advertising Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature and role of advertising"
+    },
+    {
+      "skill_name": "Advertising Ethics and Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand ethical and legal issues in advertising"
+    },
+    {
+      "skill_name": "Consumer Behavior Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze consumer behavior in advertising"
+    },
+    {
+      "skill_name": "Media Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Plan media strategies for advertising"
+    },
+    {
+      "skill_name": "Creative Strategy Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop creative strategies for advertising"
+    },
+    {
+      "skill_name": "Advertising Campaign Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage advertising campaigns effectively"
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups on advertising projects"
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to changes and continuously improve advertising knowledge"
+    },
+    {
+      "skill_name": "Information Gathering and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Collect and analyze information about advertising activities"
+    },
+    {
+      "skill_name": "Professional Ethics in Advertising",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional ethics and social responsibility in advertising"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

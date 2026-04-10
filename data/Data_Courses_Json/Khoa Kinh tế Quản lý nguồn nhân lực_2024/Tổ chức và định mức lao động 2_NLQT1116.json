@@ -1,0 +1,63 @@
+{
+  "course_id": "NLQT1116",
+  "title": "Labour Organization and Standardization 2",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Labour Organization",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept and role of labour organization in management, including scientific organization of labour for management staff."
+    },
+    {
+      "skill_name": "Labour Standards",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply labour standards and methods for setting labour standards."
+    },
+    {
+      "skill_name": "Analytical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze practical situations, identify issues, and propose optimal solutions related to labour organization and standardization."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to problems related to labour organization and standardization."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively through writing and presentations."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze data related to labour organization and standardization."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management",
+      "Industrial Psychology",
+      "Labour Organization and Standardization 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Labour Organization",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Labour Standards",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

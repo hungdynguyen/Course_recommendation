@@ -1,0 +1,56 @@
+{
+  "course_id": "CNTT1145",
+  "title": "Virtualization Technologies",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Virtualization Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the principles and functions of virtualization technologies including hypervisors, system virtualization, and resource management."
+    },
+    {
+      "skill_name": "Hypervisor Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and operate different types of hypervisors (Type 1 and Type 2)."
+    },
+    {
+      "skill_name": "Resource Virtualization",
+      "category": "Hard Skill",
+      "outcome_description": "Apply concepts of virtual memory, CPU virtualization, and abstract operating systems."
+    },
+    {
+      "skill_name": "System Virtualization",
+      "category": "Hard Skill",
+      "outcome_description": "Implement and manage full system virtualization including Type I and Type II virtual machines."
+    },
+    {
+      "skill_name": "Network Virtualization",
+      "category": "Hard Skill",
+      "outcome_description": "Design and manage virtualized network environments."
+    },
+    {
+      "skill_name": "Storage Management",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies for managing storage in virtualized environments."
+    },
+    {
+      "skill_name": "Data Center Virtualization",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply best practices for virtualizing data centers."
+    },
+    {
+      "skill_name": "Algorithm Application",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize algorithms for analyzing and solving problems related to virtualization technologies."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on virtualization technologies and effectively utilize relevant resources."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

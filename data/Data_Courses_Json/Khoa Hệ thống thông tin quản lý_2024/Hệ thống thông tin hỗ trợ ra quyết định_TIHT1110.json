@@ -1,0 +1,122 @@
+{
+  "course_id": "TIHT1110",
+  "title": "Decision Support Systems",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply decision-making processes in management."
+    },
+    {
+      "skill_name": "Management Information Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply management information systems."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and model data to support decision-making."
+    },
+    {
+      "skill_name": "Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Develop models to support decision-making processes."
+    },
+    {
+      "skill_name": "Simulation",
+      "category": "Hard Skill",
+      "outcome_description": "Use simulation techniques to support decision-making."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply statistical methods for decision support."
+    },
+    {
+      "skill_name": "Business Intelligence",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize business intelligence tools and techniques."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate decision models."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in decision support contexts."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques in decision support scenarios."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Use Excel for data analysis and decision support."
+    },
+    {
+      "skill_name": "Power BI",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize Power BI for data visualization and decision support."
+    },
+    {
+      "skill_name": "Arena Simulation",
+      "category": "Hard Skill",
+      "outcome_description": "Use Arena simulation software for decision support."
+    },
+    {
+      "skill_name": "Decision Trees",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and interpret decision trees."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform regression analysis for decision support."
+    },
+    {
+      "skill_name": "Linear Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Apply linear programming techniques for optimization."
+    },
+    {
+      "skill_name": "Monte Carlo Simulation",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct Monte Carlo simulations for decision support."
+    },
+    {
+      "skill_name": "Risk Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze risks in decision-making processes."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Apply ethical considerations in decision-making processes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management Information Systems",
+      "Probability and Statistics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

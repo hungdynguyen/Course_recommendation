@@ -1,0 +1,77 @@
+{
+  "course_id": "TOCB1107",
+  "title": "Discrete Mathematics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Mathematical Reasoning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to reason logically and construct mathematical proofs."
+    },
+    {
+      "skill_name": "Set Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply concepts of sets, functions, and relations."
+    },
+    {
+      "skill_name": "Algorithm Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design and analyze algorithms, including recursive algorithms."
+    },
+    {
+      "skill_name": "Combinatorics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply principles of counting, permutations, and combinations to solve problems."
+    },
+    {
+      "skill_name": "Graph Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and solve problems using graph theory concepts."
+    },
+    {
+      "skill_name": "Tree Structures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply tree structures and their applications."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply mathematical concepts to solve practical problems such as shortest path, graph coloring, and minimum spanning tree."
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently and work collaboratively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking skills to analyze and solve complex problems."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and take responsibility for group tasks."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT1116)",
+      "Mathematics for Economists (TOCB1110)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Programming",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

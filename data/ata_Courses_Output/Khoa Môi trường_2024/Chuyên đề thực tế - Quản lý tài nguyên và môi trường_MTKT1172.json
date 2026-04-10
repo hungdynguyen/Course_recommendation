@@ -1,0 +1,64 @@
+{
+  "course_id": "MTKT1172",
+  "title": "Chuyên đề thực tế-Quản lý Tài nguyên và Môi trường",
+  "difficulty_level": "Advanced",
+  "duration": "15 hours theory + 45 hours practical",
+  "skill_outcomes": [
+    {
+      "skill_name": "Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on economic activities related to natural resources and environment management."
+    },
+    {
+      "skill_name": "Environmental Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge on economic activities related to natural resources and environment management."
+    },
+    {
+      "skill_name": "Systematic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in systematic thinking, problem-solving, and decision-making."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and analysis on environmental issues."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve problems and implement solutions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-learning abilities and adapt to changes in the field of resource and environmental management."
+    },
+    {
+      "skill_name": "Critical Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and critically evaluate environmental policies and management practices."
+    },
+    {
+      "skill_name": "Policy Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement and evaluate environmental policies and management strategies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Environmental Science",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Basic Resource Management",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

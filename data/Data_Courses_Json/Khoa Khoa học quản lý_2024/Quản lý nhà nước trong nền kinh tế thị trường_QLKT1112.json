@@ -1,0 +1,79 @@
+{
+  "course_id": "QLKT1112",
+  "title": "Quản lý nhà nước trong nền kinh tế thị trường",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of the state in a market economy and its management functions."
+    },
+    {
+      "skill_name": "Public Administration",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the principles and laws of public administration in economic management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze policies and strategies for economic development."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership skills in organizing and controlling groups/organizations."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effective communication, presentation, negotiation, and conflict resolution skills."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Effective teamwork and group management skills."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Effective time management skills."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critical thinking and problem-solving skills."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent work and responsibility."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical responsibility and social awareness."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and adaptability skills."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Public Administration",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

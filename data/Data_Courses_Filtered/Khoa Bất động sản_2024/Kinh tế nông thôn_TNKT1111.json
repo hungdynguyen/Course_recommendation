@@ -1,0 +1,53 @@
+{
+  "course_id": "TNKT1111",
+  "title": "Economics for Rural Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Basic Concepts in Rural Economy",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to recognize and understand basic concepts in rural economy."
+    },
+    {
+      "skill_name": "Explaining Rural Economic Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to explain key concepts and characteristics of rural areas and rural development."
+    },
+    {
+      "skill_name": "Analyzing Economic Structure and Structural Change in Rural Economy",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to apply knowledge to explain economic structure and structural changes in rural economy."
+    },
+    {
+      "skill_name": "Analyzing and Evaluating Rural Economic Development",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze and evaluate the development of rural economic sectors such as agriculture, industry, and services."
+    },
+    {
+      "skill_name": "Analyzing Infrastructure and Environmental Management in Rural Development",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to analyze infrastructure and environmental management issues in rural development."
+    },
+    {
+      "skill_name": "Self-Learning and Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to independently study and accumulate experience to improve their professional expertise."
+    },
+    {
+      "skill_name": "Teamwork and Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Students will demonstrate teamwork and collaboration skills in group presentations and discussions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Macroeconomics 1",
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

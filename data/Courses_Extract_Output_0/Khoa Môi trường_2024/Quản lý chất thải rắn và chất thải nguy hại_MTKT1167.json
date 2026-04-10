@@ -1,0 +1,43 @@
+{
+  "course_id": "Waste Management",
+  "title": "Quản lý chất thải rắn và chất thải nguy hại",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Waste Management Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and principles of solid waste management."
+    },
+    {
+      "skill_name": "Functional Segments Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze functional segments within solid waste management systems."
+    },
+    {
+      "skill_name": "Economic Tools",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic tools and solutions to solid waste management."
+    },
+    {
+      "skill_name": "Community-Based Management",
+      "category": "Hard Skill",
+      "outcome_description": "Implement community-based approaches to solid waste management."
+    },
+    {
+      "skill_name": "Hazardous Waste Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Manage hazardous waste effectively and safely."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Environmental Science",
+      "Public Health"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

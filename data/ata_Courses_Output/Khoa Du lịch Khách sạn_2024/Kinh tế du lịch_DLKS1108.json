@@ -1,0 +1,42 @@
+{
+  "course_id": "DLKS1108",
+  "title": "Tourism Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tourism Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts of tourism such as travel, tourists, tourism products, and travel needs."
+    },
+    {
+      "skill_name": "Tourism History and Trends",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the formation process and development trends of tourism."
+    },
+    {
+      "skill_name": "Tourism Business Areas",
+      "category": "Hard Skill",
+      "outcome_description": "Understand various business areas within tourism and conditions for developing tourism activities."
+    },
+    {
+      "skill_name": "Tourism Economic Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic indicators to assess the effectiveness of tourism."
+    },
+    {
+      "skill_name": "Professional Attitude",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate a serious, honest, and dedicated attitude towards work and the tourism industry."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

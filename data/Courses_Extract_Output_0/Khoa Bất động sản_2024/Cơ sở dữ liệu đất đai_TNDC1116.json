@@ -1,0 +1,43 @@
+{
+  "course_id": "TNDC1116",
+  "title": "Land Database",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Database Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of land database."
+    },
+    {
+      "skill_name": "GIS Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and design land databases using GIS systems."
+    },
+    {
+      "skill_name": "Legal Framework",
+      "category": "Soft Skill",
+      "outcome_description": "Apply legal frameworks to land database management."
+    },
+    {
+      "skill_name": "Land Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage, utilize, and operate land databases effectively."
+    },
+    {
+      "skill_name": "MapInfo Software",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize MapInfo software for land database construction."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Land Administration",
+      "Land Surveying"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

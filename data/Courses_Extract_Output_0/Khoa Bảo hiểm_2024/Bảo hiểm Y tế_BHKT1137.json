@@ -1,0 +1,48 @@
+{
+  "course_id": "BHKT1137",
+  "title": "Health Insurance",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Healthcare Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the importance and role of healthcare services, financing mechanisms, and service delivery systems."
+    },
+    {
+      "skill_name": "Insurance Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp the role and classification of health insurance, relationships between insurers and service providers, and payment methods."
+    },
+    {
+      "skill_name": "Social Health Insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the concept, characteristics, eligibility criteria, benefit packages, funding sources, and implementation of social health insurance."
+    },
+    {
+      "skill_name": "Commercial Health Insurance",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, characteristics, eligibility criteria, benefits, factors influencing premiums, funding sources, and management of commercial health insurance."
+    },
+    {
+      "skill_name": "Global Healthcare Financing Models",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze global healthcare financing models such as Beveridge and Bismarck systems, payment methods, and insurance programs in various countries."
+    },
+    {
+      "skill_name": "Vietnamese Health Insurance Policies",
+      "category": "Hard Skill",
+      "outcome_description": "Examine Vietnamese policies on social health insurance implementation and commercial health insurance management."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Social Insurance 2",
+      "Social Insurance Management 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

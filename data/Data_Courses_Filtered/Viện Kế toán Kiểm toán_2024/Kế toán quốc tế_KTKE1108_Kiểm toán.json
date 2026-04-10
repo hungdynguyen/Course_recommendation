@@ -1,0 +1,105 @@
+{
+  "course_id": "KTKE1108",
+  "title": "International Accounting",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the nature and role of international accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the formation and development of the international accounting system."
+    },
+    {
+      "skill_name": "Understanding the diversity of the international accounting system",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the factors influencing the diversity of international accounting."
+    },
+    {
+      "skill_name": "Understanding the harmonization and convergence trends in international accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the trends towards harmonization and convergence in international accounting."
+    },
+    {
+      "skill_name": "Understanding the differences between principle-based and rule-based accounting standards",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the differences between IAS/IFRS and US GAAP."
+    },
+    {
+      "skill_name": "Understanding the differences in financial reporting among multinational companies",
+      "category": "Hard Skill",
+      "outcome_description": "Apply methods for converting international financial reports and preparing consolidated financial statements."
+    },
+    {
+      "skill_name": "Analyzing international financial reports",
+      "category": "Hard Skill",
+      "outcome_description": "Apply methods for analyzing international financial reports in multinational companies."
+    },
+    {
+      "skill_name": "Determining management accounting methods for specific contents in multinational companies",
+      "category": "Hard Skill",
+      "outcome_description": "Identify management accounting methods for specific contents in multinational companies."
+    },
+    {
+      "skill_name": "Determining differences in international auditing and international auditing standards",
+      "category": "Hard Skill",
+      "outcome_description": "Identify differences in international auditing and international auditing standards."
+    },
+    {
+      "skill_name": "Determining tax calculation methods for multinational companies according to various taxes",
+      "category": "Hard Skill",
+      "outcome_description": "Identify tax calculation methods for multinational companies according to various taxes."
+    },
+    {
+      "skill_name": "Determining accounting methods for import/export operations and foreign exchange risk",
+      "category": "Hard Skill",
+      "outcome_description": "Identify accounting methods for import/export operations and foreign exchange risk."
+    },
+    {
+      "skill_name": "Adjusting financial statement items under inflation conditions",
+      "category": "Hard Skill",
+      "outcome_description": "Identify methods for adjusting financial statement items under inflation conditions."
+    },
+    {
+      "skill_name": "Understanding sustainable development reporting in multinational companies",
+      "category": "Hard Skill",
+      "outcome_description": "Understand sustainable development reporting in multinational companies."
+    },
+    {
+      "skill_name": "Using communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Use communication skills, write reports, and present specialized work."
+    },
+    {
+      "skill_name": "Working independently and effectively in teams",
+      "category": "Soft Skill",
+      "outcome_description": "Apply skills for working independently and effectively in teams in an integrated working environment."
+    },
+    {
+      "skill_name": "Demonstrating independence when working alone",
+      "category": "Soft Skill",
+      "outcome_description": "Show responsibility for oneself and for the team."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic accounting principles",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Financial statement analysis",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Taxation principles",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

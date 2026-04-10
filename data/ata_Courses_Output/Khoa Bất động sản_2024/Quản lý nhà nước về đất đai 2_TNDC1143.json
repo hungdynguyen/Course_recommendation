@@ -1,0 +1,73 @@
+{
+  "course_id": "TNDC1143",
+  "title": "Land Administration 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and distinguishing land transfer mechanisms",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and differentiate various land transfer mechanisms such as land allocation, land leasing, and land recovery."
+    },
+    {
+      "skill_name": "Understanding financial revenues from land",
+      "category": "Hard Skill",
+      "outcome_description": "Understand different types of financial revenues from land and land prices."
+    },
+    {
+      "skill_name": "Understanding principles and methods of managing land transactions",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles, contents, and methods of managing land transactions on the market."
+    },
+    {
+      "skill_name": "Understanding and distinguishing land disputes",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and differentiate various types of land disputes and their resolution processes."
+    },
+    {
+      "skill_name": "Linking issues of land management and use",
+      "category": "Soft Skill",
+      "outcome_description": "Link theoretical knowledge with practical issues in land management and use."
+    },
+    {
+      "skill_name": "Determining appropriate land policies",
+      "category": "Soft Skill",
+      "outcome_description": "Identify suitable land policies to explain specific land management situations."
+    },
+    {
+      "skill_name": "Analyzing real-life situations",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze real-life situations and apply appropriate management methods."
+    },
+    {
+      "skill_name": "Synthesizing research materials",
+      "category": "Soft Skill",
+      "outcome_description": "Synthesize various research materials related to land management."
+    },
+    {
+      "skill_name": "Active learning and research",
+      "category": "Soft Skill",
+      "outcome_description": "Actively engage in learning, research, and group work."
+    },
+    {
+      "skill_name": "Choosing appropriate research methods",
+      "category": "Soft Skill",
+      "outcome_description": "Choose appropriate research methods and materials to analyze real-life land management situations."
+    },
+    {
+      "skill_name": "Presenting research topics",
+      "category": "Soft Skill",
+      "outcome_description": "Actively present research topics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Management Studies 1",
+      "Research Methods in Economics and Society"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

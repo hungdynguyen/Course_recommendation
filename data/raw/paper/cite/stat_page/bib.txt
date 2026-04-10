@@ -1,0 +1,34 @@
+@techreport{unesco2023gem,
+  author    = {{UNESCO}},
+  title     = {Global Education Monitoring Report 2023: Technology in Education -- A Tool on Whose Terms?},
+  year      = {2023},
+  institution = {UNESCO},
+  address   = {Paris},
+  note      = {Accessed: 2026-03-22},
+  url       = {https://unesdoc.unesco.org/ark:/48223/pf0000385723}
+}
+
+@misc{coursera2023financial,
+  author       = {{Coursera, Inc.}},
+  title        = {Coursera Reports Fourth Quarter and Full Year 2023 Financial Results},
+  year         = {2024},
+  howpublished = {\url{https://investor.coursera.com/news/news-details/2024/Coursera-Reports-Fourth-Quarter-and-Full-Year-2023-Financial-Results/default.aspx}},
+  note         = {Accessed: 2026-03-22}
+}
+@techreport{wef2023,
+  author      = {{World Economic Forum}},
+  title       = {The Future of Jobs Report 2023},
+  institution = {World Economic Forum},
+  year        = {2023},
+  address     = {Geneva, Switzerland},
+  url         = {https://www.weforum.org/reports/the-future-of-jobs-report-2023/}
+}
+
+@techreport{linkedin2025,
+  author      = {{LinkedIn Learning}},
+  title       = {2025 Workplace Learning Report: The Next Era of Learning and Development},
+  institution = {LinkedIn Corporation},
+  year        = {2025},
+  url         = {https://learning.linkedin.com/resources/workplace-learning-report},
+  note        = {Accessed: 2026}
+}

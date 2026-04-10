@@ -1,0 +1,87 @@
+{
+  "course_id": "NLKT1118",
+  "title": "Occupational Health and Safety Management",
+  "difficulty_level": "Beginner",
+  "duration": "3 Credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Occupational Health and Safety Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply concepts, theories, and tools in occupational health and safety management to mitigate workplace accidents and occupational diseases."
+    },
+    {
+      "skill_name": "Risk Assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate risks in occupational health and safety management using qualitative and quantitative methods."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct qualitative and quantitative research to assess factors influencing occupational health and safety management."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate policies and practices related to occupational health and safety management in organizations."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively about occupational health and safety issues to stakeholders."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams to analyze and solve occupational health and safety issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving techniques to address workplace accidents and occupational diseases."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Critically analyze and evaluate occupational health and safety issues and propose solutions."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate leadership in occupational health and safety management initiatives."
+    },
+    {
+      "skill_name": "Workplace Violence Prevention",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and implement strategies to prevent workplace violence and bullying."
+    },
+    {
+      "skill_name": "Health and Safety Regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend and apply relevant health and safety regulations in the workplace."
+    },
+    {
+      "skill_name": "Occupational Disease Prevention",
+      "category": "Soft Skill",
+      "outcome_description": "Implement measures to prevent occupational diseases and hazards."
+    },
+    {
+      "skill_name": "Workplace Culture",
+      "category": "Soft Skill",
+      "outcome_description": "Promote a positive workplace culture focused on health and safety."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

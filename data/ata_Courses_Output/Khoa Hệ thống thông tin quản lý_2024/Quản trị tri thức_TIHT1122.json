@@ -1,0 +1,55 @@
+{
+  "course_id": "TIHT1122",
+  "title": "Knowledge Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Basic and advanced concepts of knowledge management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and describe basic concepts and general knowledge about knowledge management in organizations and businesses."
+    },
+    {
+      "skill_name": "Main stages of knowledge management process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and identify the main stages of the knowledge management process such as recognition, creation, acquisition, maintenance, sharing, and effective application of organizational knowledge."
+    },
+    {
+      "skill_name": "Role of knowledge management in organizational activities",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the important role of knowledge management in the activities of organizations and businesses."
+    },
+    {
+      "skill_name": "Development process of knowledge management system",
+      "category": "Hard Skill",
+      "outcome_description": "Apply the development process of a knowledge management system to support operational, managerial, and administrative activities in organizations and businesses."
+    },
+    {
+      "skill_name": "Analysis, design, operation, and management of knowledge management systems",
+      "category": "Hard Skill",
+      "outcome_description": "Possess skills in analyzing, designing, operating, and managing knowledge management systems in organizations and businesses."
+    },
+    {
+      "skill_name": "Self-learning skills for knowledge management",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to independently seek information and read materials related to knowledge management."
+    },
+    {
+      "skill_name": "Independent work capability",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to work independently or actively participate in group activities."
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of management information systems."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

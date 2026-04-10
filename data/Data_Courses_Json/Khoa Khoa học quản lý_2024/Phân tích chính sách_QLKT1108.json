@@ -1,0 +1,59 @@
+{
+  "course_id": "QLKT1108",
+  "title": "Phân tích chính sách",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the role of the state in economic and social management, grasp the tools of state management, understand the concept of policy and policy analysis, understand the stages of policy formulation, organization, implementation, monitoring, and evaluation, use tools for policy analysis, develop systematic thinking, problem-solving skills, group management, conflict resolution, and time management, research and decision-making skills for policy issues, apply models, methods, and tools for policy analysis in policy formulation, implementation, and evaluation, work independently, plan activities, express and defend personal views based on objective and scientific approaches, have social responsibility and professional ethics awareness."
+    },
+    {
+      "skill_name": "Economic Management",
+      "category": "Soft Skill",
+      "outcome_description": "Grasp basic knowledge of economic management, national economic management, and economic policy analysis, understand the economic and social policy context, analyze stakeholders, cost-benefit analysis, and research methods for policy analysis."
+    },
+    {
+      "skill_name": "Research Methods",
+      "category": "Soft Skill",
+      "outcome_description": "Apply quantitative research methods in policy analysis."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop communication skills, presentation skills, conflict resolution, and resource management."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop group work skills, manage groups, and manage time and resources."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills, analyze data scientifically and accurately, and express opinions and defend personal views."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand professional ethics and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

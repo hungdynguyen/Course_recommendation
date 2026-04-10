@@ -1,0 +1,61 @@
+{
+  "course_id": "DTKT1120",
+  "title": "International Investment",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding international investment concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize key concepts and characteristics of international investment."
+    },
+    {
+      "skill_name": "Analyzing the role of international investment in national economies",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact of international investment on participating countries."
+    },
+    {
+      "skill_name": "Identifying and distinguishing various forms of international investment",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between different forms of international investment and their impacts."
+    },
+    {
+      "skill_name": "Analyzing components of international investment environment",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the components of the international investment environment."
+    },
+    {
+      "skill_name": "Evaluating the impact of international investment environment",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the influence of the international investment environment on investment activities."
+    },
+    {
+      "skill_name": "Understanding the mechanisms and roles of multinational companies in international investment",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the mechanisms and roles of multinational companies in international investment."
+    },
+    {
+      "skill_name": "Analyzing transfer pricing phenomena",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the nature and consequences of transfer pricing in international investment."
+    },
+    {
+      "skill_name": "Developing independent study skills",
+      "category": "Soft Skill",
+      "outcome_description": "Formulate skills for independent study and group work."
+    },
+    {
+      "skill_name": "Adapting to globalization and Industry 4.0",
+      "category": "Soft Skill",
+      "outcome_description": "Adapt to the context of globalization and Industry 4.0."
+    },
+    {
+      "skill_name": "Understanding laws and regulations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal frameworks and adhere to institutional rules."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

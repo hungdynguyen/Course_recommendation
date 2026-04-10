@@ -1,0 +1,43 @@
+{
+  "course_id": "LUKD1187",
+  "title": "Banking Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Framework Understanding",
+      "category": "Soft Skill",
+      "outcome_description": "Understand general theories about banking and banking laws"
+    },
+    {
+      "skill_name": "Legal Position Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the legal position of the State Bank of Vietnam"
+    },
+    {
+      "skill_name": "Financial Institutions Legal Status",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the legal status of financial institutions"
+    },
+    {
+      "skill_name": "Banking Operations Regulation",
+      "category": "Soft Skill",
+      "outcome_description": "Apply regulations governing banking credit operations and services"
+    },
+    {
+      "skill_name": "Collateral Asset Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage collateral assets and their disposal according to law"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Law",
+      "Civil Law"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

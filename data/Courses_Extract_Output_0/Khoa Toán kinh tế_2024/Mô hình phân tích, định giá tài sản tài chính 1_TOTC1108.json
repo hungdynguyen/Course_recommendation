@@ -1,0 +1,65 @@
+{
+  "course_id": "Financial Asset Analysis and Valuation 1",
+  "title": "Financial Asset Analysis and Valuation 1",
+  "difficulty_level": "Advanced",
+  "duration": "50 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Portfolio Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply portfolio theory principles."
+    },
+    {
+      "skill_name": "CAPM",
+      "category": "Soft Skill",
+      "outcome_description": "Apply Capital Asset Pricing Model concepts."
+    },
+    {
+      "skill_name": "Arbitrage Pricing",
+      "category": "Soft Skill",
+      "outcome_description": "Utilize Arbitrage Pricing Theory in investment analysis."
+    },
+    {
+      "skill_name": "Financial Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and analyze financial models using real-world data."
+    },
+    {
+      "skill_name": "Excel",
+      "category": "Hard Skill",
+      "outcome_description": "Use Excel for financial modeling and analysis."
+    },
+    {
+      "skill_name": "R",
+      "category": "Hard Skill",
+      "outcome_description": "Apply statistical software R for financial analysis."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Mathematical Economics Modeling 1",
+      "Econometrics",
+      "Optimization",
+      "Financial Economics Theory"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economic Principles",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Mathematical Modeling",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

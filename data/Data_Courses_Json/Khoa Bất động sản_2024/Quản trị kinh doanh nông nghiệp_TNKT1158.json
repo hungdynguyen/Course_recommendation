@@ -1,0 +1,50 @@
+{
+  "course_id": "TNKT1158",
+  "title": "Agricultural Business Management",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the key concepts of agricultural business management, including organizational structures, business strategies, and financial management."
+    },
+    {
+      "skill_name": "Strategic Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement strategic plans for agricultural businesses."
+    },
+    {
+      "skill_name": "Production Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage production processes and resource allocation in agricultural businesses."
+    },
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Organize product distribution and marketing strategies for agricultural products."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage financial operations and accounting in agricultural businesses."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning and research skills, as well as the ability to evaluate the quality of work."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and present findings."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

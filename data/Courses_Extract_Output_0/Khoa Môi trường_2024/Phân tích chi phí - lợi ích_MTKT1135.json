@@ -1,0 +1,42 @@
+{
+  "course_id": "MTKT1135",
+  "title": "Cost-Benefit Analysis",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cost-Benefit Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and apply cost-benefit analysis techniques."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on cost-benefit analysis."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate policies and projects using cost-benefit analysis."
+    },
+    {
+      "skill_name": "Social Impact Assessment",
+      "category": "Tool/Software",
+      "outcome_description": "Assess social impact of projects through cost-benefit analysis."
+    },
+    {
+      "skill_name": "Risk Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Conduct risk analysis as part of cost-benefit analysis."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

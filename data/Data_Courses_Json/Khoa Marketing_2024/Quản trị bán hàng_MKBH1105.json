@@ -1,0 +1,72 @@
+{
+  "course_id": "MKBH1105",
+  "title": "Quản trị bán hàng",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Bán hàng",
+      "category": "Tool/Software",
+      "outcome_description": "Hiểu về bản chất, vai trò, đặc điểm của bán hàng cá nhân và nội dung các khâu công việc của quy trình quản trị lực lượng bán của doanh nghiệp"
+    },
+    {
+      "skill_name": "Quản trị bán hàng",
+      "category": "Tool/Software",
+      "outcome_description": "Vận dụng kiến thức căn bản về bán hàng và quản trị lực lượng bán trong việc phân tích đánh giá các hoạt động thực tế về quản trị bán hàng"
+    },
+    {
+      "skill_name": "Quản lý nhân sự",
+      "category": "Tool/Software",
+      "outcome_description": "Phân tích đánh giá hoạt động thực tế về phát triển, lãnh đạo lực lượng bán; hoạt động quản lý khu vực bán, xây dựng định mức bán và tạo động lực làm việc cho đội ngũ bán hàng của một doanh nghiệp"
+    },
+    {
+      "skill_name": "Quản trị chiến lược",
+      "category": "Tool/Software",
+      "outcome_description": "Đề xuất những vấn đề có tính chiến lược, kế hoạch; những giải pháp cụ thể về quản trị lực lượng bán và những biện pháp tổ chức thực hiện để đưa chiến lược, kế hoạch và giải pháp vào thực tế cuộc sống của doanh nghiệp"
+    },
+    {
+      "skill_name": "Quản trị dự án",
+      "category": "Tool/Software",
+      "outcome_description": "Vận dụng các kiến thức, kỹ năng quản trị lực lượng bán để có được khả năng làm việc độc lập ở vị trí quản trị lực lượng bán của doanh nghiệp"
+    },
+    {
+      "skill_name": "Phân tích dữ liệu",
+      "category": "Tool/Software",
+      "outcome_description": "Phân tích đánh giá hoạt động thực tế về phát triển, lãnh đạo lực lượng bán; hoạt động quản lý khu vực bán, xây dựng định mức bán và tạo động lực làm việc cho đội ngũ bán hàng của một doanh nghiệp"
+    },
+    {
+      "skill_name": "Lãnh đạo",
+      "category": "Tool/Software",
+      "outcome_description": "Lãnh đạo lực lượng bán; sự ảnh hưởng và sức mạnh của nhà lãnh đạo bán hàng, các phong cách lãnh đạo lực lượng bán và nội dung, cách thức quản lý khu vực bán hàng, xây dựng định mức bán"
+    },
+    {
+      "skill_name": "Đánh giá hiệu suất",
+      "category": "Tool/Software",
+      "outcome_description": "Đánh giá hoạt động bán hàng của doanh nghiệp và đánh giá kết quả hoạt động của người bán"
+    },
+    {
+      "skill_name": "Kỹ năng thuyết trình",
+      "category": "Tool/Software",
+      "outcome_description": "Thuyết trình và thảo luận về các hoạt động quản trị bán hàng"
+    },
+    {
+      "skill_name": "Kỹ năng làm việc nhóm",
+      "category": "Tool/Software",
+      "outcome_description": "Thảo luận và làm việc nhóm trong việc phân tích và đề xuất giải pháp quản trị bán hàng"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế vi mô 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Kinh tế vi mô",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

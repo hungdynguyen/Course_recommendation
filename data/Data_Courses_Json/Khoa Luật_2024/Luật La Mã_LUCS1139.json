@@ -1,0 +1,361 @@
+{
+  "course_id": "LUCS1139",
+  "title": "Roman Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Studies",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the historical development of Roman law and its influence on modern legal systems."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct legal research using online databases and library resources."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal concepts and apply them to real-world scenarios."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and concise legal documents and arguments."
+    },
+    {
+      "skill_name": "Legal Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in legal contexts, both written and oral."
+    },
+    {
+      "skill_name": "Legal Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply legal ethics in professional practice."
+    },
+    {
+      "skill_name": "Property Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of property law."
+    },
+    {
+      "skill_name": "Contract Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of contract law."
+    },
+    {
+      "skill_name": "Family Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of family law."
+    },
+    {
+      "skill_name": "Inheritance Law",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply principles of inheritance law."
+    },
+    {
+      "skill_name": "Legal Translation",
+      "category": "Hard Skill",
+      "outcome_description": "Translate legal documents and texts from Latin and other languages."
+    },
+    {
+      "skill_name": "Legal Argumentation",
+      "category": "Soft Skill",
+      "outcome_description": "Construct and defend legal arguments effectively."
+    },
+    {
+      "skill_name": "Legal Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve legal problems using critical thinking and analytical skills."
+    },
+    {
+      "skill_name": "Legal Documentation",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and manage legal documentation and records."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with legal regulations and standards."
+    },
+    {
+      "skill_name": "Legal Negotiation",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate legal agreements and settlements."
+    },
+    {
+      "skill_name": "Legal Advocacy",
+      "category": "Soft Skill",
+      "outcome_description": "Advocate for legal rights and interests."
+    },
+    {
+      "skill_name": "Legal Consultation",
+      "category": "Soft Skill",
+      "outcome_description": "Provide legal advice and consultation."
+    },
+    {
+      "skill_name": "Legal Drafting",
+      "category": "Soft Skill",
+      "outcome_description": "Draft legal documents and contracts."
+    },
+    {
+      "skill_name": "Legal Review",
+      "category": "Soft Skill",
+      "outcome_description": "Review and critique legal documents and arguments."
+    },
+    {
+      "skill_name": "Legal Documentation Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage legal documentation and records effectively."
+    },
+    {
+      "skill_name": "Legal Ethics Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with legal ethics codes."
+    },
+    {
+      "skill_name": "Legal Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate legal information effectively to clients and stakeholders."
+    },
+    {
+      "skill_name": "Legal Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct thorough legal research using various resources."
+    },
+    {
+      "skill_name": "Legal Analysis Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal issues and apply relevant laws and regulations."
+    },
+    {
+      "skill_name": "Legal Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and persuasive legal documents."
+    },
+    {
+      "skill_name": "Legal Argumentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Construct and defend legal arguments effectively."
+    },
+    {
+      "skill_name": "Legal Problem Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Solve legal problems using critical thinking and analytical skills."
+    },
+    {
+      "skill_name": "Legal Documentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and manage legal documentation and records."
+    },
+    {
+      "skill_name": "Legal Compliance Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with legal regulations and standards."
+    },
+    {
+      "skill_name": "Legal Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate legal agreements and settlements."
+    },
+    {
+      "skill_name": "Legal Advocacy Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Advocate for legal rights and interests."
+    },
+    {
+      "skill_name": "Legal Consultation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Provide legal advice and consultation."
+    },
+    {
+      "skill_name": "Legal Drafting Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Draft legal documents and contracts."
+    },
+    {
+      "skill_name": "Legal Review Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Review and critique legal documents and arguments."
+    },
+    {
+      "skill_name": "Legal Documentation Management Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Manage legal documentation and records effectively."
+    },
+    {
+      "skill_name": "Legal Ethics Compliance Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ensure compliance with legal ethics codes."
+    },
+    {
+      "skill_name": "Legal Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate legal information effectively to clients and stakeholders."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 1",
+      "Theory of State and Law 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Legal Studies",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Research",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Analysis",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Writing",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Communication",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Ethics",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Property Law",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Contract Law",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Family Law",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Inheritance Law",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Translation",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Argumentation",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Problem Solving",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Documentation",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Compliance",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Negotiation",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Advocacy",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Consultation",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Drafting",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Review",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Documentation Management",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Ethics Compliance",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Communication Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Research Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Analysis Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Writing Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Argumentation Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Problem Solving Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Documentation Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Compliance Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Negotiation Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Advocacy Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Consultation Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Drafting Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Review Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Documentation Management Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Ethics Compliance Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Legal Communication Skills",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

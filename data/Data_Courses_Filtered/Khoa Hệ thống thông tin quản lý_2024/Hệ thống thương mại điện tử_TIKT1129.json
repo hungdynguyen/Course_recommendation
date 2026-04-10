@@ -1,0 +1,66 @@
+{
+  "course_id": "TIKT1129",
+  "title": "Electronic Commerce Systems",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding e-commerce terminology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply e-commerce related terms in practical scenarios."
+    },
+    {
+      "skill_name": "Explaining e-commerce transaction methods",
+      "category": "Hard Skill",
+      "outcome_description": "Explain and describe various e-commerce transaction methods and types."
+    },
+    {
+      "skill_name": "Using IT tools for e-commerce security",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize IT tools to ensure security and safety in e-commerce activities."
+    },
+    {
+      "skill_name": "Implementing e-commerce systems for businesses",
+      "category": "Hard Skill",
+      "outcome_description": "Deploy and operate e-commerce systems for businesses."
+    },
+    {
+      "skill_name": "Mastering web application technologies",
+      "category": "Hard Skill",
+      "outcome_description": "Command web application development, operation, and management technologies."
+    },
+    {
+      "skill_name": "Systematic thinking and modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Develop systematic thinking and modeling skills."
+    },
+    {
+      "skill_name": "Self-study and information update",
+      "category": "Soft Skill",
+      "outcome_description": "Possess self-study abilities and keep updated with relevant e-commerce knowledge."
+    },
+    {
+      "skill_name": "Independent work",
+      "category": "Soft Skill",
+      "outcome_description": "Capable of working independently or actively participating in group activities."
+    },
+    {
+      "skill_name": "Group activity organization",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to organize group activities."
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate social responsibility and professional ethics in the field of management information systems."
+    },
+    {
+      "skill_name": "WordPress",
+      "category": "Tool/Software",
+      "outcome_description": "Use WordPress for developing e-commerce websites."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

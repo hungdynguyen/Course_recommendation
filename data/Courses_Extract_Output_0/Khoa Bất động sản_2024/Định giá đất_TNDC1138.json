@@ -1,0 +1,40 @@
+{
+  "course_id": "TNDC1138",
+  "title": "Land Valuation",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land Valuation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept, characteristics, and role of land valuation in a market economy."
+    },
+    {
+      "skill_name": "Ethical Standards",
+      "category": "Soft Skill",
+      "outcome_description": "Apply ethical standards and principles in land valuation."
+    },
+    {
+      "skill_name": "Scientific Basis",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the scientific basis of land prices and the valuation process."
+    },
+    {
+      "skill_name": "Valuation Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Master various methods of land valuation."
+    },
+    {
+      "skill_name": "Consulting Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Provide consulting services for determining land values in Vietnam."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

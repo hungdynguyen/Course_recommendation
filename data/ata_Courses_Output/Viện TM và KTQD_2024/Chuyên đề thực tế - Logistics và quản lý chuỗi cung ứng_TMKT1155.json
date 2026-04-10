@@ -1,0 +1,50 @@
+{
+  "course_id": "TMKT1155",
+  "title": "Chuyên đề thực tế",
+  "difficulty_level": "Advanced",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize and classify practical issues in logistics and supply chain management"
+    },
+    {
+      "skill_name": "Problem Description",
+      "category": "Hard Skill",
+      "outcome_description": "Describe and sketch observed practical problems and apply specialized knowledge to solve them"
+    },
+    {
+      "skill_name": "Plan and Execute Reports",
+      "category": "Hard Skill",
+      "outcome_description": "Develop plans and actively execute practical reports"
+    },
+    {
+      "skill_name": "Customer Service Management",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and resolve decisions in customer service management activities"
+    },
+    {
+      "skill_name": "Data Analysis Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize and analyze data and information for logistics and supply chain management activities"
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance when working independently and show personal responsibility"
+    },
+    {
+      "skill_name": "Objective Perspective",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal viewpoints based on objective and scientific approaches"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

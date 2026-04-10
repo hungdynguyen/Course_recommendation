@@ -1,0 +1,80 @@
+{
+  "course_id": "NLQT1105",
+  "title": "Human Resources Management in the Hospitality Industry",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Explain the concept, role, importance, and functions of human resource management in relation to other organizational functions in the hospitality industry",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, role, importance, and functions of human resource management in relation to other organizational functions in the hospitality industry"
+    },
+    {
+      "skill_name": "Describe the impact of internal and external environmental factors on human resource management activities in the hospitality industry",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the impact of internal and external environmental factors on human resource management activities in the hospitality industry"
+    },
+    {
+      "skill_name": "Identify and explain issues related to human resource management activities",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and explain issues related to human resource management activities"
+    },
+    {
+      "skill_name": "Apply knowledge to evaluate human resource management activities in organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge to evaluate human resource management activities in organizations"
+    },
+    {
+      "skill_name": "Propose solutions to address issues related to human resource management activities in organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Propose solutions to address issues related to human resource management activities in organizations"
+    },
+    {
+      "skill_name": "Communicate and present effectively about human resource management activities and related issues",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate and present effectively about human resource management activities and related issues"
+    },
+    {
+      "skill_name": "Actively participate in class activities and demonstrate problem-solving and critical thinking skills in evaluating human resource management activities",
+      "category": "Soft Skill",
+      "outcome_description": "Actively participate in class activities and demonstrate problem-solving and critical thinking skills in evaluating human resource management activities"
+    },
+    {
+      "skill_name": "Design job analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Design job analysis"
+    },
+    {
+      "skill_name": "Develop recruitment and selection processes",
+      "category": "Hard Skill",
+      "outcome_description": "Develop recruitment and selection processes"
+    },
+    {
+      "skill_name": "Create employee motivation programs",
+      "category": "Hard Skill",
+      "outcome_description": "Create employee motivation programs"
+    },
+    {
+      "skill_name": "Design training and development programs for employees",
+      "category": "Hard Skill",
+      "outcome_description": "Design training and development programs for employees"
+    },
+    {
+      "skill_name": "Evaluate job performance",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate job performance"
+    },
+    {
+      "skill_name": "Analyze compensation systems",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze compensation systems"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

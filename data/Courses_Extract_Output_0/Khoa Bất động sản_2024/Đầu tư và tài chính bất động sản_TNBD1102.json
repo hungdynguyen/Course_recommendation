@@ -1,0 +1,37 @@
+{
+  "course_id": "TNBD1102",
+  "title": "Real estate Finance and Investment",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Real Estate Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and characteristics of real estate investment and finance."
+    },
+    {
+      "skill_name": "Investment Decision Making",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and make informed investment decisions in real estate."
+    },
+    {
+      "skill_name": "Capital Formation",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and mobilize capital for real estate investments."
+    },
+    {
+      "skill_name": "Risk Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and forecast risks associated with real estate investment opportunities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Real Estate Market"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

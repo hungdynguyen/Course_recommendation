@@ -1,0 +1,81 @@
+{
+  "course_id": "LUKD1123",
+  "title": "Private International Law",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Private International Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the principles of private international law in civil and commercial relations involving foreign elements."
+    },
+    {
+      "skill_name": "Civil Law",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend and apply civil law principles in international contexts."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent legal research on international law issues."
+    },
+    {
+      "skill_name": "Legal Consultation",
+      "category": "Soft Skill",
+      "outcome_description": "Provide legal advice on international civil and commercial relations."
+    },
+    {
+      "skill_name": "Conflict of Laws",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and resolve conflicts of laws in international settings."
+    },
+    {
+      "skill_name": "International Civil Procedure",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply international civil procedure rules."
+    },
+    {
+      "skill_name": "International Arbitration",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of international arbitration."
+    },
+    {
+      "skill_name": "Property Law",
+      "category": "Soft Skill",
+      "outcome_description": "Apply property law principles in international contexts."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write legal documents and reports on international law topics."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and critically evaluate legal issues in international contexts."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate legal concepts and advice in international settings."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group presentations and discussions on international law topics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Civil Law",
+      "Family Law",
+      "Labor Law",
+      "Intellectual Property Law",
+      "Civil Procedure Law"
+    ],
+    "minimum_entry_skills": []
+  }
+}

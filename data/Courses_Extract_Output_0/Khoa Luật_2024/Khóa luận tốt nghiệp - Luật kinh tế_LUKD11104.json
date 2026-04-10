@@ -1,0 +1,43 @@
+{
+  "course_id": "General Thesis Project",
+  "title": "Thesis Project",
+  "difficulty_level": "Advanced",
+  "duration": "At least 12 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply legal knowledge to analyze and evaluate current issues in law and economic law within organizations and businesses."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose solutions to improve organizational and business issues based on analysis."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct independent research using appropriate methodologies and tools."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write comprehensive reports detailing research findings and proposed solutions."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings and proposals to stakeholders."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Legal Studies",
+      "Economic Law"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "course_id": "MKDG1120",
+  "title": "Pricing Management",
+  "difficulty_level": "Beginner",
+  "duration": "45",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept, role, characteristics, and benefits of pricing management."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze market factors influencing pricing decisions."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct financial analysis for pricing decisions."
+    },
+    {
+      "skill_name": "Customer Behavior",
+      "category": "Soft Skill",
+      "outcome_description": "Understand customer behavior in pricing."
+    },
+    {
+      "skill_name": "Competitive Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze competition in pricing."
+    },
+    {
+      "skill_name": "Legal and Ethical Considerations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal and ethical issues in pricing."
+    },
+    {
+      "skill_name": "Pricing Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop pricing strategies for businesses."
+    },
+    {
+      "skill_name": "Group Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate in groups to develop and present pricing reports."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present and defend pricing research findings."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

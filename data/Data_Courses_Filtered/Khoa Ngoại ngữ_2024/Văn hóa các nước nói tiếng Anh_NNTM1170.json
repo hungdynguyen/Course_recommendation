@@ -1,0 +1,91 @@
+{
+  "course_id": "NNTM1170",
+  "title": "Cultures of English speaking countries",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Geographic Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the geographical, natural, human, historical, political, educational, economic, and social characteristics of English-speaking countries."
+    },
+    {
+      "skill_name": "Historical Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the historical events and their impact on the current state of English-speaking countries."
+    },
+    {
+      "skill_name": "Political Systems Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the political systems, governance structures, and electoral processes of English-speaking countries."
+    },
+    {
+      "skill_name": "Economic Awareness",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the economic conditions, wealth distribution, income, and expenditure patterns in English-speaking countries."
+    },
+    {
+      "skill_name": "Educational Systems Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the education systems, including public and private schools, and the challenges and reforms in education."
+    },
+    {
+      "skill_name": "Social Attitudes Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the social attitudes, identity, and behaviors of people in English-speaking countries."
+    },
+    {
+      "skill_name": "Business Culture Awareness",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the business environment, culture, ethics, and practices in English-speaking countries."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to analyze and solve problems related to cultural, economic, and social issues."
+    },
+    {
+      "skill_name": "Information Retrieval",
+      "category": "Soft Skill",
+      "outcome_description": "Learn how to find, retrieve, and synthesize information about cultures, societies, and economies of English-speaking countries."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and individually to present and defend viewpoints on cultural topics."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently and manage personal study schedules."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve skills in presenting information and arguments in a clear, organized, and engaging manner."
+    },
+    {
+      "skill_name": "Video Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze videos related to cultural, economic, and social issues in English-speaking countries."
+    },
+    {
+      "skill_name": "Case Study Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze case studies related to cultural, ethical, and business issues in English-speaking countries."
+    },
+    {
+      "skill_name": "Vocabulary Acquisition",
+      "category": "Hard Skill",
+      "outcome_description": "Expand vocabulary related to cultural, social, economic, and political aspects of English-speaking countries."
+    },
+    {
+      "skill_name": "Cross-cultural Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance cross-cultural communication skills to interact effectively with people from different cultural backgrounds."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

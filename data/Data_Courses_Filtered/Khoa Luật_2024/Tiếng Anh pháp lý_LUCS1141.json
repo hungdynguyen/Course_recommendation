@@ -1,0 +1,50 @@
+{
+  "course_id": "LUCS1141",
+  "title": "English for Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding Characteristics of Common Law System",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the distinctive features of the common law system compared to the Vietnamese legal system."
+    },
+    {
+      "skill_name": "Comparative Analysis of Legal Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze differences between the two legal systems in areas such as criminal law, civil law, business forms, contracts, and legal professions."
+    },
+    {
+      "skill_name": "Using Legal English in Professional Contexts",
+      "category": "Hard Skill",
+      "outcome_description": "Apply legal English skills in professional settings."
+    },
+    {
+      "skill_name": "Analyzing and Evaluating Legal Fields",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate legal fields within the common law system and the Vietnamese legal system."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently research, study, accumulate, and enhance professional knowledge."
+    },
+    {
+      "skill_name": "Active Presentation of Research Results",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the initiative to present research results actively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of State and Law 1",
+      "Theory of State and Law 2",
+      "Civil Law 1",
+      "Criminal Law 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

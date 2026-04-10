@@ -1,0 +1,45 @@
+{
+  "course_id": "MTKT1102",
+  "title": "Economic Geography",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Basic Concepts and Theories in Economic Geography",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts, major factors, and important theoretical approaches in economic geography."
+    },
+    {
+      "skill_name": "Spatial Organization of Economic Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Understand spatial organization of economic activities in different territorial levels and contemporary economy."
+    },
+    {
+      "skill_name": "Understanding Economic Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how economic activities operate and distribute according to spatial laws."
+    },
+    {
+      "skill_name": "Geographic Dynamics Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze geographic dynamics and their impact on the distribution and organization of economic activities."
+    },
+    {
+      "skill_name": "Application of Geographic Approaches",
+      "category": "Hard Skill",
+      "outcome_description": "Apply geographic approaches to explain the distribution of economic activities and manage territorial space effectively."
+    },
+    {
+      "skill_name": "Self-Learning and Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning, independent work, teamwork, and responsibility skills."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

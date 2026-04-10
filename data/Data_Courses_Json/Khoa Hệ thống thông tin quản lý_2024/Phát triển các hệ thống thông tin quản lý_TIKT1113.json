@@ -1,0 +1,107 @@
+{
+  "course_id": "TIKT1113",
+  "title": "Management Information Systems Development",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Systems Analysis and Design",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply the principles of information systems analysis and design, including logical and physical design, database design, algorithm design, and user interface design."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and oversee the development, operation, and maintenance of information systems projects."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems in information systems management, including feasibility analysis and project planning."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze real-world business problems and recommend appropriate information systems solutions."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively in group settings, demonstrating leadership and responsibility."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate information systems concepts and solutions to stakeholders."
+    },
+    {
+      "skill_name": "Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to professional ethics in the field of information systems management."
+    },
+    {
+      "skill_name": "System Development Life Cycle",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply the phases of the system development life cycle, including requirements gathering, analysis, design, implementation, and maintenance."
+    },
+    {
+      "skill_name": "Database Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and design databases for information systems."
+    },
+    {
+      "skill_name": "Software Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop software solutions for information systems using tools like MS Project, Draw.io, and Figma."
+    },
+    {
+      "skill_name": "Information Technology Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage information technology projects and systems, including planning, monitoring, and evaluating."
+    },
+    {
+      "skill_name": "Business Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze business processes and recommend information systems solutions."
+    },
+    {
+      "skill_name": "Leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Lead and manage teams in information systems projects."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions regarding the selection and implementation of information systems."
+    },
+    {
+      "skill_name": "Technical Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write technical reports and documentation for information systems projects."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to meet project deadlines and deliverables."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present information systems solutions and project outcomes effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Computing"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computing Skills",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

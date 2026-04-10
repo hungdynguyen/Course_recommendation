@@ -1,0 +1,72 @@
+{
+  "course_id": "LUKD1193",
+  "title": "Legal Consulting Skills",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Consulting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the concept and characteristics of legal consulting, distinguish legal consulting from other legal services, and analyze the fundamental principles of legal consulting."
+    },
+    {
+      "skill_name": "Client Interaction",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in interacting with clients and receiving legal consultation requests."
+    },
+    {
+      "skill_name": "Legal Research",
+      "category": "Soft Skill",
+      "outcome_description": "Master the skills of researching legal documents, analyzing legal issues, and applying laws."
+    },
+    {
+      "skill_name": "Legal Presentation",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to present legal opinions effectively."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze legal issues and provide appropriate legal advice."
+    },
+    {
+      "skill_name": "Legal Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in drafting legal documents and opinions."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance teamwork and collaboration skills."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication and negotiation skills."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to manage time effectively."
+    },
+    {
+      "skill_name": "Ethical Practice",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to ethical standards in legal practice."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Law"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Commercial Law",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

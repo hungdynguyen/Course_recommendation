@@ -1,0 +1,67 @@
+{
+  "course_id": "TNDC1152",
+  "title": "Internship Programme",
+  "difficulty_level": "Advanced",
+  "duration": "13 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Land Management Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze land management policies at real-world sites."
+    },
+    {
+      "skill_name": "Real-world Land Management Issues Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify practical issues related to land management at real-world sites."
+    },
+    {
+      "skill_name": "Individual Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve individual problems related to land management using appropriate policies."
+    },
+    {
+      "skill_name": "Teamwork and Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively with peers on land management issues."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in self-directed learning to enhance understanding of land management concepts."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve land management problems."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports on land management issues."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and solutions effectively in a professional manner."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Land Economics",
+      "Land Management"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Land Management Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Understanding of Land Use Policies",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

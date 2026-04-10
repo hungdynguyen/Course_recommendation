@@ -1,0 +1,76 @@
+{
+  "course_id": "TOCB1111",
+  "title": "Calculus 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Single Variable Limits",
+      "category": "Hard Skill",
+      "outcome_description": "Define and explain basic concepts about single variable functions, limits, continuity, derivatives, and extrema."
+    },
+    {
+      "skill_name": "Indefinite Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Explain and interpret basic concepts about indefinite integration, definite integration, integration methods, and improper integrals."
+    },
+    {
+      "skill_name": "Two-variable Functions",
+      "category": "Hard Skill",
+      "outcome_description": "Describe and explain basic concepts about two-variable functions, partial derivatives, and extrema."
+    },
+    {
+      "skill_name": "Economic Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "List and describe basic economic concepts such as supply function, demand function, cost function, revenue function, profit function, marginal analysis, price elasticity of demand, consumer surplus, and producer surplus."
+    },
+    {
+      "skill_name": "Basic Calculus Problem Solving",
+      "category": "Hard Skill",
+      "outcome_description": "Solve basic calculus problems involving finding limits, derivatives (of explicit and implicit functions), approximating changes using derivatives, calculating related rates, determining intervals of increase/decrease and extrema of single variable functions, determining concavity and inflection points of single variable functions, and writing Taylor expansions of functions up to a given power."
+    },
+    {
+      "skill_name": "Integration Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Use integration techniques to solve basic integral forms, approximate integrals, and examine the convergence of improper integrals."
+    },
+    {
+      "skill_name": "Partial Derivatives",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate partial derivatives of two-variable and three-variable functions using definitions and rules, solve unconstrained and constrained extremum problems for multi-variable functions (focusing on two-variable and three-variable functions)."
+    },
+    {
+      "skill_name": "Calculus Application in Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge of limits, derivatives, and extrema of single variable functions to establish models and solve applied problems in economics and business such as maximizing profits, maximizing revenues, minimizing costs, etc."
+    },
+    {
+      "skill_name": "Integration Application in Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Apply integration knowledge to calculate net change, present value, future value of income streams, producer surplus, and consumer surplus."
+    },
+    {
+      "skill_name": "Multi-variable Calculus Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply basic multi-variable calculus knowledge to solve problems such as maximizing profits, maximizing revenues, minimizing costs, optimal resource allocation, etc."
+    },
+    {
+      "skill_name": "Mathematical Methods Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical methods to solve practical problems in economics, business, science, and technology."
+    },
+    {
+      "skill_name": "Self-learning Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently, work independently, and work in groups."
+    },
+    {
+      "skill_name": "Personal Responsibility Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop personal responsibility and partial responsibility for the group."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

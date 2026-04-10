@@ -1,0 +1,31 @@
+{
+  "course_id": "Critical Thinking",
+  "title": "Tư duy phản biện",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to think critically and evaluate arguments."
+    },
+    {
+      "skill_name": "Argument analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and critique arguments effectively."
+    },
+    {
+      "skill_name": "Reasoning",
+      "category": "Soft Skill",
+      "outcome_description": "Improve logical reasoning skills."
+    },
+    {
+      "skill_name": "Persuasive writing",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance ability to write persuasive essays."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

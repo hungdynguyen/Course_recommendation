@@ -1,0 +1,31 @@
+{
+  "course_id": "NNTM1177",
+  "title": "English – Listening and Speaking skills 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Develop advanced listening comprehension skills at the B2 level."
+    },
+    {
+      "skill_name": "Speaking Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance speaking proficiency with a focus on discussion skills and vocabulary usage."
+    },
+    {
+      "skill_name": "Vocabulary Expansion",
+      "category": "Soft Skill",
+      "outcome_description": "Expand vocabulary and apply it in various communication scenarios."
+    },
+    {
+      "skill_name": "Discussion Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve ability to engage in effective discussions using appropriate language structures."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

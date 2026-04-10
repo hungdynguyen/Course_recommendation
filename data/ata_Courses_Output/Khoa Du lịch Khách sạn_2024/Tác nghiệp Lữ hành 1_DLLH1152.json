@@ -1,0 +1,68 @@
+{
+  "course_id": "DLLH1152",
+  "title": "Operation of Travel Services 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tour Program Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the structure of travel programs, organizational structures, roles, and requirements of design, operation, and tour guiding departments in travel agencies."
+    },
+    {
+      "skill_name": "Tour Design Process",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the process and steps involved in designing tours, operating travel programs, and tour guiding."
+    },
+    {
+      "skill_name": "Relationship Between Travel Companies and Suppliers/Clients",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the relationship between travel companies and suppliers/clients in various types of distribution chains."
+    },
+    {
+      "skill_name": "Information Preparation for Tours",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the role, requirements, and basic content in preparing information, building content, and methods of tour explanation."
+    },
+    {
+      "skill_name": "Analyzing Tour Indicators",
+      "category": "Hard Skill",
+      "outcome_description": "Apply skills to analyze tourist indicators, customer needs, and pricing of products."
+    },
+    {
+      "skill_name": "Analyzing Service Providers and Tourist Sites",
+      "category": "Hard Skill",
+      "outcome_description": "Apply skills to analyze service providers and tourist sites to build complete tours with reasonable prices."
+    },
+    {
+      "skill_name": "Planning Operations for Travel Programs",
+      "category": "Hard Skill",
+      "outcome_description": "Apply skills to analyze, plan operations for a travel program."
+    },
+    {
+      "skill_name": "Building Tour Explanations",
+      "category": "Hard Skill",
+      "outcome_description": "Know how to build tour explanations and plan tour guidance for a travel program."
+    },
+    {
+      "skill_name": "Updating Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to update knowledge."
+    },
+    {
+      "skill_name": "Health and Ethical Standards Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Identify health, ethical standards, awareness, and responsibility in learning and work."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Career Development in Tourism and Travel Services",
+      "Tourism Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

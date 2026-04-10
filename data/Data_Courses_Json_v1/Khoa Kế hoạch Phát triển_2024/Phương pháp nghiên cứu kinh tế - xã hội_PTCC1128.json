@@ -1,0 +1,66 @@
+{
+  "course_id": "PTCC1128",
+  "title": "Phương pháp nghiên cứu Kinh tế xã hội",
+  "difficulty_level": "Beginner",
+  "duration": "3",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic research methods in socio-economic studies."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Hard Skill",
+      "outcome_description": "Collect qualitative and quantitative data using appropriate methods."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze qualitative and quantitative data using statistical software."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write and present research reports effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve research problems."
+    },
+    {
+      "skill_name": "Ethical Research",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to ethical standards in research."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in groups and individually."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Design and manage socio-economic research projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Kinh tế vĩ mô 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

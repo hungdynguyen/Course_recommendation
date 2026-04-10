@@ -1,0 +1,45 @@
+{
+  "course_id": "LUCS1128",
+  "title": "Doctrines of State and Law 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Political Science",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental theories about the state, including its origin, nature, functions, types, and forms, as well as the relationship between the state and individuals in a legal state."
+    },
+    {
+      "skill_name": "Legal Studies",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental theories about the socialist republic state of Vietnam."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Apply skills in group work, communication, presentation, and public speaking."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently research, accumulate, and enhance knowledge."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and discuss theories and concepts related to the state and law."
+    },
+    {
+      "skill_name": "Public Speaking",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present and defend research findings."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

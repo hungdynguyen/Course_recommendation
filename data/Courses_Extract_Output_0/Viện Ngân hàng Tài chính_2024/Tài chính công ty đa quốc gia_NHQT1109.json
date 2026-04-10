@@ -1,0 +1,47 @@
+{
+  "course_id": "Financial Management for Multinational Companies",
+  "title": "Quản trị Tài chính Công ty Đa Quốc Gia",
+  "difficulty_level": "Advanced",
+  "duration": "Full Semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Multinational Finance",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and apply fundamental concepts of multinational finance."
+    },
+    {
+      "skill_name": "Capital Structure",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze and determine optimal capital structure for multinational companies."
+    },
+    {
+      "skill_name": "Investment Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Evaluate investment opportunities and risks for multinational corporations."
+    },
+    {
+      "skill_name": "Profit Distribution",
+      "category": "Tool/Software",
+      "outcome_description": "Manage profit distribution strategies across international branches."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Finance",
+      "Corporate Finance"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Finance Fundamentals",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

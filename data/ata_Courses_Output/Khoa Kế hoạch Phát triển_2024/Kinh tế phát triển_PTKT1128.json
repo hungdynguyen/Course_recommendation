@@ -1,0 +1,46 @@
+{
+  "course_id": "PTKT1128",
+  "title": "Development Economics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Classification",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles of economic development and be able to classify countries based on their level of development."
+    },
+    {
+      "skill_name": "Characteristics of Developing Countries",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the basic characteristics of developing countries and provide evidence for specific countries."
+    },
+    {
+      "skill_name": "Economic Growth Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate and list criteria for evaluating economic growth in three areas: economic growth, structural change in the economy, and social progress."
+    },
+    {
+      "skill_name": "Structural Change Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate the current state of economic development in Vietnam and other developing countries."
+    },
+    {
+      "skill_name": "Data Handling",
+      "category": "Hard Skill",
+      "outcome_description": "Select and process domestic and international data to support conclusions about specialized topics."
+    },
+    {
+      "skill_name": "Self-study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study habits and research skills, learn to listen and accumulate knowledge."
+    },
+    {
+      "skill_name": "Professional Ethics Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have awareness of professional ethics and social responsibility."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

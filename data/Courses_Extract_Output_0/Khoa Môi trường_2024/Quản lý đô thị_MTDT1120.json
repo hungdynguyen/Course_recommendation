@@ -1,0 +1,37 @@
+{
+  "course_id": "MTDT1120",
+  "title": "Urban Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of urban economics."
+    },
+    {
+      "skill_name": "Urban Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Apply principles of urban planning in real-world scenarios."
+    },
+    {
+      "skill_name": "Urban Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage urban resources effectively."
+    },
+    {
+      "skill_name": "Policy Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop policies for urban development."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

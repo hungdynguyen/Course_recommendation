@@ -1,0 +1,55 @@
+{
+  "course_id": "DTKT1173",
+  "title": "Graduation Thesis",
+  "difficulty_level": "Beginner",
+  "duration": "90 hours in class + 350 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Consolidate theoretical economic knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand economic laws in project management"
+    },
+    {
+      "skill_name": "Apply theoretical knowledge to solve problems",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and resolve issues in project management"
+    },
+    {
+      "skill_name": "Independent research skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop research, analysis, and synthesis skills related to project management"
+    },
+    {
+      "skill_name": "Self-discipline awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Maintain organizational discipline and responsibility towards work"
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively to solve project management issues"
+    },
+    {
+      "skill_name": "Self-study ability",
+      "category": "Soft Skill",
+      "outcome_description": "Capable of independent learning and accumulating experience to improve professional expertise"
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effective presentation and communication skills"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Project Proposal Development",
+      "Project Management",
+      "Project Evaluation",
+      "Tendering"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "course_id": "LLNL1101",
+  "title": "History of economic theories",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the historical development of economic theories and their impact on economic practices."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on economic theories and their applications."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and critique various economic theories and their implications."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate economic theories and their applications."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and discussions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning skills to understand and apply economic theories."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic data and trends using historical economic theories."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic policies using historical economic theories."
+    },
+    {
+      "skill_name": "Economic Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply various economic theories in real-world contexts."
+    },
+    {
+      "skill_name": "Economic History",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the historical context of economic theories and their evolution."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

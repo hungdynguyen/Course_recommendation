@@ -1,0 +1,72 @@
+{
+  "course_id": "KTKE1107",
+  "title": "Investment Project Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply accounting principles in investment project management."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and coordinate resources in investment projects."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and analyze financial reports for investment projects."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex accounting problems in investment projects."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group settings to solve accounting issues."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate accounting concepts in presentations."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make informed decisions based on financial data in investment projects."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and resolve issues related to investment project accounting."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to meet project deadlines."
+    },
+    {
+      "skill_name": "Ethical Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to ethical standards in accounting practices for investment projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting - KTKE1101"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

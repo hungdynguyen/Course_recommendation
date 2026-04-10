@@ -1,0 +1,38 @@
+{
+  "course_id": "KHMA1102",
+  "title": "Intermediate Macroeconomics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Macroeconomics Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand various schools of thought and approaches to explain macroeconomic phenomena."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the effectiveness of macroeconomic policies using theoretical frameworks and models."
+    },
+    {
+      "skill_name": "Economic Growth",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze factors influencing short-term economic stability and long-term growth."
+    },
+    {
+      "skill_name": "Microeconomic Foundations",
+      "category": "Hard Skill",
+      "outcome_description": "Apply microeconomic principles to macroeconomic analysis."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "course_id": "LLNL1105",
+  "title": "Philosophy of Marxism and Leninism",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Worldview Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the worldview and scientific methodology of Marxist-Leninist philosophy."
+    },
+    {
+      "skill_name": "Materialism Basics",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the fundamental concepts of dialectical materialism."
+    },
+    {
+      "skill_name": "Dialectical Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the dialectical method and its application in understanding reality."
+    },
+    {
+      "skill_name": "Social Laws Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the laws governing social movement and development."
+    },
+    {
+      "skill_name": "Logical Thinking Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop logical thinking skills for analyzing and solving problems scientifically."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work individually and in groups on economic, political, and social issues."
+    },
+    {
+      "skill_name": "Global Citizenship",
+      "category": "Soft Skill",
+      "outcome_description": "Become a responsible global citizen with a sense of social responsibility."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Show initiative in learning, research, and group work."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

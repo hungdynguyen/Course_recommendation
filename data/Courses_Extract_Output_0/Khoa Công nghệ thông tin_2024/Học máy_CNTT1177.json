@@ -1,0 +1,66 @@
+{
+  "course_id": "CNTT1177",
+  "title": "Machine Learning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Machine Learning Algorithms",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and apply various machine learning algorithms."
+    },
+    {
+      "skill_name": "Supervised Learning Techniques",
+      "category": "Tool/Software",
+      "outcome_description": "Apply supervised learning techniques including regression and classification methods."
+    },
+    {
+      "skill_name": "Unsupervised Learning Techniques",
+      "category": "Tool/Software",
+      "outcome_description": "Apply unsupervised learning techniques such as clustering and dimensionality reduction."
+    },
+    {
+      "skill_name": "Neural Networks",
+      "category": "Tool/Software",
+      "outcome_description": "Design and implement neural networks and deep learning models."
+    },
+    {
+      "skill_name": "Model Evaluation",
+      "category": "Tool/Software",
+      "outcome_description": "Evaluate the performance of machine learning models using appropriate metrics and techniques."
+    },
+    {
+      "skill_name": "Python Programming",
+      "category": "Tool/Software",
+      "outcome_description": "Use Python for implementing machine learning solutions."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Tool/Software",
+      "outcome_description": "Analyze data using statistical methods and machine learning techniques."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills to address real-world machine learning challenges."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance critical thinking abilities to evaluate and improve machine learning models."
+    },
+    {
+      "skill_name": "Independent Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research on machine learning topics and methodologies."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to develop and evaluate machine learning projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "course_id": "PTKT 1130",
+  "title": "Khóa luận tốt nghiệp",
+  "difficulty_level": "Advanced",
+  "duration": "16 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic activities and development processes."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Identify, gather, analyze, and solve problems systematically."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Apply research methods and tools to develop evidence and optimal solutions."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate with stakeholders and present professional topics."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan, organize, monitor, and evaluate policies, strategies, and projects."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate professional conduct, responsibility, and ethical behavior."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Collect, process, and analyze data using specialized software."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Propose and implement solutions to real-world problems."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Continuously learn and adapt to evolving professional environments."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Produce well-structured reports and documents."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver clear and persuasive presentations."
+    },
+    {
+      "skill_name": "Critical Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Critically evaluate research findings and recommendations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

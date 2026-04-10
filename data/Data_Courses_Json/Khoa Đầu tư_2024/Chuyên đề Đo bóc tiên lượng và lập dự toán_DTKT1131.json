@@ -1,0 +1,62 @@
+{
+  "course_id": "DTKT1131",
+  "title": "Quantity Surveyor and Budget Planning",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Construction Estimating",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the structure of buildings and construction projects, read and interpret construction drawings, and apply knowledge to estimate quantities and costs."
+    },
+    {
+      "skill_name": "Construction Documentation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply construction standards and regulations, and interpret construction drawings."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in breaking down project tasks, using cost and quantity standards, and preparing tender documents."
+    },
+    {
+      "skill_name": "Budget Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Learn to prepare construction budgets and manage project costs."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, showing responsibility and cooperation."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills and the ability to find and use resources."
+    },
+    {
+      "skill_name": "Technical Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write reports and presentations for project groups and problem-solving."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze problems and think systematically."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Investment Economics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Construction Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

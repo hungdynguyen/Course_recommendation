@@ -1,0 +1,77 @@
+{
+  "course_id": "CNTT1176",
+  "title": "Decision Support System",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply decision-making processes and decision-making environments."
+    },
+    {
+      "skill_name": "System Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Design and implement the architecture of decision support systems."
+    },
+    {
+      "skill_name": "Modeling and Simulation",
+      "category": "Hard Skill",
+      "outcome_description": "Create and manage models for decision support systems."
+    },
+    {
+      "skill_name": "User Interface Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design and develop user interfaces for decision support systems."
+    },
+    {
+      "skill_name": "Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Develop decision support systems using programming languages and tools."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently to build decision support systems."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex problems related to decision support systems."
+    },
+    {
+      "skill_name": "Research and Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze data to support decision-making processes."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage projects and tasks related to the development of decision support systems."
+    },
+    {
+      "skill_name": "Ethical Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical principles in decision-making processes."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology (CNTT1116)",
+      "Artificial Intelligence (CNTT1140)"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "System Architecture",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

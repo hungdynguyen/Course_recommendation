@@ -1,0 +1,46 @@
+{
+  "course_id": "Sustainable Development",
+  "title": "Phát triển bền vững",
+  "difficulty_level": "Advanced",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Sustainability Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze economic development in terms of sustainability."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate policies based on sustainable development criteria."
+    },
+    {
+      "skill_name": "Globalization Impact Assessment",
+      "category": "Hard Skill",
+      "outcome_description": "Assess the impact of globalization on sustainable development."
+    },
+    {
+      "skill_name": "Climate Change Adaptation",
+      "category": "Hard Skill",
+      "outcome_description": "Adapt strategies to address climate change impacts on sustainable development."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Development Economics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economic Theory",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Research Methodology",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

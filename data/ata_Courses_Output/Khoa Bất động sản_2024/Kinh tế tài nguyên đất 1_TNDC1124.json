@@ -1,0 +1,50 @@
+{
+  "course_id": "TNDC1124",
+  "title": "Land Resource Economics 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the scientific nature of land resources economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the fundamental concepts of land resource economics."
+    },
+    {
+      "skill_name": "Analyzing economic tools for decision-making in land management",
+      "category": "Hard Skill",
+      "outcome_description": "Apply economic tools to analyze and make decisions regarding land management."
+    },
+    {
+      "skill_name": "Evaluating economic relationships in land management",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the economic relationships involved in land management and usage."
+    },
+    {
+      "skill_name": "Practicing analytical skills in economic decision-making",
+      "category": "Hard Skill",
+      "outcome_description": "Demonstrate practical skills in analyzing economic relationships in land management decisions."
+    },
+    {
+      "skill_name": "Collecting information and evaluating land use efficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Gather relevant information and assess the efficiency of land use."
+    },
+    {
+      "skill_name": "Recognizing social context and professional ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the social context and professional ethics related to land resource economics."
+    },
+    {
+      "skill_name": "Self-learning and experience accumulation",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently and accumulate experience to enhance expertise in land resource economics."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

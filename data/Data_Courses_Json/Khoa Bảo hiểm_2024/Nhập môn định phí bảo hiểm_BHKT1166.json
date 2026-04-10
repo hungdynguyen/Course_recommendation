@@ -1,0 +1,57 @@
+{
+  "course_id": "BHKT1166",
+  "title": "Introduction to Actuarial",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Actuarial Science",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the theoretical foundations and overview of actuarial pricing, the bases and methods of calculating life and non-life insurance premiums, and the calculation of reserve fees for an insurance company."
+    },
+    {
+      "skill_name": "Insurance Mathematics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the technical basis of actuarial pricing, necessary assumptions for pricing, and the role and significance of operational reserves and surrender values in life insurance, as well as reserves in non-life insurance."
+    },
+    {
+      "skill_name": "Life Insurance Pricing",
+      "category": "Hard Skill",
+      "outcome_description": "Apply formulas and assumptions to practice pricing for certain types of life insurance and non-life insurance operations."
+    },
+    {
+      "skill_name": "Non-Life Insurance Pricing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and master the principles and bases of non-life insurance pricing, methods and formulas for calculating premiums for certain non-life insurance products."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to work in groups and independently, logical thinking, and the ability to critique."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand laws and have a sense of law observance and discipline."
+    },
+    {
+      "skill_name": "Self-Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to take responsibility, sense of social responsibility, and the ability to inspire others."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Insurance 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Insurance Fundamentals",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

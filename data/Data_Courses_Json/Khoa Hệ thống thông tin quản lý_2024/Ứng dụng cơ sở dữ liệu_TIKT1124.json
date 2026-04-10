@@ -1,0 +1,67 @@
+{
+  "course_id": "TIKT1124",
+  "title": "Database Application",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Database Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply advanced knowledge of data querying, database design, and management."
+    },
+    {
+      "skill_name": "SQL Proficiency",
+      "category": "Hard Skill",
+      "outcome_description": "Master the use of SQL for database operations and management."
+    },
+    {
+      "skill_name": "Data Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Design and normalize databases to 5NF, and analyze data for decision support."
+    },
+    {
+      "skill_name": "Database Security",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and implement database security measures."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and independently, demonstrating leadership and responsibility."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex database-related problems."
+    },
+    {
+      "skill_name": "Technical Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate technical concepts and solutions."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and execute database-related projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Computer Science",
+      "Database Fundamentals"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Database Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

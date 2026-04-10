@@ -1,0 +1,61 @@
+{
+  "course_id": "NLQT1115",
+  "title": "Labour Organization and Standardization 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Labour Organization Concept",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of labour organization and standardization in organizations."
+    },
+    {
+      "skill_name": "Labour Organization Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles and significance of labour organization and standardization in organizations."
+    },
+    {
+      "skill_name": "Labour Organization Trends",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the trends of labour organization and standardization in a market economy and international integration."
+    },
+    {
+      "skill_name": "Time Study Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply time study methods for labor organization."
+    },
+    {
+      "skill_name": "Labor Division and Cooperation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply concepts of labor division and cooperation in organizations."
+    },
+    {
+      "skill_name": "Workplace Organization",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply concepts of workplace organization in organizations."
+    },
+    {
+      "skill_name": "Labor Condition Improvement",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply concepts of labor condition improvement in organizations."
+    },
+    {
+      "skill_name": "Group Work Effectiveness",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective group work skills."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective communication skills through writing and presenting."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate problem-solving skills related to labor organization and standardization."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

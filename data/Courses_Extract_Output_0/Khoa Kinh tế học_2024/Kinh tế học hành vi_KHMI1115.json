@@ -1,0 +1,43 @@
+{
+  "course_id": "KHMI1115",
+  "title": "Behavioral Economics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Behavioral Economics Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of traditional economic theory vs behavioral economics to analyze irrational behavior in economy."
+    },
+    {
+      "skill_name": "Prospect Theory Application",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and apply prospect theory compared to expected utility theory, especially in financial decision-making."
+    },
+    {
+      "skill_name": "Decision Making Under Bias",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze decision-making influenced by biases and apply theories to improve decision outcomes."
+    },
+    {
+      "skill_name": "Emotion Impact on Decisions",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the impact of emotions on decision-making and apply emotional theories to decision-making processes."
+    },
+    {
+      "skill_name": "Game Theory Adaptation",
+      "category": "Soft Skill",
+      "outcome_description": "Assess differences between standard game theory and its extensions in behavioral economics, applying practical strategies in economic decisions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomic Theory 2",
+      "Macroeconomic Theory 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

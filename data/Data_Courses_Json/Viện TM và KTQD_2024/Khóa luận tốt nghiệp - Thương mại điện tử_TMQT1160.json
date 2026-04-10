@@ -1,0 +1,82 @@
+{
+  "course_id": "TMQ1160",
+  "title": "Graduation Thesis – E-Commerce",
+  "difficulty_level": "Beginner",
+  "duration": "10 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-Commerce",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of e-commerce to analyze and evaluate business activities, propose improvements and innovations in business and management activities."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct market research, analyze data, and provide actionable insights for business decisions."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Design and execute independent research projects, including data collection, analysis, and reporting."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems in e-commerce business operations."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write comprehensive reports and present findings effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate business activities, providing recommendations for improvement."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in continuous learning and professional development."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate research findings and business insights."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage research projects, including planning, execution, and reporting."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate with peers and stakeholders in research and business activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Education Courses",
+      "Core Business Courses",
+      "E-Commerce Courses"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic E-Commerce Knowledge",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Business Management",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Research Methodology",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

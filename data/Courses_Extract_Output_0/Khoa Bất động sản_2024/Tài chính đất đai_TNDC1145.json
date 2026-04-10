@@ -1,0 +1,43 @@
+{
+  "course_id": "TNDC1145",
+  "title": "Land finance",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand financial management principles for land resources."
+    },
+    {
+      "skill_name": "Taxation",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend various tax tools related to land."
+    },
+    {
+      "skill_name": "Land Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate land value and usage costs."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Apply legal frameworks governing land finance."
+    },
+    {
+      "skill_name": "Audit Procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct financial audits on land-related transactions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Public Administration 1",
+      "Research Methods in Economics and Society"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

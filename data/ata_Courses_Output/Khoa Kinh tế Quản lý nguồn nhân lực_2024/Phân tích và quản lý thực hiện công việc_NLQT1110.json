@@ -1,0 +1,91 @@
+{
+  "course_id": "NLQT 1110",
+  "title": "Job Analysis and Performance Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Job Analysis Concept",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the concept of job analysis and performance management"
+    },
+    {
+      "skill_name": "Difference Between Evaluation and Performance Management",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between evaluation and performance management"
+    },
+    {
+      "skill_name": "Relationship Between Job Analysis and Performance Management",
+      "category": "Hard Skill",
+      "outcome_description": "Identify the relationship between job analysis and performance management"
+    },
+    {
+      "skill_name": "Application of Job Analysis in HR Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the application of job analysis in HR activities"
+    },
+    {
+      "skill_name": "Application of Performance Management in Compensation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the application of performance management in compensation"
+    },
+    {
+      "skill_name": "Responsibilities of Stakeholders in Performance Management",
+      "category": "Hard Skill",
+      "outcome_description": "Clarify the responsibilities of stakeholders in performance management"
+    },
+    {
+      "skill_name": "Job Analysis Process",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the job analysis process"
+    },
+    {
+      "skill_name": "Performance Management Process",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the performance management process"
+    },
+    {
+      "skill_name": "Job Description Construction",
+      "category": "Hard Skill",
+      "outcome_description": "Construct job descriptions, including requirements for job performers and performance standards"
+    },
+    {
+      "skill_name": "KPIs Design Based on Balanced Scorecard",
+      "category": "Hard Skill",
+      "outcome_description": "Design KPIs based on balanced scorecard"
+    },
+    {
+      "skill_name": "Skill Framework and Dictionary Construction",
+      "category": "Hard Skill",
+      "outcome_description": "Construct skill frameworks and dictionaries"
+    },
+    {
+      "skill_name": "Performance Management System Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Implement a performance management system"
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently"
+    },
+    {
+      "skill_name": "Effective Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate effective group work"
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate presentation skills"
+    },
+    {
+      "skill_name": "Problem Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate problem-solving skills"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

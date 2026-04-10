@@ -1,0 +1,67 @@
+{
+  "course_id": "QTCL1104",
+  "title": "Quality Management",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 credit hours; 50 minutes/hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Quality Concept Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain quality concepts"
+    },
+    {
+      "skill_name": "Customer Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and classify customers"
+    },
+    {
+      "skill_name": "Customer Satisfaction Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Measure customer satisfaction and loyalty"
+    },
+    {
+      "skill_name": "Service Quality Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate service quality"
+    },
+    {
+      "skill_name": "Cost of Quality Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Measure cost of quality"
+    },
+    {
+      "skill_name": "Statistical Tools for Quality Control",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical tools for quality control"
+    },
+    {
+      "skill_name": "Quality Improvement Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply quality improvement techniques"
+    },
+    {
+      "skill_name": "ISO 9000 System Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply ISO 9000 system"
+    },
+    {
+      "skill_name": "Group Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present group projects effectively"
+    },
+    {
+      "skill_name": "Collaborative Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Engage in collaborative learning activities"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

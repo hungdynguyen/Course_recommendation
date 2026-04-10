@@ -1,0 +1,35 @@
+{
+  "course_id": "MTKT1149",
+  "title": "Fundamentals of Environmental Science",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Science Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of environmental science including components of environment, ecological principles, natural resources, population-environment interactions, pollution, and environmental management."
+    },
+    {
+      "skill_name": "Ecological Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Apply ecological principles to real-world environmental issues."
+    },
+    {
+      "skill_name": "Environmental Management",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies for managing environmental resources and addressing pollution."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret environmental data to make informed decisions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

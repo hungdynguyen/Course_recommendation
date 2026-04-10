@@ -1,0 +1,60 @@
+{
+  "course_id": "TMKT1155",
+  "title": "Chuyên đề thực tế (Project)",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply basic logistics and supply chain management theories in practical research and analysis."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and execute a practical project report."
+    },
+    {
+      "skill_name": "Customer Service Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage customer service operations in a business context."
+    },
+    {
+      "skill_name": "Inventory Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage inventory operations in a business context."
+    },
+    {
+      "skill_name": "Transportation Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage transportation operations in a business context."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage risks in supply chain operations."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Extract and analyze data for logistics and supply chain management."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate self-reliance and personal responsibility in independent work."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Express and defend personal viewpoints based on objective and scientific approaches."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "course_id": "KTKI 1105",
+  "title": "Management Control",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Management Control Role Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the role and issues arising from management control in organizations."
+    },
+    {
+      "skill_name": "Management Control Methodology Explanation",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the use of each management control method and related impacts."
+    },
+    {
+      "skill_name": "Effective Management Control System Design",
+      "category": "Hard Skill",
+      "outcome_description": "Apply principles to design effective management control systems."
+    },
+    {
+      "skill_name": "Management Control System Evaluation Criteria Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop evaluation criteria for management control systems in organizations."
+    },
+    {
+      "skill_name": "Financial Result Control System Fundamentals Application",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the use of basic elements of financial result control systems in organizations."
+    },
+    {
+      "skill_name": "Financial Performance Measurement Issues Identification",
+      "category": "Hard Skill",
+      "outcome_description": "Identify issues arising from the use of financial performance measurement methods in management control."
+    },
+    {
+      "skill_name": "Incentive System Usage Development",
+      "category": "Hard Skill",
+      "outcome_description": "Develop the use of incentive systems in management control."
+    },
+    {
+      "skill_name": "Performance Measurement Method Issues Resolution",
+      "category": "Hard Skill",
+      "outcome_description": "Develop solutions to resolve issues arising from the use of performance measurement methods in management control."
+    },
+    {
+      "skill_name": "Uncontrollable Factors Consideration",
+      "category": "Hard Skill",
+      "outcome_description": "Consider factors that cannot be controlled by financial result control in management control."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Managerial Accounting 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting Principles",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Managerial Accounting Concepts",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

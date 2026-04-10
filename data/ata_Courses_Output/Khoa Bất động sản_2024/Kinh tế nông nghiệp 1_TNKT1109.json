@@ -1,0 +1,61 @@
+{
+  "course_id": "TNKT1109",
+  "title": "Agricultural Economics 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Role and Characteristics of Agricultural Economy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role and characteristics of agricultural economy."
+    },
+    {
+      "skill_name": "Basic Theories of Agricultural Economics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic theories of agricultural economics."
+    },
+    {
+      "skill_name": "Market Analysis for Agricultural Products",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze markets and market trends for agricultural products."
+    },
+    {
+      "skill_name": "International Trade in Agricultural Products",
+      "category": "Hard Skill",
+      "outcome_description": "Understand international trade in agricultural products."
+    },
+    {
+      "skill_name": "Vietnamese Agricultural Economic System",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the Vietnamese agricultural economic system."
+    },
+    {
+      "skill_name": "Resource Utilization in Agriculture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand resource utilization in agriculture."
+    },
+    {
+      "skill_name": "Progress in Science and Technology in Agriculture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand progress in science and technology in agriculture."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork and collaboration."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve problems in agricultural economics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "course_id": "CNTT1112",
+  "title": "Computer Architecture",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Instruction Set Architecture (ISA)",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the concept and principles of ISA."
+    },
+    {
+      "skill_name": "RISC Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the operation model of RISC architecture."
+    },
+    {
+      "skill_name": "Amdahl's Law Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply Amdahl's law to determine the best improvement and differentiate between cache size and clock frequency."
+    },
+    {
+      "skill_name": "Cache Memory",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate between direct and set-associative cache mapping."
+    },
+    {
+      "skill_name": "Pipeline Hazards",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and explain structural, data, and control hazards in pipeline design."
+    },
+    {
+      "skill_name": "Parallelism Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply parallelism techniques at the instruction level."
+    },
+    {
+      "skill_name": "Memory Hierarchy Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design memory hierarchy including cache, main memory, and virtual memory."
+    },
+    {
+      "skill_name": "Multi-core CPU Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze multi-core CPU architectures."
+    },
+    {
+      "skill_name": "Performance Measurement",
+      "category": "Hard Skill",
+      "outcome_description": "Measure and analyze computer performance."
+    },
+    {
+      "skill_name": "Quantitative Design Principles",
+      "category": "Hard Skill",
+      "outcome_description": "Apply quantitative design principles in computer architecture."
+    },
+    {
+      "skill_name": "Problem Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop problem-solving skills specific to computer architecture."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams to solve problems within deadlines."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently and manage group work."
+    },
+    {
+      "skill_name": "Classroom Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Maintain classroom discipline and adhere to class rules."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to analyze and solve problems."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in class discussions and presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

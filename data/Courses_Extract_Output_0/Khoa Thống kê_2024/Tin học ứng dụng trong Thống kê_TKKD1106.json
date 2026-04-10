@@ -1,0 +1,35 @@
+{
+  "course_id": "TKKD1106",
+  "title": "Applied Informatics for Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Software Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Ability to effectively use statistical software such as SPSS, Stata, Minitab, SAS, Epidata, and R."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understanding and applying various methods of data analysis including descriptive statistics, estimation, hypothesis testing, regression analysis, forecasting, variance analysis, factor analysis, and time series analysis."
+    },
+    {
+      "skill_name": "Statistical Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Basic understanding of statistical theory and its application in real-world scenarios."
+    },
+    {
+      "skill_name": "Excel Skills",
+      "category": "Tool/Software",
+      "outcome_description": "Proficiency in using Excel for basic statistical analysis."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

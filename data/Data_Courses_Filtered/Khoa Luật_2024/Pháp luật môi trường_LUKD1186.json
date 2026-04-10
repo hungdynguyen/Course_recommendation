@@ -1,0 +1,86 @@
+{
+  "course_id": "LUKD 1186",
+  "title": "Law on Environment",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Law Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand, analyze and apply general knowledge about the concept, existence and development of environmental law, regulated objects, methods of regulation, sources of law and basic content structure of Vietnamese environmental law."
+    },
+    {
+      "skill_name": "International Environmental Law Basics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply basic knowledge about international environmental law."
+    },
+    {
+      "skill_name": "Environmental Impact Assessment Law",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply laws regulating environmental impact assessment."
+    },
+    {
+      "skill_name": "Air Pollution Control Law",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply laws regulating air pollution control."
+    },
+    {
+      "skill_name": "Water Pollution Control Law",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply laws regulating water pollution control."
+    },
+    {
+      "skill_name": "Soil and Forest Conservation Law",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply laws regulating soil and forest conservation."
+    },
+    {
+      "skill_name": "Dispute Resolution Mechanisms",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and apply mechanisms for resolving environmental disputes."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply communication, presentation, and public speaking skills."
+    },
+    {
+      "skill_name": "Computer Usage Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply computer usage skills for searching legal documents and information in the field of environmental protection."
+    },
+    {
+      "skill_name": "Information Analysis Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply information analysis skills for legal situations arising in the field of environmental protection."
+    },
+    {
+      "skill_name": "Legal Problem Solving Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving skills for legal issues."
+    },
+    {
+      "skill_name": "Self-Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study skills to accumulate and enhance knowledge."
+    },
+    {
+      "skill_name": "Planning and Implementation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop planning and implementation skills, propose initiatives during task execution."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Develop professional ethics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

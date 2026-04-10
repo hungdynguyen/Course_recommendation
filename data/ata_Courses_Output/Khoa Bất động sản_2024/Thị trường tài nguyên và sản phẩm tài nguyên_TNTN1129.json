@@ -1,0 +1,57 @@
+{
+  "course_id": "TNTN1129",
+  "title": "Market of Natural Resources",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Natural Resource Market Overview",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts and principles of natural resource markets"
+    },
+    {
+      "skill_name": "Explain Theoretical Models of Supply and Demand",
+      "category": "Hard Skill",
+      "outcome_description": "Explain theoretical models of supply and demand in specific natural resource markets"
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop research skills for synthesizing and generalizing issues related to natural resource markets"
+    },
+    {
+      "skill_name": "Economic Analysis Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Develop skills to analyze and explain economic relationships and developments in natural resource markets"
+    },
+    {
+      "skill_name": "Legal Compliance Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and comply with legal regulations regarding natural resource markets"
+    },
+    {
+      "skill_name": "Professional Responsibility Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have a proper understanding of professional responsibilities in managing natural resource markets"
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning, research, and group work"
+    },
+    {
+      "skill_name": "Problem Selection and Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in selecting problems, analyzing, and presenting them"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Resource Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

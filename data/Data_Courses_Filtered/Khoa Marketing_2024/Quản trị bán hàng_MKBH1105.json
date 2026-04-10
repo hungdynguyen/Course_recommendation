@@ -1,0 +1,42 @@
+{
+  "course_id": "MKBH1105",
+  "title": "Quản trị bán hàng",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts of personal sales and sales force management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature, role, characteristics of personal sales and the contents of each stage of the sales force management process of enterprises, from strategic issues to tactical and operational specific issues, and finally the activities of inspection and evaluation."
+    },
+    {
+      "skill_name": "Understanding the nature, importance, and process of recruiting, training, and developing the sales force",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature, importance, and process of recruiting, training, and developing the sales force."
+    },
+    {
+      "skill_name": "Analyzing and evaluating actual activities related to sales force development and leadership",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate actual activities related to sales force development and leadership, management of sales territories, setting sales quotas, and creating motivation for the sales team."
+    },
+    {
+      "skill_name": "Proposing strategic issues, plans, and specific solutions for sales force management",
+      "category": "Hard Skill",
+      "outcome_description": "Propose strategic issues, plans, and specific solutions for sales force management and organizational measures to implement these strategies, plans, and solutions into the real life of enterprises."
+    },
+    {
+      "skill_name": "Applying knowledge and skills in sales force management to work independently in a sales management position",
+      "category": "Hard Skill",
+      "outcome_description": "Apply knowledge and skills in sales force management to work independently in a sales management position."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

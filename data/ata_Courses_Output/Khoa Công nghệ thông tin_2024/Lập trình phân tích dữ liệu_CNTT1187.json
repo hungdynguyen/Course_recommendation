@@ -1,0 +1,81 @@
+{
+  "course_id": "CNTT1187",
+  "title": "Data Analysis Programming",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Preprocessing",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various data preprocessing techniques"
+    },
+    {
+      "skill_name": "Data Visualization",
+      "category": "Hard Skill",
+      "outcome_description": "Use R for data visualization"
+    },
+    {
+      "skill_name": "Statistical Hypothesis Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Perform statistical hypothesis testing"
+    },
+    {
+      "skill_name": "Descriptive Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct descriptive statistical analysis"
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform regression analysis including logistic regression"
+    },
+    {
+      "skill_name": "Classification Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Implement classification methods such as decision trees and clustering"
+    },
+    {
+      "skill_name": "Financial Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze financial data using advanced methods"
+    },
+    {
+      "skill_name": "Machine Learning Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply machine learning techniques for data analysis"
+    },
+    {
+      "skill_name": "SQL Database Management",
+      "category": "Hard Skill",
+      "outcome_description": "Create and manage simple databases with SQL Server"
+    },
+    {
+      "skill_name": "R Software Proficiency",
+      "category": "Tool/Software",
+      "outcome_description": "Proficient use of R software for data analysis"
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to independently learn and understand materials"
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams"
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present problems and solutions"
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and adhere to ethical responsibilities in data analysis"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

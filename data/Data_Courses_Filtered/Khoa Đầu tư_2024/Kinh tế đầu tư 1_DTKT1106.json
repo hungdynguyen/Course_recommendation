@@ -1,0 +1,56 @@
+{
+  "course_id": "DTKT1106",
+  "title": "Investment Economics 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Basic Investment Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic concepts and theories of investment."
+    },
+    {
+      "skill_name": "Principles of State Management in Investment",
+      "category": "Hard Skill",
+      "outcome_description": "Understand principles and methods of state management in investment activities."
+    },
+    {
+      "skill_name": "Sources of Investment Capital",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze macro and micro aspects of sources of investment capital."
+    },
+    {
+      "skill_name": "Effective Mobilization of Investment Capital",
+      "category": "Hard Skill",
+      "outcome_description": "Identify conditions for effectively mobilizing investment capital."
+    },
+    {
+      "skill_name": "Investment Project Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage investment projects and understand their objectives and tasks."
+    },
+    {
+      "skill_name": "Self-Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent learning skills and accumulate experience to improve professional competence."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and responsibly, with a sense of discipline and cooperation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve problems in the field of investment."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present findings and conclusions effectively in group presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "course_id": "LUKD1187",
+  "title": "Banking Law",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Banking Law Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the basic theoretical issues related to banking law."
+    },
+    {
+      "skill_name": "Central Bank Legal Status",
+      "category": "Hard Skill",
+      "outcome_description": "Students will comprehend the legal status of the State Bank of Vietnam."
+    },
+    {
+      "skill_name": "Financial Institutions Legal Status",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the legal status of financial institutions."
+    },
+    {
+      "skill_name": "Banking Operations Legal Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Students will be able to apply legal knowledge on banking operations and services provided by financial institutions."
+    },
+    {
+      "skill_name": "Secured Assets Legal Framework",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand the legal framework for secured assets and asset disposal."
+    },
+    {
+      "skill_name": "Legal Application Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop skills to apply legal knowledge on central bank functions, roles, and authority; and in establishing and operating financial institutions."
+    },
+    {
+      "skill_name": "Dispute Resolution Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop skills to resolve disputes in the banking sector and act as legal advisors for clients in the banking credit sector."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to independently research, study, accumulate, and enhance specialized professional knowledge."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Law",
+      "Civil Law"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

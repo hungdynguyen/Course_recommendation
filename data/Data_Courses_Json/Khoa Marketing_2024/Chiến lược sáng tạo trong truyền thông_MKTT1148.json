@@ -1,0 +1,74 @@
+{
+  "course_id": "MKTT1148",
+  "title": "Chiến lược sáng tạo trong truyền thông",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Communication Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply concepts of communication strategy, message creation, and creative messaging."
+    },
+    {
+      "skill_name": "Marketing Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement marketing communication strategies for products/services."
+    },
+    {
+      "skill_name": "Creative Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Generate and evaluate creative ideas for communication messages."
+    },
+    {
+      "skill_name": "Message Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design and select elements for effective communication messages."
+    },
+    {
+      "skill_name": "Public Relations",
+      "category": "Soft Skill",
+      "outcome_description": "Apply principles of public relations in communication strategy."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve problems related to communication strategy."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver effective presentations on communication strategies."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze data for communication strategies."
+    },
+    {
+      "skill_name": "Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and persuasive communication messages and reports."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Marketing",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Public Relations",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

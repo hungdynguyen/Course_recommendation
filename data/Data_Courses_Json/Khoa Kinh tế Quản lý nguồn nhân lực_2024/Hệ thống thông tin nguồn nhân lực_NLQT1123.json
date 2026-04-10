@@ -1,0 +1,67 @@
+{
+  "course_id": "NLQT1123",
+  "title": "Human Resource Information System",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Systems",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and integrate knowledge of information systems and human resource management to build an information system for an organization."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and determine the needs for human resource information systems, analyze and select human resource information systems, and build simple human resource information systems for organizations."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate in writing and verbally, write reports and presentations, and work independently and in teams."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate independent learning, research, and teamwork skills."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Develop an awareness of social context, professional ethics, and social responsibility."
+    },
+    {
+      "skill_name": "Human Resource Management",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept, significance, and role of human resource information systems, and their contribution to organizational success."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate human resource metrics and their applications."
+    },
+    {
+      "skill_name": "System Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the architecture of human resource information systems and plan their deployment."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Human Resource Management",
+      "Management Information Systems"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Understanding of Information Systems",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Understanding of Human Resource Management",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

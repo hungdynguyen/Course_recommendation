@@ -1,0 +1,42 @@
+{
+  "course_id": "DLLH1154",
+  "title": "Operation of Travel Service 3",
+  "difficulty_level": "Advanced",
+  "duration": "135 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Tour Design",
+      "category": "Tool/Software",
+      "outcome_description": "Ability to design travel programs."
+    },
+    {
+      "skill_name": "Tour Operation",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to manage and execute travel programs."
+    },
+    {
+      "skill_name": "Tour Guiding",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to guide tours effectively."
+    },
+    {
+      "skill_name": "Customer Interaction",
+      "category": "Soft Skill",
+      "outcome_description": "Effective communication with customers and suppliers."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to plan and manage projects related to tourism operations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Operation of Travel Service 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

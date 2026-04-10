@@ -1,0 +1,68 @@
+{
+  "course_id": "TOTC1109",
+  "title": "The models for analyzing and evaluating the financial assets 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Discounted Cash Flow Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Apply discounted cash flow models to analyze and value fixed income securities."
+    },
+    {
+      "skill_name": "Dividend Discount Models",
+      "category": "Hard Skill",
+      "outcome_description": "Apply discounted cash flow models to analyze and value equity securities."
+    },
+    {
+      "skill_name": "Portfolio Construction",
+      "category": "Hard Skill",
+      "outcome_description": "Construct portfolios that balance risk and return."
+    },
+    {
+      "skill_name": "Derivatives Valuation",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and value derivative securities using appropriate models."
+    },
+    {
+      "skill_name": "Technical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct technical analysis using specialized software tools."
+    },
+    {
+      "skill_name": "Model Building",
+      "category": "Hard Skill",
+      "outcome_description": "Develop models for financial analysis and valuation."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to financial analysis and decision-making."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present findings and conclusions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Financial Mathematics Fundamentals",
+      "Financial Asset Analysis and Valuation 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

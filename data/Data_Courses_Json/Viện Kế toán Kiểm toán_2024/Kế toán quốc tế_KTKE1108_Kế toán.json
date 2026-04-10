@@ -1,0 +1,62 @@
+{
+  "course_id": "KTKE1108",
+  "title": "International Accounting",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of international accounting, including its formation and development, diversity, and factors influencing its development."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the differences in financial reporting in multinational companies and apply methods for converting and consolidating international financial reports."
+    },
+    {
+      "skill_name": "Taxation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand international taxation and transfer pricing methods for multinational companies."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in critical thinking, analysis, evaluation, and decision-making in accounting."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills, including writing reports and giving professional presentations."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance ability to work independently and collaboratively in a dynamic work environment."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply problem-solving skills to various accounting scenarios in multinational companies."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on international accounting systems and factors influencing their development."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate personal responsibility and accountability in both individual and group work."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Principles of Accounting"
+    ],
+    "minimum_entry_skills": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "course_id": "TKKD1130",
+  "title": "Theory of Statistics 3",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Time Series Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to recognize different types of time series data and apply appropriate analytical methods."
+    },
+    {
+      "skill_name": "Statistical Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Capacity to develop and analyze statistical forecasts using various methodologies including Box-Jenkins."
+    },
+    {
+      "skill_name": "Regression Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiency in creating regression models with time-series data."
+    },
+    {
+      "skill_name": "Vector Autoregression Models",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and application of Vector Autoregression models in statistical analysis."
+    },
+    {
+      "skill_name": "Index Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of index methodology in statistics and its practical applications."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Theory of Statistics 1",
+      "Theory of Statistics 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

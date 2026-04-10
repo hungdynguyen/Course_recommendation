@@ -1,0 +1,71 @@
+{
+  "course_id": "LUKD 1186",
+  "title": "Law on Environment",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Environmental Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand, analyze and apply the general knowledge about the concept, existence and development of environmental law, the objects regulated, the methods of regulation, the sources of law and the basic content of environmental law in Vietnam. Basic knowledge about international environmental law."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and apply legal provisions on environmental impact assessment, strategic environmental assessment, and environmental control."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Understand, analyze and apply legal provisions on the control of environmental pollution and degradation, including air, water, soil, forests, aquatic resources, and cultural heritage."
+    },
+    {
+      "skill_name": "Dispute Resolution",
+      "category": "Soft Skill",
+      "outcome_description": "Understand, analyze and apply mechanisms for resolving environmental disputes."
+    },
+    {
+      "skill_name": "Group Work",
+      "category": "Soft Skill",
+      "outcome_description": "Apply group work skills, communication, presentation, and computer usage skills to find legal texts and information in the field of environmental protection."
+    },
+    {
+      "skill_name": "Information Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and synthesize information on legal situations arising in the field of environmental protection."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply skills to solve legal problems."
+    },
+    {
+      "skill_name": "Self-Study",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently study, accumulate and improve knowledge."
+    },
+    {
+      "skill_name": "Planning and Implementation",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to plan and implement tasks, propose initiatives during the execution of assigned tasks."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Develop professional ethics."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS1128",
+      "LUCS 1127",
+      "LUCS 1114",
+      "LUCS 1112",
+      "LUCS 1138"
+    ],
+    "minimum_entry_skills": []
+  }
+}

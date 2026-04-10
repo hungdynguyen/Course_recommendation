@@ -1,0 +1,82 @@
+{
+  "course_id": "MTDt1106",
+  "title": "Geographic Information System (GIS)",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "GIS Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic principles of GIS and its components."
+    },
+    {
+      "skill_name": "Database Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage and organize geographic data in GIS databases."
+    },
+    {
+      "skill_name": "Data Collection",
+      "category": "Soft Skill",
+      "outcome_description": "Collect, convert, and link geographic data."
+    },
+    {
+      "skill_name": "Data Processing",
+      "category": "Soft Skill",
+      "outcome_description": "Process and analyze geographic data using GIS tools."
+    },
+    {
+      "skill_name": "Spatial Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Perform spatial analysis and modeling in GIS."
+    },
+    {
+      "skill_name": "Data Visualization",
+      "category": "Soft Skill",
+      "outcome_description": "Visualize and display geographic data effectively."
+    },
+    {
+      "skill_name": "ArcGIS",
+      "category": "Hard Skill",
+      "outcome_description": "Use ArcGIS software to manage, analyze, and visualize geographic data."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Apply GIS to solve real-world economic and management problems."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Support decision-making processes with GIS analysis."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve GIS-related problems."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage GIS projects from conception to completion."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and interpret GIS data to draw meaningful conclusions."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate GIS findings through reports and presentations."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1 (KHMI1101)"
+    ],
+    "minimum_entry_skills": []
+  }
+}

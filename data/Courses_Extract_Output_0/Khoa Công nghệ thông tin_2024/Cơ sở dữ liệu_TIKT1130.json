@@ -1,0 +1,51 @@
+{
+  "course_id": "Database Management",
+  "title": "Học phần cơ sở dữ liệu",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Database Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of databases and data models."
+    },
+    {
+      "skill_name": "Relational Database Design",
+      "category": "Hard Skill",
+      "outcome_description": "Design relational database models with integrity constraints."
+    },
+    {
+      "skill_name": "SQL",
+      "category": "Hard Skill",
+      "outcome_description": "Execute queries using SQL."
+    },
+    {
+      "skill_name": "Data Optimization",
+      "category": "Hard Skill",
+      "outcome_description": "Optimize database queries for performance."
+    },
+    {
+      "skill_name": "Data Security",
+      "category": "Hard Skill",
+      "outcome_description": "Ensure data security and integrity."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Computer Science"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Programming Basics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Mathematics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

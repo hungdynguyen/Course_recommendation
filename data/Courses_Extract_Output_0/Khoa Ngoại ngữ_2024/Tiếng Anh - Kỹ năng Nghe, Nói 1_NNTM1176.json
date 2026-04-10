@@ -1,0 +1,31 @@
+{
+  "course_id": "NNTM1176",
+  "title": "English – Listening and Speaking skills 1",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Develop proficiency in understanding spoken English at a pre-intermediate level."
+    },
+    {
+      "skill_name": "Oral Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance ability to engage in conversations and deliver short speeches in English."
+    },
+    {
+      "skill_name": "Vocabulary Building",
+      "category": "Soft Skill",
+      "outcome_description": "Expand vocabulary related to common communication topics."
+    },
+    {
+      "skill_name": "IELTS Preparation",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare for IELTS Listening and Speaking sections with scores ranging from 5.0 to 5.5."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

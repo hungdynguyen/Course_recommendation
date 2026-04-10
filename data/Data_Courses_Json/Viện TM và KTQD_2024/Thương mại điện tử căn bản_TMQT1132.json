@@ -1,0 +1,106 @@
+{
+  "course_id": "TMQT1132",
+  "title": "Fundamentals of E-Commerce",
+  "difficulty_level": "Beginner",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-Commerce",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the concept of E-commerce and its development stages, classify basic types of E-commerce"
+    },
+    {
+      "skill_name": "E-Commerce Management",
+      "category": "Tool/Software",
+      "outcome_description": "Apply knowledge and skills related to E-commerce in business (website management, electronic marketing, E-commerce strategy management...)"
+    },
+    {
+      "skill_name": "Internet and Network Technology",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the application of internet and network technology in E-commerce, information systems, and data in E-commerce"
+    },
+    {
+      "skill_name": "Information Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze information related to E-commerce, macro and micro environments affecting E-commerce activities to develop business strategies and models"
+    },
+    {
+      "skill_name": "Website Management",
+      "category": "Tool/Software",
+      "outcome_description": "Manage E-commerce websites, platforms, and online stores"
+    },
+    {
+      "skill_name": "E-Commerce Technologies",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and analyze applications of technologies in E-commerce (AR, VR, AI, Big Data, Cloud Computing, Blockchain...)"
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop communication skills through reading materials and group work"
+    },
+    {
+      "skill_name": "Independent Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Self-study and research independently to enhance E-commerce expertise"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve practical issues in E-commerce"
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations"
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Tool/Software",
+      "outcome_description": "Manage and present group projects on E-commerce activities and business models"
+    },
+    {
+      "skill_name": "E-Commerce Security",
+      "category": "Tool/Software",
+      "outcome_description": "Understand security and safety requirements in E-commerce transactions, manage risks in E-commerce"
+    },
+    {
+      "skill_name": "E-Commerce Payment Systems",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and apply payment systems and technologies in E-commerce"
+    },
+    {
+      "skill_name": "E-Commerce Marketing",
+      "category": "Tool/Software",
+      "outcome_description": "Understand and apply marketing strategies in E-commerce"
+    },
+    {
+      "skill_name": "Government E-Commerce",
+      "category": "Tool/Software",
+      "outcome_description": "Understand the concept and models of Government E-commerce"
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Education",
+      "Microeconomics",
+      "Macroeconomics",
+      "Information Technology",
+      "Trade",
+      "International Trade"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 1
+      },
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

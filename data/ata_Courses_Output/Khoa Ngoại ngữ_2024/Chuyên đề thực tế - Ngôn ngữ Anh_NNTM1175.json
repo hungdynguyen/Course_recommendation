@@ -1,0 +1,62 @@
+{
+  "course_id": "NNTM1175",
+  "title": "Chuyên đề thực tế",
+  "difficulty_level": "Advanced",
+  "duration": "60 hours in class + 140 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding business operations",
+      "category": "Hard Skill",
+      "outcome_description": "Know how a business operates"
+    },
+    {
+      "skill_name": "Identifying job positions",
+      "category": "Soft Skill",
+      "outcome_description": "Identify job positions within a business"
+    },
+    {
+      "skill_name": "Career planning",
+      "category": "Soft Skill",
+      "outcome_description": "Plan career based on job requirements"
+    },
+    {
+      "skill_name": "Analyzing business activities",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze business activities using theoretical knowledge"
+    },
+    {
+      "skill_name": "Professional communication",
+      "category": "Soft Skill",
+      "outcome_description": "Practice professional communication skills"
+    },
+    {
+      "skill_name": "Job search techniques",
+      "category": "Soft Skill",
+      "outcome_description": "Apply job search techniques"
+    },
+    {
+      "skill_name": "Using job search tools",
+      "category": "Tool/Software",
+      "outcome_description": "Use job search tools such as websites, social media, and resume builders"
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-directed learning abilities"
+    },
+    {
+      "skill_name": "Self-assessment",
+      "category": "Soft Skill",
+      "outcome_description": "Assess oneself and set personal development goals"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Core courses in major field"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

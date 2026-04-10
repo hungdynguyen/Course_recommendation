@@ -1,0 +1,71 @@
+{
+  "course_id": "TKKT1124",
+  "title": "Data Analysis",
+  "difficulty_level": "Advanced",
+  "duration": "3 credit hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Systematize foundational knowledge about statistical modeling methods."
+    },
+    {
+      "skill_name": "Model Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate and explain models and results from statistical analysis models."
+    },
+    {
+      "skill_name": "Data Visualization",
+      "category": "Hard Skill",
+      "outcome_description": "Explain results from statistical analysis models."
+    },
+    {
+      "skill_name": "Principle Component Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct principal component analysis using statistical software."
+    },
+    {
+      "skill_name": "Correspondence Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform correspondence analysis using statistical software."
+    },
+    {
+      "skill_name": "Cluster Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Execute cluster analysis on various types of data."
+    },
+    {
+      "skill_name": "Multivariate Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply multivariate analysis techniques to real-world datasets."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to evaluate statistical models."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance self-learning abilities to independently study statistical methods."
+    },
+    {
+      "skill_name": "Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Improve ability to solve problems collaboratively within a team."
+    },
+    {
+      "skill_name": "Ethical Considerations",
+      "category": "Soft Skill",
+      "outcome_description": "Understand ethical considerations in statistical analysis."
+    },
+    {
+      "skill_name": "Statistical Software Proficiency",
+      "category": "Tool/Software",
+      "outcome_description": "Achieve proficiency in using statistical software for data analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

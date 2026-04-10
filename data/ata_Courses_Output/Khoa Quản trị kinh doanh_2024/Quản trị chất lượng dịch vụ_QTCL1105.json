@@ -1,0 +1,97 @@
+{
+  "course_id": "QTCL1105",
+  "title": "Service Quality Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding and explaining the role and importance of service quality management for businesses, customers, and the economy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain the significance of service quality management in various contexts."
+    },
+    {
+      "skill_name": "Grasping the concept of services, characteristics, and classification of services",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend the fundamental concepts related to services and their categorization."
+    },
+    {
+      "skill_name": "Analyzing factors influencing the development of the service industry",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and analyze key factors affecting the growth of the service sector."
+    },
+    {
+      "skill_name": "Understanding and explaining the five gaps model in service delivery",
+      "category": "Hard Skill",
+      "outcome_description": "Explain and apply the five gaps model to improve service delivery."
+    },
+    {
+      "skill_name": "Analyzing customer expectations and satisfaction",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze customer expectations and satisfaction levels in service delivery."
+    },
+    {
+      "skill_name": "Building customer loyalty and handling complaints",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategies to build customer loyalty and effectively manage complaints."
+    },
+    {
+      "skill_name": "Designing service processes and service blueprints",
+      "category": "Hard Skill",
+      "outcome_description": "Create effective service processes and blueprints."
+    },
+    {
+      "skill_name": "Calculating queuing times",
+      "category": "Hard Skill",
+      "outcome_description": "Apply mathematical models to calculate queuing times in service operations."
+    },
+    {
+      "skill_name": "Standardizing services based on customer orientation",
+      "category": "Hard Skill",
+      "outcome_description": "Standardize services with a focus on customer needs and preferences."
+    },
+    {
+      "skill_name": "Balancing supply and demand in service provision",
+      "category": "Hard Skill",
+      "outcome_description": "Manage the balance between supply and demand in service delivery."
+    },
+    {
+      "skill_name": "Role of people in service delivery",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the critical role of staff and customers in service delivery."
+    },
+    {
+      "skill_name": "Understanding the nature of keeping promises in service delivery",
+      "category": "Hard Skill",
+      "outcome_description": "Grasp the importance of fulfilling commitments in service delivery."
+    },
+    {
+      "skill_name": "Applying customer relationship management techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Implement CRM techniques to enhance service quality."
+    },
+    {
+      "skill_name": "Evaluating service quality using various methods",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate service quality through different assessment methods."
+    },
+    {
+      "skill_name": "Self-directed learning and continuous improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently research, learn, and continuously improve knowledge."
+    },
+    {
+      "skill_name": "Teamwork and presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in teams and deliver presentations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "KHMI1101"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

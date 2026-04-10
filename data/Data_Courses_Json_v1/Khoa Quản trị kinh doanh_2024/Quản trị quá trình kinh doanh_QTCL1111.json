@@ -1,0 +1,86 @@
+{
+  "course_id": "QTCL1111",
+  "title": "Quản trị Quá trình Kinh doanh",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Process Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply concepts and techniques for analyzing and improving business processes."
+    },
+    {
+      "skill_name": "Process Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and improve business processes in various contexts."
+    },
+    {
+      "skill_name": "Value Chain Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the value chain of an organization."
+    },
+    {
+      "skill_name": "Process Modeling",
+      "category": "Soft Skill",
+      "outcome_description": "Model business processes and understand the reasons and methods for process modeling."
+    },
+    {
+      "skill_name": "Qualitative Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct qualitative analysis of business processes."
+    },
+    {
+      "skill_name": "Quantitative Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct quantitative analysis of business processes."
+    },
+    {
+      "skill_name": "Process Improvement",
+      "category": "Soft Skill",
+      "outcome_description": "Improve and innovate business processes."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams, support team members, and resolve conflicts."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to business process management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze situations and make informed decisions in business process management."
+    },
+    {
+      "skill_name": "Power Automate",
+      "category": "Hard Skill",
+      "outcome_description": "Use Microsoft Power Automate to automate business processes."
+    },
+    {
+      "skill_name": "Information Technology",
+      "category": "Hard Skill",
+      "outcome_description": "Apply information technology in business process management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Process Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

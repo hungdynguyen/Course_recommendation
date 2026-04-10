@@ -1,0 +1,57 @@
+{
+  "course_id": "NNTV1108",
+  "title": "Vietnamese language 2 (Vietnamese language in economics and business 1)",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Vocabulary Memorization",
+      "category": "Hard Skill",
+      "outcome_description": "Recall, understand and use vocabulary and terminology related to various topics such as environment, tourism, trade, investment, marketing, and banking."
+    },
+    {
+      "skill_name": "Grammar Practice",
+      "category": "Hard Skill",
+      "outcome_description": "Practice exercises to develop specialized vocabulary and grammar skills in Vietnamese."
+    },
+    {
+      "skill_name": "Listening Comprehension",
+      "category": "Hard Skill",
+      "outcome_description": "Listen and record key information from news broadcasts, dialogues, speeches, lectures, etc., related to various topics."
+    },
+    {
+      "skill_name": "Speaking Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Speak confidently before class on prepared/unprepared topics related to various themes."
+    },
+    {
+      "skill_name": "Writing Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Write clearly and coherently about various topics with correct style and grammar."
+    },
+    {
+      "skill_name": "Information Retrieval",
+      "category": "Soft Skill",
+      "outcome_description": "Apply skills to find information about various topics within the course curriculum."
+    },
+    {
+      "skill_name": "Self-Directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize the importance of self-motivation in developing language skills."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate active participation and readiness in language development activities and communication with native speakers."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic Vietnamese"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

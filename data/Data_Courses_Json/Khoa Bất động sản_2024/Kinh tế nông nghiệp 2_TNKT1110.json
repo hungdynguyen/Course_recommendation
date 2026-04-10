@@ -1,0 +1,72 @@
+{
+  "course_id": "TNKT1110",
+  "title": "Agricultural Economics 2",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Agricultural Economics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply economic principles to agricultural production, services, and policy."
+    },
+    {
+      "skill_name": "Economic Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate economic policies related to agriculture and rural development."
+    },
+    {
+      "skill_name": "Microeconomics",
+      "category": "Soft Skill",
+      "outcome_description": "Apply microeconomic concepts to agricultural markets and services."
+    },
+    {
+      "skill_name": "Macroeconomics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand macroeconomic impacts on agricultural sectors and rural economies."
+    },
+    {
+      "skill_name": "Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage agricultural production and services effectively."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to solve agricultural economic problems."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in agricultural economics contexts."
+    },
+    {
+      "skill_name": "Research",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research on agricultural economics topics."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve problems related to agricultural economics and rural development."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning skills to enhance agricultural economics knowledge."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Agricultural Economics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

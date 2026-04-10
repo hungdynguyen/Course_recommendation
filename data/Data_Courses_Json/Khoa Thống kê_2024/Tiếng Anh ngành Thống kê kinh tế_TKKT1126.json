@@ -1,0 +1,77 @@
+{
+  "course_id": "TKkt1126",
+  "title": "English for Economic Statistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in English in the context of economic statistics."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret statistical data using international standards."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve economic problems using statistical methods in English."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to complete statistical projects."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present statistical findings in English."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research and analyze data using appropriate statistical techniques."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve economic problems using statistical methods in English."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret statistical data and reports in English."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Hard Skill",
+      "outcome_description": "Write reports on statistical analysis in English."
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to complete assignments and projects."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Basic English",
+      "Statistical Theory 1 and 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic English",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Statistical Theory",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

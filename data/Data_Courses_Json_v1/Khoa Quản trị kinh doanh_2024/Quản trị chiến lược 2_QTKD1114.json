@@ -1,0 +1,72 @@
+{
+  "course_id": "QTKD 1114",
+  "title": "Quản trị chiến lược 2",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Strategic Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply strategic analysis tools and models."
+    },
+    {
+      "skill_name": "Strategic Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply strategic decision-making processes."
+    },
+    {
+      "skill_name": "Global Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply global business strategies."
+    },
+    {
+      "skill_name": "Strategy Implementation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply strategy implementation processes."
+    },
+    {
+      "skill_name": "Strategy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply strategy evaluation and adjustment methods."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve strategic business problems."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and discussions."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present and defend strategic analysis and decisions effectively."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research and analyze data to support strategic decisions."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both written and oral formats."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Quản trị chiến lược/ Quản trị chiến lược 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Strategic Management",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

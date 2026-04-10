@@ -1,0 +1,65 @@
+{
+  "course_id": "MKMA1157",
+  "title": "Marketing dịch vụ công",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding public service characteristics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the nature and characteristics of public services."
+    },
+    {
+      "skill_name": "Understanding unique attributes of public service marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the unique attributes, principles, and tools of public service marketing."
+    },
+    {
+      "skill_name": "Understanding participants in public service marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the roles of participants in public service marketing (suppliers, customers) and competitive pressures."
+    },
+    {
+      "skill_name": "Explaining the role of human factors and processes in providing public services",
+      "category": "Hard Skill",
+      "outcome_description": "Explain the role of human factors and processes in providing public services."
+    },
+    {
+      "skill_name": "Understanding marketing mix tools in public service marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the marketing mix tools commonly used in public service marketing."
+    },
+    {
+      "skill_name": "Analyzing environmental influences on public service marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the influence of environmental factors on public service marketing activities."
+    },
+    {
+      "skill_name": "Researching marketing impact analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research to assess the impact of environmental factors on marketing activities."
+    },
+    {
+      "skill_name": "Evaluating current marketing mix tools in public service organizations",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the current marketing mix tools being applied in public service organizations."
+    },
+    {
+      "skill_name": "Proposing solutions to improve public service quality from a marketing perspective",
+      "category": "Hard Skill",
+      "outcome_description": "Propose solutions to improve the quality of public services from a marketing perspective."
+    },
+    {
+      "skill_name": "Coordinating and collaborating within a team to organize reports and present research results",
+      "category": "Soft Skill",
+      "outcome_description": "Coordinate and collaborate within a team to organize reports and present research results."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "course_id": "CNTT11100",
+  "title": "Blockchain and Application",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Blockchain Concept",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the basic concepts of Blockchain technology including decentralized principles, transparency, security, and immutability."
+    },
+    {
+      "skill_name": "Blockchain Architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the architecture of a block in Blockchain, consensus algorithms such as Proof of Work (PoW) and Proof of Stake (PoS)."
+    },
+    {
+      "skill_name": "Blockchain Development Platforms",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiently use popular Blockchain development platforms like Ethereum, Hyperledger Fabric, and Corda."
+    },
+    {
+      "skill_name": "Smart Contract Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Proficiently use programming languages, libraries, and tools for developing Blockchain with smart contracts."
+    },
+    {
+      "skill_name": "Blockchain Security",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply security measures for Blockchain applications."
+    },
+    {
+      "skill_name": "Blockchain Design with Consensus Algorithms",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in designing Blockchain with consensus algorithms."
+    },
+    {
+      "skill_name": "Blockchain Application Development",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in creating Blockchain applications on platforms like Ethereum, Hyperledger Fabric, and Corda."
+    },
+    {
+      "skill_name": "Blockchain Programming Languages",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in using programming languages, libraries, and tools for Blockchain development with smart contracts."
+    },
+    {
+      "skill_name": "Blockchain Security Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in securing Blockchain applications."
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to independently learn and understand materials to complete assigned tasks."
+    },
+    {
+      "skill_name": "Classroom Discipline",
+      "category": "Soft Skill",
+      "outcome_description": "Develop awareness of classroom discipline, adherence to class rules, and a sense of cooperation and personal responsibility for activities assigned by instructors."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

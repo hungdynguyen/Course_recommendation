@@ -1,0 +1,96 @@
+{
+  "course_id": "CNTT11105",
+  "title": "Cryptography and Information Security",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Symmetric Encryption",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and evaluate methods of symmetric encryption, authentication, and key exchange using key distribution centers."
+    },
+    {
+      "skill_name": "Asymmetric Encryption",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate methods of public key encryption, public key cryptosystems, key management, and public key infrastructure (PKI)."
+    },
+    {
+      "skill_name": "Hash Functions",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate hash functions and digital signature schemes."
+    },
+    {
+      "skill_name": "Digital Signatures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and evaluate digital signature schemes and their applications."
+    },
+    {
+      "skill_name": "Cryptographic Algorithms",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and evaluate cryptographic algorithms including classical substitution and transposition ciphers, stream ciphers, block ciphers, and elliptic curve cryptography."
+    },
+    {
+      "skill_name": "Information Security Threats",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and evaluate information security threats and countermeasures."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply risk management principles in information security."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills to solve problems related to cryptography and information security."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research skills to investigate and analyze cryptographic and information security issues."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to solve complex problems in cryptography and information security."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to learn independently and take responsibility for personal development."
+    },
+    {
+      "skill_name": "Python",
+      "category": "Tool/Software",
+      "outcome_description": "Use Python for cryptographic algorithm implementation and analysis."
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "Tool/Software",
+      "outcome_description": "Use Wireshark for network traffic analysis and security assessment."
+    },
+    {
+      "skill_name": "NordLocker",
+      "category": "Tool/Software",
+      "outcome_description": "Use NordLocker for secure file storage and management."
+    },
+    {
+      "skill_name": "AxCrypt",
+      "category": "Tool/Software",
+      "outcome_description": "Use AxCrypt for secure file sharing and encryption."
+    },
+    {
+      "skill_name": "FolderLock",
+      "category": "Tool/Software",
+      "outcome_description": "Use FolderLock for secure folder protection and access control."
+    },
+    {
+      "skill_name": "AES",
+      "category": "Tool/Software",
+      "outcome_description": "Implement and analyze Advanced Encryption Standard (AES) algorithms."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

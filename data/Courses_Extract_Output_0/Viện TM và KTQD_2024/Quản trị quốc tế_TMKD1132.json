@@ -1,0 +1,37 @@
+{
+  "course_id": "TMKD1132",
+  "title": "International Management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cross-cultural Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand cultural differences and manage diverse teams effectively."
+    },
+    {
+      "skill_name": "Global Business Strategy",
+      "category": "Hard Skill",
+      "outcome_description": "Develop strategic plans for international business operations."
+    },
+    {
+      "skill_name": "International Business Environment",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze global economic trends and their impact on business strategy."
+    },
+    {
+      "skill_name": "Multinational Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Manage multinational corporations and their operations across borders."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "International Business 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

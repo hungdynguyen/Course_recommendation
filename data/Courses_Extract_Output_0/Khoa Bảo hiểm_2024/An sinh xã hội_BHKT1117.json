@@ -1,0 +1,40 @@
+{
+  "course_id": "BHKT1117",
+  "title": "Social Security",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Social Security Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the necessity and role of social security, its concept, nature, and functions."
+    },
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze policies and programs related to social security."
+    },
+    {
+      "skill_name": "Global Social Security Trends",
+      "category": "Hard Skill",
+      "outcome_description": "Identify global trends and experiences in social security planning and implementation."
+    },
+    {
+      "skill_name": "Public Administration",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the principles, bases, and content of public administration concerning social security."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop communication skills necessary for promoting awareness about social security issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

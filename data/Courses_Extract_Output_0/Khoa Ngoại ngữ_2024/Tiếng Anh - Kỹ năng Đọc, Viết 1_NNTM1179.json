@@ -1,0 +1,30 @@
+{
+  "course_id": "Tiếng Anh - Kỹ năng Đọc Viết 1",
+  "title": "English - Reading and Writing Skills 1",
+  "difficulty_level": "Beginner",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to understand texts at B1 and B1+ levels according to the Common European Framework of Reference for Languages."
+    },
+    {
+      "skill_name": "Vocabulary Building",
+      "category": "Soft Skill",
+      "outcome_description": "Students will learn techniques to build their vocabulary effectively."
+    },
+    {
+      "skill_name": "Academic Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Students will develop the ability to write academic paragraphs including introductions, main ideas, supporting details, and conclusions."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

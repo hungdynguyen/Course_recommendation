@@ -1,0 +1,42 @@
+{
+  "course_id": "BHKT1105",
+  "title": "Business Insurance 2",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Risk Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to identify and analyze risks in various insurance sectors."
+    },
+    {
+      "skill_name": "Insurance Operations",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and ability to execute insurance operations including marine, technical, liability, agricultural, and health insurances."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge of legal requirements and compliance in insurance practices."
+    },
+    {
+      "skill_name": "Contract Drafting",
+      "category": "Hard Skill",
+      "outcome_description": "Ability to draft insurance contracts and understand their legal implications."
+    },
+    {
+      "skill_name": "Industry Standards",
+      "category": "Hard Skill",
+      "outcome_description": "Familiarity with industry standards and best practices in insurance."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Business Insurance 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

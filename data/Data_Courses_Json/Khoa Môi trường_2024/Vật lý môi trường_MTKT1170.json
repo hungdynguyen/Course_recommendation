@@ -1,0 +1,80 @@
+{
+  "course_id": "MTKT1170",
+  "title": "Environmental Physics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Physics",
+      "category": "Hard Skill",
+      "outcome_description": "Understand fundamental physics concepts and apply them to environmental issues."
+    },
+    {
+      "skill_name": "Environmental Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze environmental impacts from a physical perspective and propose solutions."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct research, gather data, and present findings on environmental issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve environmental problems using physical principles."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to address environmental challenges."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively communicate environmental issues and solutions."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate environmental issues critically and propose sustainable solutions."
+    },
+    {
+      "skill_name": "Environmental Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the importance of environmental protection and promote awareness."
+    },
+    {
+      "skill_name": "Renewable Energy",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze renewable energy sources and their impact on sustainability."
+    },
+    {
+      "skill_name": "Radiation Safety",
+      "category": "Hard Skill",
+      "outcome_description": "Understand radiation principles and assess radiation safety issues."
+    },
+    {
+      "skill_name": "Acoustic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze sound waves and environmental noise issues."
+    },
+    {
+      "skill_name": "Electromagnetic Waves",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze the impact of electromagnetic waves on the environment."
+    },
+    {
+      "skill_name": "Climate Change",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze climate change factors and propose mitigation strategies."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

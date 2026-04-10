@@ -1,0 +1,47 @@
+{
+  "course_id": "NLQt1125",
+  "title": "Project",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and apply research skills in human resource management."
+    },
+    {
+      "skill_name": "Problem Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate problems within the field of human resource management."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, analyze quantitative and qualitative data using appropriate methodologies."
+    },
+    {
+      "skill_name": "Ethical Research",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical principles in research."
+    },
+    {
+      "skill_name": "Literature Review",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct a comprehensive literature review to identify relevant sources and materials."
+    },
+    {
+      "skill_name": "Report Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Write clear and concise research reports."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Human Resource Management"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "Marketing Valuation",
+  "title": "Định giá thương hiệu",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Brand Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental concepts of brand management."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Comprehend legal aspects related to brand valuation."
+    },
+    {
+      "skill_name": "Valuation Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply various techniques for brand valuation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and solve complex problems related to brand valuation."
+    },
+    {
+      "skill_name": "Research Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research on brand valuation using appropriate methodologies."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Marketing"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Marketing Knowledge",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

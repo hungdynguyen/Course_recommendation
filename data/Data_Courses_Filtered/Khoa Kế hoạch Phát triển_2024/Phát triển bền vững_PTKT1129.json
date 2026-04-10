@@ -1,0 +1,52 @@
+{
+  "course_id": "PTKT1129",
+  "title": "Sustainable Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the concept of sustainable development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the theoretical foundations of sustainable development in the context of globalization, international integration, and climate change."
+    },
+    {
+      "skill_name": "Constructing criteria for evaluating sustainable development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand how to construct evaluation criteria for sustainable development in Vietnam within the context of globalization, international integration, and climate change."
+    },
+    {
+      "skill_name": "Analyzing economic development processes",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the current state of Vietnam's economic development process from the perspective of sustainable development."
+    },
+    {
+      "skill_name": "Reading, writing, presenting, and debating skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice reading, writing, presenting, and debating skills related to the concepts and evaluation criteria of sustainable development."
+    },
+    {
+      "skill_name": "Critical thinking and problem-solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking and problem-solving skills to identify and address issues related to sustainable development."
+    },
+    {
+      "skill_name": "Self-directed learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-directed learning skills to actively seek out knowledge through reading textbooks, attending lectures, participating in group discussions, and handling situations in class."
+    },
+    {
+      "skill_name": "Collaborative work and leadership",
+      "category": "Soft Skill",
+      "outcome_description": "Develop collaborative work and leadership skills to effectively participate, coordinate, and lead in group activities."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Development Economics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

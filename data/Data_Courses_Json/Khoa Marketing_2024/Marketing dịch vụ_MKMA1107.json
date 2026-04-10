@@ -1,0 +1,55 @@
+{
+  "course_id": "MKMA1107",
+  "title": "Services Marketing",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Marketing",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply marketing principles in service industries, including customer behavior, service management, and marketing mix."
+    },
+    {
+      "skill_name": "Customer Behavior Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze customer behavior in service contexts, including risk perception and satisfaction."
+    },
+    {
+      "skill_name": "Service Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage service operations, including quality measurement and balancing supply and demand."
+    },
+    {
+      "skill_name": "Service Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and implement service strategies, including product, pricing, distribution, and promotion decisions."
+    },
+    {
+      "skill_name": "Service Design",
+      "category": "Soft Skill",
+      "outcome_description": "Design and improve service processes and customer experiences."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate effectively in both written and oral formats, working independently and in teams."
+    },
+    {
+      "skill_name": "Ethical Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply ethical and social responsibility in service marketing."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Integrate knowledge and experience to solve business and marketing problems in service contexts."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

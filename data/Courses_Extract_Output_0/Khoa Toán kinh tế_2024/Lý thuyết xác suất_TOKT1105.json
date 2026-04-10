@@ -1,0 +1,40 @@
+{
+  "course_id": "TOkt1105",
+  "title": "Probability Theory",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Probability Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of probability theory."
+    },
+    {
+      "skill_name": "Random Variables",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and interpret random variables and their distributions."
+    },
+    {
+      "skill_name": "Statistical Distributions",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and utilize common statistical distributions."
+    },
+    {
+      "skill_name": "Multivariate Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply multivariate analysis techniques to solve complex problems."
+    },
+    {
+      "skill_name": "Excel & R",
+      "category": "Tool/Software",
+      "outcome_description": "Use Microsoft Excel and R for practical calculations and simulations."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

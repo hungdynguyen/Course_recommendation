@@ -1,0 +1,58 @@
+{
+  "course_id": "TMQT1145",
+  "title": "E-commerce operation management",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-commerce environment analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and analyze the competitive factors in e-commerce environments."
+    },
+    {
+      "skill_name": "Resource evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate resources for implementing strategies using modern tools and technologies."
+    },
+    {
+      "skill_name": "Product decision-making",
+      "category": "Hard Skill",
+      "outcome_description": "Make informed decisions about products and purchasing methods in e-commerce."
+    },
+    {
+      "skill_name": "Quality management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage product quality in e-commerce operations."
+    },
+    {
+      "skill_name": "Inventory management",
+      "category": "Hard Skill",
+      "outcome_description": "Make inventory decisions in e-commerce settings."
+    },
+    {
+      "skill_name": "Supply chain management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage supply chains in e-commerce contexts."
+    },
+    {
+      "skill_name": "Human resource management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage human resources within e-commerce operations."
+    },
+    {
+      "skill_name": "Customer relationship management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage customer relationships using information technology platforms."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General education courses",
+      "Basic e-commerce courses"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

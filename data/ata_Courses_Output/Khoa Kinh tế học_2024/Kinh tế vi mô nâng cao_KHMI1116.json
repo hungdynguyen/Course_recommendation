@@ -1,0 +1,108 @@
+{
+  "course_id": "KHMI1116",
+  "title": "Advanced Microeconomics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Consumer Choice Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply consumer choice theory"
+    },
+    {
+      "skill_name": "Budget Constraints",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze budget constraints and their effects"
+    },
+    {
+      "skill_name": "Utility Functions",
+      "category": "Hard Skill",
+      "outcome_description": "Apply utility functions to model consumer behavior"
+    },
+    {
+      "skill_name": "Marginal Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Use marginal analysis to make economic decisions"
+    },
+    {
+      "skill_name": "Market Equilibrium",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze market equilibrium under various conditions"
+    },
+    {
+      "skill_name": "Monopoly Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and analyze monopoly markets"
+    },
+    {
+      "skill_name": "Imperfect Competition Models",
+      "category": "Hard Skill",
+      "outcome_description": "Examine models of imperfect competition"
+    },
+    {
+      "skill_name": "Economic Welfare Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate economic welfare using theoretical models"
+    },
+    {
+      "skill_name": "Externalities",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze externalities and their impact on markets"
+    },
+    {
+      "skill_name": "Public Goods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and implications of public goods"
+    },
+    {
+      "skill_name": "Information Asymmetry",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze information asymmetry and its consequences"
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research skills including literature review and data collection"
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve economic problems"
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to complete assignments"
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to learn independently and manage personal study"
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Prepare and deliver effective presentations"
+    },
+    {
+      "skill_name": "Time Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage time effectively to meet deadlines and complete assignments"
+    },
+    {
+      "skill_name": "Academic Integrity",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to academic integrity standards in all work"
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 2",
+      "Macroeconomics 2"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

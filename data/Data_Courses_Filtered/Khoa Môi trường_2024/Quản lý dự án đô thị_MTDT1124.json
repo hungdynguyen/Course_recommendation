@@ -1,0 +1,72 @@
+{
+  "course_id": "MTDT1124",
+  "title": "Urban Project Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Urban Project Management Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic principles and contents of urban project management."
+    },
+    {
+      "skill_name": "Urban Project Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze urban projects from economic, financial, and technical perspectives."
+    },
+    {
+      "skill_name": "Urban Project Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Plan and develop urban projects."
+    },
+    {
+      "skill_name": "Urban Project Bidding",
+      "category": "Hard Skill",
+      "outcome_description": "Manage bidding processes for urban projects."
+    },
+    {
+      "skill_name": "Urban Project Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage risks associated with urban projects."
+    },
+    {
+      "skill_name": "Urban Project Organization Management",
+      "category": "Hard Skill",
+      "outcome_description": "Organize and manage human resources for urban projects."
+    },
+    {
+      "skill_name": "Urban Project Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate urban projects during implementation."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities and accumulate experience to enhance professional expertise."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to solve problems in urban project management."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and collaboratively to solve assigned tasks."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Present group presentations effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

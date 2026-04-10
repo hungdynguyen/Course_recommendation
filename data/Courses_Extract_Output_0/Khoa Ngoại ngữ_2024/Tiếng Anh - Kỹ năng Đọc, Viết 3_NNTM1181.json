@@ -1,0 +1,47 @@
+{
+  "course_id": "Tiếng Anh - Kỹ năng Đọc Viết 3",
+  "title": "English - Reading and Writing Skills 3",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Develop advanced reading comprehension skills at levels B2 to C1 according to the Common European Framework of Reference."
+    },
+    {
+      "skill_name": "Vocabulary Building",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance vocabulary acquisition through a variety of rich sources and apply these skills in practical contexts."
+    },
+    {
+      "skill_name": "Academic Writing",
+      "category": "Soft Skill",
+      "outcome_description": "Master advanced writing skills suitable for academic and professional settings, including essay writing and data interpretation."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Improve critical thinking abilities by analyzing complex topics and applying logical reasoning."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Tiếng Anh - Kỹ năng Đọc Viết 1",
+      "Tiếng Anh - Kỹ năng Đọc Viết 2"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Reading Comprehension",
+        "minimum_proficiency_level": 5
+      },
+      {
+        "skill_name": "Basic Writing Skills",
+        "minimum_proficiency_level": 5
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

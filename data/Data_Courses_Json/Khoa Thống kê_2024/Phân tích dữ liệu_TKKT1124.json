@@ -1,0 +1,72 @@
+{
+  "course_id": "TKKT1124",
+  "title": "Phân tích dữ liệu",
+  "difficulty_level": "Advanced",
+  "duration": "3TC",
+  "skill_outcomes": [
+    {
+      "skill_name": "Data Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply modern data analysis methods for both quantitative and qualitative data."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Proficient in using statistical software for data analysis."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and interpret results from data analysis models."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Construct and implement data analysis models in real-world scenarios."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Present results from data analysis models effectively."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively in groups to solve data analysis problems."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop the ability to learn independently and conduct self-research."
+    },
+    {
+      "skill_name": "Ethical Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Understand social context and professional ethics."
+    },
+    {
+      "skill_name": "Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Make decisions based on scientific evidence derived from data analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Lý thuyết thống kê",
+      "Thống kê trong kinh tế và kinh doanh"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Statistics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

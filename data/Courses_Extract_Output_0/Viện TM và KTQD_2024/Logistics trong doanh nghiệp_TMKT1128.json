@@ -1,0 +1,41 @@
+{
+  "course_id": "TMKT1145",
+  "title": "Business Logistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts of logistics management."
+    },
+    {
+      "skill_name": "Strategic Decision Making",
+      "category": "Soft Skill",
+      "outcome_description": "Develop strategic decision-making skills in logistics business management."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze market trends and develop marketing strategies."
+    },
+    {
+      "skill_name": "Operational Decisions",
+      "category": "Soft Skill",
+      "outcome_description": "Make operational decisions for logistics businesses."
+    },
+    {
+      "skill_name": "Organizational Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage organizational structures and human resources effectively."
+    },
+    {
+      "skill_name": "Financial Management",
+      "category": "Soft Skill",
+      "outcome_description": "Implement financial management practices in logistics business."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

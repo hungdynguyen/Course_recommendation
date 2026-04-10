@@ -1,0 +1,55 @@
+{
+  "course_id": "LLNL1101",
+  "title": "History of Economic Theories",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Historical Context Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize the historical context of the emergence, development, and succession of economic theory schools."
+    },
+    {
+      "skill_name": "Understanding Succession and Differences",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the inheritance and differences in content and methodology among economic theory schools."
+    },
+    {
+      "skill_name": "Economic Theory Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the achievements and limitations of economic theories and derive theoretical and practical significance."
+    },
+    {
+      "skill_name": "Effective Business Operation Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Gain necessary knowledge for effective operation in a market economy, maximizing profits, and contributing to national economic development."
+    },
+    {
+      "skill_name": "Logical Economic Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop logical economic thinking to enhance research quality and solve practical problems after graduation."
+    },
+    {
+      "skill_name": "Application of Economic Theories",
+      "category": "Soft Skill",
+      "outcome_description": "Apply economic theories to specific conditions, understand current achievements and limitations in economic development, and propose effective solutions."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent work skills and teamwork abilities."
+    },
+    {
+      "skill_name": "Self-Study Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-study abilities to complete assigned tasks and assignments."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

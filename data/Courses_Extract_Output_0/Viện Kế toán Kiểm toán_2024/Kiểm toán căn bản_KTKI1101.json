@@ -1,0 +1,51 @@
+{
+  "course_id": "Kiểm toán căn bản",
+  "title": "Principles of Auditing",
+  "difficulty_level": "Intermediate",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Auditing Principles",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply auditing principles and theories."
+    },
+    {
+      "skill_name": "Audit Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and execute audit plans."
+    },
+    {
+      "skill_name": "Audit Execution",
+      "category": "Hard Skill",
+      "outcome_description": "Execute audit procedures effectively."
+    },
+    {
+      "skill_name": "Audit Reporting",
+      "category": "Hard Skill",
+      "outcome_description": "Prepare accurate and comprehensive audit reports."
+    },
+    {
+      "skill_name": "Professional Ethics",
+      "category": "Soft Skill",
+      "outcome_description": "Adhere to professional ethics in auditing."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Accounting Fundamentals"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Accounting",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Financial Reporting",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

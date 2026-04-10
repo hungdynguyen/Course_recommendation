@@ -1,0 +1,61 @@
+{
+  "course_id": "TNKT1151",
+  "title": "Khởi nghiệp kinh doanh nông nghiệp",
+  "difficulty_level": "Intermediate",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding agricultural business and startup",
+      "category": "Hard Skill",
+      "outcome_description": "Students understand agricultural business and startup concepts."
+    },
+    {
+      "skill_name": "Understanding business ideas and goals in agriculture",
+      "category": "Hard Skill",
+      "outcome_description": "Students comprehend business ideas and goals within agricultural contexts."
+    },
+    {
+      "skill_name": "Market research in agricultural business",
+      "category": "Hard Skill",
+      "outcome_description": "Students learn how to conduct market research for agricultural businesses."
+    },
+    {
+      "skill_name": "Startup planning in agriculture",
+      "category": "Hard Skill",
+      "outcome_description": "Students develop skills to create startup plans for agricultural ventures."
+    },
+    {
+      "skill_name": "Enterprise creation and agricultural business operations",
+      "category": "Hard Skill",
+      "outcome_description": "Students gain knowledge on creating enterprises and managing agricultural businesses."
+    },
+    {
+      "skill_name": "Risk management in agricultural business",
+      "category": "Hard Skill",
+      "outcome_description": "Students learn strategies for managing risks in agricultural businesses."
+    },
+    {
+      "skill_name": "Self-study and research skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students improve their ability to self-study and conduct research."
+    },
+    {
+      "skill_name": "Presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students enhance their presentation skills."
+    },
+    {
+      "skill_name": "Collaborative work skills",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop skills for working collaboratively in teams."
+    },
+    {
+      "skill_name": "Critical thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Students develop critical thinking skills to analyze problems in agricultural startups."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

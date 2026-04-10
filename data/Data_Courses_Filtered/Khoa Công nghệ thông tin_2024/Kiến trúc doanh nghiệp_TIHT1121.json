@@ -1,0 +1,61 @@
+{
+  "course_id": "TIHT1121",
+  "title": "Enterprise Architecture",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding basic concepts and overview of enterprise architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain basic concepts and overview of enterprise architecture."
+    },
+    {
+      "skill_name": "Understanding and explaining typical enterprise architecture standards",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain typical enterprise architecture standards such as IEEE 1471-2000/ISO/IEC 42010, Zachman, and TOGAF."
+    },
+    {
+      "skill_name": "Implementing stages of the enterprise architecture development process based on TOGAF standards",
+      "category": "Hard Skill",
+      "outcome_description": "Implement stages of the enterprise architecture development process based on TOGAF standards."
+    },
+    {
+      "skill_name": "Using the ArchiMate modeling tool for enterprise architecture",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and use the ArchiMate modeling tool for enterprise architecture."
+    },
+    {
+      "skill_name": "Analyzing typical examples of enterprise architecture development",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze typical examples of enterprise architecture development."
+    },
+    {
+      "skill_name": "Developing skills in analysis, planning, and implementation of digital transformation and business restructuring",
+      "category": "Soft Skill",
+      "outcome_description": "Develop skills in analysis, planning, and implementation of digital transformation and business restructuring."
+    },
+    {
+      "skill_name": "Self-study and reading materials on enterprise architecture",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-study and read materials on enterprise architecture."
+    },
+    {
+      "skill_name": "Working independently or actively participating in group activities",
+      "category": "Soft Skill",
+      "outcome_description": "Be able to work independently or actively participate in group activities."
+    },
+    {
+      "skill_name": "Organizing group activities",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to organize group activities."
+    },
+    {
+      "skill_name": "Social responsibility and professional ethics in the field of management information systems",
+      "category": "Soft Skill",
+      "outcome_description": "Have social responsibility and professional ethics in the field of management information systems."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

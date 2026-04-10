@@ -1,0 +1,39 @@
+{
+  "course_id": "KHMA1131",
+  "title": "Quantitative Analysis in Macroeconomics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Econometrics",
+      "category": "Soft Skill",
+      "outcome_description": "Students will be able to apply econometric methods to analyze macroeconomic data."
+    },
+    {
+      "skill_name": "Time Series Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students will learn how to handle and analyze time series data in macroeconomics."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Students will understand and apply regression analysis techniques in macroeconomic studies."
+    },
+    {
+      "skill_name": "Modeling Economic Relationships",
+      "category": "Hard Skill",
+      "outcome_description": "Students will develop the ability to model economic relationships using quantitative methods."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Macroeconomics 1",
+      "Quantitative Economics 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

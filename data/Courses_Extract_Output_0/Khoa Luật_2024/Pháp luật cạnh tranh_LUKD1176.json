@@ -1,0 +1,37 @@
+{
+  "course_id": "LUKD1176",
+  "title": "Law on Competition",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Competition Law",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply fundamental concepts of competition law."
+    },
+    {
+      "skill_name": "Legal Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze legal texts and regulations related to competition law."
+    },
+    {
+      "skill_name": "Regulatory Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Identify and comply with regulations governing competitive behavior."
+    },
+    {
+      "skill_name": "Litigation Process",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and navigate the litigation process in competition law cases."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Commercial Law 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

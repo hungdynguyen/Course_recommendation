@@ -1,0 +1,77 @@
+{
+  "course_id": "TMQT1141",
+  "title": "Kho ngoại quan",
+  "difficulty_level": "Advanced",
+  "duration": "3 credits (45 hours)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Logistics Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and manage logistics operations in bonded warehouses."
+    },
+    {
+      "skill_name": "Customs Compliance",
+      "category": "Hard Skill",
+      "outcome_description": "Apply customs regulations and procedures for bonded warehouses."
+    },
+    {
+      "skill_name": "Economic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze economic impacts of bonded warehouse regulations."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Organize and manage projects related to bonded warehouses."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in group projects and presentations."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Deliver clear and persuasive presentations on bonded warehouse topics."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct independent research and analyze data related to bonded warehouses."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and solve complex problems in bonded warehouse operations."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply legal frameworks governing bonded warehouses."
+    },
+    {
+      "skill_name": "International Trade",
+      "category": "Hard Skill",
+      "outcome_description": "Handle international trade operations involving bonded warehouses."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "General Economics",
+      "Customs Economics 1"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Economics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Customs Procedures",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

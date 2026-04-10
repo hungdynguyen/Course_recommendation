@@ -1,0 +1,56 @@
+{
+  "course_id": "MTKT1135",
+  "title": "Cost-Benefit Analysis",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Cost-Benefit Analysis Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand key concepts and theoretical foundations of cost-benefit analysis."
+    },
+    {
+      "skill_name": "Cost-Benefit Analysis Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Understand steps and techniques used in cost-benefit analysis."
+    },
+    {
+      "skill_name": "Quantitative and Qualitative Analysis Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Apply quantitative and qualitative analysis skills to economic and social data in cost-benefit analysis."
+    },
+    {
+      "skill_name": "Data Interpretation",
+      "category": "Hard Skill",
+      "outcome_description": "Interpret data related to cost-benefit analysis."
+    },
+    {
+      "skill_name": "Risk Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Perform risk analysis in cost-benefit analysis."
+    },
+    {
+      "skill_name": "Effective Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Develop communication skills for discussing, reporting, and presenting cost-benefit analysis results."
+    },
+    {
+      "skill_name": "Independent Study Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent study skills to learn from practical experience."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams and take responsibility for group tasks."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities to accumulate experience in cost-benefit analysis."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

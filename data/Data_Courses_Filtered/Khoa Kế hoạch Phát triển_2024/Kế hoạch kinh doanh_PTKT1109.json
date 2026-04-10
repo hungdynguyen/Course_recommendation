@@ -1,0 +1,117 @@
+{
+  "course_id": "PTKT1109",
+  "title": "Business Planning",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class, 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Planning Concept",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and research scope of business planning."
+    },
+    {
+      "skill_name": "Types of Business Activities",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the types of business activities and their roles."
+    },
+    {
+      "skill_name": "Approach to Business Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and grasp the approach to business planning, its functions and roles."
+    },
+    {
+      "skill_name": "Principles of Business Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Describe the principles of business planning."
+    },
+    {
+      "skill_name": "PDCA Cycle Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply the PDCA cycle in business planning."
+    },
+    {
+      "skill_name": "Classification of Business Plans",
+      "category": "Hard Skill",
+      "outcome_description": "Classify and clarify the characteristics of various business plans including strategic, operational, short-term, medium-term, long-term, comprehensive, and departmental plans."
+    },
+    {
+      "skill_name": "Analysis of Planning Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze planning methods in businesses and the use of KPIs."
+    },
+    {
+      "skill_name": "Marketing Plan Development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content and process of developing a marketing plan in a business."
+    },
+    {
+      "skill_name": "Production and Supply Plan Development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content and process of developing a production and supply plan in a business."
+    },
+    {
+      "skill_name": "Human Resources Plan Development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content and process of developing a human resources plan in a business."
+    },
+    {
+      "skill_name": "Financial Plan Development",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content and process of developing a financial plan in a business."
+    },
+    {
+      "skill_name": "Organization of Plan Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the concept and role of organizing plan implementation in a business."
+    },
+    {
+      "skill_name": "Steps for Organizing Plan Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the steps for organizing plan implementation in a business."
+    },
+    {
+      "skill_name": "Resource Mobilization for Plan Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the methods for mobilizing resources for plan implementation in a business."
+    },
+    {
+      "skill_name": "Tools for Organizing Plan Implementation",
+      "category": "Hard Skill",
+      "outcome_description": "Understand tools for organizing plan implementation such as Gantt charts and PERT diagrams."
+    },
+    {
+      "skill_name": "Environmental Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Select and forecast the processing and analysis of data on the business environment and financial reports to serve as a basis for planning and implementing plans."
+    },
+    {
+      "skill_name": "Group Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice group work skills."
+    },
+    {
+      "skill_name": "Reading, Writing, Presentation, and Debate Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice reading, writing, presentation, and debate skills."
+    },
+    {
+      "skill_name": "Self-Learning and Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning and research skills."
+    },
+    {
+      "skill_name": "Professional Ethics Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Develop awareness of professional ethics and social responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Strategic Development"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

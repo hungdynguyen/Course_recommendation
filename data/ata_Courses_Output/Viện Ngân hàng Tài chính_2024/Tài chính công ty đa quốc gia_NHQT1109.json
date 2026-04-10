@@ -1,0 +1,71 @@
+{
+  "course_id": "NHQT1109",
+  "title": "Multinational Business Finance",
+  "difficulty_level": "Advanced",
+  "duration": "45 credit hours (50 minutes per hour)",
+  "skill_outcomes": [
+    {
+      "skill_name": "Multinational Corporate Finance Fundamentals",
+      "category": "Hard Skill",
+      "outcome_description": "Understand basic issues related to multinational corporate finance activities."
+    },
+    {
+      "skill_name": "Risk Management for Multinationals",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and manage financial risks faced by multinational corporations."
+    },
+    {
+      "skill_name": "International Financial Markets Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate international financial markets and their impact on multinational corporations."
+    },
+    {
+      "skill_name": "Capital Budgeting Techniques",
+      "category": "Hard Skill",
+      "outcome_description": "Apply capital budgeting techniques to multinational investment projects."
+    },
+    {
+      "skill_name": "Working Capital Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage working capital effectively in multinational operations."
+    },
+    {
+      "skill_name": "Cost of Capital Calculation",
+      "category": "Hard Skill",
+      "outcome_description": "Calculate and optimize the cost of capital for multinational companies."
+    },
+    {
+      "skill_name": "Short-term Financing Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Develop short-term financing strategies for multinational operations."
+    },
+    {
+      "skill_name": "Foreign Direct Investment Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze foreign direct investments and mergers & acquisitions in global context."
+    },
+    {
+      "skill_name": "Research and Analytical Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research and analytical skills for complex financial problems."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ability to work independently and manage personal time effectively."
+    },
+    {
+      "skill_name": "Collaborative Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Work collaboratively to solve complex financial problems in a team setting."
+    },
+    {
+      "skill_name": "Self-directed Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Show capacity for self-directed learning and continuous improvement."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

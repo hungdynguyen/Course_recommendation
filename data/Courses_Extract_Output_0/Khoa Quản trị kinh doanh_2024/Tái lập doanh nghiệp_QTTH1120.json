@@ -1,0 +1,33 @@
+{
+  "course_id": "QTTH1120",
+  "title": "Corporate Reengineering",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 90 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Business Process Reengineering",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply principles of business process reengineering."
+    },
+    {
+      "skill_name": "Organizational Restructuring",
+      "category": "Soft Skill",
+      "outcome_description": "Design and implement organizational restructuring strategies."
+    },
+    {
+      "skill_name": "Process Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage business processes effectively."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics 1",
+      "Business Administration 1"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

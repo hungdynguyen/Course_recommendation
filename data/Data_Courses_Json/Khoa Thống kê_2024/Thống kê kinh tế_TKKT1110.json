@@ -1,0 +1,77 @@
+{
+  "course_id": "TKkt1110",
+  "title": "Economic Statistics",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Economic Statistics",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply economic statistics methods and concepts."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Collect, analyze, and interpret economic data."
+    },
+    {
+      "skill_name": "Economic Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Develop and evaluate economic models."
+    },
+    {
+      "skill_name": "Macroeconomic Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze macroeconomic indicators and trends."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Apply critical thinking to economic issues."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Solve economic problems using statistical methods."
+    },
+    {
+      "skill_name": "Economic Forecasting",
+      "category": "Hard Skill",
+      "outcome_description": "Forecast economic trends and outcomes."
+    },
+    {
+      "skill_name": "Statistical Software",
+      "category": "Hard Skill",
+      "outcome_description": "Use statistical software for data analysis."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct research in economic statistics."
+    },
+    {
+      "skill_name": "Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Communicate economic statistics findings effectively."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Mathematics",
+      "Economics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Statistics",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Economics",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "course_id": "TMKT1136",
+  "title": "E-Logistics",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-Commerce",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and apply e-commerce principles in logistics operations."
+    },
+    {
+      "skill_name": "Logistics Management",
+      "category": "Hard Skill",
+      "outcome_description": "Manage logistics operations using digital tools and platforms."
+    },
+    {
+      "skill_name": "Supply Chain Management",
+      "category": "Hard Skill",
+      "outcome_description": "Optimize supply chain processes through digital solutions."
+    },
+    {
+      "skill_name": "Customer Relationship Management",
+      "category": "Soft Skill",
+      "outcome_description": "Implement CRM strategies in e-logistics context."
+    },
+    {
+      "skill_name": "Negotiation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Negotiate contracts and agreements using digital platforms."
+    },
+    {
+      "skill_name": "Data Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze data to solve e-logistics problems."
+    },
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Plan and coordinate resources for e-logistics projects."
+    },
+    {
+      "skill_name": "Legal Knowledge",
+      "category": "Soft Skill",
+      "outcome_description": "Understand legal aspects of e-logistics operations."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Collaborate effectively in e-logistics teams."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Work independently and take responsibility for tasks."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "E-Commerce",
+      "Logistics Management"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Knowledge of Logistics",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Basic Knowledge of E-Commerce",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "course_id": "Development Policy",
+  "title": "Chính sách Phát triển",
+  "difficulty_level": "Advanced",
+  "duration": "One semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Policy Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate development policies using theoretical frameworks."
+    },
+    {
+      "skill_name": "Economic Planning",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply economic planning principles in policy development."
+    },
+    {
+      "skill_name": "Statistical Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize statistical methods to assess policy effectiveness."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Identify and solve problems related to policy implementation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics",
+      "Macroeconomics"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

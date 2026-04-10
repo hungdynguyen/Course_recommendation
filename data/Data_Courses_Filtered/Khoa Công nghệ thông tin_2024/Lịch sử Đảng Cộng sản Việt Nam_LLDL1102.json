@@ -1,0 +1,54 @@
+{
+  "course_id": "LLDL1102",
+  "title": "Vietnam Communist Party History",
+  "difficulty_level": "Advanced",
+  "duration": "30 hours lecture + 60 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Historical Events Understanding",
+      "category": "Hard Skill",
+      "outcome_description": "Understand key historical events related to the Vietnam Communist Party."
+    },
+    {
+      "skill_name": "Party Leadership Role Recognition",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize the role of the Party in leading and developing the country."
+    },
+    {
+      "skill_name": "Systematic Historical Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Develop systematic understanding of historical knowledge about the Party's leadership, struggle, and governance."
+    },
+    {
+      "skill_name": "National Pride and Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Foster national pride and a sense of responsibility for the future of the nation among young generations."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop research, analysis, synthesis, and generalization skills related to the history of the Party."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Practice independent work and teamwork skills."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the ability to self-study and find materials to complete assignments."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Marxism-Leninism Philosophy",
+      "Marxist Political Economy",
+      "Scientific Socialism"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "course_id": "KTKE1101",
+  "title": "Accounting Principles",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Accounting Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic accounting concepts, principles, roles, users, and financial statements."
+    },
+    {
+      "skill_name": "Financial Reporting",
+      "category": "Hard Skill",
+      "outcome_description": "Apply general accounting principles to prepare financial reports."
+    },
+    {
+      "skill_name": "Bookkeeping",
+      "category": "Hard Skill",
+      "outcome_description": "Record and analyze business transactions within an accounting system."
+    },
+    {
+      "skill_name": "Inventory Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Manage and account for inventory in a business."
+    },
+    {
+      "skill_name": "Asset Management",
+      "category": "Hard Skill",
+      "outcome_description": "Account for fixed assets and current assets in financial statements."
+    },
+    {
+      "skill_name": "Liability Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Record and manage liabilities in financial statements."
+    },
+    {
+      "skill_name": "Equity Accounting",
+      "category": "Hard Skill",
+      "outcome_description": "Account for equity components in financial statements."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

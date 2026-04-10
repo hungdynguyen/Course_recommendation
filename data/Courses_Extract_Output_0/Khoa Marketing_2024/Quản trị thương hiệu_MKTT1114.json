@@ -1,0 +1,40 @@
+{
+  "course_id": "Marketing",
+  "title": "Quản trị Thương hiệu",
+  "difficulty_level": "Advanced",
+  "duration": "15 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "Brand Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature and role of brands in business value creation."
+    },
+    {
+      "skill_name": "Marketing Integration",
+      "category": "Hard Skill",
+      "outcome_description": "Integrate marketing activities to implement brand strategies."
+    },
+    {
+      "skill_name": "Brand Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze and evaluate brand strength and propose management decisions."
+    },
+    {
+      "skill_name": "Brand Strategy",
+      "category": "Soft Skill",
+      "outcome_description": "Develop brand strategy and identity."
+    },
+    {
+      "skill_name": "Brand Portfolio Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage, maintain, and expand brand portfolios."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

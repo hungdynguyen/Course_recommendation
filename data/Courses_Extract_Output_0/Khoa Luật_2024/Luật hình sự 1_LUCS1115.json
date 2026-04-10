@@ -1,0 +1,37 @@
+{
+  "course_id": "LUCS1115",
+  "title": "Criminal Law 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Legal Principles",
+      "category": "Soft Skill",
+      "outcome_description": "Understand fundamental legal principles of Vietnamese Criminal Law."
+    },
+    {
+      "skill_name": "Crime Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze crimes and their components according to Vietnamese Criminal Law."
+    },
+    {
+      "skill_name": "Responsibility Determination",
+      "category": "Hard Skill",
+      "outcome_description": "Determine criminal responsibility and penalties based on Vietnamese Criminal Law."
+    },
+    {
+      "skill_name": "Legal Application",
+      "category": "Hard Skill",
+      "outcome_description": "Apply legal knowledge to real-world scenarios involving criminal behavior."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "LUCS1107"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

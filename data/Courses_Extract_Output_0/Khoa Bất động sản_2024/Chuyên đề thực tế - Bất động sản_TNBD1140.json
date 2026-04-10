@@ -1,0 +1,40 @@
+{
+  "course_id": "TNBD1140",
+  "title": "Internship Programme",
+  "difficulty_level": "Beginner",
+  "duration": "4 credits",
+  "skill_outcomes": [
+    {
+      "skill_name": "Practical Experience",
+      "category": "Soft Skill",
+      "outcome_description": "Gain hands-on experience in real-world business activities."
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ability to solve practical problems based on theoretical knowledge."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Enhance research capabilities and apply theoretical knowledge to real-world scenarios."
+    },
+    {
+      "skill_name": "Professional Communication",
+      "category": "Soft Skill",
+      "outcome_description": "Improve communication skills in professional settings."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Strengthen critical thinking abilities through practical applications."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

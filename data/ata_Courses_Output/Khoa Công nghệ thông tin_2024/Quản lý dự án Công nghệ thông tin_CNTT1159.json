@@ -1,0 +1,68 @@
+{
+  "course_id": "CNTT1159",
+  "title": "Information Technology Project Management",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and distinguish basic concepts of IT projects."
+    },
+    {
+      "skill_name": "IT Project Management Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Apply project management knowledge to manage IT projects effectively."
+    },
+    {
+      "skill_name": "Project Manager Functions",
+      "category": "Hard Skill",
+      "outcome_description": "Differentiate functions and responsibilities of a project manager."
+    },
+    {
+      "skill_name": "Interdisciplinary Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize interdisciplinary knowledge for managing IT projects."
+    },
+    {
+      "skill_name": "Practical Application of Project Management Skills",
+      "category": "Hard Skill",
+      "outcome_description": "Apply project management skills to real-world problems."
+    },
+    {
+      "skill_name": "Report Writing and Project Evaluation",
+      "category": "Hard Skill",
+      "outcome_description": "Write reports and evaluate IT projects."
+    },
+    {
+      "skill_name": "Project Management Software Usage",
+      "category": "Tool/Software",
+      "outcome_description": "Practice project management skills using software tools."
+    },
+    {
+      "skill_name": "Self-Learning Ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop ability to learn independently and solve problems."
+    },
+    {
+      "skill_name": "Classroom Discipline Awareness",
+      "category": "Soft Skill",
+      "outcome_description": "Have awareness of classroom discipline and follow class rules."
+    },
+    {
+      "skill_name": "Teamwork and Responsibility",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate teamwork skills and understand personal responsibility."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Introduction to Information Technology - CNTT1116",
+      "System Analysis and Design - CNTT1117"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

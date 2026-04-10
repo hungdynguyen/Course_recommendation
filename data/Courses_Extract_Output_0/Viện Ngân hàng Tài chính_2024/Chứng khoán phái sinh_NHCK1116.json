@@ -1,0 +1,37 @@
+{
+  "course_id": "NHCK1116",
+  "title": "Derivatives",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Financial Derivatives",
+      "category": "Soft Skill",
+      "outcome_description": "Understand basic concepts and strategies of financial derivatives including futures, options, and swaps."
+    },
+    {
+      "skill_name": "Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze derivative markets and apply theoretical knowledge to practical scenarios."
+    },
+    {
+      "skill_name": "Risk Management",
+      "category": "Hard Skill",
+      "outcome_description": "Develop risk management strategies using derivative instruments."
+    },
+    {
+      "skill_name": "Investment Strategies",
+      "category": "Hard Skill",
+      "outcome_description": "Formulate investment strategies that leverage derivative products for profit generation or risk mitigation."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Stock Market"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "course_id": "Economic Institutions",
+  "title": "Economic Institutions",
+  "difficulty_level": "Advanced",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Institutional Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze the impact of institutions on economic behavior."
+    },
+    {
+      "skill_name": "Transaction Cost Theory",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply transaction cost theory."
+    },
+    {
+      "skill_name": "Property Rights",
+      "category": "Hard Skill",
+      "outcome_description": "Examine the role of property rights in economic development."
+    },
+    {
+      "skill_name": "Information Asymmetry",
+      "category": "Hard Skill",
+      "outcome_description": "Evaluate the effects of information asymmetry on economic decisions."
+    },
+    {
+      "skill_name": "Social Capital",
+      "category": "Hard Skill",
+      "outcome_description": "Assess the importance of social capital in economic growth."
+    },
+    {
+      "skill_name": "Corruption Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Critically analyze the causes and consequences of corruption."
+    },
+    {
+      "skill_name": "Policy Evaluation",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate the effectiveness of policies using institutional analysis."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Microeconomics",
+      "Macroeconomics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Economic Theory",
+        "minimum_proficiency_level": 3
+      },
+      {
+        "skill_name": "Research Methods",
+        "minimum_proficiency_level": 3
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

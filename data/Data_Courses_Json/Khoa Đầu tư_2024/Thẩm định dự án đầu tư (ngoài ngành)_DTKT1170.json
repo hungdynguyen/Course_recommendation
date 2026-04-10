@@ -1,0 +1,45 @@
+{
+  "course_id": "DTKT1170",
+  "title": "Thẩm định dự án",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Project Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basic theoretical knowledge about investment projects and project appraisal, including concepts, the necessity, and the role of project appraisal for each economic entity."
+    },
+    {
+      "skill_name": "Financial Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Apply theoretical knowledge in practical project appraisal, including organizing project appraisal work, the contents that need to be appraised, and the methods that can be used to appraise a real investment project."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Possess the skills and abilities to apply knowledge to practice the appraisal of a real investment project."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Have the ability to self-study and understand materials to complete practical assignments related to project appraisal activities."
+    },
+    {
+      "skill_name": "Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Have a sense of discipline in class, follow class rules, have a spirit of cooperation and personal responsibility in completing group assignments related to project appraisal activities, and adapt to the context of globalization and the 4th Industrial Revolution."
+    },
+    {
+      "skill_name": "Legal and Market Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the contents of an investment project proposal, apply appropriate appraisal methods, and evaluate the rationality of the contents proposed in the project, as well as the logic between the contents presented in the real investment project proposal."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

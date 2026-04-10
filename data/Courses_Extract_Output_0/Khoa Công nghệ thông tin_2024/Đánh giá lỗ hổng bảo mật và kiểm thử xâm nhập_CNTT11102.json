@@ -1,0 +1,56 @@
+{
+  "course_id": "628/QĐ/ĐHKTQD",
+  "title": "Phân tích đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+  "difficulty_level": "Advanced",
+  "duration": "Not specified",
+  "skill_outcomes": [
+    {
+      "skill_name": "Information Security Analysis",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to assess and evaluate security vulnerabilities."
+    },
+    {
+      "skill_name": "Penetration Testing",
+      "category": "Hard Skill",
+      "outcome_description": "Knowledge and ability to perform penetration testing."
+    },
+    {
+      "skill_name": "Security Management Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understanding and application of information security management systems."
+    },
+    {
+      "skill_name": "Independent Work",
+      "category": "Soft Skill",
+      "outcome_description": "Capacity to work independently on security assessment projects."
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to collaborate effectively in team settings related to security assessments."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Enhanced critical thinking skills for solving complex security issues."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "None specified"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Computer Skills",
+        "minimum_proficiency_level": 2
+      },
+      {
+        "skill_name": "Fundamentals of Information Security",
+        "minimum_proficiency_level": 2
+      }
+    ]
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

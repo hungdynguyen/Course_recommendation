@@ -1,0 +1,45 @@
+{
+  "course_id": "Public Relations",
+  "title": "Quan hệ Công chúng",
+  "difficulty_level": "Intermediate",
+  "duration": "Full semester",
+  "skill_outcomes": [
+    {
+      "skill_name": "Public Relations Fundamentals",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the nature, role, and functions of public relations."
+    },
+    {
+      "skill_name": "Strategic Management",
+      "category": "Soft Skill",
+      "outcome_description": "Apply strategic management principles to public relations activities."
+    },
+    {
+      "skill_name": "Event Planning",
+      "category": "Soft Skill",
+      "outcome_description": "Plan and execute events effectively."
+    },
+    {
+      "skill_name": "Crisis Management",
+      "category": "Soft Skill",
+      "outcome_description": "Manage crises and communicate effectively during emergencies."
+    },
+    {
+      "skill_name": "Fundraising",
+      "category": "Soft Skill",
+      "outcome_description": "Develop and manage fundraising campaigns."
+    },
+    {
+      "skill_name": "Communication Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Write and present effectively in various contexts."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

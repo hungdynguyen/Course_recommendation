@@ -1,0 +1,45 @@
+{
+  "course_id": "NNTM1179",
+  "title": "English – Reading & Writing Skills 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "English Language Proficiency",
+      "category": "Soft Skill",
+      "outcome_description": "Develop vocabulary and reading/writing skills at B1 and B1+ level according to the European Framework, equivalent to IELTS 5.0-5.5."
+    },
+    {
+      "skill_name": "Reading Comprehension",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to skim and scan texts, identify main ideas, and infer meanings."
+    },
+    {
+      "skill_name": "Writing Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to write academic paragraphs, essays, and summaries."
+    },
+    {
+      "skill_name": "Collaborative Work",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to work in groups and pairs, and participate in discussions."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to self-assess and improve reading and writing skills independently."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Ability to analyze and evaluate information, and form logical arguments."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": false
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

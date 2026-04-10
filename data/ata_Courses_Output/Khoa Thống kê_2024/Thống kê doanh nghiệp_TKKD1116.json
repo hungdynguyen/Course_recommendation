@@ -1,0 +1,56 @@
+{
+  "course_id": "TKkD1116",
+  "title": "Statistics in Enterprises",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding statistical methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the content of various economic index calculation methods."
+    },
+    {
+      "skill_name": "Applying statistical methods",
+      "category": "Hard Skill",
+      "outcome_description": "Apply statistical methods in business production activities."
+    },
+    {
+      "skill_name": "Systematizing characteristics of statistical method application",
+      "category": "Hard Skill",
+      "outcome_description": "Summarize the characteristics of applying statistical methods in real business situations."
+    },
+    {
+      "skill_name": "Selecting appropriate indicators and methods",
+      "category": "Hard Skill",
+      "outcome_description": "Choose suitable indicators and analysis methods for specific business situations."
+    },
+    {
+      "skill_name": "Collecting statistical data",
+      "category": "Hard Skill",
+      "outcome_description": "Possess the ability to collect, process, calculate, and explain statistical indicators within a company."
+    },
+    {
+      "skill_name": "Building and implementing data analysis models",
+      "category": "Hard Skill",
+      "outcome_description": "Construct and organize the implementation of data analysis models in real business scenarios."
+    },
+    {
+      "skill_name": "Active learning and research",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in learning, research, and group work."
+    },
+    {
+      "skill_name": "Proactive problem selection",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in selecting issues, data, and analytical methods."
+    },
+    {
+      "skill_name": "Proactive presentation of research results",
+      "category": "Soft Skill",
+      "outcome_description": "Be proactive in presenting research results."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "TOTKT1103",
+  "title": "Econometrics II",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Econometric Theory",
+      "category": "Soft Skill",
+      "outcome_description": "Understand theoretical foundations of econometrics."
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "Hard Skill",
+      "outcome_description": "Apply statistical models to economic data."
+    },
+    {
+      "skill_name": "Time Series Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze time series data and make forecasts."
+    },
+    {
+      "skill_name": "Regression Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Conduct regression analysis on economic variables."
+    },
+    {
+      "skill_name": "R Programming",
+      "category": "Hard Skill",
+      "outcome_description": "Use R software for econometric modeling."
+    },
+    {
+      "skill_name": "Research Methodology",
+      "category": "Soft Skill",
+      "outcome_description": "Identify pitfalls and biases in econometric research."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Econometrics I"
+    ],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": false
+  }
+}

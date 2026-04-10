@@ -1,0 +1,86 @@
+{
+  "course_id": "TMQT1125",
+  "title": "E-Commerce",
+  "difficulty_level": "Beginner",
+  "duration": "16 weeks",
+  "skill_outcomes": [
+    {
+      "skill_name": "E-Commerce",
+      "category": "Soft Skill",
+      "outcome_description": "Understand the basics of e-commerce, including business models, transaction processes, and the application of information technology and telecommunications in e-commerce."
+    },
+    {
+      "skill_name": "E-Commerce",
+      "category": "Soft Skill",
+      "outcome_description": "Apply knowledge of e-commerce to real-world scenarios, such as transactions with end customers and businesses."
+    },
+    {
+      "skill_name": "E-Commerce",
+      "category": "Soft Skill",
+      "outcome_description": "Analyze and evaluate solutions for implementing e-commerce activities, including hardware, software, electronic payment, and cybersecurity."
+    },
+    {
+      "skill_name": "Information Technology",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and utilize various models of e-commerce transactions, such as B2C, B2B2C, and B2B."
+    },
+    {
+      "skill_name": "Information Technology",
+      "category": "Hard Skill",
+      "outcome_description": "Collect and synthesize information on e-commerce, legal regulations, and reports on e-commerce development."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Develop teamwork skills, including communication, listening, and questioning."
+    },
+    {
+      "skill_name": "Self-Learning",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate the ability to independently accumulate knowledge and experience, and improve professional skills."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and choose appropriate solutions for implementing e-commerce activities."
+    },
+    {
+      "skill_name": "Digital Marketing",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply digital marketing strategies in e-commerce."
+    },
+    {
+      "skill_name": "Cybersecurity",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply cybersecurity measures in e-commerce."
+    },
+    {
+      "skill_name": "Online Payment Systems",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply online payment systems in e-commerce."
+    },
+    {
+      "skill_name": "Government E-Commerce",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply government e-commerce models and infrastructure."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [
+      "Marketing",
+      "Human Resources",
+      "Accounting",
+      "Production",
+      "Logistics"
+    ],
+    "minimum_entry_skills": [
+      {
+        "skill_name": "Basic Business Knowledge",
+        "minimum_proficiency_level": 1
+      }
+    ]
+  }
+}

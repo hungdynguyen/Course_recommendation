@@ -1,0 +1,60 @@
+{
+  "course_id": "NLDS1103",
+  "title": "Population and Development",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Demographic Concepts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and explain demographic concepts, measurement methods, and foundational theories explaining the relationship between population and development."
+    },
+    {
+      "skill_name": "Role of Demographic Research",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the role of demographic research in economic and social development planning, human resource development, and business decision-making."
+    },
+    {
+      "skill_name": "Analyzing Reciprocal Influences",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the reciprocal influences between population and economic and social development based on foundational theories."
+    },
+    {
+      "skill_name": "Major Issues Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Comprehend major issues related to population and development in Vietnam and other countries."
+    },
+    {
+      "skill_name": "Applying Knowledge",
+      "category": "Hard Skill",
+      "outcome_description": "Apply foundational knowledge about population-development and analytical skills to identify, analyze, and evaluate policy adjustments for demographic changes and economic-social development policies."
+    },
+    {
+      "skill_name": "Impact Analysis",
+      "category": "Hard Skill",
+      "outcome_description": "Analyze the impact and role of policies on demographic changes and economic-social development."
+    },
+    {
+      "skill_name": "Information Gathering",
+      "category": "Soft Skill",
+      "outcome_description": "Practice skills in collecting information, analyzing, synthesizing, and solving problems related to population and development in the context of a country, region, or specific field of business."
+    },
+    {
+      "skill_name": "Decision Support",
+      "category": "Soft Skill",
+      "outcome_description": "Support decision-making for economic-social development strategies and human resource development strategies."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Develop critical thinking skills, independent learning, evaluation of activities, and research capabilities on population and its impact on economic-social development at macro and micro levels."
+    }
+  ],
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  },
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

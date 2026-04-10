@@ -1,0 +1,55 @@
+{
+  "course_id": "TNTN1108",
+  "title": "Natural Resources Management 1",
+  "difficulty_level": "Beginner",
+  "duration": "45 hours",
+  "skill_outcomes": [
+    {
+      "skill_name": "Natural Resource Management",
+      "category": "Soft Skill",
+      "outcome_description": "Understand and explain the basic concepts and functions of natural resource management."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Recognize and comply with legal regulations related to natural resource management."
+    },
+    {
+      "skill_name": "Critical Thinking",
+      "category": "Soft Skill",
+      "outcome_description": "Evaluate and analyze the effectiveness of management tools and policies in natural resource management."
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "Soft Skill",
+      "outcome_description": "Work effectively in teams to address issues in natural resource management."
+    },
+    {
+      "skill_name": "Research Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Conduct surveys and investigations on natural resources."
+    },
+    {
+      "skill_name": "Planning and Organizing",
+      "category": "Soft Skill",
+      "outcome_description": "Develop plans and strategies for the conservation, development, and exploitation of natural resources."
+    },
+    {
+      "skill_name": "Data Management",
+      "category": "Soft Skill",
+      "outcome_description": "Create and manage databases for natural resource management."
+    },
+    {
+      "skill_name": "Presentation Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Effectively present findings and solutions related to natural resource management."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  },
+  "entry_requirements": {
+    "prerequisite_courses": [],
+    "minimum_entry_skills": []
+  }
+}

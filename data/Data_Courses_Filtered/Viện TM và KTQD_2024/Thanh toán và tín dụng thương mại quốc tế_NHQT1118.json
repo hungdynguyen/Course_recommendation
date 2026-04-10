@@ -1,0 +1,71 @@
+{
+  "course_id": "NHQT1118",
+  "title": "Payment and Credit in International Trade",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Foreign Exchange Rates",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge about foreign exchange rates in international trade."
+    },
+    {
+      "skill_name": "International Payment Instruments",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge about various payment instruments used in international trade."
+    },
+    {
+      "skill_name": "International Payment Methods",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge about different payment methods in international trade."
+    },
+    {
+      "skill_name": "International Credit Instruments",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge about various credit instruments used in international trade."
+    },
+    {
+      "skill_name": "Negotiable Instruments",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge about negotiable instruments such as bills of exchange and promissory notes."
+    },
+    {
+      "skill_name": "International Trade Contracts",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge about conditions specified in international trade contracts."
+    },
+    {
+      "skill_name": "International Banking Procedures",
+      "category": "Hard Skill",
+      "outcome_description": "Understand and apply knowledge about banking procedures involved in international trade."
+    },
+    {
+      "skill_name": "Independent Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop independent work skills including research, analysis, and problem-solving in international trade contexts."
+    },
+    {
+      "skill_name": "Collaborative Work Skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop collaborative work skills including teamwork, communication, and presentation in international trade contexts."
+    },
+    {
+      "skill_name": "Self-Learning Abilities",
+      "category": "Soft Skill",
+      "outcome_description": "Develop self-learning abilities including time management, critical thinking, and continuous improvement in international trade contexts."
+    },
+    {
+      "skill_name": "Ethical Conduct",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate ethical conduct and responsibility in applying knowledge about international trade."
+    },
+    {
+      "skill_name": "Legal Compliance",
+      "category": "Soft Skill",
+      "outcome_description": "Demonstrate compliance with legal regulations and standards in international trade activities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}

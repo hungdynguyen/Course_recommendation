@@ -1,0 +1,66 @@
+{
+  "course_id": "MKMA1101",
+  "title": "Consumer Behavior",
+  "difficulty_level": "Advanced",
+  "duration": "45 hours in-class + 105 hours self-study",
+  "skill_outcomes": [
+    {
+      "skill_name": "Understanding the subject, content, and importance of consumer behavior research",
+      "category": "Hard Skill",
+      "outcome_description": "Understand the object, content, and significance of consumer behavior research."
+    },
+    {
+      "skill_name": "Grasping basic principles of consumer decision-making process and key factors affecting purchase behavior",
+      "category": "Hard Skill",
+      "outcome_description": "Master the fundamental principles of consumer decision-making process and key factors influencing purchase behavior."
+    },
+    {
+      "skill_name": "Identifying external factors affecting consumer purchase behavior and their mechanisms",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize external factors impacting consumer purchase behavior and understand their mechanisms."
+    },
+    {
+      "skill_name": "Using understanding of external factors to make marketing decisions",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize knowledge of external factors to inform marketing decisions."
+    },
+    {
+      "skill_name": "Identifying internal factors affecting consumer purchase behavior and their mechanisms",
+      "category": "Hard Skill",
+      "outcome_description": "Recognize internal factors impacting consumer purchase behavior and understand their mechanisms."
+    },
+    {
+      "skill_name": "Using understanding of internal factors to make marketing decisions",
+      "category": "Hard Skill",
+      "outcome_description": "Utilize knowledge of internal factors to inform marketing decisions."
+    },
+    {
+      "skill_name": "Analyzing a group of factors affecting consumer purchase behavior for a specific product line and proposing marketing solutions",
+      "category": "Hard Skill",
+      "outcome_description": "Apply learned knowledge to analyze factors affecting consumer purchase behavior for a specific product line and propose marketing solutions."
+    },
+    {
+      "skill_name": "Effective written communication skills",
+      "category": "Soft Skill",
+      "outcome_description": "Develop effective written communication skills."
+    },
+    {
+      "skill_name": "Persuasive professional presentation skills",
+      "category": "Soft Skill",
+      "outcome_description": "Enhance persuasive professional presentation skills."
+    },
+    {
+      "skill_name": "Teamwork skills",
+      "category": "Soft Skill",
+      "outcome_description": "Improve teamwork skills, effectively perform individual tasks within a team, and support other team members."
+    },
+    {
+      "skill_name": "Dynamic, flexible, and friendly team working ability",
+      "category": "Soft Skill",
+      "outcome_description": "Develop dynamic, flexible, and friendly team working abilities."
+    }
+  ],
+  "pedagogy_format": {
+    "has_project": true
+  }
+}
