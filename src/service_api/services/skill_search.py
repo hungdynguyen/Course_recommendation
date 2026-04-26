@@ -28,7 +28,11 @@ class SkillSearchService:
             skill_id, canonical_label, aliases, description, category, score
         """
         vec = self._embedding.encode_single(skill_name).tolist()
-        results = self._es.vector_search(vector=vec, limit=limit)
+        results = self._es.hybrid_search(
+            query_text=skill_name,
+            vector=vec,
+            limit=limit,
+        )
         logger.debug("Search '%s' → %d results", skill_name, len(results))
         return results
 
@@ -50,7 +54,8 @@ class SkillSearchService:
         vecs = self._embedding.encode(skill_names)  # (N, D)
         result: Dict[str, List[Dict]] = {}
         for name, vec in zip(skill_names, vecs):
-            hits = self._es.vector_search(
+            hits = self._es.hybrid_search(
+                query_text=name,
                 vector=vec.tolist(),
                 limit=limit_per_skill,
                 min_score=min_score,

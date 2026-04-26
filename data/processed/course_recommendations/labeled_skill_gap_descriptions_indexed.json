@@ -1,0 +1,1088 @@
+{
+  "created_at": "2026-04-18T10:40:28.959646",
+  "model": "gemini-3-flash-preview",
+  "by_pair_id": {
+    "152": {
+      "corporate banking credit operations": "Competency in managing credit application procedures and risk assessment processes for diverse corporate clients.",
+      "knowledge of cbrc rules": "Familiarity with regulatory frameworks and compliance standards established by the China Banking Regulatory Commission.",
+      "commercial banking laws (mga)": "Understanding of legal regulations and MGA requirements governing commercial banking operations and corporate lending."
+    },
+    "155": {
+      "e-learning product knowledge": "Lack of understanding regarding digital education platforms and features necessary to effectively consult students on various online course offerings.",
+      "english proficiency (ielts 5.5 or equivalent)": "Need for intermediate English skills, specifically IELTS 5.5 level, to effectively communicate and support educational consulting activities."
+    },
+    "171": {
+      "credit operations": "Lack of proficiency in executing banking procedures for loans, fundraising, and post-disbursement management for individual clients.",
+      "risk management": "Need to master credit risk identification and adherence to PGBank's safety regulations for diverse financial products.",
+      "appraisal": "Inability to effectively evaluate customer financial profiles and creditworthiness for personal loan or credit card approvals.",
+      "valuation": "Gap in assessing asset values and collateral worth to ensure accurate loan security and minimize banking losses."
+    },
+    "170": {
+      "legal consultation": "Gap in advising clients on complex property laws and transaction documentation across various Vietnamese real estate project types.",
+      "urban planning knowledge": "Missing understanding of regional development plans and zoning regulations that affect real estate investment safety and profitability.",
+      "feng shui consultation": "Inability to provide spatial orientation and harmonious living advice, a key factor for customers choosing high-end residential properties.",
+      "real estate investment analysis": "Lacking the analytical skills to evaluate ROI and market trends for diverse property portfolios from top Vietnamese developers."
+    },
+    "153": {
+      "accessibility": "Competency in WCAG standards is required to ensure inclusive, compliant user interfaces for premium cybersecurity web and mobile applications.",
+      "security-by-design principles": "Understanding how to integrate security and privacy safeguards directly into the UI/UX design process for secure digital touchpoints.",
+      "fluent in english (written and oral)": "Ability to communicate complex design decisions and collaborate effectively with global stakeholders in professional written and oral English."
+    },
+    "177": {
+      "contracts negotiation": "Lacks proficiency in negotiating payout ratios and drafting agency or service contracts with insurance partners for business operations.",
+      "product promotion": "Missing skills in promoting insurance initiatives and developing incentive programs to boost sales revenue across diverse business channels."
+    },
+    "149": {
+      "sketch": "Proficiency in using Sketch to design professional web interfaces and enterprise dashboards for the sports fashion industry.",
+      "component": "Ability to build and manage reusable UI components to ensure design consistency across web and mobile applications.",
+      "usability": "Competency in evaluating and optimizing the ease of use for complex web application workflows and user journeys.",
+      "accessibility": "Knowledge of web accessibility standards to ensure inclusive digital experiences for a wide range of sports enthusiasts.",
+      "responsive design": "Expertise in creating flexible layouts that provide optimal viewing experiences across various screen sizes and devices."
+    },
+    "168": {
+      "javascript": "Missing proficiency in JavaScript for designing, developing, and maintaining automated test scripts and frameworks for web applications.",
+      "c#": "Lacking C# expertise required to develop and enhance automation scripts for software quality assurance and defect tracking.",
+      "playwright": "Need experience with Playwright to implement and optimize automated UI testing within project-specific software quality frameworks."
+    },
+    "181": {
+      "logistics": "Missing understanding of logistics operations like delivery and warehousing to effectively pitch service solutions to potential GHTK clients.",
+      "fulfillment services": "Need to master fulfillment and supply chain services to propose tailored operational solutions meeting diverse customer business needs."
+    },
+    "188": {
+      "financial analysis": "Missing competency in evaluating P&L and Cash Flow reports to provide actionable financial insights for business management.",
+      "corporate accounting regulations": "Inadequate knowledge of legal accounting frameworks required to maintain compliant internal records and optimize department procedures."
+    },
+    "156": {
+      "financial analysis": "Missing ability to analyze financial reports and accounting figures to assess business performance and manage economic activities effectively."
+    },
+    "195": {
+      "international payment methods": "Knowledge of securing cross-border transactions using L/C, T/T, or D/P within export sales and logistics workflows."
+    },
+    "180": {
+      "mongodb": "Proficiency in utilizing MongoDB for NoSQL database management within backend web application development projects.",
+      "kubernetes": "Experience deploying and managing containerized backend applications within Kubernetes environments and cloud platforms like AWS or GCP.",
+      "go": "Technical knowledge of the GO programming language for developing efficient and scalable backend systems."
+    },
+    "197": {
+      "tiktok marketing": "Lacks proficiency in using TikTok to promote stock investment services and develop a new customer base.",
+      "youtube marketing": "Needs expertise in YouTube content strategies to attract potential investors and expand investment consultation reach.",
+      "technical analysis (ta)": "Lacks competency in interpreting stock charts and technical indicators to provide precise investment timing and stock selection.",
+      "financial analysis (fa)": "Missing the ability to analyze financial statements and market news to guide clients toward sound investment decisions."
+    },
+    "201": {
+      "cad/cam software": "Lack of technical knowledge regarding computer-aided design and manufacturing tools for effective B2B selling to industrial clients.",
+      "cloud computing": "Insufficient understanding of cloud infrastructure and service models required to position enterprise software solutions within modern IT environments."
+    },
+    "198": {
+      "real estate law": "Requires deep understanding of property laws to draft and review complex leasing and purchasing contracts for high-end transactions.",
+      "labor law": "Necessary for providing internal legal counsel and ensuring the company's operational compliance with national employment and labor regulations.",
+      "english proficiency": "Needs fluent reading and writing skills to manage bilingual real estate contracts and communicate with international clients effectively."
+    },
+    "208": {
+      "kubernetes": "Missing proficiency in container orchestration for managing and scaling Java backend applications in cloud-native environments.",
+      "aws": "Lacks experience with Amazon Web Services for deploying, hosting, and managing enterprise-grade backend systems and databases.",
+      "gcp": "Requires knowledge of Google Cloud Platform tools and infrastructure for building and operating cloud-based backend services.",
+      "goc": "Lacks experience with GOC frameworks or operational standards required for LG CNS backend development projects."
+    },
+    "219": {
+      "zalo ads": "Lacking proficiency in deploying and optimizing advertising campaigns specifically on the Zalo platform to reach local audiences.",
+      "ai": "Need to apply artificial intelligence tools to automate marketing activities and improve customer engagement efficiency.",
+      "chatbots": "Missing experience in implementing and managing automated chatbots to streamline customer interactions and support marketing automation."
+    },
+    "221": {
+      "python": "Missing competency in Python for automating recruitment reporting and performing advanced HR data analysis.",
+      "sql": "Lack of SQL skills to query and manage candidate databases or HR information systems effectively.",
+      "aws": "Missing knowledge of AWS cloud platforms for deploying and managing HR-related applications and infrastructure.",
+      "cissp": "Lacks information security expertise required to safeguard recruitment platforms and sensitive candidate information.",
+      "machine learning": "Inability to utilize machine learning for optimizing candidate matching and predicting training program effectiveness."
+    },
+    "223": {
+      "purchase order management": "Competency needed to manage internal purchase orders and organize accounting data efficiently within the administrative workflow.",
+      "inventory management": "Missing ability to perform basic inventory tracking and monitoring as part of the overall internal accounting data management.",
+      "human resources management": "Lacks experience in managing payroll, social insurance procedures, and human resources documentation alongside administrative and accounting tasks."
+    },
+    "224": {
+      "stock investment advice": "Missing the ability to professionally consult clients on stock selection and portfolio management for optimal investment returns.",
+      "trading strategies": "Needs proficiency in designing and implementing systematic buy/sell approaches based on technical analysis and market volatility.",
+      "market analysis": "Lacking skills to evaluate financial data and market trends to provide informed insights for stock recommendations."
+    },
+    "0": {
+      "azure": "Missing proficiency in designing, building, and operating database systems within the Microsoft Azure public cloud environment.",
+      "redshift": "Lacks experience managing and optimizing Amazon Redshift databases for large-scale data engineering and cloud operations.",
+      "bigquery": "Inadequate experience in operating Google BigQuery databases for cloud-based data management and engineering tasks."
+    },
+    "225": {
+      "health insurance": "Understand health policy options and digital consulting to effectively offer coverage through the MIC application.",
+      "auto insurance": "Master motor vehicle insurance product details and policy entry using the app's 100% digital process.",
+      "travel insurance": "Gain proficiency in explaining travel risk coverage and managing online contract signing for travel policies.",
+      "property insurance": "Learn to consult on property protection products and complete data entry tasks via the QR-code system.",
+      "market sales": "Develop techniques to identify potential leads and drive non-life insurance sales in a digital-first environment.",
+      "team management": "Acquire skills to supervise insurance collaborators and manage partner networks to optimize passive income streams."
+    },
+    "226": {
+      "database management": "Lacks proficiency in managing inventory databases to ensure accurate tracking and reporting of warehouse stock movements."
+    },
+    "1": {
+      "n8n": "Ability to design automated test strategies for complex API orchestration workflows and headless logic validation in n8n.",
+      "ai-native": "Proficiency in leveraging artificial intelligence to accelerate test creation and maintain living documentation as a force multiplier.",
+      "ai-augmented daily workflows": "Competency in using AI tools daily to optimize QA analysis, accelerate documentation, and improve technical execution efficiency."
+    },
+    "232": {
+      "salary calculation": "Competency in processing payroll, calculating monthly salaries, and managing deductions based on attendance and labor regulations.",
+      "social insurance procedures": "Expertise in handling statutory social insurance reporting and ensuring legal compliance for health and unemployment benefits.",
+      "accounting principles": "Applying core accounting standards to verify administrative documents and maintain accurate financial records per JD requirements."
+    },
+    "2": {
+      "graphql": "Ability to build and optimize GraphQL APIs for delivering real-time transaction data and price updates.",
+      "kubernetes": "Experience deploying, monitoring, and scaling microservices within Kubernetes environments to ensure high reliability and low latency.",
+      "lock-free programming": "Deep understanding of lock-free programming to optimize performance for critical modules like order books and signal processing.",
+      "log analysis": "Proficiency in log analysis to identify system issues and ensure backend code quality within trading environments.",
+      "production issue resolution": "Competency in quickly resolving critical system outages and performance incidents during high-load peak trading periods.",
+      "cloud services (aws, gcp)": "Experience managing and scaling backend trading infrastructure using cloud service providers like AWS or GCP."
+    },
+    "240": {
+      ".net": "Expertise in .Net to integrate AI-first solutions within modular, production-grade cloud-native banking architectures.",
+      "data pipelines": "Ability to design automated data pipelines that support the continuous improvement and monitoring of advanced AI workloads.",
+      "modern data engineering stacks": "Knowledge of modern data engineering stacks to build foundational architectures for scalable, intelligent agentic banking ecosystems.",
+      "computer vision": "Competency in computer vision to implement advanced AI technologies alongside LLMs for comprehensive agent-driven financial services."
+    },
+    "4": {
+      "google cloud deployment manager": "Ability to automate cloud infrastructure provisioning and management using native Google Cloud Deployment Manager templates.",
+      "go": "Proficiency in the Go programming language for developing automation scripts and managing cloud-native infrastructure tools.",
+      "encryption": "Competency in implementing data encryption best practices to ensure security, compliance, and data protection on GCP.",
+      "disaster recovery strategies": "Experience designing and executing disaster recovery strategies to maintain business continuity and minimize infrastructure downtime."
+    },
+    "253": {
+      "tax regulations knowledge": "Lack of expertise in tax laws and regulations affecting corporate F&B operations and financial compliance.",
+      "intellectual property law": "Missing knowledge of intellectual property laws required for managing trademarks and protecting company-specific brand assets.",
+      "food safety certification processes": "Needs proficiency in legal procedures for obtaining and maintaining food safety certificates required for F&B operations.",
+      "alcohol consumption permit procedures": "Deficiency in handling legal applications and regulatory compliance for alcohol consumption and distribution permits in restaurants."
+    },
+    "257": {
+      "docker": "Competency in containerizing data applications to ensure consistent deployment environments for ETL pipelines and processing tasks.",
+      "ec2": "Ability to provision and manage virtual servers for hosting custom data engineering workloads and scalable computing resources.",
+      "vpc": "Knowledge of designing secure network architectures to protect data pipelines and manage connectivity between cloud-native services.",
+      "ecs/eks": "Proficiency in orchestrating containerized data services and scaling workloads using Amazon ECS or Kubernetes environments.",
+      "rds": "Skill in managing and integrating relational databases within AWS to support structured data storage and processing requirements.",
+      "data lakes": "Expertise in building and maintaining scalable repositories on S3 to store and govern diverse datasets for analytics."
+    },
+    "263": {
+      "material design": "Expertise in Google’s Material Design standards is required to create compliant and intuitive mobile application user interfaces.",
+      "information architecture": "Capability to structure complex content and logical flows to ensure intuitive navigation within mobile application environments.",
+      "design system": "Ability to develop and manage a unified design system to ensure aesthetic consistency and efficiency across mobile product updates."
+    },
+    "9": {
+      "python": "Missing proficiency in Python to automate complex HR data processing and streamline monthly salary calculation workflows.",
+      "sql": "Lacks the ability to use SQL for querying and managing large employee datasets within integrated HR systems.",
+      "aws": "Requires technical competency in utilizing AWS cloud infrastructure to manage and secure digital HR records and applications.",
+      "seo": "Missing skills in SEO to optimize online job advertisements for better visibility and talent attraction.",
+      "lean": "Lacks experience applying Lean methodologies to eliminate administrative waste and improve efficiency in HR operational processes."
+    },
+    "306": {
+      "misa accounting software": "Lacks proficiency in using MISA software to record transactions, manage invoices, and generate financial reports for general accounting duties."
+    },
+    "12": {
+      "docker": "Needs proficiency in using Docker to package and deploy data engineering applications consistently across AWS cloud environments.",
+      "containerization": "Missing experience with containerization strategies to ensure portability and scalability of Python-based ETL workflows and Spark jobs.",
+      "ecs/eks": "Lacks skills in orchestrating containerized applications using AWS ECS or EKS for scalable and managed data processing tasks."
+    },
+    "17": {
+      "powerpoint": "Need skills in PowerPoint to present management accounting reports and financial summaries to the Board of Directors.",
+      "accounting software (fast)": "Requires proficiency in Fast accounting software for processing business transactions, closing entries, and generating accurate financial reports."
+    },
+    "311": {
+      "air & sea logistics solutions": "Requires the ability to develop professional air and sea freight logistics solutions tailored for cross-border e-commerce clients.",
+      "e-commerce platform client insights": "Needs understanding of e-commerce marketplace operations and seller needs to effectively drive business development in Vietnam.",
+      "contract signing administration": "Lacks experience in managing the end-to-end contract execution process and administrative formalities for logistics service agreements."
+    },
+    "7": {
+      "docker": "Lacks experience with containerization for deploying security services and managing environment configurations within the cybersecurity product ecosystem.",
+      "networking (tcp/ip routing, switching)": "Missing foundational knowledge of network protocols and infrastructure necessary for implementing and troubleshooting security solutions at client sites.",
+      "vcenter": "Lacks competency in managing VMware environments to facilitate lab setup and resource management for security product deployments.",
+      "virtualization systems management (full stack)": "Requires comprehensive expertise in virtualization platforms to manage deployment resources and maintain synchronization of cybersecurity product versions."
+    },
+    "315": {
+      "b2b and b2c pharmaceutical sales": "Needs proficiency in managing dual sales cycles for healthcare providers and modern retail distribution channels to meet business goals.",
+      "sales strategy planning": "Requires the ability to design actionable sales plans and promotional programs to effectively achieve allocated revenue targets.",
+      "knowledge of pharmacy channel": "Lacks deep understanding of drug store operations and clinical consulting requirements necessary for the professional Pharma channel."
+    },
+    "14": {
+      "presentation skills": "Competency in clearly presenting requirements documents to stakeholders to support technical understanding of banking system needs.",
+      "technical analysis and solution design": "Ability to evaluate feasibility and propose technical solutions that align business requirements with fintech system capabilities.",
+      "group work and communication skills": "Proficiency in collaborating with cross-functional teams and stakeholders to ensure successful banking project deployment and risk management."
+    },
+    "23": {
+      "python": "Missing proficiency in Python to design and develop automated test scripts for systematic software quality assurance.",
+      "c#": "Lacks the ability to use C# for building and maintaining automation frameworks and scripts within Agile development environments.",
+      "playwright": "Needs competency in Playwright to lead web automation testing and ensure functionality across diverse application environments."
+    },
+    "343": {
+      "html/css": "Proficiency in front-end basics to improve handoff collaboration and ensure technical feasibility of mobile-integrated web interfaces for developers."
+    },
+    "435": {
+      "material design": "Mastering Google’s design system for creating consistent, high-quality mobile app interfaces that meet global platform standards.",
+      "ai": "Leveraging artificial intelligence tools to optimize design workflows and boost creativity in mobile app UI/UX development."
+    },
+    "31": {
+      "real estate industry experience": "Lacks specialized knowledge of the real estate market needed to create industry-specific SEO content for property-focused projects.",
+      "project management": "Needs ability to organize tasks, prioritize stakeholders, and manage timelines for content delivery across multiple website projects.",
+      "managing outsourced content providers": "Requires competency in coordinating external contributors and performing quality control for a high volume of outsourced SEO articles."
+    },
+    "21": {
+      "financial banking operations knowledge": "Understanding essential banking regulations and operational procedures required to manage individual customer accounts and service delivery effectively.",
+      "credit profiling and evaluation": "Analyzing customer financial data and assessing creditworthiness to recommend appropriate credit options according to bank risk standards.",
+      "product advisory": "Developing competency in matching individual customer needs with suitable banking products and services through professional financial consultation."
+    },
+    "35": {
+      "information security governance frameworks": "Lacks expertise in using governance frameworks to align information security strategies with business goals and ISO 27001 requirements.",
+      "compliance management": "Requires the ability to manage and enforce organizational adherence to internal security policies and external regulatory mandates.",
+      "periodic review processes": "Needs competence in executing scheduled audits and reviews to maintain continuous compliance with ISO 27001 certification standards.",
+      "security compliance standards": "Lacks knowledge of specific security standards and protocols necessary for passing external audits and maintaining formal certifications.",
+      "cloud security principles": "Requires understanding of security protocols and risk mitigation strategies specifically designed for cloud-based infrastructure and service delivery."
+    },
+    "320": {
+      "r": "Expertise in R for statistical processing and analyzing system logs to detect information security anomalies.",
+      "tableau": "Proficiency in Tableau for designing dashboards that visualize information security metrics and support executive decision-making.",
+      "qlik": "Competency using Qlik to standardize and visualize data from multiple sources for security operation monitoring.",
+      "machine learning": "Knowledge of Machine Learning to build predictive models and identify security threats within system logs and behavior."
+    },
+    "37": {
+      "jpa": "Proficiency in using JPA for object-relational mapping to manage database interactions within the backend architecture.",
+      "flyway": "Experience with Flyway for database version control and schema migration management in cloud-based environments.",
+      "aws cognito": "Competency in implementing secure user authentication and identity management via AWS Cognito for cloud applications.",
+      "aws ses": "Skill in integrating AWS SES to handle scalable email communications and notifications within the backend.",
+      "digital marketing domain": "Domain-specific knowledge required to develop and optimize backend solutions tailored for digital marketing business needs."
+    },
+    "481": {
+      "salary calculation procedures": "Lacks proficiency in executing systematic payroll workflows, ensuring accurate monthly salary, bonus, and benefit calculations for personnel.",
+      "income tax laws": "Needs understanding of current tax regulations to manage employee income deductions, filing declarations, and performing mandatory year-end settlements."
+    },
+    "453": {
+      "tableau": "Lacks experience in creating visual financial dashboards and automated reporting to support management decisions and internal accounting oversight.",
+      "python": "Missing the ability to automate repetitive accounting tasks and process complex financial datasets within the company's digital transformation.",
+      "sql": "Lacks proficiency in querying internal databases to extract and analyze financial data for accurate reporting and ERP integration."
+    },
+    "39": {
+      ".net": "Proficiency in .Net for architecting robust, modular banking backends that integrate seamlessly with agentic AI systems.",
+      "data pipelines": "Ability to design automated, production-grade data flows that support real-time AI agents and scalable banking ecosystems.",
+      "generative ai": "Mastery of Large Language Models to architect autonomous agents delivering personalized and proactive financial services.",
+      "nlp": "Expertise in Natural Language Processing to enable conversational intelligence and complex text analysis in banking applications.",
+      "computer vision": "Skill in implementing vision-based AI for automated document processing and identity verification within financial services.",
+      "cloud environments (azure, aws, gcp)": "Competency in architecting scalable, cloud-native AI infrastructures across Azure, AWS, or GCP platforms for banking.",
+      "ai workloads optimization": "Ability to enhance performance, security, and cost-efficiency of production-grade AI models in cloud-native environments."
+    },
+    "468": {
+      "access": "Proficiency in using Microsoft Access to manage sales databases and track customer records effectively within sales administration.",
+      "data analysis": "Competency in analyzing sales data to generate insights and support weekly or quarterly reporting for the BOD team.",
+      "reports": "Ability to collect and generate accurate weekly and quarterly sales reports to support administrative and management decision-making.",
+      "interpreting": "Proven experience in verbal interpretation between Chinese and/or English to facilitate communication and support the sales department's needs."
+    },
+    "492": {
+      "microsoft teams": "Needs proficiency in configuring and troubleshooting Microsoft Teams to support enterprise collaboration and end-user communication.",
+      "basic english reading comprehension": "Requires better English skills to understand technical manuals, system messages, and documentation during IT troubleshooting.",
+      "general office software": "Lacks the ability to install, update, and resolve common issues within standard productivity suites like Microsoft Office."
+    },
+    "350": {
+      "web security": "Ability to implement security protocols and protect PHP-based websites from common web vulnerabilities and data breaches.",
+      "node.js": "Experience leveraging Node.js for server-side logic and frontend build tools within a full-stack development environment.",
+      "python": "Competency in Python for backend tasks or scripting to complement the development of scalable and optimized websites."
+    },
+    "509": {
+      "understanding of transportation and logistics": "Lacks foundational knowledge of transport workflows and logistics operations required to consult clients and provide accurate service quotations."
+    },
+    "49": {
+      "cloud platforms": "Proficiency in deploying and managing database systems within cloud environments to ensure scalability for digital transformation projects.",
+      "aws": "Competency in deploying, managing, and optimizing database solutions on the AWS platform, including security and disaster recovery procedures."
+    },
+    "486": {
+      "telesales": "Master phone-based communication and sales techniques to effectively reach and engage potential airline ticket agents and travel partners."
+    },
+    "38": {
+      "financial analysis": "Competency in evaluating business performance reports and financial statements to provide insights into project profitability and fiscal health.",
+      "managerial accounting": "Proficiency in preparing internal reports to support management decisions regarding resource allocation and project-specific financial performance.",
+      "budget management": "Experience in planning and monitoring budgets to ensure project expenditures stay aligned with monthly cash flow forecasts."
+    },
+    "52": {
+      "erp": "Master Enterprise Resource Planning systems to analyze and blueprint complex business processes for large-scale client solutions.",
+      "digital marketing": "Understand digital marketing strategies to support sales opportunities and align client requirements with modern marketing objectives.",
+      "technical writing": "Enhance technical writing capabilities to document clear requirements and user stories for project stakeholders and development teams."
+    },
+    "30": {
+      "aws": "Expertise in deploying and managing database systems on AWS to support scalable digital transformation and cloud-based data workflows.",
+      "cloud platforms": "Experience architecting and maintaining databases across cloud platforms to ensure performance, high availability, and robust disaster recovery solutions."
+    },
+    "523": {
+      "preparing test reports": "Missing the ability to document defect analysis and communicate testing outcomes through structured formal reports for stakeholders.",
+      "python": "Lack of Python scripting skills required to develop test scripts and support testing frameworks in an agile environment."
+    },
+    "57": {
+      "production cost optimization": "Competency in identifying and implementing cost-saving measures for production and operational expenses in manufacturing environments.",
+      "product costing": "Skill in establishing accurate product costs and allocating expenses reasonably according to industrial accounting standards.",
+      "strategic financial analysis for construction/manufacturing": "Ability to analyze financial data and provide strategic insights for decision-making in the construction and manufacturing sectors.",
+      "management of industrial accounting systems": "Proficiency in overseeing complex accounting frameworks and ensuring legal compliance for large-scale industrial or manufacturing operations."
+    },
+    "55": {
+      "mongodb": "Proficiency in MongoDB for managing NoSQL data structures within high-performance backend application architectures.",
+      "kubernetes": "Ability to manage and scale containerized applications using Kubernetes for robust backend service orchestration.",
+      "aws": "Skill in leveraging Amazon Web Services to deploy and maintain scalable cloud-native backend solutions.",
+      "gcp": "Proficiency in Google Cloud Platform services for building and managing modern backend infrastructure and applications.",
+      "go": "Knowledge of the Go language for developing efficient, concurrent backend services to complement the existing Java environment."
+    },
+    "527": {
+      "social insurance": "Lacks knowledge of social insurance regulations and procedures required for managing employee benefits and labor law compliance.",
+      "kpi": "Needs proficiency in developing and monitoring Key Performance Indicators to evaluate employee performance and administrative efficiency."
+    },
+    "64": {
+      "gcp": "Proficiency in designing and operating database management systems within Google Cloud Platform environments.",
+      "azure": "Experience in deploying and managing database architectures on the Microsoft Azure public cloud platform.",
+      "bigquery": "Competency in designing and operating large-scale cloud data warehouses specifically using Google BigQuery."
+    },
+    "528": {
+      "numpy": "Proficiency in numerical computing for efficient financial data manipulation and mathematical modeling within Python-based workflows.",
+      "scikit-learn": "Ability to apply machine learning libraries for trend analysis and simple predictive modeling in liquidity planning.",
+      "r": "Expertise in statistical programming for advanced data analysis, cohort studies, and generating automated fintech business insights.",
+      "okr": "Experience designing and tracking Objectives and Key Results to align performance monitoring with senior management reporting standards.",
+      "agile methodologies": "Knowledge of iterative project management frameworks to streamline data reporting and cross-functional collaboration in dynamic environments."
+    },
+    "552": {
+      "real estate industry knowledge": "Lacks deep understanding of real estate market trends and specific candidate profiles needed for property sales and management.",
+      "okr implementation": "Needs proficiency in setting and tracking recruitment objectives and key results to align with the company's strategic goals.",
+      "advanced recruitment reporting": "Requires skills in creating comprehensive data-driven reports on recruitment status, costs, and efficiency for upper management review.",
+      "database management (ats/crm systems)": "Missing technical ability to optimize candidate databases or ATS/CRM tools for streamlined tracking and faster hiring workflows."
+    },
+    "66": {
+      "aws glue": "Designing and optimizing scalable ETL/ELT pipelines and Spark-based workflows within AWS cloud environments.",
+      "ec2": "Deploying and managing scalable compute instances to support data engineering infrastructure and processing tasks.",
+      "vpc": "Configuring isolated network architectures to secure data pipelines and cloud infrastructure from unauthorized access.",
+      "ecs/eks": "Managing and orchestrating containerized data applications using Amazon's container service or managed Kubernetes clusters.",
+      "iam": "Implementing robust access controls and security policies to protect sensitive data and cloud infrastructure resources."
+    },
+    "67": {
+      "java": "Proficiency in Java for building high-performance system-level applications and control system modules as per requirements.",
+      "multithreading": "Ability to implement multithreading for efficient concurrent execution and synchronization within complex system software.",
+      "parallel processing": "Competency in parallel processing to optimize performance and execute mathematical models for system analysis.",
+      "can": "Practical knowledge of the CAN protocol for reliable hardware-software communication in embedded control systems.",
+      "ethernet": "Skills in Ethernet protocol implementation and socket programming for networking hardware/software communication modules.",
+      "ipcore": "Experience deploying IPCore on hardware platforms to develop and optimize high-performance system-level features.",
+      "fpga": "Proficiency in using FPGA platforms to implement and test hardware-level control logic and system modules."
+    },
+    "560": {
+      "tax laws": "Need to master Vietnamese tax regulations to accurately manage VAT, CIT, and ensure legal invoice compliance.",
+      "fast accounting software": "Requires proficiency in Fast accounting software to process multi-industry transactions, asset tracking, and monthly financial reporting.",
+      "non-resident enterprise income tax (ndit) knowledge": "Lacks specialized knowledge in NDIT declarations required for managing tax obligations related to transactions with Japanese business partners."
+    },
+    "595": {
+      "ai (azure openai and genai)": "Lack of experience integrating generative AI and Azure OpenAI services into cloud-based full-stack applications.",
+      "public cloud (azure, aws)": "Missing proficiency in deploying and managing Java/React applications on Azure or AWS public cloud infrastructures.",
+      "google cloud": "Absence of experience developing and maintaining applications within the Google Cloud Platform environment for cloud domain projects."
+    },
+    "611": {
+      "postgresql": "Lacks proficiency in managing and configuring PostgreSQL databases for core trading systems and enterprise data exploitation tasks.",
+      "sql statements optimization": "Needs experience fine-tuning complex SQL queries to ensure high-performance data retrieval and application troubleshooting in production environments."
+    },
+    "70": {
+      "deploying local and remote notifications": "Missing experience in configuring and managing local and push notifications for iOS and Android within the Expo ecosystem.",
+      "implementing in-app purchases": "Lacks competency in integrating digital payment systems and handling subscription workflows for App Store and Google Play services.",
+      "application quality management and release processes (app store / google play, etc.)": "Requires knowledge of managing app store submissions, compliance guidelines, and the full production release cycle for mobile apps.",
+      "test code writing experience (jest / react native testing library, etc.)": "Needs proficiency in writing automated unit and integration tests for React Native components to ensure stable application releases.",
+      "biome": "Missing familiarity with Biome for high-performance linting and formatting within a modern TypeScript-based mobile development environment."
+    },
+    "753": {
+      "design tokens": "Requires expertise in implementing design tokens to maintain consistency and scalability within complex design systems.",
+      "heuristic evaluation": "Needs proficiency in auditing interfaces against usability principles to ensure intuitive and consistent user experiences.",
+      "a/b testing": "Missing the ability to design and run comparative tests to validate design solutions using data-driven insights.",
+      "ai copilot studio": "Lacks familiarity with AI Copilot Studio to streamline design workflows and integrate AI-powered productivity tools."
+    },
+    "72": {
+      "c#": "Proficiency in designing and developing automated test scripts using the C# programming language for software quality assurance.",
+      "playwright": "Competency in building and maintaining automated UI test frameworks using Playwright to ensure web application reliability.",
+      "performance testing techniques and tools": "Expertise in applying performance testing methodologies and tools to evaluate application speed, stability, and reliability under load."
+    },
+    "754": {
+      "personal income tax laws": "Lacks knowledge of personal income tax regulations required to accurately calculate payroll deductions and ensure statutory compliance for employees."
+    },
+    "68": {
+      "customer onboarding": "Architecture expertise for designing seamless, secure digital account opening and identity verification processes for APAC clients.",
+      "loans": "Proficiency in architecting end-to-end lending solutions and modernization of legacy loan processing systems within core banking.",
+      "compliance": "Ability to integrate mandatory financial regulatory checks and automated compliance monitoring into enterprise solution designs.",
+      "gcp": "Experience designing and migrating financial workloads to Google Cloud Platform to support regional digital transformation initiatives.",
+      "aws": "Technical expertise in leveraging Amazon Web Services to build scalable, secure, and resilient architectures for financial services.",
+      "kubernetes": "Skill in orchestrating containerized microservices to ensure performance and resilience in modernized financial system deployments.",
+      "data governance": "Competency in establishing frameworks for data quality, lifecycle management, and metadata within integrated financial data lakes.",
+      "security protocols": "Proficiency in implementing robust encryption and authentication protocols to safeguard sensitive data in cloud-integrated financial solutions.",
+      "regulatory frameworks (mas, gdpr, pci-dss)": "Knowledge of designing systems that adhere to MAS, GDPR, and PCI-DSS standards for regional financial compliance.",
+      "oracle": "Experience in architecting and optimizing enterprise-grade Oracle database solutions for core banking and financial system modernization.",
+      "mongodb": "Expertise in integrating NoSQL document databases to support flexible, high-performance data storage for modern financial applications.",
+      "cassandra": "Proficiency in managing distributed NoSQL databases for high-availability financial transaction processing and large-scale data ingestion.",
+      "mysql": "Skill in designing and maintaining scalable, open-source relational database architectures for financial service applications and platforms."
+    },
+    "74": {
+      "fast accounting software": "Proficiency in using Fast software to manage construction project costs, financial reporting, and tax compliance as per job requirements."
+    },
+    "71": {
+      "reactive programming": "Mastery of event-driven streams for responsive iOS and Flutter apps, focusing on asynchronous data flow and state management.",
+      "ui testing": "Ability to implement automated interface tests ensuring mobile components perform reliably across diverse user scenarios and devices.",
+      "modern mobile development landscape": "In-depth understanding of current tools, trends, and architectural best practices in the evolving mobile and iOS ecosystem.",
+      "golang": "Technical proficiency in Go to effectively collaborate with and contribute to the existing backend microservice architecture.",
+      "microservices": "Experience navigating domain-oriented, event-driven service architectures to integrate mobile platforms with scalable backend systems.",
+      "devops culture": "Embracing ownership of the full software lifecycle, from design and CI/CD to operating and monitoring services."
+    },
+    "75": {
+      "financial models": "Develop competency in building and using financial models to support project reconciliation and business planning for clients.",
+      "media coordination": "Master coordinating between media teams and clients to ensure campaign deliverables meet requirements and project timelines.",
+      "profit margin management": "Learn to monitor project execution and financial reconciliations to maintain target profit margins throughout the account lifecycle."
+    },
+    "73": {
+      "vue.js": "Proficiency in Vue.js framework is required to complement React expertise for diverse front-end development tasks.",
+      "unit test using jest": "Missing competency in writing automated unit tests with Jest to ensure high-quality, reliable front-end code.",
+      "next.js": "Lack of experience with Next.js for server-side rendering and optimizing React application performance.",
+      "performance-oriented development": "Gap in skills required to optimize front-end performance, ensuring fast load times and efficient resource usage.",
+      "back-end development": "Deficiency in back-end programming knowledge needed to support full-stack collaboration and application architecture.",
+      "aws": "Lack of experience using AWS cloud services for deploying and managing web applications effectively.",
+      "google analytics": "Missing skills in integrating Google Analytics to track user behavior and inform data-driven front-end improvements."
+    },
+    "84": {
+      "next.js": "Proficiency in using Next.js to develop performant, server-side rendered frontend components for modern mobile-web applications.",
+      "cross-browser compatibility": "Ability to ensure consistent UI appearance and functionality across multiple web browsers and mobile platforms.",
+      ".net core apis": "Basic understanding of C# and .NET Core to facilitate backend integration and support API-related development tasks."
+    },
+    "79": {
+      "non-life insurance products": "Proficiency in understanding and explaining diverse non-life insurance coverage options to potential clients and sales teams.",
+      "sales agent training": "Ability to educate and develop sales agents on product knowledge and selling techniques to meet business objectives.",
+      "partner relationship management": "Skill in cultivating and maintaining strategic alliances with banks and partners to drive higher sales productivity."
+    },
+    "78": {
+      "go": "Proficiency in Go is required to develop clean, maintainable microservices for the core network solution's cloud-native platform.",
+      "kubernetes": "Lacks experience designing and maintaining cloud-native services running on Kubernetes within a microservices-based environment.",
+      "helm": "Needs competency using Helm to package and deploy applications onto Kubernetes clusters as part of the cloud infrastructure.",
+      "kafka": "Missing skills in implementing Kafka for distributed messaging and event streaming across the shared microservices architecture.",
+      "cassandra": "Requires experience with Cassandra to manage distributed database storage and high-availability requirements for the cloud platform.",
+      "zookeeper": "Lacks knowledge of using Zookeeper for service coordination and configuration management within complex distributed environments.",
+      "geode": "Needs familiarity with Apache Geode for high-performance, in-memory data management across the distributed cloud-native architecture.",
+      "distributed systems": "Missing expertise in solving complex technical problems and maintaining stability within large-scale distributed systems and architectures."
+    },
+    "87": {
+      "fmea": "Ability to perform Failure Mode and Effects Analysis to identify potential process failures and implement corrective quality actions.",
+      "project-management-tools-jira": "Experience using JIRA for tracking process audits, managing quality tasks, and reporting deviations within PQA project lifecycles."
+    },
+    "90": {
+      "python": "Lacks experience using Python for project management and development support when communicating between Japanese clients and engineering teams.",
+      "wordpress": "Missing technical competency in WordPress CMS to effectively translate requirements and manage web development projects for Japanese stakeholders.",
+      "docker": "Absence of proficiency in Docker infrastructure required to support development environments and bridge-related technical coordination within IT projects."
+    },
+    "85": {
+      "big data technology": "Proficiency in processing large-scale datasets for ride-hailing and food delivery vertical analytics.",
+      "nlp": "Experience implementing Natural Language Processing models to extract insights from text-based customer interactions and data.",
+      "llm": "Competency in deploying Large Language Models for advanced generative AI and text analysis within business workflows.",
+      "vlm": "Expertise in Vision Language Models for multimodal AI applications across diverse business and delivery services."
+    },
+    "98": {
+      "cost management": "Lacking proficiency in forecasting office expenses and managing project budgets as required for efficient administrative operations and reporting."
+    },
+    "102": {
+      "redmine": "Lacks experience using Redmine for tracking project progress, schedules, and quality issues within the software development lifecycle.",
+      "chrome devtools": "Requires proficiency in Chrome DevTools for debugging web applications and performing technical frontend quality assurance checks.",
+      "selenium": "Needs experience implementing and operating automated testing for web applications using Selenium to enhance project quality assurance.",
+      "appium": "Lacks the ability to implement automated testing for mobile applications on iOS and Android using the Appium framework."
+    },
+    "95": {
+      "erp system experience": "Lacks proficiency in using internal ERP software to manage client accounting tasks and update project statuses efficiently.",
+      "corporate income tax (cit) settlement": "Missing the ability to finalize annual CIT settlements and ensure regulatory compliance for diverse SME client portfolios."
+    },
+    "94": {
+      "wordpress": "Expertise in WordPress CMS is required to develop and manage websites for Japanese clients effectively.",
+      "docker": "Proficiency in Docker is missing for managing containerized development environments and ensuring smooth application deployment.",
+      "website development": "Lacks comprehensive skills in website development using HTML, PHP, and CSS to deliver end-to-end technical solutions."
+    },
+    "106": {
+      "google cloud deployment manager": "Missing ability to automate GCP resource provisioning using native infrastructure-as-code templates for scalable and consistent cloud management.",
+      "cloud sdk": "Lacks proficiency in utilizing command-line tools to interact with Google Cloud services and automate infrastructure management workflows.",
+      "python": "Missing scripting expertise required to automate cloud administration tasks and develop custom tools for infrastructure optimization and management.",
+      "go": "Lacks programming competency in Go for building high-performance cloud-native tools and managing complex infrastructure components on GCP."
+    },
+    "103": {
+      "gcp": "Competency in designing and operating database services like BigQuery within the Google Cloud Platform environment.",
+      "azure": "Experience in building and managing database infrastructures specifically within the Microsoft Azure public cloud ecosystem.",
+      "mariadb": "Skills in SQL development and database administration for MariaDB to support robust data engineering operations.",
+      "oracle": "Proficiency in designing, building, and operating Oracle database systems, including cloud-hosted instances like Amazon RDS.",
+      "change management": "Ability to manage DBMS object changes including tables, indexes, views, and procedures during database updates.",
+      "performance tuning": "Expertise in SQL performance tuning to optimize query execution and overall database efficiency across multiple platforms."
+    },
+    "100": {
+      "soap": "Needs competency in integrating SOAP web services for data exchange within iOS mobile applications.",
+      "flutter": "Missing cross-platform mobile development experience using Flutter as an additional framework for product delivery.",
+      "android": "Lacking secondary experience in Android development to support broader mobile application projects within the team.",
+      "cloud services": "Requires knowledge of developing for cloud platforms and integrating cloud-based features into mobile solutions.",
+      "background communication": "Missing experience handling background tasks and communication patterns to ensure seamless iOS app performance."
+    },
+    "108": {
+      "unit tests": "Missing experience in developing unit tests for PHP web applications to ensure high code quality and reliability.",
+      "test automation": "Lack of proficiency in implementing automated testing frameworks and writing test specifications to streamline quality assurance processes.",
+      "ai development": "Inexperience in utilizing AI technologies for software development and integrating AI-based features into web applications."
+    },
+    "121": {
+      "modern architectural styles (microservices, cloud-based, micro-kernel)": "Experience in designing distributed, cloud-integrated microservices for large-scale payment systems is required.",
+      "design patterns (solid, gof, mvvm)": "Competency in applying SOLID and GoF principles to ensure clean, maintainable, and scalable backend code architecture.",
+      "ci/cd tools and practices": "Knowledge of automated build and deployment pipelines to support rapid software delivery in an Agile Scrum environment.",
+      "oracle": "Proficiency in utilizing Oracle databases for high-performance data management within Java-based payment applications.",
+      "ms sql": "Experience in implementing MS SQL database solutions and ORM tools for robust enterprise backend development."
+    },
+    "99": {
+      "python": "Lacks Python proficiency needed to design, develop, and maintain automated test scripts within various quality assurance frameworks.",
+      "c#": "Missing C# competency required to build, develop, and implement automated tests for diverse software applications and projects.",
+      "performance testing techniques and tools": "Lacks expertise in performance testing techniques and tools required to ensure application stability and reliability before deployment."
+    },
+    "125": {
+      "secure coding practices": "Competency in security-first development to protect Flutter applications from vulnerabilities throughout the entire software development lifecycle.",
+      "encryption standards": "Knowledge of implementing secure protocols for data storage and network communication to meet high-security mobile application requirements."
+    },
+    "136": {
+      "english communication skills (average level)": "Needs intermediate English proficiency to communicate effectively with international customers and handle sales inquiries in the showroom."
+    },
+    "142": {
+      "data analysis for facebook ad campaigns": "Lacks proficiency in analyzing campaign metrics and daily spend to optimize Facebook account performance and advertising effectiveness."
+    }
+  },
+  "by_jd_id": {
+    "6952858db27a39886f08ae5f": {
+      "corporate banking credit operations": "Competency in managing credit application procedures and risk assessment processes for diverse corporate clients.",
+      "knowledge of cbrc rules": "Familiarity with regulatory frameworks and compliance standards established by the China Banking Regulatory Commission.",
+      "commercial banking laws (mga)": "Understanding of legal regulations and MGA requirements governing commercial banking operations and corporate lending."
+    },
+    "6965c64eb166038a822e4305": {
+      "e-learning product knowledge": "Lack of understanding regarding digital education platforms and features necessary to effectively consult students on various online course offerings.",
+      "english proficiency (ielts 5.5 or equivalent)": "Need for intermediate English skills, specifically IELTS 5.5 level, to effectively communicate and support educational consulting activities."
+    },
+    "69709a36b166038a822e47dd": {
+      "credit operations": "Lack of proficiency in executing banking procedures for loans, fundraising, and post-disbursement management for individual clients.",
+      "risk management": "Need to master credit risk identification and adherence to PGBank's safety regulations for diverse financial products.",
+      "appraisal": "Inability to effectively evaluate customer financial profiles and creditworthiness for personal loan or credit card approvals.",
+      "valuation": "Gap in assessing asset values and collateral worth to ensure accurate loan security and minimize banking losses."
+    },
+    "6965cf77b166038a822e4324": {
+      "legal consultation": "Gap in advising clients on complex property laws and transaction documentation across various Vietnamese real estate project types.",
+      "urban planning knowledge": "Missing understanding of regional development plans and zoning regulations that affect real estate investment safety and profitability.",
+      "feng shui consultation": "Inability to provide spatial orientation and harmonious living advice, a key factor for customers choosing high-end residential properties.",
+      "real estate investment analysis": "Lacking the analytical skills to evaluate ROI and market trends for diverse property portfolios from top Vietnamese developers."
+    },
+    "695cc30b1fa95d1eeecca0ce": {
+      "accessibility": "Competency in WCAG standards is required to ensure inclusive, compliant user interfaces for premium cybersecurity web and mobile applications.",
+      "security-by-design principles": "Understanding how to integrate security and privacy safeguards directly into the UI/UX design process for secure digital touchpoints.",
+      "fluent in english (written and oral)": "Ability to communicate complex design decisions and collaborate effectively with global stakeholders in professional written and oral English."
+    },
+    "69709c09b166038a822e47e2": {
+      "contracts negotiation": "Lacks proficiency in negotiating payout ratios and drafting agency or service contracts with insurance partners for business operations.",
+      "product promotion": "Missing skills in promoting insurance initiatives and developing incentive programs to boost sales revenue across diverse business channels."
+    },
+    "6970992ab166038a822e47cc": {
+      "sketch": "Proficiency in using Sketch to design professional web interfaces and enterprise dashboards for the sports fashion industry.",
+      "component": "Ability to build and manage reusable UI components to ensure design consistency across web and mobile applications.",
+      "usability": "Competency in evaluating and optimizing the ease of use for complex web application workflows and user journeys.",
+      "accessibility": "Knowledge of web accessibility standards to ensure inclusive digital experiences for a wide range of sports enthusiasts.",
+      "responsive design": "Expertise in creating flexible layouts that provide optimal viewing experiences across various screen sizes and devices."
+    },
+    "695cc6a61fa95d1eeecca0de": {
+      "javascript": "Missing proficiency in JavaScript for designing, developing, and maintaining automated test scripts and frameworks for web applications.",
+      "c#": "Lacking C# expertise required to develop and enhance automation scripts for software quality assurance and defect tracking.",
+      "playwright": "Need experience with Playwright to implement and optimize automated UI testing within project-specific software quality frameworks."
+    },
+    "69709c4eb166038a822e47e6": {
+      "logistics": "Missing understanding of logistics operations like delivery and warehousing to effectively pitch service solutions to potential GHTK clients.",
+      "fulfillment services": "Need to master fulfillment and supply chain services to propose tailored operational solutions meeting diverse customer business needs."
+    },
+    "6952ad90b27a39886f08b059": {
+      "financial analysis": "Missing competency in evaluating P&L and Cash Flow reports to provide actionable financial insights for business management.",
+      "corporate accounting regulations": "Inadequate knowledge of legal accounting frameworks required to maintain compliant internal records and optimize department procedures."
+    },
+    "697b1d2eb166038a822e4d50": {
+      "financial analysis": "Missing ability to analyze financial reports and accounting figures to assess business performance and manage economic activities effectively."
+    },
+    "697b1e91b166038a822e4d59": {
+      "international payment methods": "Knowledge of securing cross-border transactions using L/C, T/T, or D/P within export sales and logistics workflows."
+    },
+    "695cc6a61fa95d1eeecca0e0": {
+      "mongodb": "Proficiency in utilizing MongoDB for NoSQL database management within backend web application development projects.",
+      "kubernetes": "Experience deploying and managing containerized backend applications within Kubernetes environments and cloud platforms like AWS or GCP.",
+      "go": "Technical knowledge of the GO programming language for developing efficient and scalable backend systems."
+    },
+    "6966a59eb166038a822e43ce": {
+      "tiktok marketing": "Lacks proficiency in using TikTok to promote stock investment services and develop a new customer base.",
+      "youtube marketing": "Needs expertise in YouTube content strategies to attract potential investors and expand investment consultation reach.",
+      "technical analysis (ta)": "Lacks competency in interpreting stock charts and technical indicators to provide precise investment timing and stock selection.",
+      "financial analysis (fa)": "Missing the ability to analyze financial statements and market news to guide clients toward sound investment decisions."
+    },
+    "697b1f1eb166038a822e4d5a": {
+      "cad/cam software": "Lack of technical knowledge regarding computer-aided design and manufacturing tools for effective B2B selling to industrial clients.",
+      "cloud computing": "Insufficient understanding of cloud infrastructure and service models required to position enterprise software solutions within modern IT environments."
+    },
+    "6970a53db166038a822e47f9": {
+      "real estate law": "Requires deep understanding of property laws to draft and review complex leasing and purchasing contracts for high-end transactions.",
+      "labor law": "Necessary for providing internal legal counsel and ensuring the company's operational compliance with national employment and labor regulations.",
+      "english proficiency": "Needs fluent reading and writing skills to manage bilingual real estate contracts and communicate with international clients effectively."
+    },
+    "695cc87c1fa95d1eeecca0e3": {
+      "kubernetes": "Missing proficiency in container orchestration for managing and scaling Java backend applications in cloud-native environments.",
+      "aws": "Lacks experience with Amazon Web Services for deploying, hosting, and managing enterprise-grade backend systems and databases.",
+      "gcp": "Requires knowledge of Google Cloud Platform tools and infrastructure for building and operating cloud-based backend services.",
+      "goc": "Lacks experience with GOC frameworks or operational standards required for LG CNS backend development projects."
+    },
+    "6966aa84b166038a822e43f3": {
+      "zalo ads": "Lacking proficiency in deploying and optimizing advertising campaigns specifically on the Zalo platform to reach local audiences.",
+      "ai": "Need to apply artificial intelligence tools to automate marketing activities and improve customer engagement efficiency.",
+      "chatbots": "Missing experience in implementing and managing automated chatbots to streamline customer interactions and support marketing automation."
+    },
+    "6970be22b166038a822e482c": {
+      "python": "Missing competency in Python for automating recruitment reporting and performing advanced HR data analysis.",
+      "sql": "Lack of SQL skills to query and manage candidate databases or HR information systems effectively.",
+      "aws": "Missing knowledge of AWS cloud platforms for deploying and managing HR-related applications and infrastructure.",
+      "cissp": "Lacks information security expertise required to safeguard recruitment platforms and sensitive candidate information.",
+      "machine learning": "Inability to utilize machine learning for optimizing candidate matching and predicting training program effectiveness."
+    },
+    "697b22d6b166038a822e4d5e": {
+      "purchase order management": "Competency needed to manage internal purchase orders and organize accounting data efficiently within the administrative workflow.",
+      "inventory management": "Missing ability to perform basic inventory tracking and monitoring as part of the overall internal accounting data management.",
+      "human resources management": "Lacks experience in managing payroll, social insurance procedures, and human resources documentation alongside administrative and accounting tasks."
+    },
+    "6966b08fb166038a822e43f4": {
+      "stock investment advice": "Missing the ability to professionally consult clients on stock selection and portfolio management for optimal investment returns.",
+      "trading strategies": "Needs proficiency in designing and implementing systematic buy/sell approaches based on technical analysis and market volatility.",
+      "market analysis": "Lacking skills to evaluate financial data and market trends to provide informed insights for stock recommendations."
+    },
+    "695cb6e11fa95d1eeecca0b2": {
+      "azure": "Missing proficiency in designing, building, and operating database systems within the Microsoft Azure public cloud environment.",
+      "redshift": "Lacks experience managing and optimizing Amazon Redshift databases for large-scale data engineering and cloud operations.",
+      "bigquery": "Inadequate experience in operating Google BigQuery databases for cloud-based data management and engineering tasks."
+    },
+    "6970be7cb166038a822e4835": {
+      "health insurance": "Understand health policy options and digital consulting to effectively offer coverage through the MIC application.",
+      "auto insurance": "Master motor vehicle insurance product details and policy entry using the app's 100% digital process.",
+      "travel insurance": "Gain proficiency in explaining travel risk coverage and managing online contract signing for travel policies.",
+      "property insurance": "Learn to consult on property protection products and complete data entry tasks via the QR-code system.",
+      "market sales": "Develop techniques to identify potential leads and drive non-life insurance sales in a digital-first environment.",
+      "team management": "Acquire skills to supervise insurance collaborators and manage partner networks to optimize passive income streams."
+    },
+    "697b2274b166038a822e4d5d": {
+      "database management": "Lacks proficiency in managing inventory databases to ensure accurate tracking and reporting of warehouse stock movements."
+    },
+    "694a8c5247743a24b54ffb04": {
+      "n8n": "Ability to design automated test strategies for complex API orchestration workflows and headless logic validation in n8n.",
+      "ai-native": "Proficiency in leveraging artificial intelligence to accelerate test creation and maintain living documentation as a force multiplier.",
+      "ai-augmented daily workflows": "Competency in using AI tools daily to optimize QA analysis, accelerate documentation, and improve technical execution efficiency."
+    },
+    "6970d1bdb166038a822e4842": {
+      "salary calculation": "Competency in processing payroll, calculating monthly salaries, and managing deductions based on attendance and labor regulations.",
+      "social insurance procedures": "Expertise in handling statutory social insurance reporting and ensuring legal compliance for health and unemployment benefits.",
+      "accounting principles": "Applying core accounting standards to verify administrative documents and maintain accurate financial records per JD requirements."
+    },
+    "696ee8cab166038a822e471f": {
+      "graphql": "Ability to build and optimize GraphQL APIs for delivering real-time transaction data and price updates.",
+      "kubernetes": "Experience deploying, monitoring, and scaling microservices within Kubernetes environments to ensure high reliability and low latency.",
+      "lock-free programming": "Deep understanding of lock-free programming to optimize performance for critical modules like order books and signal processing.",
+      "log analysis": "Proficiency in log analysis to identify system issues and ensure backend code quality within trading environments.",
+      "production issue resolution": "Competency in quickly resolving critical system outages and performance incidents during high-load peak trading periods.",
+      "cloud services (aws, gcp)": "Experience managing and scaling backend trading infrastructure using cloud service providers like AWS or GCP."
+    },
+    "695ccad41fa95d1eeecca0ed": {
+      ".net": "Expertise in .Net to integrate AI-first solutions within modular, production-grade cloud-native banking architectures.",
+      "data pipelines": "Ability to design automated data pipelines that support the continuous improvement and monitoring of advanced AI workloads.",
+      "modern data engineering stacks": "Knowledge of modern data engineering stacks to build foundational architectures for scalable, intelligent agentic banking ecosystems.",
+      "computer vision": "Competency in computer vision to implement advanced AI technologies alongside LLMs for comprehensive agent-driven financial services."
+    },
+    "695cb6e11fa95d1eeecca0b3": {
+      "google cloud deployment manager": "Ability to automate cloud infrastructure provisioning and management using native Google Cloud Deployment Manager templates.",
+      "go": "Proficiency in the Go programming language for developing automation scripts and managing cloud-native infrastructure tools.",
+      "encryption": "Competency in implementing data encryption best practices to ensure security, compliance, and data protection on GCP.",
+      "disaster recovery strategies": "Experience designing and executing disaster recovery strategies to maintain business continuity and minimize infrastructure downtime."
+    },
+    "696770d0b166038a822e4436": {
+      "tax regulations knowledge": "Lack of expertise in tax laws and regulations affecting corporate F&B operations and financial compliance.",
+      "intellectual property law": "Missing knowledge of intellectual property laws required for managing trademarks and protecting company-specific brand assets.",
+      "food safety certification processes": "Needs proficiency in legal procedures for obtaining and maintaining food safety certificates required for F&B operations.",
+      "alcohol consumption permit procedures": "Deficiency in handling legal applications and regulatory compliance for alcohol consumption and distribution permits in restaurants."
+    },
+    "695ccc091fa95d1eeecca0f0": {
+      "docker": "Competency in containerizing data applications to ensure consistent deployment environments for ETL pipelines and processing tasks.",
+      "ec2": "Ability to provision and manage virtual servers for hosting custom data engineering workloads and scalable computing resources.",
+      "vpc": "Knowledge of designing secure network architectures to protect data pipelines and manage connectivity between cloud-native services.",
+      "ecs/eks": "Proficiency in orchestrating containerized data services and scaling workloads using Amazon ECS or Kubernetes environments.",
+      "rds": "Skill in managing and integrating relational databases within AWS to support structured data storage and processing requirements.",
+      "data lakes": "Expertise in building and maintaining scalable repositories on S3 to store and govern diverse datasets for analytics."
+    },
+    "69717685b166038a822e486d": {
+      "material design": "Expertise in Google’s Material Design standards is required to create compliant and intuitive mobile application user interfaces.",
+      "information architecture": "Capability to structure complex content and logical flows to ensure intuitive navigation within mobile application environments.",
+      "design system": "Ability to develop and manage a unified design system to ensure aesthetic consistency and efficiency across mobile product updates."
+    },
+    "697a65cfb166038a822e4d2c": {
+      "python": "Missing proficiency in Python to automate complex HR data processing and streamline monthly salary calculation workflows.",
+      "sql": "Lacks the ability to use SQL for querying and managing large employee datasets within integrated HR systems.",
+      "aws": "Requires technical competency in utilizing AWS cloud infrastructure to manage and secure digital HR records and applications.",
+      "seo": "Missing skills in SEO to optimize online job advertisements for better visibility and talent attraction.",
+      "lean": "Lacks experience applying Lean methodologies to eliminate administrative waste and improve efficiency in HR operational processes."
+    },
+    "6953530eb27a39886f08b33e": {
+      "misa accounting software": "Lacks proficiency in using MISA software to record transactions, manage invoices, and generate financial reports for general accounting duties."
+    },
+    "694a8c5247743a24b54ffb03": {
+      "docker": "Needs proficiency in using Docker to package and deploy data engineering applications consistently across AWS cloud environments.",
+      "containerization": "Missing experience with containerization strategies to ensure portability and scalability of Python-based ETL workflows and Spark jobs.",
+      "ecs/eks": "Lacks skills in orchestrating containerized applications using AWS ECS or EKS for scalable and managed data processing tasks."
+    },
+    "6961d9bbb166038a822e41b1": {
+      "powerpoint": "Need skills in PowerPoint to present management accounting reports and financial summaries to the Board of Directors.",
+      "accounting software (fast)": "Requires proficiency in Fast accounting software for processing business transactions, closing entries, and generating accurate financial reports."
+    },
+    "6971a31cb166038a822e4887": {
+      "air & sea logistics solutions": "Requires the ability to develop professional air and sea freight logistics solutions tailored for cross-border e-commerce clients.",
+      "e-commerce platform client insights": "Needs understanding of e-commerce marketplace operations and seller needs to effectively drive business development in Vietnam.",
+      "contract signing administration": "Lacks experience in managing the end-to-end contract execution process and administrative formalities for logistics service agreements."
+    },
+    "6961e074b166038a822e41c9": {
+      "docker": "Lacks experience with containerization for deploying security services and managing environment configurations within the cybersecurity product ecosystem.",
+      "networking (tcp/ip routing, switching)": "Missing foundational knowledge of network protocols and infrastructure necessary for implementing and troubleshooting security solutions at client sites.",
+      "vcenter": "Lacks competency in managing VMware environments to facilitate lab setup and resource management for security product deployments.",
+      "virtualization systems management (full stack)": "Requires comprehensive expertise in virtualization platforms to manage deployment resources and maintain synchronization of cybersecurity product versions."
+    },
+    "695d6883b166038a822e3e86": {
+      "b2b and b2c pharmaceutical sales": "Needs proficiency in managing dual sales cycles for healthcare providers and modern retail distribution channels to meet business goals.",
+      "sales strategy planning": "Requires the ability to design actionable sales plans and promotional programs to effectively achieve allocated revenue targets.",
+      "knowledge of pharmacy channel": "Lacks deep understanding of drug store operations and clinical consulting requirements necessary for the professional Pharma channel."
+    },
+    "6961e0b5b166038a822e41cb": {
+      "presentation skills": "Competency in clearly presenting requirements documents to stakeholders to support technical understanding of banking system needs.",
+      "technical analysis and solution design": "Ability to evaluate feasibility and propose technical solutions that align business requirements with fintech system capabilities.",
+      "group work and communication skills": "Proficiency in collaborating with cross-functional teams and stakeholders to ensure successful banking project deployment and risk management."
+    },
+    "694a8e0847743a24b54ffb0a": {
+      "python": "Missing proficiency in Python to design and develop automated test scripts for systematic software quality assurance.",
+      "c#": "Lacks the ability to use C# for building and maintaining automation frameworks and scripts within Agile development environments.",
+      "playwright": "Needs competency in Playwright to lead web automation testing and ensure functionality across diverse application environments."
+    },
+    "695d7971b166038a822e3ed5": {
+      "html/css": "Proficiency in front-end basics to improve handoff collaboration and ensure technical feasibility of mobile-integrated web interfaces for developers."
+    },
+    "6954e38cb27a39886f08b65d": {
+      "material design": "Mastering Google’s design system for creating consistent, high-quality mobile app interfaces that meet global platform standards.",
+      "ai": "Leveraging artificial intelligence tools to optimize design workflows and boost creativity in mobile app UI/UX development."
+    },
+    "697b1754b166038a822e4d36": {
+      "real estate industry experience": "Lacks specialized knowledge of the real estate market needed to create industry-specific SEO content for property-focused projects.",
+      "project management": "Needs ability to organize tasks, prioritize stakeholders, and manage timelines for content delivery across multiple website projects.",
+      "managing outsourced content providers": "Requires competency in coordinating external contributors and performing quality control for a high volume of outsourced SEO articles."
+    },
+    "6961e10bb166038a822e41d0": {
+      "financial banking operations knowledge": "Understanding essential banking regulations and operational procedures required to manage individual customer accounts and service delivery effectively.",
+      "credit profiling and evaluation": "Analyzing customer financial data and assessing creditworthiness to recommend appropriate credit options according to bank risk standards.",
+      "product advisory": "Developing competency in matching individual customer needs with suitable banking products and services through professional financial consultation."
+    },
+    "694a8e9e47743a24b54ffb0d": {
+      "information security governance frameworks": "Lacks expertise in using governance frameworks to align information security strategies with business goals and ISO 27001 requirements.",
+      "compliance management": "Requires the ability to manage and enforce organizational adherence to internal security policies and external regulatory mandates.",
+      "periodic review processes": "Needs competence in executing scheduled audits and reviews to maintain continuous compliance with ISO 27001 certification standards.",
+      "security compliance standards": "Lacks knowledge of specific security standards and protocols necessary for passing external audits and maintaining formal certifications.",
+      "cloud security principles": "Requires understanding of security protocols and risk mitigation strategies specifically designed for cloud-based infrastructure and service delivery."
+    },
+    "695d6ed8b166038a822e3e91": {
+      "r": "Expertise in R for statistical processing and analyzing system logs to detect information security anomalies.",
+      "tableau": "Proficiency in Tableau for designing dashboards that visualize information security metrics and support executive decision-making.",
+      "qlik": "Competency using Qlik to standardize and visualize data from multiple sources for security operation monitoring.",
+      "machine learning": "Knowledge of Machine Learning to build predictive models and identify security threats within system logs and behavior."
+    },
+    "695cba711fa95d1eeecca0b9": {
+      "jpa": "Proficiency in using JPA for object-relational mapping to manage database interactions within the backend architecture.",
+      "flyway": "Experience with Flyway for database version control and schema migration management in cloud-based environments.",
+      "aws cognito": "Competency in implementing secure user authentication and identity management via AWS Cognito for cloud applications.",
+      "aws ses": "Skill in integrating AWS SES to handle scalable email communications and notifications within the backend.",
+      "digital marketing domain": "Domain-specific knowledge required to develop and optimize backend solutions tailored for digital marketing business needs."
+    },
+    "696bb0f5b166038a822e4656": {
+      "salary calculation procedures": "Lacks proficiency in executing systematic payroll workflows, ensuring accurate monthly salary, bonus, and benefit calculations for personnel.",
+      "income tax laws": "Needs understanding of current tax regulations to manage employee income deductions, filing declarations, and performing mandatory year-end settlements."
+    },
+    "695f0b7cb166038a822e3fbf": {
+      "tableau": "Lacks experience in creating visual financial dashboards and automated reporting to support management decisions and internal accounting oversight.",
+      "python": "Missing the ability to automate repetitive accounting tasks and process complex financial datasets within the company's digital transformation.",
+      "sql": "Lacks proficiency in querying internal databases to extract and analyze financial data for accurate reporting and ERP integration."
+    },
+    "695cbba01fa95d1eeecca0bb": {
+      ".net": "Proficiency in .Net for architecting robust, modular banking backends that integrate seamlessly with agentic AI systems.",
+      "data pipelines": "Ability to design automated, production-grade data flows that support real-time AI agents and scalable banking ecosystems.",
+      "generative ai": "Mastery of Large Language Models to architect autonomous agents delivering personalized and proactive financial services.",
+      "nlp": "Expertise in Natural Language Processing to enable conversational intelligence and complex text analysis in banking applications.",
+      "computer vision": "Skill in implementing vision-based AI for automated document processing and identity verification within financial services.",
+      "cloud environments (azure, aws, gcp)": "Competency in architecting scalable, cloud-native AI infrastructures across Azure, AWS, or GCP platforms for banking.",
+      "ai workloads optimization": "Ability to enhance performance, security, and cost-efficiency of production-grade AI models in cloud-native environments."
+    },
+    "695b91ceb166038a822e3be6": {
+      "access": "Proficiency in using Microsoft Access to manage sales databases and track customer records effectively within sales administration.",
+      "data analysis": "Competency in analyzing sales data to generate insights and support weekly or quarterly reporting for the BOD team.",
+      "reports": "Ability to collect and generate accurate weekly and quarterly sales reports to support administrative and management decision-making.",
+      "interpreting": "Proven experience in verbal interpretation between Chinese and/or English to facilitate communication and support the sales department's needs."
+    },
+    "695b9796b166038a822e3c2b": {
+      "microsoft teams": "Needs proficiency in configuring and troubleshooting Microsoft Teams to support enterprise collaboration and end-user communication.",
+      "basic english reading comprehension": "Requires better English skills to understand technical manuals, system messages, and documentation during IT troubleshooting.",
+      "general office software": "Lacks the ability to install, update, and resolve common issues within standard productivity suites like Microsoft Office."
+    },
+    "69537327b27a39886f08b40c": {
+      "web security": "Ability to implement security protocols and protect PHP-based websites from common web vulnerabilities and data breaches.",
+      "node.js": "Experience leveraging Node.js for server-side logic and frontend build tools within a full-stack development environment.",
+      "python": "Competency in Python for backend tasks or scripting to complement the development of scalable and optimized websites."
+    },
+    "6920bc688aedb9b957655614": {
+      "understanding of transportation and logistics": "Lacks foundational knowledge of transport workflows and logistics operations required to consult clients and provide accurate service quotations."
+    },
+    "695cbc321fa95d1eeecca0bd": {
+      "cloud platforms": "Proficiency in deploying and managing database systems within cloud environments to ensure scalability for digital transformation projects.",
+      "aws": "Competency in deploying, managing, and optimizing database solutions on the AWS platform, including security and disaster recovery procedures."
+    },
+    "690dedf08aedb9b957654bf2": {
+      "telesales": "Master phone-based communication and sales techniques to effectively reach and engage potential airline ticket agents and travel partners."
+    },
+    "696f058ab166038a822e4742": {
+      "financial analysis": "Competency in evaluating business performance reports and financial statements to provide insights into project profitability and fiscal health.",
+      "managerial accounting": "Proficiency in preparing internal reports to support management decisions regarding resource allocation and project-specific financial performance.",
+      "budget management": "Experience in planning and monitoring budgets to ensure project expenditures stay aligned with monthly cash flow forecasts."
+    },
+    "694a90f547743a24b54ffb12": {
+      "erp": "Master Enterprise Resource Planning systems to analyze and blueprint complex business processes for large-scale client solutions.",
+      "digital marketing": "Understand digital marketing strategies to support sales opportunities and align client requirements with modern marketing objectives.",
+      "technical writing": "Enhance technical writing capabilities to document clear requirements and user stories for project stakeholders and development teams."
+    },
+    "694a8e9e47743a24b54ffb0b": {
+      "aws": "Expertise in deploying and managing database systems on AWS to support scalable digital transformation and cloud-based data workflows.",
+      "cloud platforms": "Experience architecting and maintaining databases across cloud platforms to ensure performance, high availability, and robust disaster recovery solutions."
+    },
+    "693412bb1eeb2ba3cabad8a1": {
+      "preparing test reports": "Missing the ability to document defect analysis and communicate testing outcomes through structured formal reports for stakeholders.",
+      "python": "Lack of Python scripting skills required to develop test scripts and support testing frameworks in an agile environment."
+    },
+    "696fca2cb166038a822e4750": {
+      "production cost optimization": "Competency in identifying and implementing cost-saving measures for production and operational expenses in manufacturing environments.",
+      "product costing": "Skill in establishing accurate product costs and allocating expenses reasonably according to industrial accounting standards.",
+      "strategic financial analysis for construction/manufacturing": "Ability to analyze financial data and provide strategic insights for decision-making in the construction and manufacturing sectors.",
+      "management of industrial accounting systems": "Proficiency in overseeing complex accounting frameworks and ensuring legal compliance for large-scale industrial or manufacturing operations."
+    },
+    "695cbcbd1fa95d1eeecca0be": {
+      "mongodb": "Proficiency in MongoDB for managing NoSQL data structures within high-performance backend application architectures.",
+      "kubernetes": "Ability to manage and scale containerized applications using Kubernetes for robust backend service orchestration.",
+      "aws": "Skill in leveraging Amazon Web Services to deploy and maintain scalable cloud-native backend solutions.",
+      "gcp": "Proficiency in Google Cloud Platform services for building and managing modern backend infrastructure and applications.",
+      "go": "Knowledge of the Go language for developing efficient, concurrent backend services to complement the existing Java environment."
+    },
+    "693439e51eeb2ba3cabada66": {
+      "social insurance": "Lacks knowledge of social insurance regulations and procedures required for managing employee benefits and labor law compliance.",
+      "kpi": "Needs proficiency in developing and monitoring Key Performance Indicators to evaluate employee performance and administrative efficiency."
+    },
+    "69637f9d57a0f8cfb910e921": {
+      "gcp": "Proficiency in designing and operating database management systems within Google Cloud Platform environments.",
+      "azure": "Experience in deploying and managing database architectures on the Microsoft Azure public cloud platform.",
+      "bigquery": "Competency in designing and operating large-scale cloud data warehouses specifically using Google BigQuery."
+    },
+    "696c7cc3b166038a822e4674": {
+      "numpy": "Proficiency in numerical computing for efficient financial data manipulation and mathematical modeling within Python-based workflows.",
+      "scikit-learn": "Ability to apply machine learning libraries for trend analysis and simple predictive modeling in liquidity planning.",
+      "r": "Expertise in statistical programming for advanced data analysis, cohort studies, and generating automated fintech business insights.",
+      "okr": "Experience designing and tracking Objectives and Key Results to align performance monitoring with senior management reporting standards.",
+      "agile methodologies": "Knowledge of iterative project management frameworks to streamline data reporting and cross-functional collaboration in dynamic environments."
+    },
+    "69770f84b166038a822e48db": {
+      "real estate industry knowledge": "Lacks deep understanding of real estate market trends and specific candidate profiles needed for property sales and management.",
+      "okr implementation": "Needs proficiency in setting and tracking recruitment objectives and key results to align with the company's strategic goals.",
+      "advanced recruitment reporting": "Requires skills in creating comprehensive data-driven reports on recruitment status, costs, and efficiency for upper management review.",
+      "database management (ats/crm systems)": "Missing technical ability to optimize candidate databases or ATS/CRM tools for streamlined tracking and faster hiring workflows."
+    },
+    "695cbcbd1fa95d1eeecca0bf": {
+      "aws glue": "Designing and optimizing scalable ETL/ELT pipelines and Spark-based workflows within AWS cloud environments.",
+      "ec2": "Deploying and managing scalable compute instances to support data engineering infrastructure and processing tasks.",
+      "vpc": "Configuring isolated network architectures to secure data pipelines and cloud infrastructure from unauthorized access.",
+      "ecs/eks": "Managing and orchestrating containerized data applications using Amazon's container service or managed Kubernetes clusters.",
+      "iam": "Implementing robust access controls and security policies to protect sensitive data and cloud infrastructure resources."
+    },
+    "696fcc8eb166038a822e475f": {
+      "java": "Proficiency in Java for building high-performance system-level applications and control system modules as per requirements.",
+      "multithreading": "Ability to implement multithreading for efficient concurrent execution and synchronization within complex system software.",
+      "parallel processing": "Competency in parallel processing to optimize performance and execute mathematical models for system analysis.",
+      "can": "Practical knowledge of the CAN protocol for reliable hardware-software communication in embedded control systems.",
+      "ethernet": "Skills in Ethernet protocol implementation and socket programming for networking hardware/software communication modules.",
+      "ipcore": "Experience deploying IPCore on hardware platforms to develop and optimize high-performance system-level features.",
+      "fpga": "Proficiency in using FPGA platforms to implement and test hardware-level control logic and system modules."
+    },
+    "695fdabab166038a822e406c": {
+      "tax laws": "Need to master Vietnamese tax regulations to accurately manage VAT, CIT, and ensure legal invoice compliance.",
+      "fast accounting software": "Requires proficiency in Fast accounting software to process multi-industry transactions, asset tracking, and monthly financial reporting.",
+      "non-resident enterprise income tax (ndit) knowledge": "Lacks specialized knowledge in NDIT declarations required for managing tax obligations related to transactions with Japanese business partners."
+    },
+    "693c01c68b48e6e0a9d9739d": {
+      "ai (azure openai and genai)": "Lack of experience integrating generative AI and Azure OpenAI services into cloud-based full-stack applications.",
+      "public cloud (azure, aws)": "Missing proficiency in deploying and managing Java/React applications on Azure or AWS public cloud infrastructures.",
+      "google cloud": "Absence of experience developing and maintaining applications within the Google Cloud Platform environment for cloud domain projects."
+    },
+    "693c03818b48e6e0a9d973a0": {
+      "postgresql": "Lacks proficiency in managing and configuring PostgreSQL databases for core trading systems and enterprise data exploitation tasks.",
+      "sql statements optimization": "Needs experience fine-tuning complex SQL queries to ensure high-performance data retrieval and application troubleshooting in production environments."
+    },
+    "6963803557a0f8cfb910e922": {
+      "deploying local and remote notifications": "Missing experience in configuring and managing local and push notifications for iOS and Android within the Expo ecosystem.",
+      "implementing in-app purchases": "Lacks competency in integrating digital payment systems and handling subscription workflows for App Store and Google Play services.",
+      "application quality management and release processes (app store / google play, etc.)": "Requires knowledge of managing app store submissions, compliance guidelines, and the full production release cycle for mobile apps.",
+      "test code writing experience (jest / react native testing library, etc.)": "Needs proficiency in writing automated unit and integration tests for React Native components to ensure stable application releases.",
+      "biome": "Missing familiarity with Biome for high-performance linting and formatting within a modern TypeScript-based mobile development environment."
+    },
+    "693cba5dd19398c89a04ec97": {
+      "design tokens": "Requires expertise in implementing design tokens to maintain consistency and scalability within complex design systems.",
+      "heuristic evaluation": "Needs proficiency in auditing interfaces against usability principles to ensure intuitive and consistent user experiences.",
+      "a/b testing": "Missing the ability to design and run comparative tests to validate design solutions using data-driven insights.",
+      "ai copilot studio": "Lacks familiarity with AI Copilot Studio to streamline design workflows and integrate AI-powered productivity tools."
+    },
+    "6963803557a0f8cfb910e923": {
+      "c#": "Proficiency in designing and developing automated test scripts using the C# programming language for software quality assurance.",
+      "playwright": "Competency in building and maintaining automated UI test frameworks using Playwright to ensure web application reliability.",
+      "performance testing techniques and tools": "Expertise in applying performance testing methodologies and tools to evaluate application speed, stability, and reliability under load."
+    },
+    "69773344b166038a822e49ec": {
+      "personal income tax laws": "Lacks knowledge of personal income tax regulations required to accurately calculate payroll deductions and ensure statutory compliance for employees."
+    },
+    "69637e7057a0f8cfb910e91f": {
+      "customer onboarding": "Architecture expertise for designing seamless, secure digital account opening and identity verification processes for APAC clients.",
+      "loans": "Proficiency in architecting end-to-end lending solutions and modernization of legacy loan processing systems within core banking.",
+      "compliance": "Ability to integrate mandatory financial regulatory checks and automated compliance monitoring into enterprise solution designs.",
+      "gcp": "Experience designing and migrating financial workloads to Google Cloud Platform to support regional digital transformation initiatives.",
+      "aws": "Technical expertise in leveraging Amazon Web Services to build scalable, secure, and resilient architectures for financial services.",
+      "kubernetes": "Skill in orchestrating containerized microservices to ensure performance and resilience in modernized financial system deployments.",
+      "data governance": "Competency in establishing frameworks for data quality, lifecycle management, and metadata within integrated financial data lakes.",
+      "security protocols": "Proficiency in implementing robust encryption and authentication protocols to safeguard sensitive data in cloud-integrated financial solutions.",
+      "regulatory frameworks (mas, gdpr, pci-dss)": "Knowledge of designing systems that adhere to MAS, GDPR, and PCI-DSS standards for regional financial compliance.",
+      "oracle": "Experience in architecting and optimizing enterprise-grade Oracle database solutions for core banking and financial system modernization.",
+      "mongodb": "Expertise in integrating NoSQL document databases to support flexible, high-performance data storage for modern financial applications.",
+      "cassandra": "Proficiency in managing distributed NoSQL databases for high-availability financial transaction processing and large-scale data ingestion.",
+      "mysql": "Skill in designing and maintaining scalable, open-source relational database architectures for financial service applications and platforms."
+    },
+    "696fd023b166038a822e477f": {
+      "fast accounting software": "Proficiency in using Fast software to manage construction project costs, financial reporting, and tax compliance as per job requirements."
+    },
+    "694a92ab47743a24b54ffb16": {
+      "reactive programming": "Mastery of event-driven streams for responsive iOS and Flutter apps, focusing on asynchronous data flow and state management.",
+      "ui testing": "Ability to implement automated interface tests ensuring mobile components perform reliably across diverse user scenarios and devices.",
+      "modern mobile development landscape": "In-depth understanding of current tools, trends, and architectural best practices in the evolving mobile and iOS ecosystem.",
+      "golang": "Technical proficiency in Go to effectively collaborate with and contribute to the existing backend microservice architecture.",
+      "microservices": "Experience navigating domain-oriented, event-driven service architectures to integrate mobile platforms with scalable backend systems.",
+      "devops culture": "Embracing ownership of the full software lifecycle, from design and CI/CD to operating and monitoring services."
+    },
+    "697b19e7b166038a822e4d3f": {
+      "financial models": "Develop competency in building and using financial models to support project reconciliation and business planning for clients.",
+      "media coordination": "Master coordinating between media teams and clients to ensure campaign deliverables meet requirements and project timelines.",
+      "profit margin management": "Learn to monitor project execution and financial reconciliations to maintain target profit margins throughout the account lifecycle."
+    },
+    "695cbe731fa95d1eeecca0c2": {
+      "vue.js": "Proficiency in Vue.js framework is required to complement React expertise for diverse front-end development tasks.",
+      "unit test using jest": "Missing competency in writing automated unit tests with Jest to ensure high-quality, reliable front-end code.",
+      "next.js": "Lack of experience with Next.js for server-side rendering and optimizing React application performance.",
+      "performance-oriented development": "Gap in skills required to optimize front-end performance, ensuring fast load times and efficient resource usage.",
+      "back-end development": "Deficiency in back-end programming knowledge needed to support full-stack collaboration and application architecture.",
+      "aws": "Lack of experience using AWS cloud services for deploying and managing web applications effectively.",
+      "google analytics": "Missing skills in integrating Google Analytics to track user behavior and inform data-driven front-end improvements."
+    },
+    "696380c657a0f8cfb910e925": {
+      "next.js": "Proficiency in using Next.js to develop performant, server-side rendered frontend components for modern mobile-web applications.",
+      "cross-browser compatibility": "Ability to ensure consistent UI appearance and functionality across multiple web browsers and mobile platforms.",
+      ".net core apis": "Basic understanding of C# and .NET Core to facilitate backend integration and support API-related development tasks."
+    },
+    "696fcd1eb166038a822e4765": {
+      "non-life insurance products": "Proficiency in understanding and explaining diverse non-life insurance coverage options to potential clients and sales teams.",
+      "sales agent training": "Ability to educate and develop sales agents on product knowledge and selling techniques to meet business objectives.",
+      "partner relationship management": "Skill in cultivating and maintaining strategic alliances with banks and partners to drive higher sales productivity."
+    },
+    "694a933a47743a24b54ffb17": {
+      "go": "Proficiency in Go is required to develop clean, maintainable microservices for the core network solution's cloud-native platform.",
+      "kubernetes": "Lacks experience designing and maintaining cloud-native services running on Kubernetes within a microservices-based environment.",
+      "helm": "Needs competency using Helm to package and deploy applications onto Kubernetes clusters as part of the cloud infrastructure.",
+      "kafka": "Missing skills in implementing Kafka for distributed messaging and event streaming across the shared microservices architecture.",
+      "cassandra": "Requires experience with Cassandra to manage distributed database storage and high-availability requirements for the cloud platform.",
+      "zookeeper": "Lacks knowledge of using Zookeeper for service coordination and configuration management within complex distributed environments.",
+      "geode": "Needs familiarity with Apache Geode for high-performance, in-memory data management across the distributed cloud-native architecture.",
+      "distributed systems": "Missing expertise in solving complex technical problems and maintaining stability within large-scale distributed systems and architectures."
+    },
+    "6963803557a0f8cfb910e924": {
+      "fmea": "Ability to perform Failure Mode and Effects Analysis to identify potential process failures and implement corrective quality actions.",
+      "project-management-tools-jira": "Experience using JIRA for tracking process audits, managing quality tasks, and reporting deviations within PQA project lifecycles."
+    },
+    "696380c657a0f8cfb910e926": {
+      "python": "Lacks experience using Python for project management and development support when communicating between Japanese clients and engineering teams.",
+      "wordpress": "Missing technical competency in WordPress CMS to effectively translate requirements and manage web development projects for Japanese stakeholders.",
+      "docker": "Absence of proficiency in Docker infrastructure required to support development environments and bridge-related technical coordination within IT projects."
+    },
+    "695cbf031fa95d1eeecca0c4": {
+      "big data technology": "Proficiency in processing large-scale datasets for ride-hailing and food delivery vertical analytics.",
+      "nlp": "Experience implementing Natural Language Processing models to extract insights from text-based customer interactions and data.",
+      "llm": "Competency in deploying Large Language Models for advanced generative AI and text analysis within business workflows.",
+      "vlm": "Expertise in Vision Language Models for multimodal AI applications across diverse business and delivery services."
+    },
+    "697b1a84b166038a822e4d44": {
+      "cost management": "Lacking proficiency in forecasting office expenses and managing project budgets as required for efficient administrative operations and reporting."
+    },
+    "696380c657a0f8cfb910e928": {
+      "redmine": "Lacks experience using Redmine for tracking project progress, schedules, and quality issues within the software development lifecycle.",
+      "chrome devtools": "Requires proficiency in Chrome DevTools for debugging web applications and performing technical frontend quality assurance checks.",
+      "selenium": "Needs experience implementing and operating automated testing for web applications using Selenium to enhance project quality assurance.",
+      "appium": "Lacks the ability to implement automated testing for mobile applications on iOS and Android using the Appium framework."
+    },
+    "69526734b27a39886f08acf3": {
+      "erp system experience": "Lacks proficiency in using internal ERP software to manage client accounting tasks and update project statuses efficiently.",
+      "corporate income tax (cit) settlement": "Missing the ability to finalize annual CIT settlements and ensure regulatory compliance for diverse SME client portfolios."
+    },
+    "696380c657a0f8cfb910e927": {
+      "wordpress": "Expertise in WordPress CMS is required to develop and manage websites for Japanese clients effectively.",
+      "docker": "Proficiency in Docker is missing for managing containerized development environments and ensuring smooth application deployment.",
+      "website development": "Lacks comprehensive skills in website development using HTML, PHP, and CSS to deliver end-to-end technical solutions."
+    },
+    "696380c657a0f8cfb910e929": {
+      "google cloud deployment manager": "Missing ability to automate GCP resource provisioning using native infrastructure-as-code templates for scalable and consistent cloud management.",
+      "cloud sdk": "Lacks proficiency in utilizing command-line tools to interact with Google Cloud services and automate infrastructure management workflows.",
+      "python": "Missing scripting expertise required to automate cloud administration tasks and develop custom tools for infrastructure optimization and management.",
+      "go": "Lacks programming competency in Go for building high-performance cloud-native tools and managing complex infrastructure components on GCP."
+    },
+    "695cc1491fa95d1eeecca0c8": {
+      "gcp": "Competency in designing and operating database services like BigQuery within the Google Cloud Platform environment.",
+      "azure": "Experience in building and managing database infrastructures specifically within the Microsoft Azure public cloud ecosystem.",
+      "mariadb": "Skills in SQL development and database administration for MariaDB to support robust data engineering operations.",
+      "oracle": "Proficiency in designing, building, and operating Oracle database systems, including cloud-hosted instances like Amazon RDS.",
+      "change management": "Ability to manage DBMS object changes including tables, indexes, views, and procedures during database updates.",
+      "performance tuning": "Expertise in SQL performance tuning to optimize query execution and overall database efficiency across multiple platforms."
+    },
+    "696fd8ceb166038a822e4791": {
+      "soap": "Needs competency in integrating SOAP web services for data exchange within iOS mobile applications.",
+      "flutter": "Missing cross-platform mobile development experience using Flutter as an additional framework for product delivery.",
+      "android": "Lacking secondary experience in Android development to support broader mobile application projects within the team.",
+      "cloud services": "Requires knowledge of developing for cloud platforms and integrating cloud-based features into mobile solutions.",
+      "background communication": "Missing experience handling background tasks and communication patterns to ensure seamless iOS app performance."
+    },
+    "69526bd3b27a39886f08ad22": {
+      "unit tests": "Missing experience in developing unit tests for PHP web applications to ensure high code quality and reliability.",
+      "test automation": "Lack of proficiency in implementing automated testing frameworks and writing test specifications to streamline quality assurance processes.",
+      "ai development": "Inexperience in utilizing AI technologies for software development and integrating AI-based features into web applications."
+    },
+    "695cc2751fa95d1eeecca0cb": {
+      "modern architectural styles (microservices, cloud-based, micro-kernel)": "Experience in designing distributed, cloud-integrated microservices for large-scale payment systems is required.",
+      "design patterns (solid, gof, mvvm)": "Competency in applying SOLID and GoF principles to ensure clean, maintainable, and scalable backend code architecture.",
+      "ci/cd tools and practices": "Knowledge of automated build and deployment pipelines to support rapid software delivery in an Agile Scrum environment.",
+      "oracle": "Proficiency in utilizing Oracle databases for high-performance data management within Java-based payment applications.",
+      "ms sql": "Experience in implementing MS SQL database solutions and ORM tools for robust enterprise backend development."
+    },
+    "695cc0241fa95d1eeecca0c7": {
+      "python": "Lacks Python proficiency needed to design, develop, and maintain automated test scripts within various quality assurance frameworks.",
+      "c#": "Missing C# competency required to build, develop, and implement automated tests for diverse software applications and projects.",
+      "performance testing techniques and tools": "Lacks expertise in performance testing techniques and tools required to ensure application stability and reliability before deployment."
+    },
+    "695cc2761fa95d1eeecca0cc": {
+      "secure coding practices": "Competency in security-first development to protect Flutter applications from vulnerabilities throughout the entire software development lifecycle.",
+      "encryption standards": "Knowledge of implementing secure protocols for data storage and network communication to meet high-security mobile application requirements."
+    },
+    "69651066b166038a822e42f3": {
+      "english communication skills (average level)": "Needs intermediate English proficiency to communicate effectively with international customers and handle sales inquiries in the showroom."
+    },
+    "695283c0b27a39886f08ae47": {
+      "data analysis for facebook ad campaigns": "Lacks proficiency in analyzing campaign metrics and daily spend to optimize Facebook account performance and advertising effectiveness."
+    }
+  }
+}

@@ -8,6 +8,7 @@ Metrics:
 - Accuracy@1: Percentage of correct top-1 predictions
 - MRR@K: Mean Reciprocal Rank at K
 - Precision@K, Recall@K: At different K values
+- nDCG@K, MAP@K: Ranking quality metrics at different K values
 """
 from __future__ import annotations
 
@@ -124,11 +125,15 @@ def evaluate_generated_dataset(
         mrr = calculate_mrr_at_k(all_predictions, k)
         precision = calculate_precision_at_k(all_predictions, k)
         recall = calculate_recall_at_k(all_predictions, k)
+        ndcg = calculate_ndcg_at_k(all_predictions, k)
+        map_k = calculate_map_at_k(all_predictions, k)
         
         results[f'accuracy@{k}'] = accuracy
         results[f'mrr@{k}'] = mrr
         results[f'precision@{k}'] = precision
         results[f'recall@{k}'] = recall
+        results[f'ndcg@{k}'] = ndcg
+        results[f'map@{k}'] = map_k
     
     return results, all_predictions
 
@@ -189,6 +194,36 @@ def calculate_recall_at_k(predictions: List[Dict], k: int) -> float:
     return np.mean(recalls) if recalls else 0.0
 
 
+def calculate_ndcg_at_k(predictions: List[Dict], k: int) -> float:
+    """Calculate nDCG@K for single relevant target per query."""
+    ndcgs = []
+    for pred in predictions:
+        gt_uri = pred['ground_truth_uri']
+        pred_uris = pred['predicted_uris'][:k]
+        if gt_uri in pred_uris:
+            rank = pred_uris.index(gt_uri) + 1
+            dcg = 1.0 / np.log2(rank + 1)
+            idcg = 1.0
+            ndcgs.append(dcg / idcg)
+        else:
+            ndcgs.append(0.0)
+    return np.mean(ndcgs) if ndcgs else 0.0
+
+
+def calculate_map_at_k(predictions: List[Dict], k: int) -> float:
+    """Calculate MAP@K for single relevant target per query."""
+    ap_scores = []
+    for pred in predictions:
+        gt_uri = pred['ground_truth_uri']
+        pred_uris = pred['predicted_uris'][:k]
+        if gt_uri in pred_uris:
+            rank = pred_uris.index(gt_uri) + 1
+            ap_scores.append(1.0 / rank)
+        else:
+            ap_scores.append(0.0)
+    return np.mean(ap_scores) if ap_scores else 0.0
+
+
 def print_results(results: Dict) -> None:
     """Pretty print evaluation results"""
     print("\n" + "=" * 70)
@@ -222,6 +257,18 @@ def print_results(results: Dict) -> None:
         if f'recall@{k}' in results:
             rec = results[f'recall@{k}']
             print(f"  Recall@{k:2d}:    {rec:.4f} ({rec*100:6.2f}%)")
+
+    print(f"\n📐 nDCG@K:")
+    for k in [1, 3, 5, 10, 20]:
+        if f'ndcg@{k}' in results:
+            ndcg = results[f'ndcg@{k}']
+            print(f"  nDCG@{k:2d}:     {ndcg:.4f}")
+
+    print(f"\n🧭 MAP@K:")
+    for k in [1, 3, 5, 10, 20]:
+        if f'map@{k}' in results:
+            map_k = results[f'map@{k}']
+            print(f"  MAP@{k:2d}:      {map_k:.4f}")
     
     print("=" * 70 + "\n")
 
@@ -235,7 +282,9 @@ def main():
     settings = load_config()
     
     # Paths
-    base_dir = Path(__file__).resolve().parent.parent.parent.parent
+    # This script lives under /app/services/data_factory/scripts/testing,
+    # so we need to go up five levels to reach /app.
+    base_dir = Path(__file__).resolve().parents[4]
     dataset_file = base_dir / "data" / "processed" / "training_dataset" / "test_dataset_20.json"
     
     if not dataset_file.exists():

@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-04-18T10:40:28.965026",
+  "model": "gemini-3-flash-preview",
+  "total_records": 100,
+  "success_records": 100,
+  "failed_records": 0,
+  "empty_gap_records": 0,
+  "labels_path": "/root/courses_rec/data/processed/training_dataset/human_labeled_recommendations.json",
+  "scenarios_path": "/root/courses_rec/data/processed/course_recommendations/course_recommendations.json",
+  "output_file": "/root/courses_rec/data/processed/course_recommendations/labeled_skill_gap_descriptions.json",
+  "indexed_output_file": "/root/courses_rec/data/processed/course_recommendations/labeled_skill_gap_descriptions_indexed.json",
+  "checkpoint_file": "/root/courses_rec/data/processed/course_recommendations/labeled_skill_gap_descriptions_checkpoint.json"
+}

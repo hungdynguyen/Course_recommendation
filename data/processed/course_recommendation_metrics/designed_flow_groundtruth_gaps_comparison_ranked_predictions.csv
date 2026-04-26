@@ -1,0 +1,517 @@
+pair_id,jd_id,rank,course_id,course_title,coverage_count,covered_gap_ids,covered_gap_labels,is_relevant
+0,695cb6e11fa95d1eeecca0b2,1,TKkD1127,Phân tích dữ liệu lớn,1,983b5e0fb845ddb8,Managing large datasets,False
+0,695cb6e11fa95d1eeecca0b2,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,True
+0,695cb6e11fa95d1eeecca0b2,3,CNTT1167,Cloud Computing,1,cc975e69d79a6f6f,Cloud Concepts,True
+0,695cb6e11fa95d1eeecca0b2,4,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+0,695cb6e11fa95d1eeecca0b2,5,KTHT1104,Data Analytics for Accounting,1,595875b1b5164cb6,Power BI,False
+0,695cb6e11fa95d1eeecca0b2,6,TOTC1108,The models for analyzing and evaluating the financial assets 1,1,454349e422f05297,R,False
+0,695cb6e11fa95d1eeecca0b2,7,CNTT1198,Cloud Service Security,1,b160bc1ca65d65b1,Cloud Computing Fundamentals,False
+1,694a8c5247743a24b54ffb04,1,CNTT1186,Advanced Technologies in Information and Communication Technology,1,803b3eb2b6af0271,Artificial intelligence,True
+1,694a8c5247743a24b54ffb04,2,TIHT1105,Advanced Programming,1,d4b75940e6b27fe2,Smart System Deployment,False
+1,694a8c5247743a24b54ffb04,3,CNTT1154,Internet of Things,1,2e7fdab48fb3e78f,Smart Technologies,False
+1,694a8c5247743a24b54ffb04,4,QTCL1111,Business Process Management,1,1f64157c6b5ff60c,Process Role Understanding,False
+1,694a8c5247743a24b54ffb04,5,PTKT1109,Business Planning,1,d199bd441c0c4d67,Tools for Organizing Plan Implementation,False
+1,694a8c5247743a24b54ffb04,6,TNKT1157,Agribusiness supply chain management,1,e37a59b5b57ec6ac,Support system analysis,False
+1,694a8c5247743a24b54ffb04,7,CNTT1140,Artificial Intelligence,1,50779cd6819806ac,Research and develop AI applications,True
+2,696ee8cab166038a822e471f,1,CNTT1167,Cloud Computing,2,a468720e1a5dc0cb; cc975e69d79a6f6f,Cloud Service Analysis; Cloud Concepts,True
+2,696ee8cab166038a822e471f,2,CNTT1188,Web Programming,1,8b6799760a8163c1,RESTful API Development,False
+2,696ee8cab166038a822e471f,3,CNTT1198,Cloud Service Security,1,d9363d607f47f563,Monitoring and Auditing,False
+2,696ee8cab166038a822e471f,4,CNTT1107,Operating Systems,1,20eee9e87acff49b,Process Communication and Synchronization,False
+2,696ee8cab166038a822e471f,5,KTHT1104,Data Analytics for Accounting,1,586777689f2a77a4,Audit Data Analysis,False
+2,696ee8cab166038a822e471f,6,TNKT1157,Agribusiness supply chain management,1,aac321a9fc903a23,Problem identification,False
+2,696ee8cab166038a822e471f,7,QLXH1105,Public Services Management,1,221a2a27bf9df346,Problem Identification and Resolution,False
+2,696ee8cab166038a822e471f,8,PTCC1128,Socio-Economic Research Methods,1,221a2a27bf9df346,Problem Identification and Resolution,False
+2,696ee8cab166038a822e471f,9,MTKT1170,Environmental Physics,1,221a2a27bf9df346,Problem Identification and Resolution,False
+2,696ee8cab166038a822e471f,10,CNTT1199,Software and Database Security,1,c45b8ce2c3b0c625,User Account Monitoring,False
+4,695cb6e11fa95d1eeecca0b3,1,TIKT1134,Web Applications Development,1,55dcfba3a15e9371,Deploying and managing web applications,False
+4,695cb6e11fa95d1eeecca0b3,2,CNTT1168,An toàn và bảo mật thông tin,1,f33ab0b6b6be7183,Cryptography Techniques,True
+4,695cb6e11fa95d1eeecca0b3,3,CNTT1197,Cybersecurity,1,f33ab0b6b6be7183,Cryptography Techniques,False
+4,695cb6e11fa95d1eeecca0b3,4,TIKT1135,Development of Open Source Software and Applications,1,79ff3383edd2e8dd,Open source programming languages,False
+4,695cb6e11fa95d1eeecca0b3,5,CNTT1133,Application Programming,1,34107c894ddfd639,Search Functionality Programming,False
+4,695cb6e11fa95d1eeecca0b3,6,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+4,695cb6e11fa95d1eeecca0b3,7,TOTC1108,The models for analyzing and evaluating the financial assets 1,1,454349e422f05297,R,False
+4,695cb6e11fa95d1eeecca0b3,8,CNTT1199,Software and Database Security,1,53a54e806a70f753,Data Backup and Recovery,False
+4,695cb6e11fa95d1eeecca0b3,9,TOCB1107,Discrete Mathematics,1,6ea013dfbbf35318,RSA Cryptosystem,False
+4,695cb6e11fa95d1eeecca0b3,10,CNTT11105,Cryptography and Information Security,1,9899f1fec6613468,AES,True
+7,6961e074b166038a822e41c9,1,CNTT1145,Virtualization Technologies,3,419f2ea7a8374ab5; 2e3e746b47bf09af; a3d7bb38562108eb,Virtualization Concepts; Storage Virtualization Mechanisms; Data Center Virtualization Architecture,True
+7,6961e074b166038a822e41c9,2,CNTT1114,Computer Network and Data Communication,2,82a2c9e39ba6e496; d301208b9177b851,Wide Area Networks (WAN); TCP/IP Protocols,False
+7,6961e074b166038a822e41c9,3,CNTT1121,Network Management,1,c2c2c13b5e8fb59e,Windows Server Organization and Management,True
+7,6961e074b166038a822e41c9,4,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+7,6961e074b166038a822e41c9,5,CNTT1167,Cloud Computing,1,cc975e69d79a6f6f,Cloud Concepts,False
+7,6961e074b166038a822e41c9,6,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+9,697a65cfb166038a822e4d2c,1,TIKT1130,Database,1,9aae78751eb7d681,Query Optimization,True
+9,697a65cfb166038a822e4d2c,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+9,697a65cfb166038a822e4d2c,3,CNTT1187,Data Analysis Programming,1,0903a2efa00ef879,SQL Database Management,False
+9,697a65cfb166038a822e4d2c,4,CNTT1167,Cloud Computing,1,cc975e69d79a6f6f,Cloud Concepts,False
+9,697a65cfb166038a822e4d2c,5,CNTT1152,Database Management Systems,1,3117f8304b70d114,SQL Programming,True
+9,697a65cfb166038a822e4d2c,6,CNTT1133,Application Programming,1,79c41baebfebd6a5,SQL Server,False
+9,697a65cfb166038a822e4d2c,7,DLKS1131,E-Tourism Business,1,c280c1a79c57c35b,Website and Social Media Management,False
+9,697a65cfb166038a822e4d2c,8,CNTT11105,Cryptography and Information Security,1,11a4a60b518bf249,Python,False
+9,697a65cfb166038a822e4d2c,9,TIKT1132,Online Marketing,1,7175b5240094d556,SEO Tools Proficiency,False
+9,697a65cfb166038a822e4d2c,10,TIKT1135,Development of Open Source Software and Applications,1,abf415901e538ca7,Python Programming Language,False
+12,694a8c5247743a24b54ffb03,1,CNTT1145,Virtualization Technologies,2,419f2ea7a8374ab5; 2e3e746b47bf09af,Virtualization Concepts; Storage Virtualization Mechanisms,False
+12,694a8c5247743a24b54ffb03,2,CNTT1167,Cloud Computing,2,cc975e69d79a6f6f; a468720e1a5dc0cb,Cloud Concepts; Cloud Service Analysis,True
+12,694a8c5247743a24b54ffb03,3,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,True
+12,694a8c5247743a24b54ffb03,4,QTTH1133,New Venture Creation,1,74223147079737f9,Resource Management,False
+12,694a8c5247743a24b54ffb03,5,TNKT1155,Kinh tế Lâm nghiệp,1,74223147079737f9,Resource Management,False
+12,694a8c5247743a24b54ffb03,6,BHKT1120,Social Insurance Management 1,1,74223147079737f9,Resource Management,False
+12,694a8c5247743a24b54ffb03,7,BHKT1116,Reinsurance,1,74223147079737f9,Resource Management,False
+12,694a8c5247743a24b54ffb03,8,TNKT1140,Economics and Management of Community Development,1,74223147079737f9,Resource Management,False
+12,694a8c5247743a24b54ffb03,9,TNTN1126,Natural Resources Management 2,1,74223147079737f9,Resource Management,False
+12,694a8c5247743a24b54ffb03,10,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+14,6961e0b5b166038a822e41cb,1,LUKD1108,Labor Law,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,2,TNTN1132,Natural Resources Policy,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,3,LUKD1194,Law on Land,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,4,LUCS1104,Constitutional Law,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,5,KHMI1112,Investment analysis in Financial Markets,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,6,MTDT1114,Urban and Regional Planning,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,7,LUKD1110,Law on Commerce 1,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,8,TNTN1111,English for Natural Resources Economics,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,9,LUCS1128,Doctrines of State and Law 1,2,dc08258145c09363; 85d7957063524c2b,Presentation skills; Group work skills,False
+14,6961e0b5b166038a822e41cb,10,QLCN1104,Science and Technology Policy,2,dc08258145c09363; 7252b929fd95c559,Presentation skills; Teamwork and Group Management Skills,False
+17,6961d9bbb166038a822e41b1,1,DTKT1149,Chuyên đề Tin học quản lý đầu tư,2,7f0a76ce26d240f3; b45dfaa7fc8f1653,Microsoft Project; Microsoft Excel,False
+17,6961d9bbb166038a822e41b1,2,TIHT1119,Computer-based Accounting,2,83289d8e764059df; 5cda33bd7b0feb89,Microsoft Excel for Accounting; Specialized Accounting Software for Business,False
+17,6961d9bbb166038a822e41b1,3,TIKT1117,Accounting Informatics,1,9de5d59385bb9b04,Accounting Software Evaluation,False
+17,6961d9bbb166038a822e41b1,4,TOkt1140,Input-Output Model,1,b45dfaa7fc8f1653,Microsoft Excel,False
+17,6961d9bbb166038a822e41b1,5,TOkt1144,Optimization,1,a6f687c6f5a9e7e0,Excel Software,False
+21,6961e10bb166038a822e41d0,1,QTKD1133,Supply Chain Management,1,1fc67c3010a7acc2,Activity Evaluation,False
+21,6961e10bb166038a822e41d0,2,NLKT1118,Occupational Health and Safety Management,1,835fc1daf02cd83c,Policy Recommendation,False
+21,6961e10bb166038a822e41d0,3,TOTC1121,Quantitative risk management 2,1,22b38dee90bbb4f3,Credit Risk Modeling,False
+21,6961e10bb166038a822e41d0,4,KTKE1110,Public Accounting 2,1,bed622c72ddf016b,Banking Operations,False
+21,6961e10bb166038a822e41d0,5,MKMA1112,English for Marketing,1,cf0be45b56d1d41d,Product Decisions,False
+21,6961e10bb166038a822e41d0,6,NHTM 1102,Commercial Banking 1,1,6539998286cc9396,Bank Functions Understanding,False
+21,6961e10bb166038a822e41d0,7,BHKT1163,Risk Management in Insurance,1,dd90dcc73f5bca94,Risk Evaluation Methods,False
+21,6961e10bb166038a822e41d0,8,NNTM 1150,English for Banking and Finance – in English,1,ce22f37fe7c425ca,Banking Operations Analysis,False
+23,694a8e0847743a24b54ffb0a,1,MKTT1132,Writing skills for public relations,3,a5858cfd572ec358; ee0902fbd881250a; d5deacdd34788a54,PR writing process; Speech writing; PR writing skills,False
+23,694a8e0847743a24b54ffb0a,2,CNTT1133,Application Programming,2,2f84c910ea74ba58; b27794974a29d825,Visual Studio; ADO.NET Programming,False
+23,694a8e0847743a24b54ffb0a,3,TIHT1113,Development of Management Applications,1,4b351a323634f057,Using C# programming language in Visual Studio,True
+23,694a8e0847743a24b54ffb0a,4,CNTT11105,Cryptography and Information Security,1,11a4a60b518bf249,Python,False
+23,694a8e0847743a24b54ffb0a,5,TIKT1135,Development of Open Source Software and Applications,1,abf415901e538ca7,Python Programming Language,False
+23,694a8e0847743a24b54ffb0a,6,CNTT1177,Machine Learning,1,c44d9221d54651ad,Python Programming,False
+30,694a8e9e47743a24b54ffb0b,1,CNTT1167,Cloud Computing,2,cc975e69d79a6f6f; a468720e1a5dc0cb,Cloud Concepts; Cloud Service Analysis,True
+30,694a8e9e47743a24b54ffb0b,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+30,694a8e9e47743a24b54ffb0b,3,CNTT1198,Cloud Service Security,1,b160bc1ca65d65b1,Cloud Computing Fundamentals,True
+31,697b1754b166038a822e4d36,1,MKTT1158,Advertising media planning,1,a537684cc680a4d8,Understanding characteristics of media channels,False
+31,697b1754b166038a822e4d36,2,KTKE1110,Public Accounting 2,1,5a7c3011cba026a3,Project Management,False
+31,697b1754b166038a822e4d36,3,TMKT1145,Business Logistics,1,5a7c3011cba026a3,Project Management,False
+31,697b1754b166038a822e4d36,4,CNTT1107,Operating Systems,1,5a7c3011cba026a3,Project Management,False
+31,697b1754b166038a822e4d36,5,CNTT1157,Mobile Applications Development,1,5a7c3011cba026a3,Project Management,False
+31,697b1754b166038a822e4d36,6,TNTN1138,Environmental Impact Assessment of Natural Resource Projects,1,5a7c3011cba026a3,Project Management,False
+31,697b1754b166038a822e4d36,7,CNTT1137,Business Analysis,1,5a7c3011cba026a3,Project Management,False
+31,697b1754b166038a822e4d36,8,TNKT1140,Economics and Management of Community Development,1,5a7c3011cba026a3,Project Management,False
+31,697b1754b166038a822e4d36,9,TNKT1150,Agribusiness Investment Project,1,5a7c3011cba026a3,Project Management,False
+31,697b1754b166038a822e4d36,10,QTKD1149,Operations Management 2,1,5a7c3011cba026a3,Project Management,False
+35,694a8e9e47743a24b54ffb0d,1,CNTT1198,Cloud Service Security,3,0bcc7664f42fa9b3; 8803662d165dcea7; 448e8a55f0c63487,Cloud Security Design Patterns; Compliance Standards; Cloud Security Architecture,True
+35,694a8e9e47743a24b54ffb0d,2,KTKI 1115,Kiểm toán nội bộ,2,8803662d165dcea7; 360b13aa49797a20,Compliance Standards; Audit Follow-up,False
+35,694a8e9e47743a24b54ffb0d,3,KTKI 1116,Financial Audit Practice,2,1b9f2eb0a7babc27; a8c6e3a7760f164b,Audit procedure planning; Compliance with Rules and Regulations,False
+35,694a8e9e47743a24b54ffb0d,4,TIHT1106,English for Management Information System,1,3074ef28c4435f88,Securing Information Systems,False
+35,694a8e9e47743a24b54ffb0d,5,CNTT11102,Vulnerability Assessment and Penetration Testing,1,46dc0d772e2436a2,System Review,False
+35,694a8e9e47743a24b54ffb0d,6,BHKT1163,Risk Management in Insurance,1,d2c60407bbda495f,Risk Management Framework,False
+35,694a8e9e47743a24b54ffb0d,7,TIKT1109,Basic Informatics,1,08994031d78229cb,Information security,False
+35,694a8e9e47743a24b54ffb0d,8,KTKI1109,Financial Auditing 2,1,f1eafe18f66cdd6f,Compliance with Laws and Regulations,False
+35,694a8e9e47743a24b54ffb0d,9,CNTT1199,Software and Database Security,1,c0656a06590b5361,Database Security Principles,True
+35,694a8e9e47743a24b54ffb0d,10,CNTT1152,Database Management Systems,1,c0656a06590b5361,Database Security Principles,False
+37,695cba711fa95d1eeecca0b9,1,MKBH1116,Digital Marketing,3,ac388c14c17793f5; de4e86f56114e5a7; d8f8892a74cd1a85,Proposing digital marketing strategies; Understanding the nature of digital marketing; Digital marketing decision-making process,True
+37,695cba711fa95d1eeecca0b9,2,CNTT1198,Cloud Service Security,2,0bcc7664f42fa9b3; ad4b0d58e0291133,Cloud Security Design Patterns; Identity Management,False
+37,695cba711fa95d1eeecca0b9,3,CNTT1167,Cloud Computing,2,cc975e69d79a6f6f; a468720e1a5dc0cb,Cloud Concepts; Cloud Service Analysis,True
+37,695cba711fa95d1eeecca0b9,4,CNTT1190,Service Oriented Software Development,1,213b8a04e6059034,EJB Techniques,False
+37,695cba711fa95d1eeecca0b9,5,CNTT1152,Database Management Systems,1,53cc299fdb23d21d,Transaction Management,False
+37,695cba711fa95d1eeecca0b9,6,CNTT1187,Data Analysis Programming,1,0903a2efa00ef879,SQL Database Management,False
+37,695cba711fa95d1eeecca0b9,7,TIKT1135,Development of Open Source Software and Applications,1,4611994bd0ab71de,MySQL Database Management System,False
+37,695cba711fa95d1eeecca0b9,8,TIKT1124,Database Application,1,bebe8fe7d553f62f,Database Querying,False
+37,695cba711fa95d1eeecca0b9,9,CNTT1188,Web Programming,1,e687563e03a65281,Database Integration,False
+37,695cba711fa95d1eeecca0b9,10,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+38,696f058ab166038a822e4742,1,NHTC1103,Quản trị Tài chính trong du lịch và khách sạn,2,7dab1349ff5de7ba; 6a6ebe8510ced07b,Financial Analysis Methods; Financial Analysis,False
+38,696f058ab166038a822e4742,2,MTDT1123,Urban Housing Economics and Management,1,ebf2a3d390233a41,Financial Resource Management,False
+38,696f058ab166038a822e4742,3,KTQT1103,Managerial Accounting 1,1,9efa04f2864f0dae,Understanding the nature and role of managerial accounting,False
+38,696f058ab166038a822e4742,4,PTKT1108,Development Planning 2,1,92c6d7dc77845163,Budget Planning,False
+38,696f058ab166038a822e4742,5,KTHT1104,Data Analytics for Accounting,1,c7e5be6f7051b9ff,Managerial Accounting Data Analysis,True
+38,696f058ab166038a822e4742,6,NHCO1107,Public Finance,1,30dfc23a621db88b,Budget system and management,False
+38,696f058ab166038a822e4742,7,NHTC1108,Financial Analysis,1,2cf83fcbd09ccf46,Financial Analysis Fundamentals,False
+38,696f058ab166038a822e4742,8,DTKT 1111,Investment Project Design and Management,1,6a6ebe8510ced07b,Financial Analysis,False
+38,696f058ab166038a822e4742,9,TNKT1150,Agribusiness Investment Project,1,6a6ebe8510ced07b,Financial Analysis,False
+39,695cbba01fa95d1eeecca0bb,1,CNTT1166,Digital Image Processing,3,a96d97811142b63d; 4c330d312e1c7bda; 09059e0afcdd1df3,Feature-Based Image Recognition; Machine Learning for Image Recognition; AI Techniques for Image Recognition,False
+39,695cbba01fa95d1eeecca0bb,2,CNTT1186,Advanced Technologies in Information and Communication Technology,2,803b3eb2b6af0271; 81121f330a983b7f,Artificial intelligence; Cloud computing,False
+39,695cbba01fa95d1eeecca0bb,3,CNTT1167,Cloud Computing,2,cc975e69d79a6f6f; a468720e1a5dc0cb,Cloud Concepts; Cloud Service Analysis,True
+39,695cbba01fa95d1eeecca0bb,4,TMQT1132,Fundamentals of E-commerce,2,bbbfae3f1f7e7039; 4b0bff2b60f84764,Information synthesis and analysis; Utilization of Networking and Internet Technologies,False
+39,695cbba01fa95d1eeecca0bb,5,KTHT 1102,Accounting Information Systems 2,2,466aa590b261ac02; c03ed4b4dc0faa7e,Organizing Data and Document Flows; Data and Document Flow Organization,False
+39,695cbba01fa95d1eeecca0bb,6,CNTT1114,Computer Network and Data Communication,1,82a2c9e39ba6e496,Wide Area Networks (WAN),False
+39,695cbba01fa95d1eeecca0bb,7,NLQT1106,English for Human Resource Management,1,d7a0db78b674962b,Text Creation,False
+39,695cbba01fa95d1eeecca0bb,8,TMQT1152,E-commerce Transaction: Theory and Practice,1,e0d7a3c97f855702,Information retrieval and synthesis,False
+39,695cbba01fa95d1eeecca0bb,9,KTHT1104,Data Analytics for Accounting,1,10be35b30753d337,Interpretation and Recommendation Skills,False
+39,695cbba01fa95d1eeecca0bb,10,CNTT1140,Artificial Intelligence,1,50779cd6819806ac,Research and develop AI applications,True
+49,695cbc321fa95d1eeecca0bd,1,CNTT1167,Cloud Computing,2,cc975e69d79a6f6f; a468720e1a5dc0cb,Cloud Concepts; Cloud Service Analysis,True
+49,695cbc321fa95d1eeecca0bd,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+49,695cbc321fa95d1eeecca0bd,3,CNTT1198,Cloud Service Security,1,b160bc1ca65d65b1,Cloud Computing Fundamentals,False
+52,694a90f547743a24b54ffb12,1,MKBH1116,Digital Marketing,2,d8f8892a74cd1a85; ac388c14c17793f5,Digital marketing decision-making process; Proposing digital marketing strategies,True
+52,694a90f547743a24b54ffb12,2,MKTT1132,Writing skills for public relations,1,2670a9f7b69eda59,Website writing,False
+52,694a90f547743a24b54ffb12,3,TIKT1135,Development of Open Source Software and Applications,1,e6a3b5530494287f,Enterprise resource planning systems,False
+52,694a90f547743a24b54ffb12,4,TIKT1122,Business Intelligence,1,6af2e1ecafd15b88,Deploy Business Intelligence Systems,False
+52,694a90f547743a24b54ffb12,5,MTKT1119,Natural Resource and Environmental Management,1,a94213fb6a83bebc,Enterprise Management Tools,False
+52,694a90f547743a24b54ffb12,6,DTKT1131,Quantity Surveyor and Budget Planning,1,0cf41d5fc9dec478,Technical Writing,False
+52,694a90f547743a24b54ffb12,7,PTKT1108,Development Planning 2,1,0cf41d5fc9dec478,Technical Writing,False
+52,694a90f547743a24b54ffb12,8,CNTT1168,An toàn và bảo mật thông tin,1,0cf41d5fc9dec478,Technical Writing,False
+52,694a90f547743a24b54ffb12,9,MKMA1110,Marketing Management,1,90b1bad7787cb161,Direct and Online Marketing,False
+52,694a90f547743a24b54ffb12,10,TOKT1149,Data Driven Marketing,1,05878da4bc7d3249,Technical Communication,False
+55,695cbcbd1fa95d1eeecca0be,1,CNTT1175,Unstructured database,2,cb62eba40b93615e; b53b7753437c5fbf,Designing applications with MongoDB; Using other NoSQL databases,False
+55,695cbcbd1fa95d1eeecca0be,2,CNTT1167,Cloud Computing,2,a468720e1a5dc0cb; cc975e69d79a6f6f,Cloud Service Analysis; Cloud Concepts,True
+55,695cbcbd1fa95d1eeecca0be,3,CNTT11105,Cryptography and Information Security,1,11a4a60b518bf249,Python,False
+55,695cbcbd1fa95d1eeecca0be,4,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+55,695cbcbd1fa95d1eeecca0be,5,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+55,695cbcbd1fa95d1eeecca0be,6,TIKT1135,Development of Open Source Software and Applications,1,4611994bd0ab71de,MySQL Database Management System,False
+55,695cbcbd1fa95d1eeecca0be,7,CNTT1165,Web Design,1,bee590cd707e7172,JavaScript Programming,False
+55,695cbcbd1fa95d1eeecca0be,8,TOTC1108,The models for analyzing and evaluating the financial assets 1,1,454349e422f05297,R,False
+55,695cbcbd1fa95d1eeecca0be,9,CNTT1198,Cloud Service Security,1,b160bc1ca65d65b1,Cloud Computing Fundamentals,False
+57,696fca2cb166038a822e4750,1,KTQT1109,Cost Accounting,3,2114edf5818ba05a; 4d5c583613a3a65e; 31cf49e9eea666a7,Creating production cost reports; Types of Costs and Product Costs; Differentiating types of costs and product costs,True
+57,696fca2cb166038a822e4750,2,KTHT1101,Accounting Information Systems 1,3,a534d9de6c4b3839; 777cca00bf6e574c; 32792b3a93711fb1,Organizing Accounting Systems; Describe Accounting Information Systems; Systematizing Accounting Information Systems,False
+57,696fca2cb166038a822e4750,3,QTTH1116,Cost Management,1,4cb2fc6fa462b35a,Cost Planning Principles,True
+57,696fca2cb166038a822e4750,4,TOTC1121,Quantitative risk management 2,1,555ae346819a37b6,Strategic Analysis,False
+57,696fca2cb166038a822e4750,5,CNTT1137,Business Analysis,1,555ae346819a37b6,Strategic Analysis,False
+57,696fca2cb166038a822e4750,6,DTKT 1111,Investment Project Design and Management,1,6a6ebe8510ced07b,Financial Analysis,False
+57,696fca2cb166038a822e4750,7,NHTC1103,Quản trị Tài chính trong du lịch và khách sạn,1,6a6ebe8510ced07b,Financial Analysis,False
+57,696fca2cb166038a822e4750,8,TNKT1150,Agribusiness Investment Project,1,6a6ebe8510ced07b,Financial Analysis,False
+57,696fca2cb166038a822e4750,9,TMKT1141,Commercial Enterprise Management,1,3d6ae96017f46c2e,Cost Management,False
+57,696fca2cb166038a822e4750,10,NHCO1119,Public Asset Management,1,f32c55921601bc1f,Understanding cost calculation methods for products,False
+64,69637f9d57a0f8cfb910e921,1,TKkD1127,Phân tích dữ liệu lớn,1,983b5e0fb845ddb8,Managing large datasets,True
+64,69637f9d57a0f8cfb910e921,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,True
+64,69637f9d57a0f8cfb910e921,3,CNTT1167,Cloud Computing,1,cc975e69d79a6f6f,Cloud Concepts,True
+64,69637f9d57a0f8cfb910e921,4,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+64,69637f9d57a0f8cfb910e921,5,KTHT1104,Data Analytics for Accounting,1,595875b1b5164cb6,Power BI,False
+64,69637f9d57a0f8cfb910e921,6,CNTT1198,Cloud Service Security,1,b160bc1ca65d65b1,Cloud Computing Fundamentals,False
+66,695cbcbd1fa95d1eeecca0bf,1,CNTT1167,Cloud Computing,3,78478926d84635c5; cc975e69d79a6f6f; a468720e1a5dc0cb,Hadoop Model Explanation; Cloud Concepts; Cloud Service Analysis,True
+66,695cbcbd1fa95d1eeecca0bf,2,CNTT1198,Cloud Service Security,2,ad4b0d58e0291133; b160bc1ca65d65b1,Identity Management; Cloud Computing Fundamentals,False
+66,695cbcbd1fa95d1eeecca0bf,3,CNTT1145,Virtualization Technologies,2,a3d7bb38562108eb; 10c46836f99bfacc,Data Center Virtualization Architecture; Network Virtualization Principles,False
+66,695cbcbd1fa95d1eeecca0bf,4,CNTT1181,Knowledge Discovery in Database,1,2271ef0581251939,Data Warehouse Knowledge,False
+66,695cbcbd1fa95d1eeecca0bf,5,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+66,695cbcbd1fa95d1eeecca0bf,6,CNTT1107,Operating Systems,1,30808e394ba44d6f,System Protection and Security,False
+66,695cbcbd1fa95d1eeecca0bf,7,KTHT1104,Data Analytics for Accounting,1,595875b1b5164cb6,Power BI,False
+67,696fcc8eb166038a822e475f,1,CNTT1112,Computer Architecture,4,9afe80fb827352cb; 4f60fe2c11c132e1; 08b87df8a19c6bc9; db422ce0569a869d,Multi-core CPU Architecture; Parallelism Techniques; RISC Architecture; Instruction Set Architecture (ISA),True
+67,696fcc8eb166038a822e475f,2,CNTT1114,Computer Network and Data Communication,2,82a2c9e39ba6e496; ed8a66c9697dfbce,Wide Area Networks (WAN); Local Area Networks (LAN),False
+67,696fcc8eb166038a822e475f,3,TIKT1135,Development of Open Source Software and Applications,2,41de0116bb2584cf; 3a34b0fdd2853358,Eclipse IDE; NetBeans IDE,False
+67,696fcc8eb166038a822e475f,4,TNDC1126,Principles of Land Administration,2,60b34647d30e6a65; 0f896e61bb2e7633,System Components Understanding; Component Identification,False
+67,696fcc8eb166038a822e475f,5,CNTT1145,Virtualization Technologies,1,0f2671fed097ec58,CPU Scheduling Algorithms,False
+67,696fcc8eb166038a822e475f,6,TIHT1106,English for Management Information System,1,0b20076e939375b7,"Telecommunications, Internet, and Wireless Technology",False
+67,696fcc8eb166038a822e475f,7,KTKI 1118,Advanced Auditing and Other Assurance Services,1,a9ec8d7a85274b1b,Client Acceptance Decision Making,False
+67,696fcc8eb166038a822e475f,8,CNTT1180,Python Programming,1,31cdb63a1bef37c1,Object-Oriented Programming,False
+67,696fcc8eb166038a822e475f,9,CNTT1133,Application Programming,1,31cdb63a1bef37c1,Object-Oriented Programming,False
+67,696fcc8eb166038a822e475f,10,TOTC1108,The models for analyzing and evaluating the financial assets 1,1,454349e422f05297,R,False
+68,69637e7057a0f8cfb910e91f,1,BHKT1118,Insurance Principles,2,242e9e15af0aa617; 156b39dd6575ca61,Insurance Transactions; Legal and Policy Frameworks,False
+68,69637e7057a0f8cfb910e91f,2,CNTT1175,Unstructured database,2,cb62eba40b93615e; b53b7753437c5fbf,Designing applications with MongoDB; Using other NoSQL databases,False
+68,69637e7057a0f8cfb910e91f,3,CNTT1167,Cloud Computing,2,a468720e1a5dc0cb; cc975e69d79a6f6f,Cloud Service Analysis; Cloud Concepts,True
+68,69637e7057a0f8cfb910e91f,4,DLKS1158,Operation of hospitality services 1,2,9b89e2daa74abc48; 218430449bc2d441,Guest Reception; Front Desk Operations,False
+68,69637e7057a0f8cfb910e91f,5,KTKI1109,Financial Auditing 2,2,bd1fb73d47142cdc; f1eafe18f66cdd6f,Information Combination; Compliance with Laws and Regulations,False
+68,69637e7057a0f8cfb910e91f,6,CNTT1198,Cloud Service Security,2,8803662d165dcea7; b160bc1ca65d65b1,Compliance Standards; Cloud Computing Fundamentals,True
+68,69637e7057a0f8cfb910e91f,7,CNTT1168,An toàn và bảo mật thông tin,2,39d8045646c13a4b; cce17667f4173cb9,Network Security; Security Protocol Analysis,False
+68,69637e7057a0f8cfb910e91f,8,KTKI 1116,Financial Audit Practice,1,a8c6e3a7760f164b,Compliance with Rules and Regulations,False
+68,69637e7057a0f8cfb910e91f,9,LUCS1129,Fundamentals of Law,1,a8c6e3a7760f164b,Compliance with Rules and Regulations,False
+68,69637e7057a0f8cfb910e91f,10,LUCS1137,Law on civil procedures,1,a8c6e3a7760f164b,Compliance with Rules and Regulations,False
+70,6963803557a0f8cfb910e922,1,MTKT1161,Ecology,2,99bc46f379b2482e; ed5e58101eced6c9,Understanding and explaining the essence of ecology; Analyzing and evaluating ecosystems,False
+70,6963803557a0f8cfb910e922,2,TIKT1134,Web Applications Development,1,55dcfba3a15e9371,Deploying and managing web applications,False
+70,6963803557a0f8cfb910e922,3,TKkt1101,System of National Accounts,1,53ff4a27e4ec6d02,Analysis Application,False
+70,6963803557a0f8cfb910e922,4,KTKI1109,Financial Auditing 2,1,710ea6b3deecb364,Testing Techniques Integration,False
+70,6963803557a0f8cfb910e922,5,TMQT1125,E-commerce,1,bf281bcbbb891465,Applying e-commerce transaction processes,False
+70,6963803557a0f8cfb910e922,6,MKTT1145,Sales Promotion,1,762a08ea6267f552,Sales Promotion Integration with IMC,False
+70,6963803557a0f8cfb910e922,7,CNTT1153,Java Programming,1,0d6cd3ccd7000e1b,Apply testing techniques,False
+70,6963803557a0f8cfb910e922,8,MTKT 1164,Environmental Chemistry,1,57defa7408d20b22,Material Cycles in Nature,False
+70,6963803557a0f8cfb910e922,9,CNTT1154,Internet of Things,1,e24d9edc73f9ca00,IoT Application Development,False
+70,6963803557a0f8cfb910e922,10,TMQT1154,Payment for E-commerce,1,674ec1a02746cf1d,Working with online payment providers,False
+71,694a92ab47743a24b54ffb16,1,CNTT1190,Service Oriented Software Development,2,f39e4ff9d1d348e9; 140f584ba1cbde2b,Web Services Technologies; Service-Oriented Architecture,False
+71,694a92ab47743a24b54ffb16,2,CNTT1133,Application Programming,2,31cdb63a1bef37c1; 34107c894ddfd639,Object-Oriented Programming; Search Functionality Programming,False
+71,694a92ab47743a24b54ffb16,3,NNTM1172,English Teaching Methodology,1,becbf7f4a588cff7,Test Design,False
+71,694a92ab47743a24b54ffb16,4,KTKI1109,Financial Auditing 2,1,710ea6b3deecb364,Testing Techniques Integration,False
+71,694a92ab47743a24b54ffb16,5,TIKT1129,Electronic Commerce Systems,1,ca6980df86daa02e,Mastering web application technologies,False
+71,694a92ab47743a24b54ffb16,6,CNTT1165,Web Design,1,edc92882a411041f,Responsive Web Design,False
+71,694a92ab47743a24b54ffb16,7,CNTT1180,Python Programming,1,31cdb63a1bef37c1,Object-Oriented Programming,False
+71,694a92ab47743a24b54ffb16,8,TIHT1113,Development of Management Applications,1,42430699c92247f2,Data interaction programming,False
+71,694a92ab47743a24b54ffb16,9,QTVH1111,Corporate Culture,1,ad885b2f53533c2c,Building and maintaining corporate culture,False
+71,694a92ab47743a24b54ffb16,10,CNTT1188,Web Programming,1,0b6c9f6036708bf7,Web Testing Techniques,False
+72,6963803557a0f8cfb910e923,1,MKTT1132,Writing skills for public relations,3,a5858cfd572ec358; ee0902fbd881250a; d5deacdd34788a54,PR writing process; Speech writing; PR writing skills,False
+72,6963803557a0f8cfb910e923,2,CNTT1133,Application Programming,2,2f84c910ea74ba58; b27794974a29d825,Visual Studio; ADO.NET Programming,False
+72,6963803557a0f8cfb910e923,3,TIHT1113,Development of Management Applications,1,4b351a323634f057,Using C# programming language in Visual Studio,True
+72,6963803557a0f8cfb910e923,4,CNTT1188,Web Programming,1,0b6c9f6036708bf7,Web Testing Techniques,False
+72,6963803557a0f8cfb910e923,5,CNTT1157,Mobile Applications Development,1,4058cde8164a60ce,Application Testing Techniques,False
+72,6963803557a0f8cfb910e923,6,CNTT1153,Java Programming,1,0d6cd3ccd7000e1b,Apply testing techniques,False
+73,695cbe731fa95d1eeecca0c2,1,CNTT1188,Web Programming,2,8b6799760a8163c1; 0b6c9f6036708bf7,RESTful API Development; Web Testing Techniques,True
+73,695cbe731fa95d1eeecca0c2,2,TIKT1134,Web Applications Development,2,55dcfba3a15e9371; ce877ea042597d23,Deploying and managing web applications; Explaining front-end and back-end programming,False
+73,695cbe731fa95d1eeecca0c2,3,DLLH1147,Marketing Management for Hospitality and Tourism,2,e11bb3d7da37d647; 53136e27f95e6aa2,Marketing Analysis; Market Research,False
+73,695cbe731fa95d1eeecca0c2,4,KTKI1109,Financial Auditing 2,2,710ea6b3deecb364; b49f40ea122d0cc3,Testing Techniques Integration; Process Improvement,False
+73,695cbe731fa95d1eeecca0c2,5,PTKT 1119,Development Planning 1,1,1391b65f48128bb0,Monitor and Evaluate Development Plans,False
+73,695cbe731fa95d1eeecca0c2,6,PTKT1121,Development Management,1,81411262539a8a05,Analyzing practical situations in development management,False
+73,695cbe731fa95d1eeecca0c2,7,TIKT1129,Electronic Commerce Systems,1,ca6980df86daa02e,Mastering web application technologies,False
+73,695cbe731fa95d1eeecca0c2,8,TOkt1104,Mathematical Economic Modeling 1,1,65a5eee8f0af66d2,Consumer Behavior Optimization,False
+73,695cbe731fa95d1eeecca0c2,9,TMKT1141,Commercial Enterprise Management,1,53136e27f95e6aa2,Market Research,False
+73,695cbe731fa95d1eeecca0c2,10,TNKT1150,Agribusiness Investment Project,1,53136e27f95e6aa2,Market Research,False
+74,696fd023b166038a822e477f,1,TIHT1119,Computer-based Accounting,2,5cda33bd7b0feb89; e1b0095864b4680a,Specialized Accounting Software for Business; Specialized Accounting Software for Administrative Services,True
+74,696fd023b166038a822e477f,2,TIKT1117,Accounting Informatics,1,9de5d59385bb9b04,Accounting Software Evaluation,False
+75,697b19e7b166038a822e4d3f,1,TOTC1110,Models of Financial Corporate,1,b57589351257c382,Financial Modeling Techniques,False
+75,697b19e7b166038a822e4d3f,2,KTQT1103,Managerial Accounting 1,1,fe93d12cf3d8fd3f,Analyzing break-even points and target profits,False
+75,697b19e7b166038a822e4d3f,3,TNBD1128,Real estate valuation 2,1,7589565432ed6928,Profit method application,False
+75,697b19e7b166038a822e4d3f,4,QLXH1105,Public Services Management,1,9708af5b8f89d6be,Planning and Coordination,False
+75,697b19e7b166038a822e4d3f,5,CNTT1198,Cloud Service Security,1,9708af5b8f89d6be,Planning and Coordination,False
+75,697b19e7b166038a822e4d3f,6,BHKT1120,Social Insurance Management 1,1,9708af5b8f89d6be,Planning and Coordination,False
+75,697b19e7b166038a822e4d3f,7,TOTC1106,Fundamentals of Mathematical Finance,1,95c7e896df055bf3,Financial Modeling,True
+75,697b19e7b166038a822e4d3f,8,NHQT1109,Multinational Business Finance,1,9190dcf1a336b6b6,Working Capital Management,False
+75,697b19e7b166038a822e4d3f,9,TOkt1105,Probability Theory,1,bd62fe1ad1cf8464,Economic and Financial Modeling,False
+75,697b19e7b166038a822e4d3f,10,QTKD1118,Project Execution Management,1,c32ea3011ff943d1,Resource Coordination Techniques,False
+78,694a933a47743a24b54ffb17,1,CNTT1167,Cloud Computing,3,78478926d84635c5; cc975e69d79a6f6f; a468720e1a5dc0cb,Hadoop Model Explanation; Cloud Concepts; Cloud Service Analysis,True
+78,694a933a47743a24b54ffb17,2,CNTT1145,Virtualization Technologies,1,2e3e746b47bf09af,Storage Virtualization Mechanisms,False
+78,694a933a47743a24b54ffb17,3,CNTT1181,Knowledge Discovery in Database,1,2271ef0581251939,Data Warehouse Knowledge,False
+78,694a933a47743a24b54ffb17,4,CNTT11105,Cryptography and Information Security,1,35e7550fc947903f,NordLocker,False
+78,694a933a47743a24b54ffb17,5,KTKI1109,Financial Auditing 2,1,bd1fb73d47142cdc,Information Combination,False
+78,694a933a47743a24b54ffb17,6,TIHT1110,Decision Support Systems,1,d8d463c12a243d6b,System Architecture,False
+78,694a933a47743a24b54ffb17,7,TIKT1135,Development of Open Source Software and Applications,1,79ff3383edd2e8dd,Open source programming languages,False
+78,694a933a47743a24b54ffb17,8,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+78,694a933a47743a24b54ffb17,9,TOCB1107,Discrete Mathematics,1,6fa5dd8f1fcea426,Dirichlet Principle,False
+78,694a933a47743a24b54ffb17,10,DLKS1113,Restaurant Business Management,1,0b205cfba1befb3b,Customer Concept Comprehension,False
+79,696fcd1eb166038a822e4765,1,BHKT1118,Insurance Principles,2,7a62e5d2418ecd75; eaee706039b0a5b7,Insurance Principles; Types of Insurance,False
+79,696fcd1eb166038a822e4765,2,BHKT1105,Business Insurance 2,1,d4bd2e83dd88974a,Personal Accident Insurance,False
+79,696fcd1eb166038a822e4765,3,DLKS1118,Psychology and Communication in Tourism,1,95b60e75c2cccfdf,Building Positive Relationships with Customers,False
+79,696fcd1eb166038a822e4765,4,DLLH1147,Marketing Management for Hospitality and Tourism,1,75166d1127c6e73a,Customer Relationship Management,False
+79,696fcd1eb166038a822e4765,5,MKBH1105,Quản trị bán hàng,1,69bd0230ad041476,"Understanding the nature, importance, and process of recruiting, training, and developing the sales force",False
+79,696fcd1eb166038a822e4765,6,MKBH1110,Selling Skills,1,9bc040aa1bbad40f,Understanding the tasks of sales staff throughout the sales process,False
+79,696fcd1eb166038a822e4765,7,NNTM1151,Integrated skills - English for economics and business 1,1,848ed9aebcd2af64,Sales techniques,False
+79,696fcd1eb166038a822e4765,8,MKTT1110,Advertising agency management,1,41d424a17d6cc870,Understanding customer relationships management,False
+84,696380c657a0f8cfb910e925,1,CNTT1165,Web Design,2,bee590cd707e7172; edc92882a411041f,JavaScript Programming; Responsive Web Design,False
+84,696380c657a0f8cfb910e925,2,CNTT1130,.Net Programming,2,fc7c954dfd351104; c3b6b555f3bf5b9a,Understanding .Net Programming Approach; Differentiating Control Features in .Net Programming,True
+84,696380c657a0f8cfb910e925,3,TIKT1134,Web Applications Development,1,55dcfba3a15e9371,Deploying and managing web applications,False
+84,696380c657a0f8cfb910e925,4,CNTT1133,Application Programming,1,b27794974a29d825,ADO.NET Programming,False
+84,696380c657a0f8cfb910e925,5,TIKT1129,Electronic Commerce Systems,1,ca6980df86daa02e,Mastering web application technologies,False
+85,695cbf031fa95d1eeecca0c4,1,TKkD1127,Phân tích dữ liệu lớn,3,33a440e8859bb4dc; 5a7441dc2fd15f30; 13a02ebf31103922,Understanding big data concepts; Collecting large datasets; Analyzing large datasets,True
+85,695cbf031fa95d1eeecca0c4,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,803b3eb2b6af0271,Artificial intelligence,False
+85,695cbf031fa95d1eeecca0c4,3,DLLH1141,Career development in Tourism and Travel industry,1,cf9e4e699aa28645,VTOS Standards,False
+85,695cbf031fa95d1eeecca0c4,4,TMQT1132,Fundamentals of E-commerce,1,bbbfae3f1f7e7039,Information synthesis and analysis,False
+85,695cbf031fa95d1eeecca0c4,5,MTDT1121,Urbanization and Development,1,bbbfae3f1f7e7039,Information synthesis and analysis,False
+85,695cbf031fa95d1eeecca0c4,6,TNKT 1114,Investment in Agricultural and Rural Development,1,88535ead181457af,Continuous lifelong learning to adapt to changing conditions,False
+85,695cbf031fa95d1eeecca0c4,7,TMQT1152,E-commerce Transaction: Theory and Practice,1,e0d7a3c97f855702,Information retrieval and synthesis,False
+85,695cbf031fa95d1eeecca0c4,8,KTHT1104,Data Analytics for Accounting,1,10be35b30753d337,Interpretation and Recommendation Skills,False
+87,6963803557a0f8cfb910e924,1,DTKT1149,Chuyên đề Tin học quản lý đầu tư,1,7f0a76ce26d240f3,Microsoft Project,False
+87,6963803557a0f8cfb910e924,2,QTKD1118,Project Execution Management,1,a49300053b0211fe,Project Management Application,False
+87,6963803557a0f8cfb910e924,3,MTKT1152,Environmental and Natural Capital Accounting,1,547fd3697aa0ed6a,Material Flow Cost Accounting (MFCA),False
+87,6963803557a0f8cfb910e924,4,PTKT1109,Business Planning,1,d199bd441c0c4d67,Tools for Organizing Plan Implementation,False
+87,6963803557a0f8cfb910e924,5,BHKT1163,Risk Management in Insurance,1,d2c60407bbda495f,Risk Management Framework,False
+87,6963803557a0f8cfb910e924,6,KTKI 1108,Financial Auditing 1,1,90df88e4d702bcd7,Quality Factors Identification,False
+90,696380c657a0f8cfb910e926,1,TIKT1129,Electronic Commerce Systems,2,59a049c750394673; 576473d6a73d7f55,Web development using WordPress; WordPress,False
+90,696380c657a0f8cfb910e926,2,TIKT1135,Development of Open Source Software and Applications,2,abf415901e538ca7; 17b8c34a79e001bc,Python Programming Language; Content management systems,False
+90,696380c657a0f8cfb910e926,3,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+90,696380c657a0f8cfb910e926,4,CNTT1167,Cloud Computing,1,cc975e69d79a6f6f,Cloud Concepts,False
+90,696380c657a0f8cfb910e926,5,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,True
+90,696380c657a0f8cfb910e926,6,CNTT11105,Cryptography and Information Security,1,11a4a60b518bf249,Python,False
+90,696380c657a0f8cfb910e926,7,CNTT1177,Machine Learning,1,c44d9221d54651ad,Python Programming,False
+94,696380c657a0f8cfb910e927,1,TIKT1129,Electronic Commerce Systems,2,59a049c750394673; 576473d6a73d7f55,Web development using WordPress; WordPress,False
+94,696380c657a0f8cfb910e927,2,TIKT1135,Development of Open Source Software and Applications,1,17b8c34a79e001bc,Content management systems,False
+94,696380c657a0f8cfb910e927,3,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+94,696380c657a0f8cfb910e927,4,CNTT1167,Cloud Computing,1,cc975e69d79a6f6f,Cloud Concepts,False
+94,696380c657a0f8cfb910e927,5,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+94,696380c657a0f8cfb910e927,6,TMQT1132,Fundamentals of E-commerce,1,89d05febfc66b01c,Website Management Skills,False
+94,696380c657a0f8cfb910e927,7,CNTT1119,Website Design and Programming,1,644020ef757e548a,E-commerce Website Development,True
+95,69526734b27a39886f08acf3,1,NHCO1111,Taxation,2,faf3ad662109e1d5; b2772cc34a579904,Personal Income Tax; Corporate Income Tax,True
+95,69526734b27a39886f08acf3,2,TIKT1135,Development of Open Source Software and Applications,1,e6a3b5530494287f,Enterprise resource planning systems,False
+95,69526734b27a39886f08acf3,3,TIKT1122,Business Intelligence,1,6af2e1ecafd15b88,Deploy Business Intelligence Systems,False
+95,69526734b27a39886f08acf3,4,MTKT1119,Natural Resource and Environmental Management,1,a94213fb6a83bebc,Enterprise Management Tools,False
+95,69526734b27a39886f08acf3,5,LUKD_11105,Vietnam Laws on Taxation,1,01ce75b8be00ec5d,Tax Management Law,False
+98,697b1a84b166038a822e4d44,1,TMKT1141,Commercial Enterprise Management,1,3d6ae96017f46c2e,Cost Management,False
+98,697b1a84b166038a822e4d44,2,QTTH1116,Cost Management,1,61025dda60d61757,Cost Management Tasks,True
+98,697b1a84b166038a822e4d44,3,DTKT1157,Microsoft Project,1,4902bff50d6223d8,Cost management in Microsoft Project,False
+99,695cc0241fa95d1eeecca0c7,1,CNTT1133,Application Programming,2,2f84c910ea74ba58; b27794974a29d825,Visual Studio; ADO.NET Programming,False
+99,695cc0241fa95d1eeecca0c7,2,TIHT1113,Development of Management Applications,1,4b351a323634f057,Using C# programming language in Visual Studio,True
+99,695cc0241fa95d1eeecca0c7,3,CNTT1157,Mobile Applications Development,1,4058cde8164a60ce,Application Testing Techniques,False
+99,695cc0241fa95d1eeecca0c7,4,TIKT1135,Development of Open Source Software and Applications,1,abf415901e538ca7,Python Programming Language,False
+99,695cc0241fa95d1eeecca0c7,5,CNTT1177,Machine Learning,1,c44d9221d54651ad,Python Programming,False
+99,695cc0241fa95d1eeecca0c7,6,CNTT1153,Java Programming,1,0d6cd3ccd7000e1b,Apply testing techniques,False
+99,695cc0241fa95d1eeecca0c7,7,CNTT1188,Web Programming,1,0b6c9f6036708bf7,Web Testing Techniques,False
+99,695cc0241fa95d1eeecca0c7,8,CNTT11105,Cryptography and Information Security,1,11a4a60b518bf249,Python,False
+100,696fd8ceb166038a822e4791,1,CNTT1190,Service Oriented Software Development,3,d7b10c723d1f8680; 140f584ba1cbde2b; db27b691e112b3f3,Service-Oriented System Development; Service-Oriented Architecture; SOAP Service Development,False
+100,696fd8ceb166038a822e4791,2,NNTM1159,Business Communication – in English,2,be7fabf75ae92e5d; 202e9d6c2400c7a8,"Classifying business communication forms, channels, and trends; Managing multimedia communication for businesses",False
+100,696fd8ceb166038a822e4791,3,CNTT1167,Cloud Computing,2,a468720e1a5dc0cb; cc975e69d79a6f6f,Cloud Service Analysis; Cloud Concepts,True
+100,696fd8ceb166038a822e4791,4,TIKT1135,Development of Open Source Software and Applications,1,9ca93b80b1781590,Open Source Application Software,False
+100,696fd8ceb166038a822e4791,5,CNTT1157,Mobile Applications Development,1,4fd034811c0b16b8,Mobile Application Development,False
+100,696fd8ceb166038a822e4791,6,CNTT1154,Internet of Things,1,e24d9edc73f9ca00,IoT Application Development,False
+100,696fd8ceb166038a822e4791,7,CNTT1117,System Analysis and Design,1,5b79d0d574eedd09,Figma,False
+100,696fd8ceb166038a822e4791,8,CNTT11105,Cryptography and Information Security,1,11a4a60b518bf249,Python,False
+100,696fd8ceb166038a822e4791,9,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+100,696fd8ceb166038a822e4791,10,CNTT1165,Web Design,1,bee590cd707e7172,JavaScript Programming,False
+102,696380c657a0f8cfb910e928,1,TIKT1135,Development of Open Source Software and Applications,2,17b8c34a79e001bc; 41de0116bb2584cf,Content management systems; Eclipse IDE,False
+102,696380c657a0f8cfb910e928,2,CNTT1165,Web Design,1,f88313c4e8cfe4de,Web Development Tools,False
+102,696380c657a0f8cfb910e928,3,CNTT1180,Python Programming,1,19034ff2846dd635,Visual Studio Code,False
+102,696380c657a0f8cfb910e928,4,QTKD1118,Project Execution Management,1,a49300053b0211fe,Project Management Application,False
+102,696380c657a0f8cfb910e928,5,TIKT1134,Web Applications Development,1,168548022551fcd0,Mastering web development tools,True
+102,696380c657a0f8cfb910e928,6,KTKI1109,Financial Auditing 2,1,710ea6b3deecb364,Testing Techniques Integration,False
+102,696380c657a0f8cfb910e928,7,TIKT1132,Online Marketing,1,abadc21dad829061,Manage and Exploit Websites,False
+102,696380c657a0f8cfb910e928,8,CNTT1188,Web Programming,1,0b6c9f6036708bf7,Web Testing Techniques,True
+102,696380c657a0f8cfb910e928,9,CNTT1117,System Analysis and Design,1,5b79d0d574eedd09,Figma,False
+102,696380c657a0f8cfb910e928,10,TNDC1126,Principles of Land Administration,1,64ed9d11d5a107c3,Model Management Understanding,False
+103,695cc1491fa95d1eeecca0c8,1,QTTH1128,Enterprise development and change,2,035faf1a2ab69e7c; 50093a2afaf8b71b,Understanding basic concepts of enterprise change and development; Recognizing the necessity and contents of managing and leading change,False
+103,695cc1491fa95d1eeecca0c8,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+103,695cc1491fa95d1eeecca0c8,3,QLKT1128,Managing Change,1,7be96c1162c0c7bc,Change Management,False
+103,695cc1491fa95d1eeecca0c8,4,TIHT1101,Data Structures and Algorithms,1,84933d3097e0c31a,Algorithm Performance,False
+103,695cc1491fa95d1eeecca0c8,5,CNTT1167,Cloud Computing,1,cc975e69d79a6f6f,Cloud Concepts,True
+103,695cc1491fa95d1eeecca0c8,6,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+103,695cc1491fa95d1eeecca0c8,7,CNTT1152,Database Management Systems,1,ed346bb14786b438,Microsoft SQL Server,False
+103,695cc1491fa95d1eeecca0c8,8,TIKT1135,Development of Open Source Software and Applications,1,4611994bd0ab71de,MySQL Database Management System,False
+103,695cc1491fa95d1eeecca0c8,9,CNTT1133,Application Programming,1,79c41baebfebd6a5,SQL Server,False
+103,695cc1491fa95d1eeecca0c8,10,QTKD1133,Supply Chain Management,1,9e47f47ee32f5026,Performance Measurement,False
+106,696380c657a0f8cfb910e929,1,TIKT1135,Development of Open Source Software and Applications,2,abf415901e538ca7; 79ff3383edd2e8dd,Python Programming Language; Open source programming languages,False
+106,696380c657a0f8cfb910e929,2,CNTT1167,Cloud Computing,2,cc975e69d79a6f6f; a468720e1a5dc0cb,Cloud Concepts; Cloud Service Analysis,True
+106,696380c657a0f8cfb910e929,3,TIKT1134,Web Applications Development,1,55dcfba3a15e9371,Deploying and managing web applications,False
+106,696380c657a0f8cfb910e929,4,CNTT11105,Cryptography and Information Security,1,11a4a60b518bf249,Python,False
+106,696380c657a0f8cfb910e929,5,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,True
+106,696380c657a0f8cfb910e929,6,MKMA1164,Product Management,1,4b8eca6ed9475d18,Service Management,False
+106,696380c657a0f8cfb910e929,7,TOTC1108,The models for analyzing and evaluating the financial assets 1,1,454349e422f05297,R,False
+106,696380c657a0f8cfb910e929,8,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+106,696380c657a0f8cfb910e929,9,CNTT1133,Application Programming,1,34107c894ddfd639,Search Functionality Programming,False
+106,696380c657a0f8cfb910e929,10,CNTT1177,Machine Learning,1,c44d9221d54651ad,Python Programming,False
+108,69526bd3b27a39886f08ad22,1,KTKI1109,Financial Auditing 2,2,67d3c5574f107aa2; 710ea6b3deecb364,Audit Test Execution; Testing Techniques Integration,False
+108,69526bd3b27a39886f08ad22,2,CNTT1178,Software Testing and Quality Assurance,2,7209ac90fac75884; 91ec854c3fff68a5,Automated Testing Techniques; Software Testing Overview,True
+108,69526bd3b27a39886f08ad22,3,CNTT1186,Advanced Technologies in Information and Communication Technology,1,803b3eb2b6af0271,Artificial intelligence,False
+108,69526bd3b27a39886f08ad22,4,TIHT1123,Application of Artificial Intelligence in Business and Management,1,302e3da4908ab96e,Model Building for AI Applications,False
+108,69526bd3b27a39886f08ad22,5,KTKI 1116,Financial Audit Practice,1,d1deb4fdfb721e44,Testing control procedures,False
+108,69526bd3b27a39886f08ad22,6,CNTT1140,Artificial Intelligence,1,50779cd6819806ac,Research and develop AI applications,True
+108,69526bd3b27a39886f08ad22,7,TIHT1104,Software Engineering,1,91ec854c3fff68a5,Software Testing Overview,False
+121,695cc2751fa95d1eeecca0cb,1,CNTT1152,Database Management Systems,2,ed346bb14786b438; 7fb492d807a274a9,Microsoft SQL Server; SQL Server Management Studio,True
+121,695cc2751fa95d1eeecca0cb,2,TIKT1135,Development of Open Source Software and Applications,2,4611994bd0ab71de; 5b38c92a1b9db958,MySQL Database Management System; Version Control Systems,False
+121,695cc2751fa95d1eeecca0cb,3,TIKT1133,Unified Modeling Language,1,b63593332cebe7ab,Proficient Use of UML Design Tools,False
+121,695cc2751fa95d1eeecca0cb,4,CNTT1178,Software Testing and Quality Assurance,1,7d58e187d0938570,Testing Process Management,False
+121,695cc2751fa95d1eeecca0cb,5,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+121,695cc2751fa95d1eeecca0cb,6,CNTT1190,Service Oriented Software Development,1,140f584ba1cbde2b,Service-Oriented Architecture,False
+121,695cc2751fa95d1eeecca0cb,7,QTTH1128,Enterprise development and change,1,035faf1a2ab69e7c,Understanding basic concepts of enterprise change and development,False
+121,695cc2751fa95d1eeecca0cb,8,TNBD1136,Architecture,1,f6fd46a207885909,Understanding the basics of architecture,False
+121,695cc2751fa95d1eeecca0cb,9,TIHT1104,Software Engineering,1,65a3aaef3877d176,Software Design Fundamentals,False
+121,695cc2751fa95d1eeecca0cb,10,CNTT1117,System Analysis and Design,1,2c26ea23a1adea4b,Object-Oriented Design,False
+125,695cc2761fa95d1eeecca0cc,1,CNTT1199,Software and Database Security,3,a2ee80c016423270; 9483fcfd171f5daf; c0656a06590b5361,Application Security Principles; Password Management in Code; Database Security Principles,False
+125,695cc2761fa95d1eeecca0cc,2,CNTT1168,An toàn và bảo mật thông tin,1,f33ab0b6b6be7183,Cryptography Techniques,True
+125,695cc2761fa95d1eeecca0cc,3,CNTT1197,Cybersecurity,1,f33ab0b6b6be7183,Cryptography Techniques,True
+125,695cc2761fa95d1eeecca0cc,4,TOCB1107,Discrete Mathematics,1,6ea013dfbbf35318,RSA Cryptosystem,False
+125,695cc2761fa95d1eeecca0cc,5,CNTT11105,Cryptography and Information Security,1,9899f1fec6613468,AES,False
+125,695cc2761fa95d1eeecca0cc,6,CNTT1152,Database Management Systems,1,c0656a06590b5361,Database Security Principles,False
+136,69651066b166038a822e42f3,1,TMKQ1115,English for International Economics and Business,1,8b3f82a9920e6969,Language Proficiency,False
+136,69651066b166038a822e42f3,2,MKTT1143,English for Public Relations,1,8b3f82a9920e6969,Language Proficiency,False
+136,69651066b166038a822e42f3,3,LUCS1136,Drafting Legal Documents,1,8b3f82a9920e6969,Language Proficiency,False
+142,695283c0b27a39886f08ae47,1,TNDC1150,Land using investment project assessment,1,467119c2e02e473b,Data analysis,False
+142,695283c0b27a39886f08ae47,2,CNTT1180,Python Programming,1,467119c2e02e473b,Data analysis,False
+142,695283c0b27a39886f08ae47,3,DLLH1147,Marketing Management for Hospitality and Tourism,1,e11bb3d7da37d647,Marketing Analysis,False
+142,695283c0b27a39886f08ae47,4,MKTT1112,Advertising Management,1,cf74ce0e22303913,Advertising Campaign Management,False
+149,6970992ab166038a822e47cc,1,MTDt1106,Hệ thống thông tin địa lý (Geographic Information System),1,4b663be5d1104d65,Map Creation and Editing,False
+149,6970992ab166038a822e47cc,2,NNTM1107,Translation 1,1,23a445aee758daed,Translation Flexibility,False
+149,6970992ab166038a822e47cc,3,DTKT 1176,Project Design,1,0f464bdbb1fda910,Analyzing project components,False
+149,6970992ab166038a822e47cc,4,CNTT1188,Web Programming,1,1772039f1bc9928d,Web Application Design,False
+149,6970992ab166038a822e47cc,5,MKMA1101,Consumer Behavior,1,d3285497b7c6cc8a,"Dynamic, flexible, and friendly team working ability",False
+149,6970992ab166038a822e47cc,6,KTHT1105,Kiểm soát nội bộ,1,661559a2e0ec9f17,Adaptability,False
+149,6970992ab166038a822e47cc,7,TOkt1144,Optimization,1,661559a2e0ec9f17,Adaptability,False
+149,6970992ab166038a822e47cc,8,KTKI 1116,Financial Audit Practice,1,661559a2e0ec9f17,Adaptability,False
+149,6970992ab166038a822e47cc,9,DLLH1154,Operation of Travel Service 3,1,661559a2e0ec9f17,Adaptability,False
+149,6970992ab166038a822e47cc,10,DLLH1141,Career development in Tourism and Travel industry,1,661559a2e0ec9f17,Adaptability,False
+152,6952858db27a39886f08ae5f,1,LUKD1187,Banking Law,3,fcf035ac6e382ee8; fff8358069104c3f; 57c2ac07c9516f35,Banking Operations Legal Framework; Financial Institutions Legal Status; Banking Law Fundamentals,True
+152,6952858db27a39886f08ae5f,2,KTKI 1116,Financial Audit Practice,1,a8c6e3a7760f164b,Compliance with Rules and Regulations,False
+152,6952858db27a39886f08ae5f,3,LUCS1129,Fundamentals of Law,1,a8c6e3a7760f164b,Compliance with Rules and Regulations,False
+152,6952858db27a39886f08ae5f,4,LUCS1137,Law on civil procedures,1,a8c6e3a7760f164b,Compliance with Rules and Regulations,False
+152,6952858db27a39886f08ae5f,5,NHTM 1111,Commercial Banking 2,1,2823aca7185a831f,Credit Policy Understanding,True
+152,6952858db27a39886f08ae5f,6,NNTM 1150,English for Banking and Finance – in English,1,ce22f37fe7c425ca,Banking Operations Analysis,False
+152,6952858db27a39886f08ae5f,7,KTKE1110,Public Accounting 2,1,bed622c72ddf016b,Banking Operations,False
+153,695cc30b1fa95d1eeecca0ce,1,CNTT1199,Software and Database Security,2,a2ee80c016423270; c0656a06590b5361,Application Security Principles; Database Security Principles,False
+153,695cc30b1fa95d1eeecca0ce,2,CNTT1198,Cloud Service Security,1,0bcc7664f42fa9b3,Cloud Security Design Patterns,False
+153,695cc30b1fa95d1eeecca0ce,3,TMKT1145,Business Logistics,1,fa39adb17cad35e0,Service Design and Implementation,False
+153,695cc30b1fa95d1eeecca0ce,4,CNTT1152,Database Management Systems,1,c0656a06590b5361,Database Security Principles,False
+153,695cc30b1fa95d1eeecca0ce,5,NNKC 1131,English 1,1,abcdf5e513d4c5b6,Speaking Ability,True
+153,695cc30b1fa95d1eeecca0ce,6,NNTM1159,Business Communication – in English,1,3e8f41784652266b,"Finding, processing, and using information appropriately",False
+153,695cc30b1fa95d1eeecca0ce,7,CNTT1165,Web Design,1,edc92882a411041f,Responsive Web Design,True
+155,6965c64eb166038a822e4305,1,TMKQ1115,English for International Economics and Business,1,8b3f82a9920e6969,Language Proficiency,False
+155,6965c64eb166038a822e4305,2,MKTT1143,English for Public Relations,1,8b3f82a9920e6969,Language Proficiency,False
+155,6965c64eb166038a822e4305,3,LUCS1136,Drafting Legal Documents,1,8b3f82a9920e6969,Language Proficiency,False
+155,6965c64eb166038a822e4305,4,NNKC1126,Second Foreign Language (French 2),1,dc2bc70793079463,Online Learning,False
+155,6965c64eb166038a822e4305,5,NNTV1107,Vietnamese in Use,1,47d60d831cff6377,"Listen, understand, record, and follow lectures on similar topics",False
+155,6965c64eb166038a822e4305,6,TIHT1122,Knowledge Management,1,1ab60e2bbd39e02a,Self-learning skills for knowledge management,False
+155,6965c64eb166038a822e4305,7,LUKD1133,Skills on Formulation and Execution of Commercial Contracts,1,31b1877e92748b4a,Legal English Proficiency,False
+156,697b1d2eb166038a822e4d50,1,NHTC1103,Quản trị Tài chính trong du lịch và khách sạn,2,6a6ebe8510ced07b; 7dab1349ff5de7ba,Financial Analysis; Financial Analysis Methods,False
+156,697b1d2eb166038a822e4d50,2,DTKT 1111,Investment Project Design and Management,1,6a6ebe8510ced07b,Financial Analysis,False
+156,697b1d2eb166038a822e4d50,3,TNKT1150,Agribusiness Investment Project,1,6a6ebe8510ced07b,Financial Analysis,False
+156,697b1d2eb166038a822e4d50,4,NHTC1108,Financial Analysis,1,2cf83fcbd09ccf46,Financial Analysis Fundamentals,True
+168,695cc6a61fa95d1eeecca0de,1,MKTT1132,Writing skills for public relations,3,a5858cfd572ec358; ee0902fbd881250a; d5deacdd34788a54,PR writing process; Speech writing; PR writing skills,False
+168,695cc6a61fa95d1eeecca0de,2,CNTT1133,Application Programming,2,2f84c910ea74ba58; b27794974a29d825,Visual Studio; ADO.NET Programming,False
+168,695cc6a61fa95d1eeecca0de,3,TIHT1113,Development of Management Applications,1,4b351a323634f057,Using C# programming language in Visual Studio,True
+168,695cc6a61fa95d1eeecca0de,4,CNTT1165,Web Design,1,bee590cd707e7172,JavaScript Programming,True
+168,695cc6a61fa95d1eeecca0de,5,TIKT1129,Electronic Commerce Systems,1,ca6980df86daa02e,Mastering web application technologies,False
+170,6965cf77b166038a822e4324,1,LUKD1193,Legal Consulting Skills,2,c82ca2cac26dcb03; 38803279f9545a90,Understanding Legal Consultation Concepts; Specialized Legal Consultation Skills,True
+170,6965cf77b166038a822e4324,2,MTDT1114,Urban and Regional Planning,2,ab1d6c6a065c4bc3; 138698b39cc25bbf,Urban Construction Planning; Theoretical Foundations of Urban and Regional Planning,True
+170,6965cf77b166038a822e4324,3,TNBD1138,Urban and Rural Development Planning,1,64cf84b60c298dd2,Urban Structure Planning,False
+170,6965cf77b166038a822e4324,4,TNBD1102,Real Estate Finance and Investment,1,4cea2bcf5bd6b1c0,Real Estate Investment Theories,False
+170,6965cf77b166038a822e4324,5,LUKD1182,Viet Nam Customs Law,1,3c9d11b7f81cae88,Customs Consultation Skills,False
+170,6965cf77b166038a822e4324,6,TNBD1116,Real estate Management,1,773ab1e7c991beec,Technical analysis of real estate,False
+170,6965cf77b166038a822e4324,7,TNBD1136,Architecture,1,03c636e78ec15ab6,Reading architectural drawings,False
+170,6965cf77b166038a822e4324,8,DLKS1143,Hospitality Business Management,1,9ac5fe62101447d0,Hotel Project Consultation,False
+170,6965cf77b166038a822e4324,9,LUKD1110,Law on Commerce 1,1,395f0da5c9147848,Legal Research,False
+170,6965cf77b166038a822e4324,10,TNBD1104,Real estate valuation 1,1,b6ee6a38c2cbc3ee,Real estate market analysis,False
+171,69709a36b166038a822e47dd,1,QTKD1133,Supply Chain Management,2,1fc67c3010a7acc2; e679c7f9c59ec13d,Activity Evaluation; Financial Evaluation,False
+171,69709a36b166038a822e47dd,2,BHKT1118,Insurance Principles,2,242e9e15af0aa617; 9b6f3b844eba6df8,Insurance Transactions; Risk Management Fundamentals,False
+171,69709a36b166038a822e47dd,3,NHHLT1106,Ngân hàng Trung ương,2,604921f8deff2742; d5cb99a045b2a05b,Payment Systems; Credit Activities,False
+171,69709a36b166038a822e47dd,4,NHTC1112,Financial appraisal of investment projects,1,d6c57f7a6ed5e3ae,Financial appraisal in decision-making,False
+171,69709a36b166038a822e47dd,5,TOTC1120,Quantitative risk management 1,1,9b6f3b844eba6df8,Risk Management Fundamentals,True
+171,69709a36b166038a822e47dd,6,CNTT1137,Business Analysis,1,a79cc880c5121118,Solution Evaluation,False
+171,69709a36b166038a822e47dd,7,BHKT1163,Risk Management in Insurance,1,d2c60407bbda495f,Risk Management Framework,False
+171,69709a36b166038a822e47dd,8,MTKT1104,Environmental economics and management,1,b2b6e7263f328c13,Economic valuation,False
+171,69709a36b166038a822e47dd,9,TOCB1110,Mathematics for Economics,1,c9eaccf864700b30,Self-assessment,False
+171,69709a36b166038a822e47dd,10,NNTM1166,English – Reading Skills 4,1,c9eaccf864700b30,Self-assessment,False
+177,69709c09b166038a822e47e2,1,MKTT1145,Sales Promotion,3,72ced804799ffc30; ecc3a1999012b6fe; 0d2c92f3b31376cc,Sales Promotion Terminology; Sales Promotion Campaign Creation; Sales Promotion Implementation,True
+177,69709c09b166038a822e47e2,2,TNBD1135,Real Estate Business 2,2,6ecd2b8db8f7ee36; ac2dcf5e7671ab0d,Building Contracts; Contract Understanding,False
+177,69709c09b166038a822e47e2,3,DTKT1164,Contract Management,1,877cfa501371fa38,Negotiation skills for contracts,True
+180,695cc6a61fa95d1eeecca0e0,1,CNTT1175,Unstructured database,2,cb62eba40b93615e; b53b7753437c5fbf,Designing applications with MongoDB; Using other NoSQL databases,True
+180,695cc6a61fa95d1eeecca0e0,2,CNTT1167,Cloud Computing,2,a468720e1a5dc0cb; cc975e69d79a6f6f,Cloud Service Analysis; Cloud Concepts,True
+180,695cc6a61fa95d1eeecca0e0,3,CNTT11105,Cryptography and Information Security,1,11a4a60b518bf249,Python,False
+180,695cc6a61fa95d1eeecca0e0,4,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+180,695cc6a61fa95d1eeecca0e0,5,TIKT1135,Development of Open Source Software and Applications,1,4611994bd0ab71de,MySQL Database Management System,False
+180,695cc6a61fa95d1eeecca0e0,6,TOTC1108,The models for analyzing and evaluating the financial assets 1,1,454349e422f05297,R,False
+180,695cc6a61fa95d1eeecca0e0,7,CNTT1165,Web Design,1,bee590cd707e7172,JavaScript Programming,False
+181,69709c4eb166038a822e47e6,1,TMKT1151,Logistics Planning and Control Systems,2,539bfd01324a5c98; 5961a181bea2bb85,Logistics Planning; Logistics Analysis,False
+181,69709c4eb166038a822e47e6,2,TMKT1125,Principles of Logistics Management,2,0137155e28826ce6; bf524fa43e27c8c9,Logistics Organization and Control; Warehouse Management,False
+181,69709c4eb166038a822e47e6,3,TMKT1145,Business Logistics,2,459e6de803b335ce; 5961a181bea2bb85,Understanding logistics management tasks; Logistics Analysis,True
+181,69709c4eb166038a822e47e6,4,MKMA1107,Services Marketing,1,c6e4eaf6a7584088,Service Integration,False
+188,6952ad90b27a39886f08b059,1,NHTC1103,Quản trị Tài chính trong du lịch và khách sạn,2,7dab1349ff5de7ba; 6a6ebe8510ced07b,Financial Analysis Methods; Financial Analysis,False
+188,6952ad90b27a39886f08b059,2,LUKD1185,Economic Law,1,5ee63938affd3443,Corporate Regulations,True
+188,6952ad90b27a39886f08b059,3,TMKT1141,Commercial Enterprise Management,1,0c33718e133ecfbd,Accounting Practices,False
+188,6952ad90b27a39886f08b059,4,KTKE1101,Accounting Principles,1,1b06f9717d6f60cf,Recognizing and applying generally accepted accounting principles (GAAP),False
+188,6952ad90b27a39886f08b059,5,NHTC1108,Financial Analysis,1,2cf83fcbd09ccf46,Financial Analysis Fundamentals,False
+188,6952ad90b27a39886f08b059,6,DTKT 1111,Investment Project Design and Management,1,6a6ebe8510ced07b,Financial Analysis,False
+188,6952ad90b27a39886f08b059,7,TNKT1150,Agribusiness Investment Project,1,6a6ebe8510ced07b,Financial Analysis,False
+195,697b1e91b166038a822e4d59,1,NHQT1118,Payment and Credit in International Trade,2,157c069f3ff234e1; 88c114efcce87a55,International Payment Methods; International Payment Instruments,True
+195,697b1e91b166038a822e4d59,2,NHQT1112,International Payments,1,c8240e1dc1cc211c,Understanding international payment system,False
+197,6966a59eb166038a822e43ce,1,MKMA1112,English for Marketing,2,b798fae548740109; e789ef7ccb16723c,Marketing Strategy; Marketing Channels,False
+197,6966a59eb166038a822e43ce,2,NHTC1103,Quản trị Tài chính trong du lịch và khách sạn,2,6a6ebe8510ced07b; 7dab1349ff5de7ba,Financial Analysis; Financial Analysis Methods,False
+197,6966a59eb166038a822e43ce,3,MKMA1164,Product Management,1,b798fae548740109,Marketing Strategy,False
+197,6966a59eb166038a822e43ce,4,MKTT1132,Writing skills for public relations,1,f5ad773d7e6c4f03,Social media writing,False
+197,6966a59eb166038a822e43ce,5,TOTC1109,The models for analyzing and evaluating the financial assets 2,1,d4f3369453884786,Technical Analysis,True
+197,6966a59eb166038a822e43ce,6,TNBD1116,Real estate Management,1,773ab1e7c991beec,Technical analysis of real estate,False
+197,6966a59eb166038a822e43ce,7,NHLT1104,Essay on Monetary and Financial Theories,1,14043e42b8a18453,Financial Market Analysis,False
+197,6966a59eb166038a822e43ce,8,NHLT1101,Monetary and Financial Theories 1,1,14043e42b8a18453,Financial Market Analysis,False
+197,6966a59eb166038a822e43ce,9,DLKS1131,E-Tourism Business,1,c280c1a79c57c35b,Website and Social Media Management,False
+197,6966a59eb166038a822e43ce,10,NHTC1108,Financial Analysis,1,2cf83fcbd09ccf46,Financial Analysis Fundamentals,False
+198,6970a53db166038a822e47f9,1,NLQT1116,Labour Organization and Standardization 2,2,aaa7d9a7ef82bb09; 3e5cc34fe2a05213,Labour Standards; Labor Organization,False
+198,6970a53db166038a822e47f9,2,TNBD1137,Real Estate Development,1,a3bca6e4b587f190,Legal Procedures in Real Estate Development,False
+198,6970a53db166038a822e47f9,3,TMKQ1115,English for International Economics and Business,1,8b3f82a9920e6969,Language Proficiency,False
+198,6970a53db166038a822e47f9,4,MKTT1143,English for Public Relations,1,8b3f82a9920e6969,Language Proficiency,False
+198,6970a53db166038a822e47f9,5,LUCS1136,Drafting Legal Documents,1,8b3f82a9920e6969,Language Proficiency,False
+198,6970a53db166038a822e47f9,6,LUKD1133,Skills on Formulation and Execution of Commercial Contracts,1,31b1877e92748b4a,Legal English Proficiency,False
+198,6970a53db166038a822e47f9,7,TNKT1147,Ethics and Responsibility in Agricultural Business,1,c0b8dd63f02b15ff,Labor Relations,False
+198,6970a53db166038a822e47f9,8,NNTM1178,English – Listening and Speaking skills 3,1,7f34693ff0d88209,Speaking Proficiency,False
+198,6970a53db166038a822e47f9,9,NNTM1177,English – Listening and Speaking skills 2,1,7f34693ff0d88209,Speaking Proficiency,False
+198,6970a53db166038a822e47f9,10,NNTM1176,English – Listening and Speaking skills 1,1,7f34693ff0d88209,Speaking Proficiency,False
+201,697b1f1eb166038a822e4d5a,1,DTKT1157,Microsoft Project,1,00c4a70843ae0138,Using software to manage projects,False
+201,697b1f1eb166038a822e4d5a,2,TOkt1110,Mathematical Statistics,1,85c9a751575d8584,Practical Use of Specialized Software,False
+201,697b1f1eb166038a822e4d5a,3,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,False
+201,697b1f1eb166038a822e4d5a,4,MTDT1114,Urban and Regional Planning,1,55ee408c324c56a0,Urban and Regional Planning Software,False
+201,697b1f1eb166038a822e4d5a,5,CNTT1167,Cloud Computing,1,a468720e1a5dc0cb,Cloud Service Analysis,True
+201,697b1f1eb166038a822e4d5a,6,CNTT1198,Cloud Service Security,1,b160bc1ca65d65b1,Cloud Computing Fundamentals,False
+208,695cc87c1fa95d1eeecca0e3,1,CNTT1167,Cloud Computing,2,cc975e69d79a6f6f; a468720e1a5dc0cb,Cloud Concepts; Cloud Service Analysis,True
+208,695cc87c1fa95d1eeecca0e3,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,81121f330a983b7f,Cloud computing,True
+208,695cc87c1fa95d1eeecca0e3,3,DLKS1110,MICE MANAGEMENT,1,b7a4d0e6da807c5b,General Management Knowledge,False
+208,695cc87c1fa95d1eeecca0e3,4,CNTT1180,Python Programming,1,70f0d3e18d498cc9,Google Colab,False
+208,695cc87c1fa95d1eeecca0e3,5,DLLH1152,Operation of Travel Services 1,1,d88eb39df7251637,Building Tour Explanations,False
+208,695cc87c1fa95d1eeecca0e3,6,TOTC1108,The models for analyzing and evaluating the financial assets 1,1,454349e422f05297,R,False
+208,695cc87c1fa95d1eeecca0e3,7,CNTT1198,Cloud Service Security,1,b160bc1ca65d65b1,Cloud Computing Fundamentals,False
+219,6966aa84b166038a822e43f3,1,MKTT1112,Advertising Management,2,cf74ce0e22303913; f9e690cab2d069e1,Advertising Campaign Management; Advertising Fundamentals,False
+219,6966aa84b166038a822e43f3,2,CNTT1186,Advanced Technologies in Information and Communication Technology,1,803b3eb2b6af0271,Artificial intelligence,False
+219,6966aa84b166038a822e43f3,3,MKBH1108,Quản trị kênh phân phối,1,783151d02d534da6,Communication Skills Application,False
+219,6966aa84b166038a822e43f3,4,NLQT1106,English for Human Resource Management,1,d7a0db78b674962b,Text Creation,False
+219,6966aa84b166038a822e43f3,5,MKTT1145,Sales Promotion,1,ecc3a1999012b6fe,Sales Promotion Campaign Creation,False
+219,6966aa84b166038a822e43f3,6,CNTT1140,Artificial Intelligence,1,50779cd6819806ac,Research and develop AI applications,True
+219,6966aa84b166038a822e43f3,7,MKTT1148,Creative Strategy in Communication,1,f9e690cab2d069e1,Advertising Fundamentals,False
+219,6966aa84b166038a822e43f3,8,DLKS1113,Restaurant Business Management,1,0b205cfba1befb3b,Customer Concept Comprehension,False
+219,6966aa84b166038a822e43f3,9,TIHT1123,Application of Artificial Intelligence in Business and Management,1,338c268cf390197e,Artificial Intelligence Overview,True

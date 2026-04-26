@@ -140,6 +140,35 @@ def ndcg_at_k(predicted: Sequence[str], truth: Sequence[str], k: int) -> float:
     return dcg / idcg if idcg > 0 else 0.0
 
 
+def mrr_at_k(predicted: Sequence[str], truth: Sequence[str], k: int) -> float:
+    truth_set = {normalize_course_id(cid) for cid in truth}
+    if not truth_set:
+        return 0.0
+    for idx, course_id in enumerate(predicted[:k], start=1):
+        if normalize_course_id(course_id) in truth_set:
+            return 1.0 / idx
+    return 0.0
+
+
+def map_at_k(predicted: Sequence[str], truth: Sequence[str], k: int) -> float:
+    truth_set = {normalize_course_id(cid) for cid in truth}
+    if not truth_set:
+        return 0.0
+    topk = [normalize_course_id(cid) for cid in predicted[:k]]
+    if not topk:
+        return 0.0
+
+    hit_count = 0
+    precision_sum = 0.0
+    for idx, cid in enumerate(topk, start=1):
+        if cid in truth_set:
+            hit_count += 1
+            precision_sum += hit_count / idx
+
+    denom = min(len(truth_set), k)
+    return precision_sum / denom if denom > 0 else 0.0
+
+
 def aggregate_metrics(per_sample: List[Dict[str, Dict[str, float]]], top_k: Sequence[int]) -> Dict[str, Dict[str, float]]:
     summary: Dict[str, Dict[str, float]] = {}
     n = max(len(per_sample), 1)
@@ -147,7 +176,7 @@ def aggregate_metrics(per_sample: List[Dict[str, Dict[str, float]]], top_k: Sequ
         key = f"@{k}"
         summary[key] = {
             metric: round(sum(sample[key][metric] for sample in per_sample) / n, 6)
-            for metric in ("precision", "recall", "hit_rate", "ndcg")
+            for metric in ("precision", "recall", "hit_rate", "ndcg", "mrr", "map")
         }
     return summary
 
@@ -364,6 +393,8 @@ def evaluate() -> None:
                 "recall": recall_at_k(predicted_ids, truth, k),
                 "hit_rate": hit_rate_at_k(predicted_ids, truth, k),
                 "ndcg": ndcg_at_k(predicted_ids, truth, k),
+                "mrr": mrr_at_k(predicted_ids, truth, k),
+                "map": map_at_k(predicted_ids, truth, k),
             }
         per_sample_metrics.append(m)
 

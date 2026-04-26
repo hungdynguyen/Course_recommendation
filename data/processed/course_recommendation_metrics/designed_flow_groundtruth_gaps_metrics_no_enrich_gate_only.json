@@ -1,0 +1,51 @@
+{
+  "mode": "designed_flow_groundtruth_gaps",
+  "query_enrichment": false,
+  "weighted_ranker": false,
+  "top1_confidence_gate": true,
+  "labels_file": "data/processed/training_dataset/human_labeled_recommendations.json",
+  "scenario_file": "data/processed/course_recommendations/course_recommendations.json",
+  "total_labeled_samples": 68,
+  "matched_samples": 68,
+  "k_values": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "summary": {
+    "@1": {
+      "precision": 0.323529,
+      "recall": 0.142647,
+      "hit_rate": 0.323529,
+      "ndcg": 0.323529,
+      "mrr": 0.323529,
+      "map": 0.323529
+    },
+    "@3": {
+      "precision": 0.269608,
+      "recall": 0.380392,
+      "hit_rate": 0.632353,
+      "ndcg": 0.354633,
+      "mrr": 0.453431,
+      "map": 0.281454
+    },
+    "@5": {
+      "precision": 0.208824,
+      "recall": 0.495588,
+      "hit_rate": 0.735294,
+      "ndcg": 0.400724,
+      "mrr": 0.477696,
+      "map": 0.30721
+    },
+    "@10": {
+      "precision": 0.125,
+      "recall": 0.569118,
+      "hit_rate": 0.823529,
+      "ndcg": 0.433637,
+      "mrr": 0.491439,
+      "map": 0.324142
+    }
+  },
+  "excel_output": "data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_comparison_no_enrich_gate_only.xlsx"
+}

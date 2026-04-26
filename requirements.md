@@ -1,4 +1,1 @@
-
-Sau khi làm luồng data_factory, tôi còn luồng recommendation cần phải chạy và tính toán metrics nữa. Tôi đã generate và label một dataset end to end rồi. 
-
-Hãy kiểm tra cho tôi xem luồng serving hiện tại đã làm đúng theo luồng mà tôi đã thiết kế hay chưa, và đã thỏa mãn bao nhiêu % so với luồng trước đó
+tôi muốn làm 1 frontend đơn giản để demo cho thầy. Frontend này chia làm 2 module, một module cho user (kéo thả cv, sau đó chọn jds trong list sau đó ấn recommend thì hệ thống sẽ tự động gợi ý  cho người dùng các course phù hợp với họ) và 1 module cho admin có chức năng quản lý data_factory. Nó có chức năng là có thể kéo thả course vào, sau khi kéo thả vào thì nó sẽ lưu lại và tự động chạy batch vào 1 thời điểm nào đó để ingest các course mới này vào KG sẵn sàng phục vụ. Hiện nay làm demo thì cứ làm nút run là được. Trước khi code thì viết cho tôi 1 doccument dưới dạng md để tôi check xem luồng chạy, logic đã hợp lý chưa. Chú ý là luồng chạy phải tối ưu và sạch sẽ. Ngoài ra cũng phải dùng chiến thuật tốt nhất cho việc ingest thêm course để tiết kiệm tài nguyên và thời gian nhất. 

@@ -34,3 +34,22 @@ neo4j:
   password: ${NEO4J_PASSWORD}
   database: neo4j
   batch_size: 5000
+
+# Filter out generic soft-skill phrases before embedding/indexing.
+soft_skill_filter:
+  enabled: true
+  exclude_terms:
+    - classroom discipline
+    - group activity organization
+    - group organization
+    - collaborate with team members
+    - team collaboration
+    - teamwork
+    - communication skills
+    - critical thinking
+    - self-directed learning
+    - self directed learning
+    - ethical responsibility
+    - social responsibility
+    - professional ethics
+    - working independently

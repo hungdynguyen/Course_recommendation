@@ -10,6 +10,7 @@ from shared.embeddings.embedding_service import EmbeddingService
 from service_api.services.skill_search import SkillSearchService
 from service_api.services.gap_detection import GapDetectionService
 from service_api.services.course_recommendation import CourseRecommendationService
+from service_api.services.admin_ingest_demo import AdminIngestDemoService
 
 logger = logging.getLogger(__name__)
 
@@ -22,6 +23,7 @@ _embedding: Optional[EmbeddingService] = None
 _skill_search: Optional[SkillSearchService] = None
 _gap_detection: Optional[GapDetectionService] = None
 _recommendation: Optional[CourseRecommendationService] = None
+_admin_ingest_demo: Optional[AdminIngestDemoService] = None
 
 
 # ---------------------------------------------------------------------------
@@ -61,6 +63,7 @@ def get_embedding() -> EmbeddingService:
             model_name=settings.EMBEDDING_MODEL_NAME,
             model_path=settings.EMBEDDING_MODEL_PATH,
             device=settings.EMBEDDING_DEVICE,
+            batch_size=settings.EMBEDDING_BATCH_SIZE,
         )
     return _embedding
 
@@ -94,6 +97,13 @@ def get_recommendation_service() -> CourseRecommendationService:
     if _recommendation is None:
         _recommendation = CourseRecommendationService(neo4j=get_neo4j())
     return _recommendation
+
+
+def get_admin_ingest_demo_service() -> AdminIngestDemoService:
+    global _admin_ingest_demo
+    if _admin_ingest_demo is None:
+        _admin_ingest_demo = AdminIngestDemoService()
+    return _admin_ingest_demo
 
 
 def close_all() -> None:

@@ -97,12 +97,44 @@ class GraphBuildPipeline:
             **input_metrics,
         }
 
-        # Phase 2 – Embed raw skill names
+        # Phase 1.5 – Optional soft-skill filter before embedding/indexing.
         t0 = time.perf_counter()
-        labels     = [cs.skill_name for cs in course_skills]
-        descs      = [cs.description for cs in course_skills]
-        cats       = [cs.category for cs in course_skills]
-        embeddings = self._embedding.encode(labels, batch_size=self._settings.embedding.batch_size)
+        if self._settings.soft_skill_filter.enabled:
+            filtered_course_skills, removed_soft = self._filter_soft_skills(course_skills)
+            logger.info(
+                "Soft-skill filter enabled: removed=%d kept=%d",
+                removed_soft,
+                len(filtered_course_skills),
+            )
+        else:
+            filtered_course_skills = course_skills
+            removed_soft = 0
+
+        phase_durations["soft_skill_filter"] = time.perf_counter() - t0
+        report["phases"]["soft_skill_filter"] = {
+            "duration_sec": round(phase_durations["soft_skill_filter"], 4),
+            "enabled": self._settings.soft_skill_filter.enabled,
+            "removed_records": removed_soft,
+            "remaining_records": len(filtered_course_skills),
+        }
+
+        if not filtered_course_skills:
+            logger.warning("All course skills removed by soft-skill filter – dừng pipeline")
+            report["summary"] = {
+                "total_duration_sec": round(time.perf_counter() - started_at, 4),
+                "status": "stopped_empty_after_soft_filter",
+            }
+            if output_metrics_report:
+                self._write_metrics_report(report, metrics_output_path)
+            return
+
+        # Phase 2 – Embed course skill payloads (name + description + category)
+        t0 = time.perf_counter()
+        labels     = [cs.skill_name for cs in filtered_course_skills]
+        descs      = [cs.description for cs in filtered_course_skills]
+        cats       = [cs.category for cs in filtered_course_skills]
+        embedding_payloads = [cs.to_embedding_payload() for cs in filtered_course_skills]
+        embeddings = self._embedding.encode(embedding_payloads, batch_size=self._settings.embedding.batch_size)
         phase_durations["embedding"] = time.perf_counter() - t0
         report["phases"]["embedding"] = {
             "duration_sec": round(phase_durations["embedding"], 4),
@@ -134,8 +166,13 @@ class GraphBuildPipeline:
         logger.info("Indexing %d canonical skills vào ES...", len(canonical_skills))
         t0 = time.perf_counter()
         self._es.ensure_index()
-        canon_labels   = [cs.canonical_label for cs in canonical_skills]
-        canon_vecs     = self._embedding.encode(canon_labels)
+        canon_payloads = [
+            ". ".join(
+                p for p in [cs.canonical_label, cs.description, f"Category: {cs.category}" if cs.category else None] if p
+            )
+            for cs in canonical_skills
+        ]
+        canon_vecs     = self._embedding.encode(canon_payloads)
         es_docs = []
         for cs, vec in zip(canonical_skills, canon_vecs):
             doc = cs.as_es_document()
@@ -167,7 +204,7 @@ class GraphBuildPipeline:
             (cs.as_neo4j_props() for cs in canonical_skills)
         )
 
-        course_nodes, teaches, requires = self._build_graph_edges(course_skills, merge_map)
+        course_nodes, teaches, requires = self._build_graph_edges(filtered_course_skills, merge_map)
         self._neo4j.batch_merge_courses(n.as_neo4j_props() for n in course_nodes)
         self._neo4j.batch_merge_teaches(e.as_neo4j_props() for e in teaches)
         self._neo4j.batch_merge_requires(e.as_neo4j_props() for e in requires)
@@ -391,3 +428,22 @@ class GraphBuildPipeline:
                 requires.append(RequiresEdge(**props))
 
         return list(seen.values()), teaches, requires
+
+    def _filter_soft_skills(self, course_skills: List[CourseSkill]) -> Tuple[List[CourseSkill], int]:
+        terms = [t for t in self._settings.soft_skill_filter.exclude_terms if t]
+        if not terms:
+            return course_skills, 0
+
+        kept: List[CourseSkill] = []
+        removed = 0
+        for cs in course_skills:
+            text = " ".join([
+                str(cs.skill_name or ""),
+                str(cs.description or ""),
+                str(cs.category or ""),
+            ]).lower()
+            if any(term in text for term in terms):
+                removed += 1
+                continue
+            kept.append(cs)
+        return kept, removed

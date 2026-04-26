@@ -1,0 +1,50 @@
+{
+  "mode": "embedding_baseline_groundtruth_gaps",
+  "description": "Vector-only retrieval using groundtruth missing technical skills from dataset",
+  "labels_file": "data/processed/training_dataset/human_labeled_recommendations.json",
+  "scenario_file": "data/processed/course_recommendations/course_recommendations.json",
+  "course_catalog_dir": "data/Data_Courses_Filtered",
+  "total_labeled_samples": 100,
+  "matched_samples": 100,
+  "k_values": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "summary": {
+    "@1": {
+      "precision": 0.54,
+      "recall": 0.230917,
+      "hit_rate": 0.54,
+      "ndcg": 0.54,
+      "mrr": 0.54,
+      "map": 0.54
+    },
+    "@3": {
+      "precision": 0.413333,
+      "recall": 0.489583,
+      "hit_rate": 0.83,
+      "ndcg": 0.529062,
+      "mrr": 0.668333,
+      "map": 0.446944
+    },
+    "@5": {
+      "precision": 0.326,
+      "recall": 0.603917,
+      "hit_rate": 0.9,
+      "ndcg": 0.565183,
+      "mrr": 0.684833,
+      "map": 0.468292
+    },
+    "@10": {
+      "precision": 0.216,
+      "recall": 0.747833,
+      "hit_rate": 0.95,
+      "ndcg": 0.630799,
+      "mrr": 0.692135,
+      "map": 0.516063
+    }
+  },
+  "excel_output": "data/processed/course_recommendation_metrics/embedding_baseline_groundtruth_gaps_comparison.xlsx"
+}

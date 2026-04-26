@@ -1,0 +1,5 @@
+config,file,hit@1,hit@3,hit@5,hit@10,precision@10,recall@10,mrr@10,map@10,ndcg@10,balanced
+optC_v3_r15_m008,data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_optC_v3_r15_m008.json,0.43,0.74,0.78,0.85,0.158,0.629333,0.593262,0.410464,0.519963,0.65051133
+optC_v3_r20_m008,data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_optC_v3_r20_m008.json,0.42,0.73,0.79,0.86,0.159,0.6305,0.58969,0.40345,0.516025,0.64938035
+optC_v3_r15_m005,data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_optC_v3_r15_m005.json,0.44,0.73,0.77,0.85,0.154,0.620667,0.594929,0.409657,0.517295,0.6485043600000001
+optC_v3_r20_m005,data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_optC_v3_r20_m005.json,0.43,0.72,0.78,0.86,0.155,0.621833,0.59094,0.401832,0.51279,0.647246

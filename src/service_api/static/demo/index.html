@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Course Recommendation Demo</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="header">
+      <h1>Course Recommendation Demo</h1>
+      <p>Minimal UI for user recommendation and admin ingestion.</p>
+    </header>
+
+    <nav class="tabs">
+      <button id="tab-user" class="tab active" type="button">User Module</button>
+      <button id="tab-admin" class="tab" type="button">Admin Module</button>
+    </nav>
+
+    <main>
+      <section id="panel-user" class="panel active">
+        <div class="card">
+          <h2>User Recommendation</h2>
+
+          <label>CV file (.txt only)</label>
+          <input id="cv-file" type="file" accept=".txt,text/plain" />
+          <p class="hint">For demo, skills are parsed by splitting commas/newlines/semicolon.</p>
+
+          <label>Choose JD</label>
+          <select id="jd-select"></select>
+
+          <label>Extra keywords (optional)</label>
+          <input id="extra-keywords" type="text" placeholder="docker, aws, fastapi" />
+
+          <div class="row">
+            <button id="btn-recommend" type="button">Recommend</button>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Detected CV Skills</h3>
+          <div id="cv-skills" class="chips"></div>
+
+          <h3>Recommendations</h3>
+          <div id="recommendations" class="list"></div>
+        </div>
+      </section>
+
+      <section id="panel-admin" class="panel">
+        <div class="card">
+          <h2>Admin Ingestion</h2>
+
+          <label>Upload course JSON files</label>
+          <input id="course-files" type="file" accept=".json,application/json" multiple />
+
+          <div class="row">
+            <button id="btn-upload" type="button">Upload to Queue</button>
+            <button id="btn-refresh-queue" type="button" class="secondary">Refresh Queue</button>
+          </div>
+
+          <div class="row">
+            <label class="inline">
+              <input id="clear-existing" type="checkbox" />
+              Clear existing graph (slow)
+            </label>
+          </div>
+
+          <div class="row">
+            <button id="btn-run" type="button">Run Ingest</button>
+            <button id="btn-refresh-status" type="button" class="secondary">Refresh Status</button>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Pending Queue</h3>
+          <div id="queue-summary" class="mono">No data</div>
+          <div id="queue-list" class="list"></div>
+
+          <h3>Pipeline Status</h3>
+          <div id="pipeline-status" class="mono">Idle</div>
+          <pre id="pipeline-log" class="log"></pre>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

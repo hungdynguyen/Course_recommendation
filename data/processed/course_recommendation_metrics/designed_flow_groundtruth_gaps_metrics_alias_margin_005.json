@@ -1,0 +1,54 @@
+{
+  "mode": "designed_flow_groundtruth_gaps",
+  "query_enrichment": true,
+  "gap_descriptions_file": "data/processed/course_recommendations/labeled_skill_gap_descriptions.json",
+  "gap_descriptions_enabled": true,
+  "weighted_ranker": true,
+  "top1_confidence_gate": false,
+  "rank_explain_failures": false,
+  "labels_file": "data/processed/training_dataset/human_labeled_recommendations.json",
+  "scenario_file": "data/processed/course_recommendations/course_recommendations.json",
+  "total_labeled_samples": 100,
+  "matched_samples": 100,
+  "k_values": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "summary": {
+    "@1": {
+      "precision": 0.47,
+      "recall": 0.206417,
+      "hit_rate": 0.47,
+      "ndcg": 0.47,
+      "mrr": 0.47,
+      "map": 0.47
+    },
+    "@3": {
+      "precision": 0.32,
+      "recall": 0.410333,
+      "hit_rate": 0.73,
+      "ndcg": 0.438168,
+      "mrr": 0.59,
+      "map": 0.36
+    },
+    "@5": {
+      "precision": 0.246,
+      "recall": 0.50175,
+      "hit_rate": 0.8,
+      "ndcg": 0.466337,
+      "mrr": 0.606,
+      "map": 0.369922
+    },
+    "@10": {
+      "precision": 0.151,
+      "recall": 0.598333,
+      "hit_rate": 0.86,
+      "ndcg": 0.506687,
+      "mrr": 0.614552,
+      "map": 0.393947
+    }
+  },
+  "excel_output": "data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_comparison_alias_margin_005.xlsx"
+}

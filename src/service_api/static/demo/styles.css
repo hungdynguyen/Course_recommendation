@@ -1,0 +1,185 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f4f6fb;
+  color: #172033;
+}
+
+.page {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  margin-bottom: 16px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.header p {
+  margin: 6px 0 0;
+  color: #4d5f7a;
+}
+
+.tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.tab {
+  border: 1px solid #c7d1e6;
+  background: #fff;
+  padding: 10px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.tab.active {
+  background: #1d4ed8;
+  border-color: #1d4ed8;
+  color: #fff;
+}
+
+.panel {
+  display: none;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.panel.active {
+  display: grid;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #dbe3f3;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  margin: 10px 0 6px;
+}
+
+input[type="text"],
+select,
+input[type="file"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #c7d1e6;
+  border-radius: 8px;
+  background: #fff;
+}
+
+button {
+  border: none;
+  background: #1d4ed8;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button.secondary {
+  background: #475569;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.row {
+  margin-top: 12px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.inline {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+}
+
+.hint {
+  font-size: 12px;
+  color: #637795;
+  margin: 6px 0 0;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0 16px;
+}
+
+.chip {
+  border: 1px solid #c7d1e6;
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 12px;
+  background: #f8fafc;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.item {
+  border: 1px solid #dde5f4;
+  border-radius: 8px;
+  padding: 10px;
+  background: #fafcff;
+}
+
+.item h4 {
+  margin: 0 0 6px;
+  font-size: 15px;
+}
+
+.item p {
+  margin: 0;
+  font-size: 13px;
+  color: #4d5f7a;
+}
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 13px;
+}
+
+.log {
+  background: #0f172a;
+  color: #d1e4ff;
+  border-radius: 8px;
+  padding: 10px;
+  min-height: 120px;
+  max-height: 220px;
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+@media (max-width: 900px) {
+  .panel.active {
+    grid-template-columns: 1fr;
+  }
+}

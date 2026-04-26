@@ -42,10 +42,14 @@
       {
         "course_id": "CNTT1167",
         "title": "Cloud Computing"
+      },
+      {
+        "course_id": "CNTT1198",
+        "title": "Cloud Service Security"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-10T23:44:55.777531"
+    "labeled_at": "2026-04-24T02:32:26.963224"
   },
   {
     "pair_id": 4,
@@ -114,10 +118,18 @@
       {
         "course_id": "CNTT1180",
         "title": "Python Programming"
+      },
+      {
+        "course_id": "CNTT1167",
+        "title": "Cloud Computing"
+      },
+      {
+        "course_id": "TIKT1135",
+        "title": "Development of Open Source Software and Applications"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-10T23:49:19.891281"
+    "labeled_at": "2026-04-22T00:19:27.169452"
   },
   {
     "pair_id": 12,
@@ -134,10 +146,14 @@
       {
         "course_id": "CNTT1186",
         "title": "Advanced Technologies in Information and Communication Technology"
+      },
+      {
+        "course_id": "TKKD1121",
+        "title": "Principles of Data Mining"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-10T23:53:25.828743"
+    "labeled_at": "2026-04-21T22:26:31.328586"
   },
   {
     "pair_id": 14,
@@ -146,10 +162,22 @@
       {
         "course_id": "CNTT1137",
         "title": "Business Analysis"
+      },
+      {
+        "course_id": "CNTT1117",
+        "title": "System Analysis and Design"
+      },
+      {
+        "course_id": "NHTM 1121",
+        "title": "Commercial Banking"
+      },
+      {
+        "course_id": "NHTM 1111",
+        "title": "Commercial Banking 2"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-10T23:55:05.270924"
+    "labeled_at": "2026-04-21T22:30:03.987160"
   },
   {
     "pair_id": 17,
@@ -188,6 +216,10 @@
     "jd_id": "694a8e0847743a24b54ffb0a",
     "selected_courses": [
       {
+        "course_id": "CNTT1178",
+        "title": "Software Testing and Quality Assurance"
+      },
+      {
         "course_id": "CNTT1180",
         "title": "Python Programming"
       },
@@ -197,7 +229,7 @@
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-11T00:43:48.127978"
+    "labeled_at": "2026-04-16T22:43:15.855907"
   },
   {
     "pair_id": 30,
@@ -274,10 +306,18 @@
       {
         "course_id": "CNTT1153",
         "title": "Java Programming"
+      },
+      {
+        "course_id": "CNTT1186",
+        "title": "Advanced Technologies in Information and Communication Technology"
+      },
+      {
+        "course_id": "TIKT1135",
+        "title": "Development of Open Source Software and Applications"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-11T00:21:16.897238"
+    "labeled_at": "2026-04-22T00:33:31.655745"
   },
   {
     "pair_id": 38,
@@ -294,10 +334,18 @@
       {
         "course_id": "KHMA1125",
         "title": "Financial Economics"
+      },
+      {
+        "course_id": "KTKE1101",
+        "title": "Accounting Principles"
+      },
+      {
+        "course_id": "KTQT1103",
+        "title": "Managerial Accounting 1"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-11T00:22:57.606386"
+    "labeled_at": "2026-04-22T00:35:26.003402"
   },
   {
     "pair_id": 39,
@@ -318,10 +366,14 @@
       {
         "course_id": "CNTT1140",
         "title": "Artificial Intelligence"
+      },
+      {
+        "course_id": "CNTT11100",
+        "title": "Blockchain and Application"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-11T00:24:44.063897"
+    "labeled_at": "2026-04-22T00:10:13.591360"
   },
   {
     "pair_id": 49,
@@ -366,10 +418,18 @@
       {
         "course_id": "TIKT1130",
         "title": "Database"
+      },
+      {
+        "course_id": "TIKT1134",
+        "title": "Web Applications Development"
+      },
+      {
+        "course_id": "CNTT1186",
+        "title": "Advanced Technologies in Information and Communication Technology"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-11T00:30:55.865806"
+    "labeled_at": "2026-04-22T00:22:08.206048"
   },
   {
     "pair_id": 57,
@@ -384,16 +444,24 @@
         "title": "Cost Accounting"
       },
       {
-        "course_id": "KTQT1103",
-        "title": "Managerial Accounting 1"
+        "course_id": "KTKE1103",
+        "title": "Public Accounting"
       },
       {
-        "course_id": "KTQT1106",
-        "title": "Managerial Accounting 2"
+        "course_id": "KTHT1101",
+        "title": "Accounting Information Systems 1"
+      },
+      {
+        "course_id": "KTHT 1102",
+        "title": "Accounting Information Systems 2"
+      },
+      {
+        "course_id": "TIKT1117",
+        "title": "Accounting Informatics"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-11T00:34:27.530790"
+    "labeled_at": "2026-04-22T00:37:42.647352"
   },
   {
     "pair_id": 64,
@@ -438,10 +506,18 @@
       {
         "course_id": "CNTT1112",
         "title": "Computer Architecture"
+      },
+      {
+        "course_id": "CNTT1114",
+        "title": "Computer Network and Data Communication"
+      },
+      {
+        "course_id": "TIHT1105",
+        "title": "Advanced Programming"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-11T00:39:18.769225"
+    "labeled_at": "2026-04-21T22:40:31.186470"
   },
   {
     "pair_id": 68,
@@ -636,12 +712,20 @@
     "jd_id": "6963803557a0f8cfb910e924",
     "selected_courses": [
       {
-        "course_id": "TIKT1113",
-        "title": "Management Information Systems Development"
+        "course_id": "DTKT1160",
+        "title": "Project Quality Management"
+      },
+      {
+        "course_id": "QTCL1104",
+        "title": "Quality Management"
+      },
+      {
+        "course_id": "MKMA1164",
+        "title": "Product Management"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-11T14:06:22.510304"
+    "labeled_at": "2026-04-21T22:48:19.237696"
   },
   {
     "pair_id": 90,
@@ -698,10 +782,18 @@
       {
         "course_id": "QTTH1116",
         "title": "Cost Management"
+      },
+      {
+        "course_id": "KTKE1109",
+        "title": "Public Accounting 1"
+      },
+      {
+        "course_id": "KTKE1103",
+        "title": "Public Accounting"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-12T23:24:16.560314"
+    "labeled_at": "2026-04-24T02:49:07.588834"
   },
   {
     "pair_id": 99,
@@ -714,27 +806,39 @@
       {
         "course_id": "TIHT1113",
         "title": "Development of Management Applications"
+      },
+      {
+        "course_id": "CNTT1178",
+        "title": "Software Testing and Quality Assurance"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-12T23:25:09.591706"
+    "labeled_at": "2026-04-16T22:50:58.942071"
   },
   {
     "pair_id": 100,
     "jd_id": "696fd8ceb166038a822e4791",
     "selected_courses": [
       {
+        "course_id": "CNTT1157",
+        "title": "Mobile Applications Development"
+      },
+      {
         "course_id": "CNTT1167",
         "title": "Cloud Computing"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-12T23:25:31.233638"
+    "labeled_at": "2026-04-16T22:51:52.225401"
   },
   {
     "pair_id": 102,
     "jd_id": "696380c657a0f8cfb910e928",
     "selected_courses": [
+      {
+        "course_id": "CNTT1178",
+        "title": "Software Testing and Quality Assurance"
+      },
       {
         "course_id": "CNTT1188",
         "title": "Web Programming"
@@ -749,7 +853,7 @@
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-12T23:26:03.014242"
+    "labeled_at": "2026-04-16T22:52:27.486976"
   },
   {
     "pair_id": 103,
@@ -808,10 +912,6 @@
         "title": "Cloud Computing"
       },
       {
-        "course_id": "TIKT1124",
-        "title": "Database Application"
-      },
-      {
         "course_id": "CNTT1152",
         "title": "Database Management Systems"
       },
@@ -822,10 +922,14 @@
       {
         "course_id": "CNTT1188",
         "title": "Web Programming"
+      },
+      {
+        "course_id": "CNTT1198",
+        "title": "Cloud Service Security"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-12T23:31:34.525179"
+    "labeled_at": "2026-04-24T02:47:43.411557"
   },
   {
     "pair_id": 125,
@@ -836,12 +940,24 @@
         "title": "Cybersecurity"
       },
       {
+        "course_id": "CNTT11100",
+        "title": "Blockchain and Application"
+      },
+      {
         "course_id": "CNTT1168",
         "title": "An toàn và bảo mật thông tin"
+      },
+      {
+        "course_id": "CNTT1199",
+        "title": "Software and Database Security"
+      },
+      {
+        "course_id": "CNTT1157",
+        "title": "Mobile Applications Development"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-12T23:34:31.152415"
+    "labeled_at": "2026-04-21T22:53:05.080146"
   },
   {
     "pair_id": 136,
@@ -874,10 +990,22 @@
       {
         "course_id": "TKkD1127",
         "title": "Phân tích dữ liệu lớn"
+      },
+      {
+        "course_id": "TMQT1143",
+        "title": "Social Networks"
+      },
+      {
+        "course_id": "MKBH1116",
+        "title": "Digital Marketing"
+      },
+      {
+        "course_id": "MKTT1112",
+        "title": "Advertising Management"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-12T23:36:32.660745"
+    "labeled_at": "2026-04-22T21:13:22.362415"
   },
   {
     "pair_id": 149,
@@ -978,10 +1106,14 @@
       {
         "course_id": "CNTT1165",
         "title": "Web Design"
+      },
+      {
+        "course_id": "CNTT1178",
+        "title": "Software Testing and Quality Assurance"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-12T23:46:31.583399"
+    "labeled_at": "2026-04-16T22:53:11.896805"
   },
   {
     "pair_id": 170,
@@ -1086,10 +1218,18 @@
       {
         "course_id": "LUKD1185",
         "title": "Economic Law"
+      },
+      {
+        "course_id": "KTKE1103",
+        "title": "Public Accounting"
+      },
+      {
+        "course_id": "KTKE1109",
+        "title": "Public Accounting 1"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-21T09:56:52.483608"
+    "labeled_at": "2026-04-21T23:01:41.799679"
   },
   {
     "pair_id": 195,
@@ -1118,10 +1258,22 @@
       {
         "course_id": "MKBH1116",
         "title": "Digital Marketing"
+      },
+      {
+        "course_id": "NHCK1106",
+        "title": "Securities Analysis and Investment"
+      },
+      {
+        "course_id": "DTKT11116",
+        "title": "Capital Market"
+      },
+      {
+        "course_id": "DTKT 1119",
+        "title": "Economics for Investment Decision Makers"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-21T10:11:30.661697"
+    "labeled_at": "2026-04-22T00:24:29.028182"
   },
   {
     "pair_id": 198,
@@ -1134,10 +1286,22 @@
       {
         "course_id": "LUKD1108",
         "title": "Labor Law"
+      },
+      {
+        "course_id": "TNBD1113",
+        "title": "Real Estate Business 1"
+      },
+      {
+        "course_id": "TNBD1137",
+        "title": "Real Estate Development"
+      },
+      {
+        "course_id": "LUKD1133",
+        "title": "Skills on Formulation and Execution of Commercial Contracts"
       }
     ],
     "notes": "",
-    "labeled_at": "2026-03-21T10:12:32.813005"
+    "labeled_at": "2026-04-22T00:26:48.559256"
   },
   {
     "pair_id": 201,
@@ -1182,5 +1346,725 @@
     ],
     "notes": "",
     "labeled_at": "2026-03-21T10:19:01.334051"
+  },
+  {
+    "pair_id": 221,
+    "jd_id": "6970be22b166038a822e482c",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1177",
+        "title": "Machine Learning"
+      },
+      {
+        "course_id": "CNTT1187",
+        "title": "Data Analysis Programming"
+      },
+      {
+        "course_id": "CNTT1116",
+        "title": "Introduction to Information Technology"
+      },
+      {
+        "course_id": "CNTT1180",
+        "title": "Python Programming"
+      },
+      {
+        "course_id": "CNTT1167",
+        "title": "Cloud Computing"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-16T22:55:02.793256"
+  },
+  {
+    "pair_id": 223,
+    "jd_id": "697b22d6b166038a822e4d5e",
+    "selected_courses": [
+      {
+        "course_id": "NLQT1103",
+        "title": "Human Resource Management"
+      },
+      {
+        "course_id": "DLKS1151",
+        "title": "Revenue Management in Hospitality Business"
+      },
+      {
+        "course_id": "KTKE1103",
+        "title": "Public Accounting"
+      },
+      {
+        "course_id": "KTKE1109",
+        "title": "Public Accounting 1"
+      },
+      {
+        "course_id": "KTKE1110",
+        "title": "Public Accounting 2"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-21T23:04:52.053381"
+  },
+  {
+    "pair_id": 224,
+    "jd_id": "6966b08fb166038a822e43f4",
+    "selected_courses": [
+      {
+        "course_id": "NHCK1106",
+        "title": "Securities Analysis and Investment"
+      },
+      {
+        "course_id": "DTKT 1119",
+        "title": "Economics for Investment Decision Makers"
+      },
+      {
+        "course_id": "KHMI1112",
+        "title": "Investment analysis in Financial Markets"
+      },
+      {
+        "course_id": "DTKT1106",
+        "title": "Investment Economics 1"
+      },
+      {
+        "course_id": "DTKT1154",
+        "title": "Investment Economics"
+      },
+      {
+        "course_id": "NHLT1101",
+        "title": "Monetary and Financial Theories 1"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-16T22:58:32.927904"
+  },
+  {
+    "pair_id": 225,
+    "jd_id": "6970be7cb166038a822e4835",
+    "selected_courses": [
+      {
+        "course_id": "BHKT1105",
+        "title": "Business Insurance 2"
+      },
+      {
+        "course_id": "BHKT1162",
+        "title": "Insurance Risk Analysis"
+      },
+      {
+        "course_id": "BHKT1156",
+        "title": "Insurance Economics"
+      },
+      {
+        "course_id": "BHKT1118",
+        "title": "Insurance Principles"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-16T22:59:29.916671"
+  },
+  {
+    "pair_id": 226,
+    "jd_id": "697b2274b166038a822e4d5d",
+    "selected_courses": [
+      {
+        "course_id": "QTKD1153",
+        "title": "Logistics and Supply Chain Management"
+      },
+      {
+        "course_id": "TMKT1125",
+        "title": "Principles of Logistics Management"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-22T21:16:39.246439"
+  },
+  {
+    "pair_id": 232,
+    "jd_id": "6970d1bdb166038a822e4842",
+    "selected_courses": [
+      {
+        "course_id": "BHKT1132",
+        "title": "Social Insurance 2"
+      },
+      {
+        "course_id": "KTKE1101",
+        "title": "Accounting Principles"
+      },
+      {
+        "course_id": "BHKT1120",
+        "title": "Social Insurance Management 1"
+      },
+      {
+        "course_id": "KTKE1109",
+        "title": "Public Accounting 1"
+      },
+      {
+        "course_id": "KTKE1110",
+        "title": "Public Accounting 2"
+      },
+      {
+        "course_id": "KTKE1103",
+        "title": "Public Accounting"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-22T00:11:24.527804"
+  },
+  {
+    "pair_id": 240,
+    "jd_id": "695ccad41fa95d1eeecca0ed",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1130",
+        "title": ".Net Programming"
+      },
+      {
+        "course_id": "TOkt1138",
+        "title": "Introduction to Data Science in Economics and Business 1"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-16T23:09:59.243553"
+  },
+  {
+    "pair_id": 253,
+    "jd_id": "696770d0b166038a822e4436",
+    "selected_courses": [
+      {
+        "course_id": "LUKD1188",
+        "title": "Law on Finance"
+      },
+      {
+        "course_id": "LUKD1173",
+        "title": "Law on Intellectual Property"
+      },
+      {
+        "course_id": "LUKD_11105",
+        "title": "Vietnam Laws on Taxation"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-16T23:20:46.369758"
+  },
+  {
+    "pair_id": 257,
+    "jd_id": "695ccc091fa95d1eeecca0f0",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1167",
+        "title": "Cloud Computing"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-16T23:21:49.056517"
+  },
+  {
+    "pair_id": 263,
+    "jd_id": "69717685b166038a822e486d",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1117",
+        "title": "System Analysis and Design"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-16T23:23:56.073954"
+  },
+  {
+    "pair_id": 306,
+    "jd_id": "6953530eb27a39886f08b33e",
+    "selected_courses": [
+      {
+        "course_id": "TIHT1119",
+        "title": "Computer-based Accounting"
+      },
+      {
+        "course_id": "TIKT1117",
+        "title": "Accounting Informatics"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-17T22:24:22.259641"
+  },
+  {
+    "pair_id": 311,
+    "jd_id": "6971a31cb166038a822e4887",
+    "selected_courses": [
+      {
+        "course_id": "TMKT1136",
+        "title": "E-Logistics"
+      },
+      {
+        "course_id": "LUKD1133",
+        "title": "Skills on Formulation and Execution of Commercial Contracts"
+      },
+      {
+        "course_id": "DTKT1164",
+        "title": "Contract Management"
+      },
+      {
+        "course_id": "TMQT1125",
+        "title": "E-commerce"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-24T02:46:11.026435"
+  },
+  {
+    "pair_id": 315,
+    "jd_id": "695d6883b166038a822e3e86",
+    "selected_courses": [
+      {
+        "course_id": "MKBH1112",
+        "title": "Business to business Marketing (B2B)"
+      },
+      {
+        "course_id": "MKBH1105",
+        "title": "Quản trị bán hàng"
+      },
+      {
+        "course_id": "MKTT1145",
+        "title": "Sales Promotion"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-24T02:45:35.537317"
+  },
+  {
+    "pair_id": 320,
+    "jd_id": "695d6ed8b166038a822e3e91",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1177",
+        "title": "Machine Learning"
+      },
+      {
+        "course_id": "CNTT1187",
+        "title": "Data Analysis Programming"
+      },
+      {
+        "course_id": "TKKT1133",
+        "title": "Data Analysis 1"
+      },
+      {
+        "course_id": "TKKT1134",
+        "title": "Data Analysis 2"
+      },
+      {
+        "course_id": "TKKT1124",
+        "title": "Data Analysis"
+      },
+      {
+        "course_id": "TKkD1127",
+        "title": "Phân tích dữ liệu lớn"
+      },
+      {
+        "course_id": "TOkt1138",
+        "title": "Introduction to Data Science in Economics and Business 1"
+      },
+      {
+        "course_id": "TKKD1106",
+        "title": "Applied Informatics for Statistics"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-17T22:31:12.974322"
+  },
+  {
+    "pair_id": 343,
+    "jd_id": "695d7971b166038a822e3ed5",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1165",
+        "title": "Web Design"
+      },
+      {
+        "course_id": "TIKT1134",
+        "title": "Web Applications Development"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-24T02:44:55.648623"
+  },
+  {
+    "pair_id": 350,
+    "jd_id": "69537327b27a39886f08b40c",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1197",
+        "title": "Cybersecurity"
+      },
+      {
+        "course_id": "CNTT1116",
+        "title": "Introduction to Information Technology"
+      },
+      {
+        "course_id": "CNTT1180",
+        "title": "Python Programming"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-17T22:34:53.396889"
+  },
+  {
+    "pair_id": 754,
+    "jd_id": "69773344b166038a822e49ec",
+    "selected_courses": [
+      {
+        "course_id": "NHCO1111",
+        "title": "Taxation"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-17T22:39:54.745626"
+  },
+  {
+    "pair_id": 753,
+    "jd_id": "693cba5dd19398c89a04ec97",
+    "selected_courses": [
+      {
+        "course_id": "TIHT1104",
+        "title": "Software Engineering"
+      },
+      {
+        "course_id": "CNTT1178",
+        "title": "Software Testing and Quality Assurance"
+      },
+      {
+        "course_id": "CNTT1117",
+        "title": "System Analysis and Design"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-22T21:21:48.943510"
+  },
+  {
+    "pair_id": 435,
+    "jd_id": "6954e38cb27a39886f08b65d",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1140",
+        "title": "Artificial Intelligence"
+      },
+      {
+        "course_id": "CNTT1157",
+        "title": "Mobile Applications Development"
+      },
+      {
+        "course_id": "CNTT1117",
+        "title": "System Analysis and Design"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-22T21:18:34.832145"
+  },
+  {
+    "pair_id": 453,
+    "jd_id": "695f0b7cb166038a822e3fbf",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1180",
+        "title": "Python Programming"
+      },
+      {
+        "course_id": "CNTT1187",
+        "title": "Data Analysis Programming"
+      },
+      {
+        "course_id": "KTHT1104",
+        "title": "Data Analytics for Accounting"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:02:59.975577"
+  },
+  {
+    "pair_id": 468,
+    "jd_id": "695b91ceb166038a822e3be6",
+    "selected_courses": [
+      {
+        "course_id": "TKKT1133",
+        "title": "Data Analysis 1"
+      },
+      {
+        "course_id": "TKKT1134",
+        "title": "Data Analysis 2"
+      },
+      {
+        "course_id": "TKKT1124",
+        "title": "Data Analysis"
+      },
+      {
+        "course_id": "MKBH1110",
+        "title": "Selling Skills"
+      },
+      {
+        "course_id": "TMKT1141",
+        "title": "Commercial Enterprise Management"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-22T21:19:15.535398"
+  },
+  {
+    "pair_id": 481,
+    "jd_id": "696bb0f5b166038a822e4656",
+    "selected_courses": [
+      {
+        "course_id": "LUKD_11105",
+        "title": "Vietnam Laws on Taxation"
+      },
+      {
+        "course_id": "NHCO1111",
+        "title": "Taxation"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:11:37.239222"
+  },
+  {
+    "pair_id": 486,
+    "jd_id": "690dedf08aedb9b957654bf2",
+    "selected_courses": [
+      {
+        "course_id": "MKBH1110",
+        "title": "Selling Skills"
+      },
+      {
+        "course_id": "TMQT1125",
+        "title": "E-commerce"
+      },
+      {
+        "course_id": "TMQT1145",
+        "title": "E-commerce operation management"
+      },
+      {
+        "course_id": "TMQT1152",
+        "title": "E-commerce Transaction: Theory and Practice"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:12:31.725859"
+  },
+  {
+    "pair_id": 492,
+    "jd_id": "695b9796b166038a822e3c2b",
+    "selected_courses": [
+      {
+        "course_id": "NNKC 1131",
+        "title": "English 1"
+      },
+      {
+        "course_id": "CNTT1192",
+        "title": "English for IT"
+      },
+      {
+        "course_id": "NNKC 1132",
+        "title": "English 2"
+      },
+      {
+        "course_id": "NNTM1181",
+        "title": "English – Reading & Writing Skills 3"
+      },
+      {
+        "course_id": "NNTM1180",
+        "title": "English – Reading & Writing Skills 2"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:14:27.476867"
+  },
+  {
+    "pair_id": 509,
+    "jd_id": "6920bc688aedb9b957655614",
+    "selected_courses": [
+      {
+        "course_id": "TMKT1125",
+        "title": "Principles of Logistics Management"
+      },
+      {
+        "course_id": "TMKT1140",
+        "title": "Management of Logistics Enterprise"
+      },
+      {
+        "course_id": "TMKT1151",
+        "title": "Logistics Planning and Control Systems"
+      },
+      {
+        "course_id": "QTKD1153",
+        "title": "Logistics and Supply Chain Management"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:16:50.166395"
+  },
+  {
+    "pair_id": 523,
+    "jd_id": "693412bb1eeb2ba3cabad8a1",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1180",
+        "title": "Python Programming"
+      },
+      {
+        "course_id": "CNTT1178",
+        "title": "Software Testing and Quality Assurance"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:18:11.754006"
+  },
+  {
+    "pair_id": 527,
+    "jd_id": "693439e51eeb2ba3cabada66",
+    "selected_courses": [
+      {
+        "course_id": "BHKT1132",
+        "title": "Social Insurance 2"
+      },
+      {
+        "course_id": "BHKT1133",
+        "title": "Social Insurance Management 2"
+      },
+      {
+        "course_id": "BHKT1119",
+        "title": "Social Insurance 1"
+      },
+      {
+        "course_id": "BHKT1120",
+        "title": "Social Insurance Management 1"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:20:38.916087"
+  },
+  {
+    "pair_id": 528,
+    "jd_id": "696c7cc3b166038a822e4674",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1187",
+        "title": "Data Analysis Programming"
+      },
+      {
+        "course_id": "TKKT1133",
+        "title": "Data Analysis 1"
+      },
+      {
+        "course_id": "TKkD1127",
+        "title": "Phân tích dữ liệu lớn"
+      },
+      {
+        "course_id": "TKKT1124",
+        "title": "Data Analysis"
+      },
+      {
+        "course_id": "TKKT1134",
+        "title": "Data Analysis 2"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:21:22.119542"
+  },
+  {
+    "pair_id": 552,
+    "jd_id": "69770f84b166038a822e48db",
+    "selected_courses": [
+      {
+        "course_id": "TNBD1115",
+        "title": "Real Estate Brokerage"
+      },
+      {
+        "course_id": "TNBD1113",
+        "title": "Real Estate Business 1"
+      },
+      {
+        "course_id": "TNBD1116",
+        "title": "Real estate Management"
+      },
+      {
+        "course_id": "TNBD1135",
+        "title": "Real Estate Business 2"
+      },
+      {
+        "course_id": "TIKT1124",
+        "title": "Database Application"
+      },
+      {
+        "course_id": "CNTT1152",
+        "title": "Database Management Systems"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:23:58.800615"
+  },
+  {
+    "pair_id": 560,
+    "jd_id": "695fdabab166038a822e406c",
+    "selected_courses": [
+      {
+        "course_id": "LUKD_11105",
+        "title": "Vietnam Laws on Taxation"
+      },
+      {
+        "course_id": "TIKT1117",
+        "title": "Accounting Informatics"
+      },
+      {
+        "course_id": "TIHT1119",
+        "title": "Computer-based Accounting"
+      },
+      {
+        "course_id": "KTHT1104",
+        "title": "Data Analytics for Accounting"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:25:10.496832"
+  },
+  {
+    "pair_id": 595,
+    "jd_id": "693c01c68b48e6e0a9d9739d",
+    "selected_courses": [
+      {
+        "course_id": "CNTT1167",
+        "title": "Cloud Computing"
+      },
+      {
+        "course_id": "CNTT1140",
+        "title": "Artificial Intelligence"
+      },
+      {
+        "course_id": "CNTT1198",
+        "title": "Cloud Service Security"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-24T02:42:17.636063"
+  },
+  {
+    "pair_id": 611,
+    "jd_id": "693c03818b48e6e0a9d973a0",
+    "selected_courses": [
+      {
+        "course_id": "TIKT1124",
+        "title": "Database Application"
+      },
+      {
+        "course_id": "TIKT1130",
+        "title": "Database"
+      },
+      {
+        "course_id": "CNTT1152",
+        "title": "Database Management Systems"
+      },
+      {
+        "course_id": "CNTT1187",
+        "title": "Data Analysis Programming"
+      },
+      {
+        "course_id": "CNTT1175",
+        "title": "Unstructured database"
+      }
+    ],
+    "notes": "",
+    "labeled_at": "2026-04-18T00:28:59.233765"
   }
 ]

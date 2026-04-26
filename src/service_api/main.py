@@ -6,6 +6,8 @@ import logging
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from pathlib import Path
 
 from service_api.config import settings
 from service_api.dependencies import close_all
@@ -44,12 +46,17 @@ def create_app() -> FastAPI:
     )
     app.include_router(api_router, prefix="/api/v1")
 
+    demo_dir = Path(__file__).resolve().parent / "static" / "demo"
+    if demo_dir.exists():
+        app.mount("/demo", StaticFiles(directory=str(demo_dir), html=True), name="demo")
+
     @app.get("/")
     def root():
         return {
             "service": settings.APP_NAME,
             "version": settings.APP_VERSION,
             "docs":    "/docs",
+            "demo":    "/demo/",
         }
 
     return app

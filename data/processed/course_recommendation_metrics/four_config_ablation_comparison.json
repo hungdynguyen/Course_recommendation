@@ -1,0 +1,54 @@
+[
+  {
+    "config": "enrich_k10_top1_089",
+    "metric_file": "/app/data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_enrich_k10_top1_089.json",
+    "hit@1": 0.38,
+    "hit@3": 0.63,
+    "hit@5": 0.7,
+    "hit@10": 0.8,
+    "recall@10": 0.497083,
+    "precision@10": 0.128,
+    "mrr@10": 0.51523,
+    "map@10": 0.317167,
+    "ndcg@10": 0.417747
+  },
+  {
+    "config": "enrich_k10_top1_090",
+    "metric_file": "/app/data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_enrich_k10_top1_090.json",
+    "hit@1": 0.38,
+    "hit@3": 0.63,
+    "hit@5": 0.7,
+    "hit@10": 0.8,
+    "recall@10": 0.500417,
+    "precision@10": 0.129,
+    "mrr@10": 0.51523,
+    "map@10": 0.317834,
+    "ndcg@10": 0.419104
+  },
+  {
+    "config": "enrich_k10_margin_005",
+    "metric_file": "/app/data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_enrich_k10_margin_005.json",
+    "hit@1": 0.4,
+    "hit@3": 0.65,
+    "hit@5": 0.72,
+    "hit@10": 0.82,
+    "recall@10": 0.505917,
+    "precision@10": 0.13,
+    "mrr@10": 0.533563,
+    "map@10": 0.327155,
+    "ndcg@10": 0.428767
+  },
+  {
+    "config": "enrich_k10_top1_089_margin_005",
+    "metric_file": "/app/data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_enrich_k10_top1_089_margin_005.json",
+    "hit@1": 0.38,
+    "hit@3": 0.64,
+    "hit@5": 0.7,
+    "hit@10": 0.8,
+    "recall@10": 0.492583,
+    "precision@10": 0.126,
+    "mrr@10": 0.51823,
+    "map@10": 0.316016,
+    "ndcg@10": 0.416291
+  }
+]

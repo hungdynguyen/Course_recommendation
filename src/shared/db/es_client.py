@@ -71,6 +71,76 @@ class ElasticsearchClient:
             })
         return results
 
+    def hybrid_search(
+        self,
+        query_text: str,
+        vector: List[float],
+        limit: int = 10,
+        min_score: float = 0.0,
+        vector_weight: float = 0.7,
+        text_weight: float = 0.3,
+    ) -> List[dict]:
+        """Hybrid search: combine vector kNN and lexical text matching.
+
+        Score fusion uses weighted normalized scores from both branches.
+        """
+        per_branch_limit = max(limit * 3, 30)
+
+        vector_hits = self.vector_search(
+            vector=vector,
+            limit=per_branch_limit,
+            min_score=0.0,
+        )
+        text_hits = self.text_search(query=query_text, limit=per_branch_limit)
+
+        max_vec = max((float(h.get("score") or 0.0) for h in vector_hits), default=0.0)
+        max_txt = max((float(h.get("score") or 0.0) for h in text_hits), default=0.0)
+
+        merged: Dict[str, Dict[str, Any]] = {}
+
+        for hit in vector_hits:
+            sid = str(hit.get("skill_id") or "").strip()
+            if not sid:
+                continue
+            vec_score = float(hit.get("score") or 0.0)
+            vec_norm = (vec_score / max_vec) if max_vec > 0 else 0.0
+            item = merged.setdefault(sid, dict(hit))
+            item["_vec_norm"] = max(float(item.get("_vec_norm") or 0.0), vec_norm)
+            item["_txt_norm"] = float(item.get("_txt_norm") or 0.0)
+
+        for hit in text_hits:
+            sid = str(hit.get("skill_id") or "").strip()
+            if not sid:
+                continue
+            txt_score = float(hit.get("score") or 0.0)
+            txt_norm = (txt_score / max_txt) if max_txt > 0 else 0.0
+            item = merged.setdefault(sid, dict(hit))
+            item["_txt_norm"] = max(float(item.get("_txt_norm") or 0.0), txt_norm)
+            item["_vec_norm"] = float(item.get("_vec_norm") or 0.0)
+
+            # Keep richer metadata if vector branch did not return this id.
+            if not item.get("canonical_label") and hit.get("canonical_label"):
+                item["canonical_label"] = hit.get("canonical_label")
+            if not item.get("aliases") and hit.get("aliases"):
+                item["aliases"] = hit.get("aliases")
+            if not item.get("description") and hit.get("description"):
+                item["description"] = hit.get("description")
+            if not item.get("category") and hit.get("category"):
+                item["category"] = hit.get("category")
+
+        fused: List[dict] = []
+        for item in merged.values():
+            vec_norm = float(item.pop("_vec_norm", 0.0) or 0.0)
+            txt_norm = float(item.pop("_txt_norm", 0.0) or 0.0)
+            score = (vector_weight * vec_norm) + (text_weight * txt_norm)
+            if score < min_score:
+                continue
+            item["score"] = score
+            fused.append(item)
+
+        fused.sort(key=lambda x: float(x.get("score") or 0.0), reverse=True)
+        return fused[:limit]
+
     def text_search(self, query: str, limit: int = 10) -> List[dict]:
         """Full-text search trên canonical_label + aliases."""
         body = {
@@ -89,6 +159,9 @@ class ElasticsearchClient:
             {
                 "skill_id":        h["_source"].get("skill_id"),
                 "canonical_label": h["_source"].get("canonical_label"),
+                "aliases":         h["_source"].get("aliases", []),
+                "description":     h["_source"].get("description", ""),
+                "category":        h["_source"].get("category", ""),
                 "score":           h["_score"],
             }
             for h in response["hits"]["hits"]

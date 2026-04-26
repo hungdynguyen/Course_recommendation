@@ -76,6 +76,27 @@ class Neo4jConfig:
 
 
 @dataclass(frozen=True)
+class SoftSkillFilterConfig:
+    enabled: bool = True
+    exclude_terms: List[str] = field(default_factory=lambda: [
+        "classroom discipline",
+        "group activity organization",
+        "group organization",
+        "collaborate with team members",
+        "team collaboration",
+        "teamwork",
+        "communication skills",
+        "critical thinking",
+        "self-directed learning",
+        "self directed learning",
+        "ethical responsibility",
+        "social responsibility",
+        "professional ethics",
+        "working independently",
+    ])
+
+
+@dataclass(frozen=True)
 class Settings:
     environment: str
     paths: PathConfig
@@ -83,6 +104,7 @@ class Settings:
     embedding: EmbeddingConfig
     deduplication: DeduplicationConfig
     neo4j: Neo4jConfig
+    soft_skill_filter: SoftSkillFilterConfig
 
     # ------------------------------------------------------------------
 
@@ -98,6 +120,8 @@ class Settings:
         es = raw.get("elasticsearch", {})
         dd = raw.get("deduplication", {})
         n4 = raw.get("neo4j", {})
+        ss = raw.get("soft_skill_filter", {})
+        default_ss = SoftSkillFilterConfig()
 
         default_dd = DeduplicationConfig()
         return Settings(
@@ -134,5 +158,13 @@ class Settings:
                 password=n4["password"],
                 database=n4.get("database", "neo4j"),
                 batch_size=int(n4.get("batch_size", 5000)),
+            ),
+            soft_skill_filter=SoftSkillFilterConfig(
+                enabled=bool(ss.get("enabled", default_ss.enabled)),
+                exclude_terms=[
+                    str(x).strip().lower()
+                    for x in ss.get("exclude_terms", default_ss.exclude_terms)
+                    if str(x).strip()
+                ],
             ),
         )

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "input_xlsx": "data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_comparison_rank_explain.xlsx",
+    "out_xlsx": "data/processed/course_recommendation_metrics/canonical_drop_breakdown.xlsx",
+    "out_json": "data/processed/course_recommendation_metrics/canonical_drop_breakdown.json",
+    "raw_topk_limit": 5
+  },
+  "summary": [
+    {
+      "reason": "no_gt_skill_in_raw_top5_search",
+      "count": 48,
+      "percentage": 0.9056603773584906,
+      "level": "course_row"
+    },
+    {
+      "reason": "gt_skill_in_raw_top5_but_dropped_by_filters",
+      "count": 5,
+      "percentage": 0.09433962264150944,
+      "level": "course_row"
+    },
+    {
+      "reason": "no_gt_skill_in_raw_top5_search",
+      "count": 23,
+      "percentage": 1.0,
+      "level": "pair"
+    }
+  ],
+  "detail_count": 53
+}

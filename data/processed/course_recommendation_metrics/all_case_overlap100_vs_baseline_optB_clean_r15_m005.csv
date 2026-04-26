@@ -1,0 +1,101 @@
+pair_id,identified_gaps,domain,canon_score_mean,canon_score_min,q_related_count,q_len,best_rel_rank,relevant_in_top10,hit@1_designed,hit@3_designed,hit@5_designed,hit@10_designed,hit@1_baseline,hit@3_baseline,hit@5_baseline,hit@10_baseline,delta_hit@1,delta_hit@3,delta_hit@5,delta_hit@10
+0,Azure; Redshift; BigQuery,cloud_devops,0.9680666666666666,0.9288,25,135,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+1,n8n; AI-Native; AI-Augmented Daily Workflows,software_data_ai,0.8745666666666666,0.7,20,132,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+2,"GraphQL; Kubernetes; lock-free programming; log analysis; production issue resolution; cloud services (AWS, GCP)",cloud_devops,0.7804500000000001,0.7,44,264,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+4,Google Cloud Deployment Manager; Go; encryption; disaster recovery strategies,cloud_devops,0.9683250000000001,0.9234,28,179,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+7,"Docker; Networking (TCP/IP Routing, Switching); vCenter; Virtualization Systems Management (Full stack)",cloud_devops,0.849775,0.7,29,154,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+9,Python; SQL; AWS; SEO; Lean,cloud_devops,0.9472200000000001,0.8574,36,233,7.0,1.0,0,0,0,1,0,0,0,1,0,0,0,0
+12,Docker; containerization; ECS/EKS,cloud_devops,0.7445,0.7,26,136,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+14,presentation skills; technical analysis and solution design; group work and communication skills,english_communication,0.9202,0.8455,18,135,,,0,0,0,0,0,1,1,1,0,-1,-1,-1
+17,PowerPoint; accounting software (Fast),finance_risk,0.9976499999999999,0.9953,18,114,1.0,1.0,1,1,1,1,0,0,1,1,1,1,0,0
+21,Financial banking operations knowledge; Credit profiling and evaluation; Product advisory,finance_risk,0.9424999999999999,0.9196,18,132,6.0,1.0,0,0,0,1,1,1,1,1,-1,-1,-1,0
+23,Python; C#; Playwright,software_data_ai,0.8778666666666667,0.8213,20,133,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+30,AWS; cloud platforms,cloud_devops,0.9993000000000001,0.9986,16,94,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+31,Real estate industry experience; Project management; Managing outsourced content providers,ops_project_quality,0.9481333333333333,0.906,18,147,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+35,information security governance frameworks; compliance management; periodic review processes; security compliance standards; cloud security principles,cloud_devops,0.98192,0.9579,33,245,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+37,JPA; Flyway; AWS Cognito; AWS SES; Digital Marketing domain,cloud_devops,0.9708400000000001,0.9625,40,245,2.0,1.0,0,1,1,1,0,1,1,1,0,0,0,0
+38,Financial Analysis; Managerial Accounting; Budget Management,finance_risk,0.9654333333333334,0.9372,18,123,1.0,1.0,1,1,1,1,0,0,0,1,1,1,1,0
+39,".Net; data pipelines; generative AI; NLP; computer vision; cloud environments (Azure, AWS, GCP); AI workloads optimization",cloud_devops,0.9737142857142856,0.9583,70,370,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+49,Cloud platforms; AWS,cloud_devops,0.9997,0.9994,16,92,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+52,ERP; digital marketing; technical writing,sales_marketing,0.9388333333333333,0.844,18,90,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+55,MongoDB; Kubernetes; AWS; GCP; GO,cloud_devops,0.9357599999999999,0.8514,50,237,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+57,Production Cost Optimization; Product Costing; Strategic Financial Analysis for Construction/Manufacturing; Management of Industrial Accounting Systems,finance_risk,0.926,0.8775,24,201,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+64,GCP; Azure; BigQuery,cloud_devops,0.9918,0.9754,25,133,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+66,AWS Glue; EC2; VPC; ECS/EKS; IAM,cloud_devops,0.8352599999999999,0.7,46,237,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+67,Java; multithreading; parallel processing; CAN; Ethernet; IPCore; FPGA,software_data_ai,0.7433714285714286,0.7,54,369,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+68,"customer onboarding; loans; compliance; GCP; AWS; Kubernetes; data governance; security protocols; regulatory frameworks (MAS, GDPR, PCI-DSS); Oracle; MongoDB; Cassandra; MySQL",cloud_devops,0.9143538461538461,0.7,96,592,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+70,"deploying local and remote notifications; implementing in-app purchases; application quality management and release processes (App Store / Google Play, etc.); test code writing experience (Jest / React Native Testing Library, etc.); Biome",english_communication,0.9823999999999999,0.912,37,276,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+71,reactive programming; UI testing; modern mobile development landscape; Golang; Microservices; DevOps culture,cloud_devops,0.9186833333333332,0.8053,37,227,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+72,C#; Playwright; performance testing techniques and tools,other,0.9763666666666667,0.9671,18,117,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+73,Vue.js; Unit test using Jest; Next.js; Performance-oriented development; Back-end development; AWS; Google Analytics,cloud_devops,0.8448571428571429,0.7,53,285,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+74,Fast accounting software,finance_risk,1.0,1.0,7,62,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+75,Financial models; Media coordination; Profit margin management,finance_risk,0.8796333333333334,0.8452,19,126,,,0,0,0,0,0,0,0,0,0,0,0,0
+78,Go; Kubernetes; Helm; Kafka; Cassandra; Zookeeper; Geode; Distributed systems,cloud_devops,0.9363750000000001,0.7,51,298,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+79,Non-life Insurance Products; Sales Agent Training; Partner Relationship Management,software_data_ai,0.9197666666666665,0.8667,22,147,,,0,0,0,0,0,0,0,0,0,0,0,0
+84,Next.js; cross-browser compatibility; .NET Core APIs,software_data_ai,0.9633666666666666,0.9453,19,106,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+85,big data technology; NLP; LLM; VLM,software_data_ai,0.9082,0.7,27,188,,,0,0,0,0,0,1,1,1,0,-1,-1,-1
+87,FMEA; project-management-tools-JIRA,ops_project_quality,0.97115,0.946,12,62,,,0,0,0,0,0,0,0,1,0,0,0,-1
+90,Python; WordPress; Docker,cloud_devops,0.9546333333333333,0.9004,34,142,5.0,1.0,0,0,1,1,0,1,1,1,0,-1,0,0
+94,WordPress; Docker; Website development,cloud_devops,0.8793000000000001,0.7,20,111,2.0,1.0,0,1,1,1,1,1,1,1,-1,0,0,0
+95,ERP system experience; Corporate Income Tax (CIT) settlement,other,0.923,0.8917,12,110,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+98,cost management,other,1.0,1.0,6,36,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+99,Python; C#; performance testing techniques and tools,software_data_ai,0.9737333333333332,0.9627,20,127,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+100,SOAP; Flutter; Android; cloud services; background communication,cloud_devops,0.9899799999999999,0.9499,32,176,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+102,Redmine; Chrome DevTools; Selenium; Appium,other,0.973375,0.9375,28,199,1.0,1.0,1,1,1,1,0,0,1,1,1,1,0,0
+103,GCP; Azure; MariaDB; Oracle; Change management; Performance tuning,cloud_devops,0.8646333333333333,0.7,40,213,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+106,Google Cloud Deployment Manager; Cloud SDK; Python; Go,cloud_devops,0.9659,0.9204,32,204,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+108,unit tests; test automation; AI development,software_data_ai,0.8536,0.7836,19,126,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+121,"Modern architectural styles (microservices, cloud-based, micro-kernel); Design patterns (SOLID, GoF, MVVM); CI/CD tools and practices; Oracle; MS SQL",cloud_devops,0.9221199999999999,0.8123,46,246,2.0,1.0,0,1,1,1,0,0,0,1,0,1,1,0
+125,secure coding practices; encryption standards,other,0.9944,0.9888,12,77,4.0,1.0,0,0,1,1,1,1,1,1,-1,-1,0,0
+136,English communication skills (average level),english_communication,1.0,1.0,6,52,,,0,0,0,0,1,1,1,1,-1,-1,-1,-1
+142,Data Analysis for Facebook Ad Campaigns,software_data_ai,0.9547,0.9547,8,60,,,0,0,0,0,0,0,0,1,0,0,0,-1
+149,Sketch; component; usability; accessibility; responsive design,other,0.94546,0.8757,30,203,2.0,1.0,0,1,1,1,0,1,1,1,0,0,0,0
+152,Corporate banking credit operations; Knowledge of CBRC rules; Commercial banking laws (MGA),cloud_devops,0.9359333333333333,0.9339,19,194,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+153,accessibility; security-by-design principles; Fluent in English (written and oral),english_communication,0.9466666666666667,0.8952,18,132,5.0,1.0,0,0,1,1,1,1,1,1,-1,-1,0,0
+155,E-learning product knowledge; English proficiency (IELTS 5.5 or equivalent),english_communication,0.9510000000000001,0.9496,16,125,,,0,0,0,0,0,1,1,1,0,-1,-1,-1
+156,Financial Analysis,finance_risk,0.9773,0.9773,6,37,2.0,1.0,0,1,1,1,1,1,1,1,-1,0,0,0
+168,JavaScript; C#; Playwright,software_data_ai,0.9614666666666666,0.9143,19,119,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+170,Legal consultation; Urban planning knowledge; Feng shui consultation; Real estate investment analysis,finance_risk,0.9092,0.792,24,224,1.0,1.0,1,1,1,1,0,0,0,1,1,1,1,0
+171,credit operations; risk management; appraisal; valuation,software_data_ai,0.8778,0.7,25,192,,,0,0,0,0,0,1,1,1,0,-1,-1,-1
+177,contracts negotiation; product promotion,english_communication,0.991,0.982,13,95,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+180,MongoDB; Kubernetes; GO,cloud_devops,0.8773,0.7,30,138,3.0,1.0,0,1,1,1,1,1,1,1,-1,0,0,0
+181,Logistics; Fulfillment services,other,0.8454999999999999,0.7,13,99,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+188,Financial Analysis; Corporate accounting regulations,finance_risk,0.90625,0.9005,14,119,,,0,0,0,0,0,0,0,0,0,0,0,0
+195,international payment methods,other,1.0,1.0,6,61,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+197,TikTok marketing; YouTube marketing; Technical analysis (TA); Financial analysis (FA),finance_risk,0.9705999999999999,0.9614,24,186,2.0,1.0,0,1,1,1,0,1,1,1,0,0,0,0
+198,Real Estate Law; Labor Law; English proficiency,english_communication,0.9984999999999999,0.9955,18,129,3.0,1.0,0,1,1,1,1,1,1,1,-1,0,0,0
+201,CAD/CAM software; cloud computing,cloud_devops,0.98335,0.9667,20,128,3.0,1.0,0,1,1,1,0,1,1,1,0,0,0,0
+208,Kubernetes; AWS; GCP; GOC,cloud_devops,0.8703,0.7,39,181,2.0,1.0,0,1,1,1,0,1,1,1,0,0,0,0
+219,Zalo Ads; AI; chatbots,software_data_ai,0.9103333333333333,0.7965,26,153,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+221,Python; SQL; AWS; CISSP; Machine Learning,cloud_devops,0.9402200000000001,0.8873,36,256,2.0,1.0,0,1,1,1,0,1,1,1,0,0,0,0
+223,purchase order management; inventory management; human resources management,other,0.9658333333333333,0.9191,18,135,6.0,1.0,0,0,0,1,0,0,0,1,0,0,0,0
+224,Stock investment advice; Trading strategies; Market analysis,finance_risk,0.9634,0.9351,18,153,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+225,Health insurance; Auto insurance; Travel insurance; Property insurance; Market sales; Team management,finance_risk,0.9448500000000001,0.9002,36,348,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+226,database management,software_data_ai,0.9529,0.9529,7,51,3.0,1.0,0,1,1,1,1,1,1,1,-1,0,0,0
+232,Salary calculation; Social insurance procedures; Accounting principles,finance_risk,0.8756666666666666,0.7,18,135,2.0,1.0,0,1,1,1,1,1,1,1,-1,0,0,0
+240,.Net; data pipelines; modern data engineering stacks; computer vision,software_data_ai,0.9737250000000001,0.9676,27,217,3.0,1.0,0,1,1,1,0,0,0,0,0,1,1,1
+253,Tax regulations knowledge; Intellectual property law; Food safety certification processes; Alcohol consumption permit procedures,ops_project_quality,0.944975,0.8997,24,190,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+257,Docker; EC2; VPC; ECS/EKS; RDS; Data Lakes,cloud_devops,0.8012333333333332,0.7,55,275,2.0,1.0,0,1,1,1,0,1,1,1,0,0,0,0
+263,Material Design; Information Architecture; Design System,other,0.9867666666666667,0.9603,18,135,7.0,1.0,0,0,0,1,1,1,1,1,-1,-1,-1,0
+306,MISA accounting software,finance_risk,0.998,0.998,6,41,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+311,Air & sea logistics solutions; E-commerce platform client insights; Contract signing administration,software_data_ai,0.9589333333333333,0.916,19,150,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+315,B2B and B2C Pharmaceutical Sales; Sales Strategy Planning; Knowledge of Pharmacy Channel,sales_marketing,0.9610333333333333,0.9476,18,144,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+320,R; Tableau; Qlik; Machine Learning,software_data_ai,0.969,0.9413,24,159,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+343,HTML/CSS,other,0.9324,0.9324,7,43,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+350,web security; Node.js; Python,software_data_ai,0.9626,0.9517,20,124,5.0,1.0,0,0,1,1,0,0,1,1,0,0,0,0
+754,personal income tax laws,cloud_devops,1.0,1.0,7,50,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+753,Design Tokens; Heuristic Evaluation; A/B Testing; AI Copilot Studio,software_data_ai,0.991675,0.9747,25,170,7.0,1.0,0,0,0,1,0,0,0,1,0,0,0,0
+435,Material Design; AI,software_data_ai,0.9354,0.8974,13,89,8.0,1.0,0,0,0,1,0,1,1,1,0,-1,-1,0
+453,Tableau; Python; SQL,software_data_ai,0.9632666666666667,0.9424,22,145,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+468,Access; Data analysis; Reports; Interpreting,software_data_ai,0.9219250000000001,0.8749,25,149,,,0,0,0,0,0,0,0,1,0,0,0,-1
+481,salary calculation procedures; income tax laws,cloud_devops,0.9331,0.8746,13,103,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+486,telesales,sales_marketing,0.9869,0.9869,6,53,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+492,Microsoft Teams; Basic English reading comprehension; General office software,english_communication,0.9905666666666667,0.9842,18,156,,,0,0,0,0,0,1,1,1,0,-1,-1,-1
+509,Understanding of Transportation and Logistics,other,1.0,1.0,7,59,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+523,preparing test reports; Python,software_data_ai,0.9029,0.8391,14,76,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+527,Social Insurance; KPI,finance_risk,0.9775499999999999,0.9712,12,65,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
+528,NumPy; Scikit-learn; R; OKR; Agile methodologies,ops_project_quality,0.9196799999999999,0.8993,30,193,1.0,1.0,1,1,1,1,0,0,1,1,1,1,0,0
+552,Real Estate industry knowledge; OKR implementation; Advanced recruitment reporting; Database management (ATS/CRM systems),software_data_ai,0.8700000000000001,0.7,25,173,2.0,1.0,0,1,1,1,0,1,1,1,0,0,0,0
+560,Tax laws; Fast accounting software; Non-Resident Enterprise Income Tax (NDIT) knowledge,cloud_devops,0.9802333333333334,0.9487,19,122,1.0,1.0,1,1,1,1,0,0,1,1,1,1,0,0
+595,"AI (Azure OpenAI and GenAI); Public cloud (Azure, AWS); Google Cloud",cloud_devops,0.9956999999999999,0.9871,39,200,1.0,1.0,1,1,1,1,0,1,1,1,1,0,0,0
+611,PostgreSQL; SQL statements optimization,software_data_ai,0.9676,0.9627,15,108,1.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0
