@@ -1,59 +1,70 @@
+"""Dependency injection – singleton holders and factories for FastAPI Depends().
+
+Post-refactor: removed Neo4j, added MySQL, S3, CourseES clients.
+"""
 from __future__ import annotations
 
 import logging
 from typing import Optional
 
 from service_api.config import settings
-from shared.db.es_client import ElasticsearchClient
-from shared.db.neo4j_client import Neo4jClient
+from shared.storage.mysql_client import MySQLClient
+from shared.storage.s3_client import S3Client
+from shared.storage.es_client import CourseElasticsearchClient
 from shared.embeddings.embedding_service import EmbeddingService
-from service_api.services.skill_search import SkillSearchService
-from service_api.services.gap_detection import GapDetectionService
-from service_api.services.course_recommendation import CourseRecommendationService
-from service_api.services.admin_ingest_demo import AdminIngestDemoService
 
 logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
 # Singleton holders
 # ---------------------------------------------------------------------------
-_neo4j: Optional[Neo4jClient] = None
-_es: Optional[ElasticsearchClient] = None
+_mysql: Optional[MySQLClient] = None
+_s3: Optional[S3Client] = None
+_course_es: Optional[CourseElasticsearchClient] = None
 _embedding: Optional[EmbeddingService] = None
-_skill_search: Optional[SkillSearchService] = None
-_gap_detection: Optional[GapDetectionService] = None
-_recommendation: Optional[CourseRecommendationService] = None
-_admin_ingest_demo: Optional[AdminIngestDemoService] = None
 
 
 # ---------------------------------------------------------------------------
 # Client factories (dùng trong lifespan / Depends)
 # ---------------------------------------------------------------------------
 
-def get_neo4j() -> Neo4jClient:
-    global _neo4j
-    if _neo4j is None:
-        _neo4j = Neo4jClient(
-            uri=settings.NEO4J_URI,
-            username=settings.NEO4J_USERNAME,
-            password=settings.NEO4J_PASSWORD,
-            database=settings.NEO4J_DATABASE,
+def get_mysql() -> MySQLClient:
+    global _mysql
+    if _mysql is None:
+        _mysql = MySQLClient(
+            host=settings.DB_HOST,
+            port=settings.DB_PORT,
+            database=settings.DB_NAME,
+            username=settings.DB_USER,
+            password=settings.DB_PASSWORD,
         )
-    return _neo4j
+    return _mysql
 
 
-def get_es() -> ElasticsearchClient:
-    global _es
-    if _es is None:
+def get_s3() -> S3Client:
+    global _s3
+    if _s3 is None:
+        _s3 = S3Client(
+            endpoint=settings.S3_ENDPOINT,
+            bucket=settings.S3_BUCKET,
+            access_key=settings.S3_ACCESS_KEY,
+            secret_key=settings.S3_SECRET_KEY,
+        )
+    return _s3
+
+
+def get_course_es() -> CourseElasticsearchClient:
+    global _course_es
+    if _course_es is None:
         hosts = [h.strip() for h in settings.ELASTICSEARCH_HOSTS.split(",")]
-        _es = ElasticsearchClient(
+        _course_es = CourseElasticsearchClient(
             hosts=hosts,
             username=settings.ELASTICSEARCH_USERNAME,
             password=settings.ELASTICSEARCH_PASSWORD,
             timeout=settings.ELASTICSEARCH_TIMEOUT,
-            index=settings.ELASTICSEARCH_INDEX,
+            vector_dim=settings.ELASTICSEARCH_VECTOR_DIM,
         )
-    return _es
+    return _course_es
 
 
 def get_embedding() -> EmbeddingService:
@@ -69,47 +80,13 @@ def get_embedding() -> EmbeddingService:
 
 
 # ---------------------------------------------------------------------------
-# Service factories (FastAPI Depends)
+# Cleanup
 # ---------------------------------------------------------------------------
 
-def get_skill_search_service() -> SkillSearchService:
-    global _skill_search
-    if _skill_search is None:
-        _skill_search = SkillSearchService(
-            es=get_es(),
-            embedding=get_embedding(),
-        )
-    return _skill_search
-
-
-def get_gap_detection_service() -> GapDetectionService:
-    global _gap_detection
-    if _gap_detection is None:
-        _gap_detection = GapDetectionService(
-            embedding=get_embedding(),
-            threshold=settings.GAP_SIMILARITY_THRESHOLD,
-        )
-    return _gap_detection
-
-
-def get_recommendation_service() -> CourseRecommendationService:
-    global _recommendation
-    if _recommendation is None:
-        _recommendation = CourseRecommendationService(neo4j=get_neo4j())
-    return _recommendation
-
-
-def get_admin_ingest_demo_service() -> AdminIngestDemoService:
-    global _admin_ingest_demo
-    if _admin_ingest_demo is None:
-        _admin_ingest_demo = AdminIngestDemoService()
-    return _admin_ingest_demo
-
-
 def close_all() -> None:
-    """Đóng tất cả DB connections khi shutdown."""
-    global _neo4j, _es
-    if _neo4j:
-        _neo4j.close()
-        _neo4j = None
+    """Đóng tất cả connections khi shutdown."""
+    global _mysql
+    if _mysql:
+        _mysql.close()
+        _mysql = None
     logger.info("All connections closed")

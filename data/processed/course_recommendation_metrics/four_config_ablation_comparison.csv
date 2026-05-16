@@ -1,5 +1,0 @@
-config,metric_file,hit@1,hit@3,hit@5,hit@10,recall@10,precision@10,mrr@10,map@10,ndcg@10
-enrich_k10_margin_005,/app/data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_enrich_k10_margin_005.json,0.4,0.65,0.72,0.82,0.505917,0.13,0.533563,0.327155,0.428767
-enrich_k10_top1_090,/app/data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_enrich_k10_top1_090.json,0.38,0.63,0.7,0.8,0.500417,0.129,0.51523,0.317834,0.419104
-enrich_k10_top1_089,/app/data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_enrich_k10_top1_089.json,0.38,0.63,0.7,0.8,0.497083,0.128,0.51523,0.317167,0.417747
-enrich_k10_top1_089_margin_005,/app/data/processed/course_recommendation_metrics/designed_flow_groundtruth_gaps_metrics_enrich_k10_top1_089_margin_005.json,0.38,0.64,0.7,0.8,0.492583,0.126,0.51823,0.316016,0.416291

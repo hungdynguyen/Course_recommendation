@@ -12,58 +12,118 @@ Tài liệu này bám đúng luồng bạn muốn:
    - **User**: chọn cặp CV/JD đã parse -> nhận top-k recommendation.
 5. Giả sử đã có **LLM endpoint** có thể gọi để parse/enrich text khi cần.
 
-## 2. Kiến trúc mục tiêu (baseline-only)
+## 2. Kiến trúc mục tiêu (baseline-only, production-ready)
 
-## 2.1 Thành phần bắt buộc
+### Frontend Layer
+1. **Admin Frontend (NextJS)**
+   - Upload courses (drag-drop)
+   - View job queue + status
+   - Configure schedule
+   - Monitor logs
 
-1. **API service (FastAPI)**
-   - Cung cấp endpoint admin + user.
-2. **Worker service (batch)**
-   - Xử lý course upload theo queue/schedule.
-   - Build lại course embedding cache.
-3. **Scheduler**
-   - Trigger job theo cron (ví dụ mỗi đêm 01:00).
-4. **Storage tối thiểu**
-   - Object/file storage cho file course upload.
-   - Metadata DB (PostgreSQL hoặc SQLite) cho jobs, schedules, pairs.
-5. **Embedding model service**
-   - Model before/after train (ưu tiên after-train nếu benchmark tốt hơn).
-6. **Course vector cache**
-   - `course_embeddings.npy` + `course_metadata.jsonl`.
+2. **User Frontend (NextJS)**
+   - Select CV/JD pair
+   - Trigger recommendation
+   - View results + explanations
 
-## 2.2 Thành phần không cần cho luồng này
+### API Layer (single FastAPI)
+1. **Unified FastAPI service**
+  - `POST /api/admin/courses/upload`
+  - `GET /api/admin/courses`
+  - `POST /api/admin/pipeline/trigger`
+  - `GET /api/admin/pipeline/status/{dag_run_id}`
+  - `GET /api/admin/versions`
+  - `POST /api/admin/versions/{version_id}/rollback`
+  - `POST /api/v1/recommend` (cv_id, jd_id, top_k)
+  - `GET /api/v1/cache/info`
+  - `GET /health`
 
-1. Neo4j graph runtime
-2. Elasticsearch skill index runtime cho baseline retrieval
-3. KG pipeline
+### Storage Layer
+1. **MySQL Metadata DB**
+   - `courses` table (course_id, title, description, skills, version_id)
+   - `course_versions` table (version_id, course_count, status, created_at)
+   - `upload_batches` table (batch_id, file_count, status)
+   - `pipeline_runs` table (run_id, batch_id, status, progress)
+   - `audit_logs` table (action, resource_id, user_id, timestamp)
+
+2. **Elasticsearch** (Vector DB)
+   - Index: `course_embeddings`
+   - Mapping: `{course_id, title, embedding: dense_vector[1024], skills[]}`
+   - Used for: cosine similarity search via `_search` with `knn` query
+
+3. **S3 / Minio** (Object Storage)
+   - `uploads/{batch_id}/*.docx` - uploaded course files
+   - `cache/v_{version_id}/embeddings_backup.json` - snapshot
+   - `logs/pipeline_runs/{run_id}/` - pipeline logs
+
+4. **Redis** (Optional, for Airflow/queue)
+   - Queue: pending jobs
+   - Cache: session, temp results
+
+### Processing Layer
+1. **Course docx parsing**
+    - Input: course docx files
+    - Process: structured extraction from docx tables/text
+    - Output: structured JSON
+    - Tech: `python-docx`
+
+2. **Course Engine**
+   - Embedding builder: encode courses → vector
+   - Cache manager: store in ES + MySQL + backup to S3
+   - Version controller: atomic swap logic
+
+3. **Airflow Scheduler**
+   - Daily 01:00 UTC trigger
+   - DAG: `daily_course_update`
+   - Tasks (8 steps - see section below)
+   - Retry: 2x with 5min delay
+   - Monitoring: Airflow UI + logs to S3
 
 ## 3. Data contracts
 
-## 3.1 Input đã có sẵn
+### 3.1 Input đã có sẵn
 
-- CV parsed data (skills, keywords, text snippets)
-- JD parsed data (skills, keywords, text snippets)
+- CV parsed data: `{cv_id, user_id, skills[], requirements_text, created_at}`
+- JD parsed data: `{jd_id, job_title, skills[], description, min_years_exp, created_at}`
+- Lưu trong MySQL `cv_profiles` và `job_descriptions` tables
 
-Giả định lưu trong DB/table hoặc file có ID ổn định:
-- `cv_id`
-- `jd_id`
-
-## 3.2 Admin upload course format
-
-Chuẩn hóa 1 schema JSON (chấp nhận list hoặc object):
+### 3.2 Course upload format (from Admin)
 
 ```json
 {
   "course_id": "CNTT1234",
-  "title": "Machine Learning",
-  "description": "...",
-  "skill_outcomes": [
-    {"skill_name": "Python", "outcome_description": "..."}
-  ]
+  "title": "Machine Learning Fundamentals",
+  "description": "Learn ML algorithms and applications",
+  "skills_outcomes": [
+    {"skill_name": "Python", "proficiency_level": "intermediate"},
+    {"skill_name": "Statistics", "proficiency_level": "beginner"}
+  ],
+  "duration_hours": 40,
+  "level": "beginner",
+  "prerequisites": ["CNTT1001"]
 }
 ```
 
-## 3.3 Recommendation output format
+### 3.3 Course docx parsing output (docx → JSON)
+
+```json
+{
+  "batch_id": "batch_20260430_001",
+  "parsed_courses": [
+    {
+      "course_id": "extracted_from_docx",
+      "title": "...",
+      "description": "...",
+      "skills_outcomes": [...],
+    "parse_confidence": 0.95
+    }
+  ],
+  "total_parsed": 50,
+  "extraction_time_ms": 12000
+}
+```
+
+### 3.4 Recommendation output
 
 ```json
 {
@@ -72,283 +132,771 @@ Chuẩn hóa 1 schema JSON (chấp nhận list hoặc object):
   "top_k": 10,
   "results": [
     {
+      "rank": 1,
       "course_id": "CNTT1234",
-      "course_title": "Machine Learning",
-      "score": 0.9123
+      "title": "Machine Learning",
+      "score": 0.9123,
+      "matched_skills": ["Python", "Statistics"],
+      "missing_skills": ["TensorFlow"]
     }
-  ]
+  ],
+  "latency_ms": 45
 }
-```
 
 ## 4. Những gì cần setup
 
-## 4.1 Environment
+### 4.1 Docker services (docker-compose.yml)
 
-1. Python 3.10+ hoặc Docker runtime
-2. `sentence-transformers`, `numpy`, `pandas`, `fastapi`, `uvicorn`
-3. Queue/scheduler stack:
-   - Option A: Celery + Redis + APScheduler
-   - Option B (nhẹ): RQ + Redis + APScheduler
-   - Option C (POC): thread worker + APScheduler
+```yaml
+services:
+  # APIs
+  fastapi_service:    # FastAPI, port 8000
 
-Khuyến nghị production: **Celery + Redis**.
+  # Storage
+  mysql:              # port 3306
+  elasticsearch:      # port 9200
+  redis:              # port 6379 (optional, for Airflow)
+  minio:              # port 9000 (S3-compatible)
 
-## 4.2 Model paths
+  # Processing
+    course_engine:      # Python embedding builder, port 8004
 
-Đặt rõ 2 cấu hình:
+  # Orchestration
+  airflow_webserver:  # port 8080
+  airflow_scheduler:  # background
+  airflow_worker:     # background
+```
 
-- before-train: `Qwen/Qwen3-Embedding-0.6B`
-- after-train: `/app/models/qwen_embedding_finetuned`
-
-Env ví dụ:
+### 4.2 Environment setup
 
 ```env
+# Database
+MYSQL_HOST=mysql
+MYSQL_PORT=3306
+MYSQL_DATABASE=vietcv
+MYSQL_USER=vietcv
+MYSQL_PASSWORD=xxx
+
+# Elasticsearch
+ES_HOST=http://elasticsearch:9200
+ES_INDEX=course_embeddings
+
+# Embedding model
 EMBEDDING_MODEL_NAME=Qwen/Qwen3-Embedding-0.6B
 EMBEDDING_MODEL_PATH=/app/models/qwen_embedding_finetuned
 EMBEDDING_DEVICE=cuda
 EMBEDDING_BATCH_SIZE=8
+
+# S3/Minio
+S3_ENDPOINT=http://minio:9000
+S3_ACCESS_KEY=minioadmin
+S3_SECRET_KEY=minioadmin
+S3_BUCKET=vietcv
+
+# Redis (optional)
+REDIS_HOST=redis
+REDIS_PORT=6379
+
+# Airflow
+AIRFLOW_HOME=/app/airflow
+AIRFLOW__CORE__DAGS_FOLDER=/app/airflow/dags
+AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql://airflow:airflow@postgres:5432/airflow
 ```
 
-## 4.3 Baseline artifacts
+## 5. Những gì cần code (single FastAPI API architecture)
 
-Tạo thư mục:
+### 5.1 Admin routes (FastAPI) endpoints
 
-- `data/processed/baseline_cache/`
+```python
+# app/api/v1/endpoints/admin.py
+# POST /api/admin/courses/upload
+# GET /api/admin/courses
+# PUT /api/admin/courses/{course_id}
+# DELETE /api/admin/courses/{course_id}
+# POST /api/admin/pipeline/trigger
+# GET /api/admin/pipeline/status/{dag_run_id}
+# GET /api/admin/versions
+# POST /api/admin/versions/{version_id}/rollback
+```
 
-Artifacts cần có:
+**Services to implement (FastAPI + support services):**
+- `CourseService` - CRUD with MySQL
+- `PipelineService` - call Airflow REST API to trigger DAG
+- `VersionService` - manage ES indices + S3 snapshots
+- `S3Service` - upload/retrieve from Minio
+- `CourseDocxParser` - parse structured course docx during upload
 
-- `course_embeddings.npy`
-- `course_metadata.jsonl`
-- `cache_version.json`
+### 5.2 User routes (FastAPI) endpoints
 
-## 5. Những gì cần code trong repo hiện tại
+```python
+# app/api/v1/endpoints/recommendations.py
+# POST /api/v1/recommend
+# GET /api/v1/cache/info
+# GET /health
+```
 
-Các path dưới đây bám theo cấu trúc hiện tại trong `src/service_api`.
+**Services to implement (FastAPI):**
+- `RecommendationService`:
+  - Input: cv_id, jd_id, top_k
+  - Load CV/JD from MySQL
+  - Build query (missing skills)
+  - Query ES with KNN
+  - Return top-k courses
+- `EsQueryService` - ES client wrapper
+- `CacheService` - retrieve metadata from MySQL
 
-## 5.1 Baseline retrieval core
+### 5.3 MySQL schema
 
-Tạo mới:
+```sql
+CREATE TABLE courses (
+    id VARCHAR(50) PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    description LONGTEXT,
+    skills JSON,
+    duration_hours INT,
+    level ENUM('beginner','intermediate','advanced'),
+    version_id VARCHAR(50),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    deleted_at TIMESTAMP NULL,
+    FOREIGN KEY (version_id) REFERENCES course_versions(id),
+    INDEX idx_version (version_id),
+    INDEX idx_deleted (deleted_at)
+);
 
-- [src/service_api/services/baseline_retriever.py](src/service_api/services)
+CREATE TABLE course_versions (
+    id VARCHAR(50) PRIMARY KEY,
+    course_count INT,
+    es_index_name VARCHAR(100),
+    snapshot_s3_path VARCHAR(500),
+    status ENUM('building','ready','archived'),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    archived_at TIMESTAMP NULL
+);
 
-Chức năng:
+CREATE TABLE upload_batches (
+    id VARCHAR(50) PRIMARY KEY,
+    file_count INT,
+    file_names JSON,
+    s3_path VARCHAR(500),
+    status ENUM('pending','processing','completed','failed'),
+    error_message TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    completed_at TIMESTAMP NULL,
+    INDEX idx_status (status)
+);
 
-1. Load model 1 lần khi app startup.
-2. Load `course_embeddings.npy` + metadata 1 lần.
-3. Có method:
-   - `recommend_from_text(query_text, top_k)`
-   - `recommend_from_skills(skills, top_k)`
-4. Score bằng cosine/dot product trên normalized vectors.
+CREATE TABLE pipeline_runs (
+    id VARCHAR(50) PRIMARY KEY,
+    batch_id VARCHAR(50),
+    status ENUM('running','completed','failed'),
+    version_id VARCHAR(50),
+    progress_percent INT,
+    airflow_run_id VARCHAR(100),
+    started_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    completed_at TIMESTAMP NULL,
+    FOREIGN KEY (batch_id) REFERENCES upload_batches(id),
+    FOREIGN KEY (version_id) REFERENCES course_versions(id),
+    INDEX idx_batch (batch_id),
+    INDEX idx_status (status)
+);
 
-## 5.2 Course embedding builder (offline/batch)
+CREATE TABLE cv_profiles (
+    id VARCHAR(50) PRIMARY KEY,
+    user_id VARCHAR(50),
+    skills JSON,
+    requirements_text LONGTEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
 
-Tạo mới script:
+CREATE TABLE job_descriptions (
+    id VARCHAR(50) PRIMARY KEY,
+    job_title VARCHAR(255),
+    skills JSON,
+    description LONGTEXT,
+    min_years_exp INT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
 
-- [src/service_api/scripts/build_baseline_course_cache.py](src/service_api/scripts)
+CREATE TABLE audit_logs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    action VARCHAR(50),
+    resource_type VARCHAR(50),
+    resource_id VARCHAR(50),
+    user_id VARCHAR(50),
+    details JSON,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    INDEX idx_resource (resource_type, resource_id)
+);
+```
 
-Chức năng:
+### 5.4 Elasticsearch index setup
 
-1. Đọc course data từ staging/catalog.
-2. Chuẩn hóa text input cho từng course.
-3. Encode batch.
-4. Ghi `course_embeddings.npy`, `course_metadata.jsonl`.
-5. Update `cache_version.json`.
+```json
+PUT /course_embeddings
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "index.vector.size": 1024
+  },
+  "mappings": {
+    "properties": {
+      "course_id": {"type": "keyword"},
+      "title": {"type": "text"},
+      "description": {"type": "text"},
+      "skills": {"type": "keyword"},
+      "embedding": {
+        "type": "dense_vector",
+        "dims": 1024,
+        "index": true,
+        "similarity": "cosine"
+      },
+      "version_id": {"type": "keyword"},
+      "created_at": {"type": "date"}
+    }
+  }
+}
+```
 
-## 5.3 Admin APIs
+### 5.5 S3 / Minio bucket structure
 
-Mở rộng endpoint admin hiện có (đang có demo tại [src/service_api/api/v1/endpoints/admin_demo.py](src/service_api/api/v1/endpoints/admin_demo.py)) thành production endpoints:
+```
+vietcv/
+  uploads/
+    batch_20260430_001/
+      courses.docx
+      references.pdf
+  cache/
+    v_20260430_001/
+      embeddings_backup.json
+  logs/
+    pipeline_runs/
+      run_20260430_001/
+        dag_log.txt
+        task_parse.log
+        task_embed.log
+```
 
-1. `POST /api/v1/admin/courses/upload`
-2. `GET /api/v1/admin/courses/queue`
-3. `POST /api/v1/admin/pipeline/run`
-4. `POST /api/v1/admin/pipeline/schedule`
-5. `GET /api/v1/admin/pipeline/status`
+### 5.6 Course docx parser (internal helper)
 
-Tách service xử lý:
+```python
+# services/course_docx_parser.py
+from docx import Document
 
-- [src/service_api/services/admin_ingest_service.py](src/service_api/services)
+class CourseDocxParser:
+    def extract_courses(self, file_obj):
+        document = Document(file_obj)
+        # Parse structured course docx content
+        return []
+```
 
-## 5.4 User APIs
+### 5.7 Course Engine (Python microservice)
 
-Tạo endpoint user baseline:
+```python
+# services/course_engine/main.py
+from services.embedding_builder import EmbeddingBuilder
+from services.es_indexer import EsIndexer
+from services.cache_manager import CacheManager
 
-- [src/service_api/api/v1/endpoints/baseline_recommendations.py](src/service_api/api/v1/endpoints)
+def build_course_cache(version_id, courses):
+    builder = EmbeddingBuilder(model_path, device='cuda')
+    es_indexer = EsIndexer(es_host)
+    cache_mgr = CacheManager(s3_client, mysql_client)
+    
+    # 1. Encode courses → embeddings
+    embeddings = builder.encode_batch(courses)
+    
+    # 2. Index to Elasticsearch
+    es_indexer.index_courses(version_id, courses, embeddings)
+    
+    # 3. Backup to S3
+    cache_mgr.backup_to_s3(version_id, courses, embeddings)
+    
+    # 4. Update MySQL
+    cache_mgr.update_version_status(version_id, 'ready')
+```
 
-API chính:
+## 6. Airflow DAG: daily_course_update (01:00 UTC)
 
-1. `POST /api/v1/baseline/recommend`
-   - input: `jd_id`, `cv_id`, `top_k`
-2. `GET /api/v1/baseline/recommend/{request_id}` (optional audit)
+### 6.1 DAG definition
 
-Logic:
+```python
+# airflow/dags/daily_course_update_dag.py
+from airflow import DAG
+from airflow.operators.python import PythonOperator
+from datetime import datetime, timedelta
 
-1. Lấy parsed JD/CV từ store.
-2. Build query text từ missing skills hoặc JD-required minus CV-skills.
-3. Gọi `baseline_retriever`.
+default_args = {
+    'owner': 'course_engine',
+    'retries': 2,
+    'retry_delay': timedelta(minutes=5),
+}
 
-## 5.5 Pair resolver (CV/JD)
+dag = DAG(
+    'daily_course_update',
+    default_args=default_args,
+    description='Daily course cache build and Elasticsearch index update',
+    schedule_interval='0 1 * * *',  # 01:00 UTC every day
+    start_date=datetime(2026, 1, 1),
+    catchup=False,
+    tags=['course_engine'],
+)
+```
 
-Tạo service:
+### 6.2 Tasks (8 steps)
 
-- [src/service_api/services/pair_resolver.py](src/service_api/services)
+```
+┌─────────────────────────────────────────────────────┐
+│  fetch_pending_courses                              │
+│  (Query MySQL for pending/updated courses)          │
+└─────────────────────────────────────┬───────────────┘
+                                      │
+┌─────────────────────────────────────▼───────────────┐
+│  parse_course_docx                                  │
+│  (Parse uploaded course docx files internally)      │
+└─────────────────────────────────────┬───────────────┘
+                                      │
+┌─────────────────────────────────────▼───────────────┐
+│  build_embeddings                                   │
+│  (Encode courses with embedding model)              │
+└─────────────────────────────────────┬───────────────┘
+                                      │
+┌─────────────────────────────────────▼───────────────┐
+│  validate_quality                                   │
+│  (Check metrics: embedding dims, coverage, etc.)    │
+├─────────────────────────────────────┬───────────────┤
+│                                     │                │
+│      ┌──────────────PASS────────────┘                │
+│      │                                               │
+│      └───────────────┐                               │
+│                      │                               │
+│    ┌────────FAIL─────▼───────┐                      │
+│    │                         │                       │
+└────▼──────────────────────────▼───────────────┐     │
+│  swap_cache_and_update_es (PASS branch)     │     │
+│  - Update ES index to v_{version}           │     │
+│  - Update MySQL version status to 'ready'   │     │
+│  - Notify recommendation service            │     │
+└─────────────────────────────────────┬────────┘     │
+                                      │              │
+┌─────────────────────────────────────▼────────┐     │
+│  send_notification_success                   │     │
+│  (Email/Slack: build completed successfully)│     │
+└─────────────────────────────────────┬────────┘     │
+                                      │              │
+                          ┌───────────┴────────┐     │
+                          │                    │     │
+┌─────────────────────────▼────────────────────▼─────┐
+│  archive_old_versions                               │
+│  (Move old ES indices to archive, keep last 3)      │
+└─────────────────────────────────────┬───────────────┘
+                                      │
+                                      │ (FAIL)
+                                      ▼
+                    ┌─────────────────────────────┐
+                    │  handle_failure             │
+                    │  - Update MySQL status      │
+                    │  - Send alert email         │
+                    │  - Keep old ES index active │
+                    └─────────────────────────────┘
+```
 
-Chức năng:
+### 6.3 Task implementations
 
-1. Resolve `cv_id`, `jd_id` -> parsed payload.
-2. Validate pair tồn tại.
-3. Trả structured skills cho recommender.
+```python
+# Task 1: Fetch pending courses
+def fetch_pending_courses(**context):
+    mysql_client = context['mysql_client']
+    courses = mysql_client.query(
+        "SELECT * FROM courses WHERE version_id IS NULL OR updated_at > NOW() - INTERVAL 1 DAY"
+    )
+    context['task_instance'].xcom_push(key='courses', value=courses)
+    return len(courses)
 
-## 5.6 LLM endpoint integration
+task_fetch = PythonOperator(
+    task_id='fetch_pending_courses',
+    python_callable=fetch_pending_courses,
+    dag=dag,
+)
 
-Tạo adapter:
+# Task 2: Parse and enrich docx files
+def parse_course_docx(**context):
+    courses = context['task_instance'].xcom_pull(key='courses')
+    enriched_courses = []
+    for course in courses:
+        if course['docx_path']:
+            # Parse docx internally with python-docx
+            course['parsed'] = True
+        enriched_courses.append(course)
+    
+    context['task_instance'].xcom_push(key='enriched_courses', value=enriched_courses)
+    return len(enriched_courses)
 
-- [src/service_api/services/llm_client.py](src/service_api/services)
+task_parse = PythonOperator(
+    task_id='parse_course_docx',
+    python_callable=parse_course_docx,
+    dag=dag,
+)
 
-Dùng cho:
+# Task 3: Build embeddings
+def build_embeddings(**context):
+    courses = context['task_instance'].xcom_pull(key='enriched_courses')
+    
+    builder = EmbeddingBuilder(model_path, device='cuda')
+    course_engine_url = "http://course_engine:8004/build"
+    
+    version_id = f"v_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+    
+    response = requests.post(
+        course_engine_url,
+        json={
+            'version_id': version_id,
+            'courses': courses
+        }
+    )
+    
+    result = response.json()
+    context['task_instance'].xcom_push(key='version_id', value=version_id)
+    context['task_instance'].xcom_push(key='build_result', value=result)
+    
+    return {'status': 'ok', 'version_id': version_id}
 
-1. Parse/enrich course upload (admin pipeline).
-2. Fallback khi dữ liệu course thiếu trường.
+task_embed = PythonOperator(
+    task_id='build_embeddings',
+    python_callable=build_embeddings,
+    dag=dag,
+)
 
-## 6. Scheduler + Batch design
+# Task 4: Validate quality
+def validate_quality(**context):
+    result = context['task_instance'].xcom_pull(key='build_result')
+    
+    # Check thresholds
+    embedding_dim = result.get('embedding_dim')
+    course_count = result.get('course_count')
+    avg_embedding_time = result.get('avg_embedding_time_ms')
+    
+    if embedding_dim != 1024:
+        raise ValueError(f"Wrong embedding dimension: {embedding_dim}")
+    if course_count == 0:
+        raise ValueError("No courses indexed")
+    if avg_embedding_time > 5000:  # 5 sec per course max
+        raise ValueError(f"Embedding too slow: {avg_embedding_time}ms")
+    
+    return {'status': 'validated', 'course_count': course_count}
 
-## 6.1 Job states
+task_validate = PythonOperator(
+    task_id='validate_quality',
+    python_callable=validate_quality,
+    dag=dag,
+)
 
-Một job pipeline nên có trạng thái:
+# Task 5: Swap cache and update ES
+def swap_cache_and_update_es(**context):
+    version_id = context['task_instance'].xcom_pull(key='version_id')
+    es_client = context['es_client']
+    mysql_client = context['mysql_client']
+    
+    # Create alias for new index
+    es_client.indices.put_alias(index=f"course_embeddings_{version_id}", name="course_embeddings")
+    
+    # Update MySQL
+    mysql_client.execute(
+        "UPDATE course_versions SET status = 'ready' WHERE id = %s",
+        (version_id,)
+    )
+    
+    # Notify recommendation service
+    notify_url = "http://fastapi_service:8000/api/v1/cache/info"
+    requests.post(notify_url, json={'version_id': version_id})
+    
+    return {'status': 'swapped', 'version_id': version_id}
 
-- `queued`
-- `running`
-- `failed`
-- `completed`
+task_swap = PythonOperator(
+    task_id='swap_cache_and_update_es',
+    python_callable=swap_cache_and_update_es,
+    dag=dag,
+)
 
-Lưu metadata:
+# Task 6: Send success notification
+def send_notification_success(**context):
+    version_id = context['task_instance'].xcom_pull(key='version_id')
+    result = context['task_instance'].xcom_pull(key='build_result')
+    
+    message = f"""
+    ✅ Course cache update completed successfully!
+    Version: {version_id}
+    Courses indexed: {result['course_count']}
+    Time: {result['total_time_sec']}s
+    """
+    
+    # Send email/Slack
+    send_slack_notification(message)
+    
+    return {'status': 'notified'}
 
-- `run_id`
-- `started_at`
-- `finished_at`
-- `input_files`
-- `output_cache_version`
-- `log_tail`
+task_notify_ok = PythonOperator(
+    task_id='send_notification_success',
+    python_callable=send_notification_success,
+    dag=dag,
+)
 
-## 6.2 Batch flow
+# Task 7: Archive old versions
+def archive_old_versions(**context):
+    es_client = context['es_client']
+    mysql_client = context['mysql_client']
+    s3_client = context['s3_client']
+    
+    # Keep only last 3 versions
+    old_versions = mysql_client.query(
+        "SELECT id FROM course_versions WHERE status = 'ready' ORDER BY created_at DESC LIMIT -1 OFFSET 3"
+    )
+    
+    for version in old_versions:
+        # Archive ES index
+        es_client.indices.put_settings(
+            index=f"course_embeddings_{version['id']}",
+            body={'index.codec': 'best_compression'}
+        )
+        
+        # Mark in MySQL
+        mysql_client.execute(
+            "UPDATE course_versions SET status = 'archived', archived_at = NOW() WHERE id = %s",
+            (version['id'],)
+        )
+    
+    return {'archived_count': len(old_versions)}
 
-1. Admin upload JSON files.
-2. Files vào `staging/pending`.
-3. Scheduler trigger job.
-4. Worker đọc batch, validate schema.
-5. Gọi LLM endpoint (nếu cần enrich).
-6. Build baseline cache.
-7. Atomic swap cache (đổi symlink/current pointer).
-8. Mark completed + notify frontend.
+task_archive = PythonOperator(
+    task_id='archive_old_versions',
+    python_callable=archive_old_versions,
+    dag=dag,
+)
+
+# Task 8: Handle failure
+def handle_failure(**context):
+    error = context.get('exception')
+    
+    message = f"""
+    ❌ Course cache update FAILED!
+    Error: {str(error)}
+    DAG: {context['dag'].dag_id}
+    Execution date: {context['execution_date']}
+    """
+    
+    # Keep old ES index active
+    # Revert any partial changes
+    # Send alert email
+    send_slack_notification(message, severity='critical')
+    
+    return {'status': 'failure_handled'}
+
+task_handle_fail = PythonOperator(
+    task_id='handle_failure',
+    python_callable=handle_failure,
+    trigger_rule='one_failed',
+    dag=dag,
+)
+
+# Define dependencies
+task_fetch >> task_parse >> task_embed >> task_validate
+task_validate >> [task_swap, task_handle_fail]
+task_swap >> task_notify_ok >> task_archive
+```
+
+### 6.4 Monitoring Airflow
+
+- Web UI: `http://airflow-webserver:8080`
+- Check DAG status: every day 01:30 UTC
+- Alerts: if DAG fails, notification to #course-engine Slack channel
 
 ## 7. Step-by-step triển khai
 
-## Step 1: Chuẩn bị branch và config
+### Step 1: Chuẩn bị infrastructure
 
-1. Tạo branch `deploy-baseline-admin-user`.
-2. Tạo file env cho baseline-only.
-3. Cấu hình model after-train mặc định.
+1. Docker Compose file với services:
+   - MySQL 8.3
+   - Elasticsearch 8.x
+   - Minio (S3 compatible)
+   - Redis 7.x (for Airflow)
+   - Airflow (webserver + scheduler + worker)
+  - FastAPI service (admin + user routes)
+  - Course docx parser (internal in API)
+   - Course Engine (Python)
 
-## Step 2: Tạo baseline cache builder
+2. Tạo `.env` với tất cả credentials
+3. Chạy `docker-compose up -d`
+4. Verify tất cả services healthy: `docker-compose ps`
 
-1. Implement [src/service_api/scripts/build_baseline_course_cache.py](src/service_api/scripts).
-2. Chạy script trên sample data.
-3. Verify có `course_embeddings.npy` + metadata.
+### Step 2: Chuẩn bị database
 
-## Step 3: Implement baseline retriever
+1. Run MySQL migrations (Alembic):
+   ```bash
+   docker-compose exec mysql mysql -u vietcv -p vietcv < migrations/schema.sql
+   ```
 
-1. Implement [src/service_api/services/baseline_retriever.py](src/service_api/services).
-2. Viết unit tests:
-   - load cache
-   - recommend top-k
-   - deterministic ordering khi score bằng nhau
+2. Create Elasticsearch index:
+   ```bash
+   curl -X PUT "http://localhost:9200/course_embeddings" -H "Content-Type: application/json" -d @es_mapping.json
+   ```
 
-## Step 4: Implement user recommendation API
+3. Create S3 buckets:
+   ```bash
+   aws s3 mb s3://vietcv/uploads --endpoint http://localhost:9000
+   aws s3 mb s3://vietcv/cache --endpoint http://localhost:9000
+   ```
 
-1. Tạo [src/service_api/api/v1/endpoints/baseline_recommendations.py](src/service_api/api/v1/endpoints).
-2. Add router vào API v1.
-3. Tạo request/response models tương ứng.
-4. Test API bằng 5-10 pair CV/JD thực tế.
+### Step 3: Implement FastAPI APIs
 
-## Step 5: Implement admin ingest API + queue
+#### Admin routes (port 8000)
+- Course CRUD endpoints
+- Pipeline trigger/status endpoints
+- Version management endpoints
+- Services: CourseService, PipelineService, VersionService
 
-1. Hardening từ demo service hiện tại:
-   - [src/service_api/services/admin_ingest_demo.py](src/service_api/services/admin_ingest_demo.py)
-2. Tách thành production service với persistent queue.
-3. Add schedule endpoint.
-4. Add audit logs.
+#### User routes (port 8000)
+- Recommendation endpoint (POST /api/v1/recommend)
+- Cache info endpoint (GET /api/v1/cache/info)
+- Services: RecommendationService, EsQueryService
 
-## Step 6: Implement scheduler/worker
+Test:
+```bash
+curl -X POST http://localhost:8000/api/admin/courses/upload \
+  -F "file=@courses.docx"
 
-1. Setup Redis + Celery worker.
-2. Tạo task `build_course_cache_task`.
-3. Tạo cron schedule (ví dụ hàng ngày 01:00).
-4. Test manual trigger + scheduled trigger.
+curl -X POST http://localhost:8000/api/v1/recommend \
+  -H "Content-Type: application/json" \
+  -d '{"cv_id":"cv_001", "jd_id":"jd_001", "top_k":10}'
+```
 
-## Step 7: Frontend admin
+### Step 4: Implement Python services
 
-Admin UI cần:
+#### Course docx parser (internal)
+- Dependency: python-docx
+- Test: Upload course docx → get parsed JSON
 
-1. Drag-drop upload component.
-2. Queue table (pending/running/completed/failed).
-3. Run now button.
-4. Schedule config form.
-5. Log/status panel.
+#### Course Engine (port 8004)
+- EmbeddingBuilder: encode courses
+- EsIndexer: index to ES
+- CacheManager: backup to S3
+- Test: Build cache for 50 courses
 
-## Step 8: Frontend user
+### Step 5: Implement Airflow DAG
 
-User UI cần:
+1. Create `airflow/dags/daily_course_update_dag.py` (8 tasks)
+2. Configure schedule: `0 1 * * *` (01:00 UTC)
+3. Set up connections:
+   - MySQL connection
+   - Elasticsearch connection
+   - S3 connection
+  - HTTP connection for Course Engine service
 
-1. Dropdown chọn `cv_id`.
-2. Dropdown chọn `jd_id`.
-3. Nút Recommend.
-4. Result table: rank, course_id, title, score.
-5. Optional: explanation card (matched gaps/skills).
+4. Validate DAG:
+   ```bash
+   airflow dags list
+   airflow dags validate daily_course_update
+   ```
 
-## Step 9: Docker deployment
+5. Manual trigger test:
+   ```bash
+   airflow dags trigger daily_course_update
+   ```
 
-Tối giản services:
+### Step 6: Deploy frontend
 
-1. `api`
-2. `worker`
-3. `redis`
-4. (optional) `db` cho metadata
+#### Admin FE (NextJS)
+- Components: UploadForm, JobQueue, PipelineMonitor, VersionManager
+- Connect to FastAPI admin routes (8000)
 
-Không cần deploy Neo4j/MySQL/Elasticsearch cho baseline-only runtime.
+#### User FE (NextJS)
+- Components: CvJdSelector, RecommendationTable, SkillMatcher
+- Connect to FastAPI user routes (8000)
 
-## Step 10: Acceptance checklist
+### Step 7: End-to-end testing
 
-- [ ] Upload course qua admin UI thành công.
-- [ ] Job batch chạy theo lịch thành công.
-- [ ] Cache mới được swap không downtime.
-- [ ] User chọn cv/jd nhận top-k recommendation.
-- [ ] Latency endpoint trong ngưỡng mục tiêu.
-- [ ] Logs/audit đủ để truy vết.
-- [ ] Rollback cache version hoạt động.
+1. Admin upload 10 courses (docx format)
+2. Monitor Airflow DAG (should run at 01:00 or manual trigger)
+3. Verify ES index created with embeddings
+4. Verify MySQL updated with version
+5. User select CV/JD pair
+6. User click Recommend
+7. Verify top-10 courses returned with scores
+8. Check latency < 200ms
 
-## 8. Chạy benchmark và release gate
+### Step 8: Monitoring & Logging
 
-Dùng script benchmark hiện có để so sánh trước release:
+1. Airflow UI: http://localhost:8080
+2. ES monitoring: http://localhost:9200/_cat/indices
+3. MySQL logs: `docker-compose logs mysql`
+4. API logs: `docker-compose logs fastapi_service course_engine`
 
-- [scripts/run_serving_benchmarks.sh](scripts/run_serving_benchmarks.sh)
+Setup alerts:
+- Airflow DAG failed
+- ES index missing
+- Recommendation latency > 500ms
 
-Release gate đề xuất:
+### Step 9: Rollback & Disaster recovery
 
-1. Hit@1/3/5/10 không giảm so với mốc baseline đã chốt.
-2. MRR@10 và nDCG@10 không giảm quá ngưỡng cho phép.
-3. Smoke test API pass.
+1. Previous version rollback:
+   ```bash
+  curl -X POST http://localhost:8000/api/admin/versions/v_20260429_001/rollback
+   ```
 
-## 9. Rollout strategy
+2. Backup restore:
+   - MySQL: `mysqldump vietcv | gzip > backup.sql.gz`
+   - ES: snapshot to S3
+   - S3: versioning enabled
 
-1. Deploy internal staging trước.
-2. Chạy shadow traffic với một phần request.
-3. So sánh online metrics baseline-old vs baseline-new.
-4. Promote production sau 24-72h ổn định.
+### Step 10: Performance tuning
 
-## 10. Kết luận
+1. Embedding model:
+   - Batch size: tune based on GPU memory (default 8)
+   - Device: use CUDA for speedup
 
-Để sẵn sàng deploy theo đúng mong muốn của bạn, trọng tâm là:
+2. Elasticsearch:
+   - Tune `k` in KNN search (default 10)
+   - Adjust `num_candidates` for recall
 
-1. Chuẩn hóa luồng **baseline-only**.
-2. Hoàn thiện 2 interface **admin** và **user**.
-3. Xây batch pipeline có schedule + cache versioning.
-4. Tách hoàn toàn khỏi KG runtime để hệ thống nhẹ và đúng với thí nghiệm baseline.
+3. DAG scheduling:
+   - Adjust retry count
+   - Fine-tune retry delay
+   - Monitor DAG duration
+
+## 8. Acceptance checklist
+
+- [ ] Docker services all healthy
+- [ ] MySQL schema created with sample data
+- [ ] Elasticsearch index created with sample embeddings
+- [ ] Admin API endpoints working
+- [ ] User API endpoints working
+- [ ] Course docx parser handles uploads correctly
+- [ ] Course Engine builds embeddings correctly
+- [ ] Airflow DAG validates and runs
+- [ ] Manual DAG trigger succeeds
+- [ ] Recommendation latency acceptable
+- [ ] ES query returns top-K results
+- [ ] Versioning/rollback works
+- [ ] Monitoring/alerts configured
+- [ ] All tests passing (unit, integration, E2E)
+
+## 9. Release checklist
+
+- [ ] Benchmark metrics pass (Hit@K, MRR, nDCG)
+- [ ] Load test: QPS >= 100, p99 latency < 200ms
+- [ ] Staging deployment 24h stable
+- [ ] Production deployment plan reviewed
+- [ ] Rollback procedure tested
+- [ ] Team trained
+- [ ] Documentation complete
+- [ ] Go-live approval
+
+## 10. Conclusion
+
+Hệ thống này là **production-ready baseline recommendation engine** với:
+- Single FastAPI API architecture
+- MySQL + Elasticsearch + S3 storage
+- Daily Airflow DAG for cache update
+- Course docx parsing + embedding service
+- Admin + User separate frontends
+- Monitoring + rollback capability

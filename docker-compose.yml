@@ -1,121 +1,272 @@
 services:
-  # 1. FastAPI Backend
-  api:
-    build:
-      context: .
-      dockerfile: docker/service_api/Dockerfile
-    container_name: vietcv_api
-    ports:
-      - "8000:8000"
-    env_file:
-      - .env
+  # ----------------------------------------------------------
+  # 1. MySQL 8.3 – Metadata database
+  # ----------------------------------------------------------
+  mysql:
+    image: mysql:8.3
+    container_name: vietcv_mysql
     environment:
-      - NEO4J_URI=bolt://neo4j:7687
-      - NEO4J_USERNAME=neo4j
-      - NEO4J_PASSWORD=password123
-      - ELASTICSEARCH_HOST=http://elasticsearch:9200
-      - MYSQL_HOST=mysql
-      - MYSQL_PORT=3306
-      - MYSQL_USER=vietcv
-      - MYSQL_PASSWORD=yourpassword
-      - MYSQL_DATABASE=vietcv
-    depends_on:
-      - elasticsearch
-      - neo4j
-      - mysql
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: vietcv
+      MYSQL_USER: vietcv_user
+      MYSQL_PASSWORD: secure_password
+    ports:
+      - "3306:3306"
+    command:
+      - "--default-authentication-plugin=mysql_native_password"
+      - "--character-set-server=utf8mb4"
+      - "--collation-server=utf8mb4_unicode_ci"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./migrations/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
     networks:
       - vietcv_net
-    volumes:
-      - ./services/service_api:/app
-      - ./.env:/app/.env
-    command: uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
-    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-proot_password"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
 
-  # 2. Vector DB - Elasticsearch
+  # ----------------------------------------------------------
+  # 2. Elasticsearch 8.11 – Vector search for course embeddings
+  # ----------------------------------------------------------
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.11.1
     container_name: vietcv_elastic
     environment:
       - discovery.type=single-node
       - xpack.security.enabled=false
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m" # Giới hạn RAM để tránh treo máy WSL
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
     ports:
       - "9200:9200"
     volumes:
-      - ./data/elasticsearch:/usr/share/elasticsearch/data
+      - es_data:/usr/share/elasticsearch/data
     networks:
       - vietcv_net
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 120s
 
-  # 3. Graph DB - Neo4j
-  neo4j:
-    image: neo4j:5.15.0
-    container_name: vietcv_neo4j
-    ports:
-      - "7474:7474" # HTTP Interface
-      - "7687:7687" # Bolt port
+  # ----------------------------------------------------------
+  # 3. Minio – S3-compatible object storage
+  # ----------------------------------------------------------
+  minio:
+    image: minio/minio:latest
+    container_name: vietcv_minio
     environment:
-      - NEO4J_AUTH=neo4j/password123
-      - NEO4J_dbms_memory_pagecache_size=512m
-      - NEO4J_dbms_memory_heap_initial__size=512m
-    volumes:
-      - ./data/neo4j:/data
-    networks:
-      - vietcv_net
-
-  # 4. MySQL Database
-  mysql:
-    image: mysql:8.3
-    container_name: vietcv_mysql
-    environment:
-      - MYSQL_ROOT_PASSWORD=yourpassword
-      - MYSQL_DATABASE=vietcv
-      - MYSQL_USER=vietcv
-      - MYSQL_PASSWORD=yourpassword
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
     ports:
-      - "3306:3306"
-    command: ["--default-authentication-plugin=mysql_native_password", "--character-set-server=utf8mb4", "--collation-server=utf8mb4_unicode_ci"]
+      - "9000:9000"
+      - "9001:9001"
     volumes:
-      - ./data/mysql:/var/lib/mysql
+      - minio_data:/data
+    command: server /data --console-address ":9001"
     networks:
       - vietcv_net
+    healthcheck:
+      test: ["CMD", "mc", "ready", "local"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
 
-  # 5. Data Factory Pipeline
-  data_factory:
+  # ----------------------------------------------------------
+  # 4. Redis – Queue / caching
+  # ----------------------------------------------------------
+  redis:
+    image: redis:7-alpine
+    container_name: vietcv_redis
+    ports:
+      - "6379:6379"
+    networks:
+      - vietcv_net
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
+  # ----------------------------------------------------------
+  # 5. Airflow – PostgreSQL backend for Airflow metadata
+  # ----------------------------------------------------------
+  airflow-postgres:
+    image: postgres:15
+    container_name: vietcv_airflow_pg
+    environment:
+      POSTGRES_DB: airflow_db
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+    volumes:
+      - airflow_pg_data:/var/lib/postgresql/data
+    networks:
+      - vietcv_net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  # ----------------------------------------------------------
+  # 6. Airflow Webserver
+  # ----------------------------------------------------------
+  airflow-webserver:
+    image: apache/airflow:2.8.0-python3.11
+    container_name: vietcv_airflow_web
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres:5432/airflow_db
+      AIRFLOW__CORE__FERNET_KEY: ''
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      AIRFLOW__WEBSERVER__EXPOSE_CONFIG: 'true'
+      _AIRFLOW_DB_MIGRATE: 'true'
+      _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_WWW_USER_USERNAME: airflow
+      _AIRFLOW_WWW_USER_PASSWORD: airflow
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./src/airflow/dags:/opt/airflow/dags
+      - ./src/airflow/plugins:/opt/airflow/plugins
+      - airflow_logs:/opt/airflow/logs
+    depends_on:
+      airflow-postgres:
+        condition: service_healthy
+    networks:
+      - vietcv_net
+    command: >
+      bash -c "
+        airflow db migrate &&
+        airflow users create --username airflow --password airflow --firstname Admin --lastname User --role Admin --email admin@example.com || true &&
+        airflow webserver
+      "
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:8080/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
+  # ----------------------------------------------------------
+  # 7. Airflow Scheduler
+  # ----------------------------------------------------------
+  airflow-scheduler:
+    image: apache/airflow:2.8.0-python3.11
+    container_name: vietcv_airflow_scheduler
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres:5432/airflow_db
+      AIRFLOW__CORE__FERNET_KEY: ''
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    volumes:
+      - ./src/airflow/dags:/opt/airflow/dags
+      - ./src/airflow/plugins:/opt/airflow/plugins
+      - airflow_logs:/opt/airflow/logs
+    depends_on:
+      airflow-postgres:
+        condition: service_healthy
+    networks:
+      - vietcv_net
+    command: >
+      bash -c "airflow db migrate && airflow scheduler"
+
+  # ----------------------------------------------------------
+  # 8. FastAPI Service – Main API (admin + user)
+  # ----------------------------------------------------------
+  api:
     build:
       context: .
-      dockerfile: docker/data_factory/Dockerfile
-    container_name: vietcv_data_factory
+      dockerfile: docker/Dockerfile.api
+    container_name: vietcv_api
+    ports:
+      - "8000:8000"
     env_file:
       - .env
     environment:
-      - PYTHONPATH=/app/services/data_factory
-      - NEO4J_URI=bolt://neo4j:7687
-      - NEO4J_USERNAME=neo4j
-      - NEO4J_PASSWORD=password123
-      - ELASTICSEARCH_HOST=http://elasticsearch:9200
-      - MYSQL_HOST=mysql
-      - MYSQL_PORT=3306
-      - MYSQL_USER=vietcv
-      - MYSQL_PASSWORD=yourpassword
-      - MYSQL_DATABASE=vietcv
+      - PYTHONPATH=/app/src
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_NAME=vietcv
+      - DB_USER=vietcv_user
+      - DB_PASSWORD=secure_password
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+      - S3_ENDPOINT=http://minio:9000
+      - S3_BUCKET=vietcv
+      - S3_ACCESS_KEY=minioadmin
+      - S3_SECRET_KEY=minioadmin
+      - AIRFLOW_URL=http://airflow-webserver:8080/api/v1
+      - AIRFLOW_USERNAME=airflow
+      - AIRFLOW_PASSWORD=airflow
+      - EMBEDDING_DEVICE=cpu
     depends_on:
-      - elasticsearch
-      - mysql
-      - neo4j
+      mysql:
+        condition: service_healthy
+      elasticsearch:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
     networks:
       - vietcv_net
     volumes:
-      - ./:/app
-    working_dir: /app
-    command: ["sleep", "infinity"]
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: all 
-              capabilities: [gpu]
+      - ./src:/app/src
+      - ./data:/app/data
+      - ./models:/app/models
+    restart: unless-stopped
 
+  # ----------------------------------------------------------
+  # 9. Course Engine – Embedding + Indexing service
+  # ----------------------------------------------------------
+  course_engine:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.course_engine
+    container_name: vietcv_course_engine
+    ports:
+      - "8004:8004"
+    environment:
+      - PYTHONPATH=/app/src
+      - SERVICE_PORT=8004
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_NAME=vietcv
+      - DB_USER=vietcv_user
+      - DB_PASSWORD=secure_password
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+      - S3_ENDPOINT=http://minio:9000
+      - S3_BUCKET=vietcv
+      - S3_ACCESS_KEY=minioadmin
+      - S3_SECRET_KEY=minioadmin
+      - EMBEDDING_DEVICE=cpu
+    depends_on:
+      mysql:
+        condition: service_healthy
+      elasticsearch:
+        condition: service_healthy
+    networks:
+      - vietcv_net
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+      - ./models:/app/models
+    restart: unless-stopped
+
+# ==============================================================
+# Volumes
+# ==============================================================
+volumes:
+  mysql_data:
+  es_data:
+  minio_data:
+  airflow_pg_data:
+  airflow_logs:
+
+# ==============================================================
+# Network
+# ==============================================================
 networks:
   vietcv_net:
     driver: bridge

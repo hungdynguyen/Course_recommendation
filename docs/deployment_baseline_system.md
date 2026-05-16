@@ -4,14 +4,22 @@
 
 Tài liệu này mô tả cách deploy **baseline thực nghiệm** mà bạn đã benchmark trong repo này. Baseline ở đây là luồng **embedding-only retrieval**:
 
-- nhập JD/CV hoặc skill gaps
+- nhập JD/CV 
+- Gaps detection
 - lấy text của gap làm query
 - encode query bằng embedding model
-- encode toàn bộ course texts bằng cùng embedding model
+- courses sẽ được input định dạng docx, được parse nội bộ ra json format. 
+- encode toàn bộ course đã được parse bằng cùng embedding model
 - tính cosine similarity giữa query vector và course vectors
 - trả về top-k course có similarity cao nhất
 
-Luồng này **không dùng Knowledge Graph, không Neo4j, không MySQL, không dùng designed flow**.
+Luồng này **không dùng Knowledge Graph, không Neo4j, không dùng designed KG flow**.
+
+Tuy nhiên, để production-ready, hệ thống sẽ dùng:
+- **MySQL**: lưu metadata (courses, versions, jobs, users)
+- **Elasticsearch**: vector store cho course embeddings
+- **Redis**: caching + queue (nếu dùng Airflow)
+- **S3/Minio**: object storage cho uploaded files
 
 ## 2. Luồng baseline thực sự
 
@@ -26,8 +34,10 @@ Các thành phần chính:
    - Với bài toán deploy của bạn, ưu tiên model sau train nếu đã chứng minh tốt hơn
 
 2. **Course catalog**
-   - Lấy từ `data/Data_Courses_Filtered`
-   - Mỗi course được ghép thành text từ title + skill outcomes + descriptions
+   - Lấy từ `/root/courses_rec/data/raw/courses`
+   - Mỗi course cần được đọc bằng thư viện, parsing bằng llm theo prompt trong file /root/courses_rec/course_extraction.ipynb. 
+   - Nhưng hiện nay đang chỉ dev local, chưa kết nối được tới llm model nên khi build chỉ làm place holder cho phần này, và sử dụng course đã được build trong /root/courses_rec/data/Data_Courses_Filtered. 
+   - Sau khi được extract thì gom title, skills vào để embedding. 
 
 3. **Precomputed course embeddings**
    - Encode toàn bộ course texts trước khi serve
@@ -48,7 +58,7 @@ Các thành phần chính:
 
 - **API service**: FastAPI để expose endpoint recommend
 - **Embedding model**: sentence-transformers model
-- **Course catalog file**: JSON course data
+- **Course catalog file**: Docx course data
 - **Course embedding cache**: file `.npy` hoặc `.npz`
 - **Optional cache**: để tránh load lại vector mỗi request
 
@@ -56,16 +66,33 @@ Các thành phần chính:
 
 Không cần cho baseline này:
 
-- Neo4j
-- MySQL
-- Elasticsearch
-- Knowledge Graph
-- graph build pipeline
-- designed flow services
+- Neo4j (KG runtime)
+- Knowledge Graph traversal
+- Designed flow services (multi-hop reasoning)
 
-## 4. Repo components liên quan
+## 4. Architecture Stack
 
-### 4.1 API entrypoint
+### 4.1 Frontend tier
+- Admin FE (NextJS): upload courses, monitor jobs, manage schedules
+- User FE (NextJS): select CV/JD pair, view recommendations
+
+### 4.2 API tier (FastAPI)
+- Unified service with 2 route groups:
+  - `/api/admin/*`: Course CRUD, pipeline management, versioning
+  - `/api/v1/recommend`: Recommendation endpoint (public)
+
+### 4.3 Storage tier
+- MySQL: metadata DB (courses, versions, batches, logs)
+- Elasticsearch: vector DB cho course embeddings
+- Redis: cache + queue (for Airflow, optional)
+- S3/Minio: object storage cho uploaded files, cache snapshots
+
+### 4.4 Processing tier
+- Course DOCX parsing: parse docx → structured text (internal in FastAPI)
+- Course Engine: embedding builder, cache manager
+- Airflow Scheduler: daily batch processing
+
+### 4.5 Repo components liên quan
 
 - [src/service_api/main.py](src/service_api/main.py)
 - [src/service_api/api/v1/endpoints/recommendations.py](src/service_api/api/v1/endpoints/recommendations.py)
@@ -96,34 +123,55 @@ Script này phản ánh đúng baseline thí nghiệm:
 
 ### 5.1 Chọn model nào
 
-Nếu benchmark của bạn cho thấy baseline after-train tốt hơn, deploy bằng model fine-tuned local:
+Benchmark cho thấy baseline after-train tốt hơn, nên deploy bằng model fine-tuned:
 
 ```yaml
 embedding:
   provider: sentence_transformers
   model_name: Qwen/Qwen3-Embedding-0.6B
   model_path: /app/models/qwen_embedding_finetuned
-  batch_size: 2
+  batch_size: 8
   device: cuda
   normalize: true
+  es_host: http://elasticsearch:9200
+  es_index: course_embeddings
 ```
 
-Nếu cần rollback nhanh, chỉ cần đặt:
+Nếu cần rollback nhanh (A/B test):
 
 ```yaml
 embedding:
-  model_path: null
+  model_path: null  # fallback to before-train model
+  es_index: course_embeddings_baseline
 ```
 
-### 5.2 Cách serving baseline nên làm
+### 5.2 Vector storage: Elasticsearch vs file-based cache
 
-Ở production, không nên encode toàn bộ course catalog mỗi request. Nên:
+**Elasticsearch (recommended)**
+- Pro: scalable, query-friendly, native vector search
+- Con: extra container, higher ops complexity
 
-1. Precompute embeddings cho course catalog khi build/deploy
-2. Load matrix embeddings lên RAM khi service start
-3. Encode query text mỗi request
-4. Tính cosine similarity qua dot product
-5. Trả top-k
+**File-based cache (.npy + .jsonl)**
+- Pro: simple, fast for small datasets
+- Con: not scalable, hard to manage versions
+
+→ Khuyến nghị: **Elasticsearch** cho production
+
+### 5.3 Serving pattern
+
+**Offline (Airflow DAG hàng ngày 01:00 UTC)**
+1. Fetch pending courses từ MySQL
+2. Parse course docx nội bộ → JSON
+3. Encode course texts bằng embedding model
+4. Index vectors vào Elasticsearch
+5. Store metadata vào MySQL + backup snapshot vào S3
+
+**Online (User request)**
+1. User request → FastAPI API
+2. API resolve CV/JD pair từ MySQL
+3. Encode query text
+4. Query Elasticsearch với vector similarity
+5. Return top-k courses + scores
 
 ## 6. Mô hình runtime đề xuất
 

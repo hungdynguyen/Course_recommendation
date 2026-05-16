@@ -1,4 +1,4 @@
-"""FastAPI application entry point."""
+"""FastAPI application entry point – VietCV Course Recommendation API."""
 from __future__ import annotations
 
 import logging
@@ -6,12 +6,9 @@ import logging
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
-from pathlib import Path
 
 from service_api.config import settings
 from service_api.dependencies import close_all
-from service_api.api.v1.api import api_router
 
 logging.basicConfig(
     level=logging.DEBUG if settings.DEBUG else logging.INFO,
@@ -32,7 +29,7 @@ async def lifespan(app: FastAPI):
 def create_app() -> FastAPI:
     app = FastAPI(
         title=settings.APP_NAME,
-        description="GraphRAG-based course recommendation: JD/CV skill gap→KG→courses",
+        description="Course recommendation system: skill gap analysis → course suggestions via ES KNN",
         version=settings.APP_VERSION,
         debug=settings.DEBUG,
         lifespan=lifespan,
@@ -44,20 +41,53 @@ def create_app() -> FastAPI:
         allow_methods=["*"],
         allow_headers=["*"],
     )
-    app.include_router(api_router, prefix="/api/v1")
 
-    demo_dir = Path(__file__).resolve().parent / "static" / "demo"
-    if demo_dir.exists():
-        app.mount("/demo", StaticFiles(directory=str(demo_dir), html=True), name="demo")
+    # Health endpoints (available immediately)
+    @app.get("/health")
+    def health():
+        return {"status": "ok"}
+
+    @app.get("/health/live")
+    def liveness():
+        return {"status": "alive"}
+
+    @app.get("/health/ready")
+    def readiness():
+        """Readiness probe – checks all dependencies."""
+        deps = {}
+        try:
+            from service_api.dependencies import get_mysql
+            deps["mysql"] = "ok" if get_mysql().verify_connection() else "fail"
+        except Exception:
+            deps["mysql"] = "fail"
+        try:
+            from service_api.dependencies import get_course_es
+            deps["elasticsearch"] = "ok" if get_course_es().verify_connection() else "fail"
+        except Exception:
+            deps["elasticsearch"] = "fail"
+        try:
+            from service_api.dependencies import get_s3
+            deps["s3"] = "ok" if get_s3().verify_connection() else "fail"
+        except Exception:
+            deps["s3"] = "fail"
+
+        all_ok = all(v == "ok" for v in deps.values())
+        return {
+            "status": "ready" if all_ok else "degraded",
+            "dependencies": deps,
+        }
 
     @app.get("/")
     def root():
         return {
             "service": settings.APP_NAME,
             "version": settings.APP_VERSION,
-            "docs":    "/docs",
-            "demo":    "/demo/",
+            "docs": "/docs",
         }
+
+    # TODO: Phase 2 – register API routers
+    # from service_api.api.v1.api import api_router
+    # app.include_router(api_router, prefix="/api")
 
     return app
 

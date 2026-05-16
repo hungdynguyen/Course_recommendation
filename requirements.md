@@ -1,1 +1,7 @@
-tôi muốn làm 1 frontend đơn giản để demo cho thầy. Frontend này chia làm 2 module, một module cho user (kéo thả cv, sau đó chọn jds trong list sau đó ấn recommend thì hệ thống sẽ tự động gợi ý  cho người dùng các course phù hợp với họ) và 1 module cho admin có chức năng quản lý data_factory. Nó có chức năng là có thể kéo thả course vào, sau khi kéo thả vào thì nó sẽ lưu lại và tự động chạy batch vào 1 thời điểm nào đó để ingest các course mới này vào KG sẵn sàng phục vụ. Hiện nay làm demo thì cứ làm nút run là được. Trước khi code thì viết cho tôi 1 doccument dưới dạng md để tôi check xem luồng chạy, logic đã hợp lý chưa. Chú ý là luồng chạy phải tối ưu và sạch sẽ. Ngoài ra cũng phải dùng chiến thuật tốt nhất cho việc ingest thêm course để tiết kiệm tài nguyên và thời gian nhất. 
+tôi đang muốn thực hiện refactor code theo kế hoạch này, planning và thực hiện cho tôi. Nếu có gì chưa rõ ràng, hãy hỏi lại để tôi cung cấp.
+
+1. Miễn là thỏa mãn hệ thống mới
+2. flow recommend mới hãy đọc trong file /root/courses_rec/scripts/run_serving_benchmarks_groundtruth_gaps.sh (phương pháp baseline nhé).
+3. Data factory chính là phần chạy airflow, chạy etl courses để sẵn sàng gợi ý.
+4. Thực hiện từng bước một.
+5. xóa đi, đó là bản lỗi thời rồi

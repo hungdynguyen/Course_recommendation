@@ -1,84 +1,44 @@
-# Data directories - should be mounted as volumes
-data/elasticsearch/
-data/mysql/
-data/neo4j/
-data/processed/
-data/raw/
+# Git
+.git
+.gitignore
 
-# Logs
-logs/
-*.log
-
-# Testing files
-testing/
-*.test.py
-test_*.py
-
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-
-# Virtual environments
+# Python
+__pycache__
+*.pyc
+*.pyo
 venv/
-env/
-ENV/
-.venv
+.venv/
+*.egg-info/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
-.DS_Store
 
-# Git
-.git/
-.gitignore
-.gitattributes
+# Data (mounted as volume, not baked into image)
+data/
+models/
+logs/
 
-# Docker files
-docker-compose.yml
-docker-compose*.yml
-Dockerfile
-.dockerignore
-
-# Documentation
-*.md
-!README.md
-
-# Jupyter notebooks
+# Jupyter
 *.ipynb
 .ipynb_checkpoints/
 
-# Environment variables (should use build args or runtime config)
-.env
-.env.*
+# Docker
+docker-compose.yml
+docker-compose.*.yml
 
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
-.installed.cfg
-*.egg
+# Docs
+docs/
+*.md
+!src/requirements.txt
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.pytest_cache/
+# Testing outputs
+testing/
+*.xlsx
+*.csv
 
-# Temporary files
-*.tmp
-*.bak
-*.swp
-tmp/
-temp/
+# Misc
+.env.local
+.gemini/

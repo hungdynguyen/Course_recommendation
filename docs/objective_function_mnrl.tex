@@ -1,0 +1,31 @@
+\subsubsection{Objective Function}
+
+To fine-tune the embedding model, we use the standard \texttt{MultipleNegativesRankingLoss} formulation with an explicit hard negative, which matches the training setup in our implementation.
+
+Let a mini-batch contain $N$ triplets $(a_i, p_i, n_i)$, where $a_i$ is the anchor, $p_i$ is the matched positive, and $n_i$ is an explicit hard negative. For each anchor, all other positives in the batch are treated as in-batch negatives.
+
+The loss is defined as:
+
+\begin{equation}
+\mathcal{L}
+= -\frac{1}{N} \sum_{i=1}^{N}
+\log
+\frac{\exp\left(s(a_i, p_i)\right)}
+{\exp\left(s(a_i, p_i)\right)
++ \exp\left(s(a_i, n_i)\right)
++ \sum_{\substack{j=1 \\ j \neq i}}^{N} \exp\left(s(a_i, p_j)\right)}
+\end{equation}
+
+where
+
+\begin{itemize}
+    \item $s(x,y)$ denotes the similarity score produced by the encoder.
+    \item In practice, this is implemented with cosine similarity and a built-in scaling factor inside Sentence-Transformers, but that detail is not essential for the mathematical presentation here.
+\end{itemize}
+
+This objective is an InfoNCE-style contrastive loss. The positive pair $(a_i, p_i)$ is encouraged to have the highest similarity among all candidates, while the explicit hard negative $n_i$ and the in-batch negatives $p_j$ for $j \neq i$ are pushed away.
+
+If a batch does not contain explicit negatives, the term $\exp(s(a_i,n_i))$ is simply omitted, and the formula reduces to the standard Multiple Negatives Ranking Loss.
+
+\paragraph{Interpretation}
+The in-batch negatives provide a global separation signal across the batch, while the explicit hard negative sharpens the local decision boundary between semantically similar but incorrect candidates. This is why the loss is well suited for fine-grained skill discrimination.

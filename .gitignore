@@ -40,7 +40,7 @@ data/mysql/
 data/graph/
 *.db
 models/
-data/Khóa luận - bản lần 1
+data/
 
 # Cache
 .cache/
@@ -49,3 +49,6 @@ data/Khóa luận - bản lần 1
 # OS
 .DS_Store
 Thumbs.db
+
+# Large files
+*.zip

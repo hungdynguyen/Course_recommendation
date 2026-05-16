@@ -1,0 +1,35 @@
+# ============================================================
+# Dockerfile – Course Engine (port 8004)
+# Embedding building + ES indexing service
+# ============================================================
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# System dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Python dependencies (shared with API)
+COPY src/requirements.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir -r /tmp/requirements.txt && rm /tmp/requirements.txt
+
+# Copy source code (overridden by volume mount in dev)
+COPY src/ /app/src/
+
+# Environment
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONPATH=/app/src
+ENV SERVICE_PORT=8004
+
+# Expose service port
+EXPOSE 8004
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+    CMD curl -sf http://localhost:8004/health || exit 1
+
+# Run Course Engine
+CMD ["uvicorn", "course_engine.main:app", "--host", "0.0.0.0", "--port", "8004", "--reload"]
