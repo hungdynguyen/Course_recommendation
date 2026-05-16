@@ -1,10 +1,3 @@
--- ============================================================
--- VietCV Course Recommendation System – MySQL Schema
--- ============================================================
--- Run: mysql -u root -p vietcv < migrations/schema.sql
--- Or auto-run via docker-compose init script
--- ============================================================
-
 SET NAMES utf8mb4;
 SET CHARACTER SET utf8mb4;
 
